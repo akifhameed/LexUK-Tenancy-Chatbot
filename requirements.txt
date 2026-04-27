@@ -1,0 +1,21 @@
+# LexUK runtime + tooling dependencies.
+# Pinned with >= so minor updates flow in but no surprises from majors.
+
+# === Core LLM + RAG ===
+openai>=1.50.0
+chromadb>=0.5.0
+tenacity>=9.0.0
+
+# === Configuration & validation ===
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+python-dotenv>=1.0.1
+
+# === UI ===
+gradio>=5.0.0
+
+# === Evaluation & reporting ===
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+tqdm>=4.66.0

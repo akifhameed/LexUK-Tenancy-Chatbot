@@ -1,0 +1,1 @@
+"""LexUK chatbot - RAG and agentic pipeline over UK tenancy statutes."""

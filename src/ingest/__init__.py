@@ -1,0 +1,1 @@
+"""Ingestion stage - corpus loading and LLM-driven chunking."""

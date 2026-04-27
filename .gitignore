@@ -1,0 +1,54 @@
+# === Secrets - NEVER commit these ===
+.env
+.env.local
+.env.*.local
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# === Virtual environments ===
+.venv/
+venv/
+env/
+.python-version
+
+# === Local uv / pip caches ===
+.uv-cache/
+.pip-cache/
+
+# === Eval outputs (regenerable) ===
+eval/results/
+eval/plots/
+
+# === Raw downloads not used at runtime ===
+data/statutes_raw_pdf/
+data/statutes_raw_xml/
+data/caselaw_raw_pdf/
+data/caselaw_raw_xml/
+data/markdown_100_caselaws/
+
+# === IDE / OS ===
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+logs/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Pytest ===
+.pytest_cache/
+.coverage
+htmlcov/

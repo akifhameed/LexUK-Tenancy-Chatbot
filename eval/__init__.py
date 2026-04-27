@@ -1,0 +1,1 @@
+"""Evaluation harness - metrics, gold dataset, LLM-as-judge."""

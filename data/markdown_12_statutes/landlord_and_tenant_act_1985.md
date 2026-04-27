@@ -1,0 +1,4997 @@
+# landlord and tenant act 1985
+
+**Source PDF:** `landlord_and_tenant_act_1985.pdf`
+
+**Converted:** 2026-04-25 12:21:52
+
+---
+
+
+
+## Page 1
+
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Landlord and Tenant Act 1985
+1985 CHAPTER 70
+An Act to consolidate certain provisions of the law of landlord and tenant formerly found 
+in the Housing Acts, together with the Landlord and Tenant Act 1962, with amendments 
+to give effect to recommendations of the Law Commission.
+[30th October 1985]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the 
+Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the 
+authority of the same, as follows;—
+Modifications etc. (not altering text)
+C1
+A Table showing the derivation of the provisions of this consolidation Act will be found at the end of 
+the Act. The Table has no official status.
+C2
+Act: certain functions transferred (1.7.1999) by S.I. 1999/672, art. 2, Sch. 1
+C3
+Act amended by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 2(3)
+C4
+Act modified by S.I. 1988/1283, art. 2, Sch. para. 7
+C5
+Act: definition applied (1.12.1991) by Water Industry Act 1991 (c. 56, SIF 130), ss. 167, 223(2), Sch. 
+11 para. 10 (with ss. 82(3), 186(1), 222(1), Sch. 13 paras. 1, 2 , Sch. 14 para. 6)
+Act :definition applied (1.12.1991) by Water Resources Act 1991 (c. 57, SIF 130), ss. 168(3), 225(2),
+Sch. 19 para. 10 (with ss. 16(6), 179, 222(3), Sch. 22 para. 1, Sch. 23 para. 6)
+Commencement Information
+I1
+Act not in force at Royal Assent: Act wholly in force at 1. 4. 1986
+Information to be given to tenant
+1
+Disclosure of landlord’s identity.
+(1) If the tenant of premises occupied as a dwelling makes a written request for the 
+landlord’s name and address to—
+(a)
+any person who demands, or the last person who received, rent payable under 
+the tenancy, or
+
+
+## Page 2
+
+2
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+any other person for the time being acting as agent for the landlord, in relation 
+to the tenancy,
+that person shall supply the tenant with a written statement of the landlord’s name and 
+address within the period of 21 days beginning with the day on which he receives the 
+request.
+(2) A person who, without reasonable excuse, fails to comply with subsection (1) commits 
+a summary offence and is liable on conviction to a fine not exceeding level 4 on the 
+standard scale.
+(3) In this section and section 2—
+(a)
+“tenant” includes a statutory tenant; and
+(b)
+“landlord” means the immediate landlord.
+2
+Disclosure of directors, &c. of corporate landlord.
+(1) Where a tenant is supplied under section 1 with the name and address of his landlord 
+and the landlord is a body corporate, he may make a further written request to the 
+landlord for the name and address of every director and of the secretary of the landlord.
+(2) The landlord shall supply the tenant with a written statement of the information 
+requested within the period of 21 days beginning with the day on which he receives 
+the request.
+(3) A request under this section is duly made to the landlord if it is made to—
+(a)
+an agent of the landlord, or
+(b)
+a person who demands the rent of the premises concerned:
+and any such agent or person to whom such a request is made shall forward it to the 
+landlord as soon as may be.
+(4) A landlord who, without reasonable excuse, fails to comply with a request under 
+this section, and a person who, without reasonable excuse, fails to comply with a 
+requirement imposed on him by subsection (3), commits a summary offence and is 
+liable on conviction to a fine not exceeding level 4 on the standard scale.
+3
+Duty to inform tenant of assignment of landlord’s interest.
+(1) If the interest of the landlord under a tenancy of premises which consist of or include 
+a dwelling is assigned, the new landlord shall give notice in writing of the assignment, 
+and of his name and address, to the tenant not later than the next day on which rent 
+is payable under the tenancy or, if that is within two months of the assignment, the 
+end of that period of two months.
+(2) If trustees consititute the new landlord, a collective description of the trustes as the 
+trustees of the trust in question may be given as the name of the landlord, and where 
+such a collective description is given—
+(a)
+the address of the new landlord may be given as the address from which the 
+affairs of the trust are conducted, and
+(b)
+a change in the persons who are for the time being the trustees of the trust 
+shall not be treated as an assignment of the interest of the landlord.
+(3) A person who is the new landlord under a tenancy falling within subsection (1) and 
+who fails, without reasonable excuse to give the notice required by that subsection,
+
+
+## Page 3
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+3
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+commits a summary offence and is liable on conviction to a fine not exceeding level 
+4 on the standard scale.
+[F1(3A) The person who was the landlord under the tenancy immediately before the assignment 
+(“the old landlord”) shall be liable to the tenant in respect of any breach of any 
+covenant, condition or agreement under the tenancy occurring before the end of the 
+relevant period in like manner as if the interest assigned were still vested in him; 
+and where the new landlord is also liable to the tenant in respect of any such breach 
+occurring within that period, he and the old landlord shall be jointly and severally 
+liable in respect of it.
+(3B) In subsection (3A) “the relevant period” means the period beginning with the date of 
+the assignment and ending with the date when—
+(a)
+notice in writing of the assignment, and of the new landlord’s name and 
+address, is given to the tenant by the new landlord (whether in accordance 
+with subsection (1) or not), or
+(b)
+notice in writing of the assignment, and of the new landlord’s name and last-
+known address, is given to the tenant by the old landlord,
+whichever happens first.]
+(4) In this section—
+(a)
+“tenancy” includes a statutory tenancy, and
+(b)
+references to the assignment of the landlord’s interest include any conveyance 
+other than a mortgage or charge.
+Textual Amendments
+F1
+S. 3(3A)(3B) inserted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 50
+[F23A
+Duty to inform tenant of possible right to acquire landlord’s interest.
+(1) Where a new landlord is required by section 3(1) to give notice to a tenant of an 
+assignment to him, then if—
+(a)
+the tenant is a qualifying tenant within the meaning of Part I of the Landlord 
+and Tenant Act 1987 (tenants’ rights of first refusal), and
+(b)
+the assignment was a relevant disposal within the meaning of that Part 
+affecting premises to which at the time of the disposal that Part applied,
+the landlord shall give also notice in writing to the tenant to the following effect.
+(2) The notice shall state—
+(a)
+that the disposal to the landlord was one to which Part I of the Landlord and 
+Tenant Act 1987 applied;
+(b)
+that the tenant (together with other qualifying tenants) may have the right 
+under that Part—
+(i) to obtain information about the disposal, and
+(ii) to acquire the landlord’s interest in the whole or part of the premises 
+in which the tenant’s flat is situated; and
+(c)
+the time within which any such right must be exercised, and the fact that the 
+time would run from the date of receipt of notice under this section by the 
+requisite majority of qualifying tenants (within the meaning of that Part).
+
+
+## Page 4
+
+4
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) A person who is required to give notice under this section and who fails, without 
+reasonable excuse, to do so within the time allowed for giving notice under section 3(1) 
+commits a summary offence and is liable on conviction to a fine not exceeding level 
+4 on the standard scale.]
+Textual Amendments
+F2
+S. 3A inserted (1.10.1996) by 1996 c. 52, s. 93(1); S.I. 1996/2212, art. 2(2)(with Sch.)
+Provision of rent books
+4
+Provision of rent books.
+(1) Where a tenant has a right to occupy premises as a residence in consideration of a rent 
+payable weekly, the landlord shall provide a rent book or other similar document for 
+use in respect of the premises.
+(2) Subsection (1) does not apply to premises if the rent includes a payment in respect 
+of board and the value of that board to the tenant forms a substantial proportion of 
+the whole rent.
+(3) In this section and sections 5 to 7—
+(a)
+“tenant” includes a statutory tenant and a person having a contractual right to 
+occupy the premises; and
+(b)
+“landlord”, in relation to a person having such a contractual right, means the 
+person who granted the right or any successor in title of his, as the case may 
+require.
+[F3(4) This section does not apply to occupation contracts within the meaning of section 7 
+of the Renting Homes (Wales) Act 2016 (anaw 1).]
+Textual Amendments
+F3
+S. 4(4) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential Amendments) 
+Regulations 2022 (S.I. 2022/1166), regs. 1(1), 13(2)
+5
+Information to be contained in rent books.
+(1) A rent book or other similar document provided in pursuance of section 4 shall contain 
+notice of the name and address of the landlord of the premises and—
+(a)
+if the premises are occupied by virtue of a restricted contract, particulars of 
+the rent and of the other terms and conditions of the contract and notice of 
+such other matters as may be prescribed;
+(b)
+if the premises are let on or subject to a protected or statutory tenancy [F4or let 
+on an assured tenancy within the meaning of Part I of the Housing Act 1988], 
+notice of such matters as may be prescribed.
+(2) If the premises are occupied by virtue of a restricted contract or let on or subject to 
+a protected or statutory tenancy [F5or let on an assured tenancy within the meaning
+
+
+## Page 5
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+5
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+of Part I of the Housing Act 1988], the notice and particulars required by this section 
+shall be in the prescribed form.
+(3) In this section “prescribed” means prescribed by regulations made by the Secretary 
+of State, which—
+(a)
+may make different provision for different cases, and
+(b)
+shall be made by statutory instrument which shall be subject to annulment in 
+pursuance of a resolution of either House of Parliament.
+Textual Amendments
+F4
+Words inserted by Housing Act 1988 (c. 50, SIF 61, 75:1), s. 140(1), Sch. 17 para. 67(1)
+F5
+Words added by Housing Act 1988 (c. 50, SIF 61, 75:1), s. 140(1), Sch. 17 para. 67(2)
+6
+Information to be supplied by companies.
+(1) Where the landlord of premises to which section 4(1) applies (premises occupied as 
+a residence at a weekly rent) is a company, and the tenant serves on the landlord a 
+request in writing to that effect, the landlord shall give the tenant in writing particulars 
+of the name and address of every director and of the secretary of the company.
+(2) A request under this section is duly served on the landlord if it is served—
+(a)
+on an agent of the landlord named as such in the rent book or other similar 
+document, or
+(b)
+on the person who receives the rent of the premises;
+and a person on whom a request is so served shall forward it to the landlord as soon 
+as may be.
+7
+Offences.
+(1) If the landlord of premises to which section 4(1) applies (premises occupied as a 
+residence at a weekly rent) fails to comply with any relevant requirement of—
+section 4 (provision of rent book),
+section 5 (information to be contained in rent book), or
+section 6 (information to be supplied by companies),
+he commits a summary offence and is liable on conviction to a fine not exceeding 
+level 4 on the standard scale.
+(2) If a person demands or receives rent on behalf of the landlord of such premises while 
+any relevant requirement of—
+section 4 (provision of rent book), or
+section 5 (information to be contained in rent book),
+is not complied with, then, unless he shows he neither knew nor had reasonable 
+cause to suspect that any such requirement had not been complied with, he 
+commits a summary offence and is liable to a fine not exceeding level 4 on the 
+standard scale.
+(3) If a person fails to comply with a requirement imposed on him by section 6(2) (duty 
+to forward request to landlord), he commits a summary offence and is liable on 
+conviction to a fine not exceeding level 4 on the standard scale.
+
+
+## Page 6
+
+6
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) If a default in respect of which—
+(a)
+a landlord is convicted under subsection (1), or
+(b)
+another person is convicted of an offence under subsection (3),
+continues for more than 14 days after the conviction, the landlord or other person 
+commits a further offence under that subsection in respect of the default.
+Implied terms as to fitness for human habitation
+8
+Implied terms as to fitness for human habitation[F6: Wales].
+(1) In a contract to which this section applies for the letting of a house [F7in Wales] for 
+human habitation there is implied, notwithstanding any stipulation to the contrary—
+(a)
+a condition that the house is fit for human habitation at the commencement 
+of the tenancy, and
+(b)
+an undertaking that the house will be kept by the landlord fit for human 
+habitation during the tenancy.
+F8(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) This section applies to a contract if—
+(a)
+the rent does not exceed the figure applicable in accordance with the 
+subsection (4), and
+(b)
+the letting is not on such terms as to the tenant’s responsibility as are 
+mentioned in subsection (5).
+(4) The rent limit for the application of this section is shown by the following Table, by 
+reference to the date of making of the contract and the situation of the premises:
+TABLE
+Date of making of contract
+Rent limit
+Before 31st July 1923.
+In London: £40.
+ 
+Elsewhere: £26 or £16 (see Note 1).
+On or after 31st July 1923 and before 
+6th July 1957.
+In London: £40.
+ 
+Elsewhere: £26.
+On or after 6th July 1957.
+In London: £80.
+ 
+Elsewhere: £52.
+NOTES
+1. The applicable figure for contracts made before 31st July 1923 is £26 in the case 
+of premises situated in a borough or urban district which at the date of the contract 
+had according to the last published census a population of 50,000 or more. In the case 
+of a house situated elsewhere, the figure is £16.
+
+
+## Page 7
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+7
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+2. The references to “London” are, in relation to contracts made before 1st April 1965, 
+to the administrative county of London and, in relation to contracts made on or after 
+that date, to Greater London exclusive of the outer London boroughs.
+(5) This section does not apply where a house is let for a term of three years or more (the 
+lease not being determinable at the option of either party before the expiration of three 
+years) upon terms that the tenant puts the premises into a condition reasonably fit for 
+human habitation.
+[F9(5A) This section does not apply if the contract is an occupation contract (for provisions 
+about the condition of dwellings that are subject to an occupation contract, see Part 4 
+of the Renting Homes (Wales) Act 2016 (anaw 1)).
+(5B) In this section, “occupation contract” has the same meaning as in the Renting Homes 
+(Wales) Act 2016 (see section 7 of that Act).]
+(6) In this section “house” includes—
+(a)
+a part of a house, and
+(b)
+any yard, garden, outhouses and appurtenances belonging to the house or 
+usually enjoyed with it.
+Textual Amendments
+F6
+Word in s. 8 heading inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34),
+ss. 1(2)(a), 2(2)
+F7
+Words in s. 8(1) inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 
+1(2)(b), 2(2)
+F8
+S. 8(2) repealed (1.7.2012) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 2 para. 12(1), Sch. 
+10 Pt. 2 (with s. 97)
+F9
+S. 8(5A)(5B) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential 
+Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 13(3)
+Modifications etc. (not altering text)
+C6
+S. 8 excluded by Housing Act 1985 (c. 68, SIF 61), ss. 302, 307
+9
+Application of s. 8 to certain houses occupied by agricultural workers.
+(1) Where under the contract of employment of a worker employed in agriculture 
+the provision of a house for his occupation forms part of his remuneration and 
+the provisions of section 8 (implied terms as to fitness for human habitation) are 
+inapplicable by reason only of the house not being let to him—
+(a)
+there are implied as part of the contract of employment notwithstanding any 
+stipulation to the contrary, the like condition and undertaking as would be 
+implied under that section if the house were so let, and
+(b)
+the provisions of that section apply accordingly, with the substitution of 
+“employer” for “landlord” and such other modifications as may be necessary.
+(2) This section does not affect any obligation of a person other than the employer to repair 
+a house to which this section applies, or any remedy for enforcing such an obligation.
+(3) In this section “house” includes—
+(a)
+a part of a house, and
+
+
+## Page 8
+
+8
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+any yard, garden, outhouses and appurtenances belonging to the house or 
+usually enjoyed with it.
+[F109A
+Fitness for human habitation of dwellings in England
+(1) In a lease to which this section applies of a dwelling in England (see section 9B), there 
+is implied a covenant by the lessor that the dwelling—
+(a)
+is fit for human habitation at the time the lease is granted or otherwise created 
+or, if later, at the beginning of the term of the lease, and
+(b)
+will remain fit for human habitation during the term of the lease.
+(2) The implied covenant is not to be taken as requiring the lessor—
+(a)
+to carry out works or repairs for which the lessee is liable by virtue of—
+(i) the duty of the lessee to use the premises in a tenant-like manner, or
+(ii) an express covenant of the lessee of substantially the same effect as 
+that duty;
+(b)
+to rebuild or reinstate the dwelling in the case of destruction or damage by 
+fire, storm, flood or other inevitable accident;
+(c)
+to keep in repair or maintain anything which the lessee is entitled to remove 
+from the dwelling;
+(d)
+to carry out works or repairs which, if carried out, would put the lessor in 
+breach of any obligation imposed by any enactment (whenever passed or 
+made);
+(e)
+to carry out works or repairs requiring the consent of a superior landlord 
+or other third party in circumstances where consent has not been obtained 
+following reasonable endeavours to obtain it.
+(3) The implied covenant is also not to be taken as imposing on the lessor any liability 
+in respect of the dwelling being unfit for human habitation if the unfitness is wholly 
+or mainly attributable to—
+(a)
+the lessee’s own breach of covenant, or
+(b)
+disrepair which the lessor is not obliged to make good because of an 
+exclusion or modification under section 12 (power of county court to authorise 
+exclusions or modifications in leases in respect of repairing obligations under 
+section 11).
+(4) Any provision of a lease or of any agreement relating to a lease (whether made before 
+or after the grant or creation of the lease) is void to the extent that it purports—
+(a)
+to exclude or limit the obligations of the lessor under the implied covenant, or
+(b)
+to authorise any forfeiture or impose on the lessee any penalty, disability 
+or obligation in the event of the lessee enforcing or relying upon those 
+obligations.
+(5) Where in any proceedings before a court it is alleged that a lessor is in breach of an 
+obligation under the implied covenant, the court may order specific performance of 
+the obligation (regardless of any equitable rule restricting the scope of that remedy).
+(6) Where a lease to which this section applies of a dwelling in England forms part only 
+of a building, the implied covenant has effect as if the reference to the dwelling in 
+subsection (1) included a reference to any common parts of the building in which the 
+lessor has an estate or interest.
+
+
+## Page 9
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+9
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(7) In a lease to which this section applies of a dwelling in England, there is also implied 
+a covenant by the lessee that the lessor, or a person authorised in writing by the lessor, 
+may enter the dwelling for the purpose of viewing its condition and state of repair.
+(8) The covenant implied by subsection (7) requires entry to the dwelling to be
+permitted—
+(a)
+only at reasonable times of the day, and
+(b)
+only if at least 24 hours’ notice in writing has been given to the occupier of 
+the dwelling.
+(9) In this section—
+“common parts” has the meaning given by section 60(1) of the Landlord 
+and Tenant Act 1987;
+“lease” does not include a mortgage term;
+“lessee” means the person for the time being entitled to the term of a lease;
+“lessor” means the person for the time being entitled to the reversion 
+expectant on a lease.
+Textual Amendments
+F10
+Ss. 9A-9C inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 1(3),
+2(2)
+9B
+Leases to which section 9A applies
+(1) Section 9A applies to a lease under which a dwelling is let wholly or mainly for human 
+habitation if either of the following applies—
+(a)
+the lease is for a term of less than 7 years, or
+(b)
+the lease is of a kind mentioned in subsection (1A) [F11, (1AA)] or (1AB) of 
+section 13 ([F12certain leases to which section 11 applies]).
+This is subject as follows.
+(2) Section 9A does not apply to any lease of a kind mentioned in section 14 (exceptions 
+for leases to which section 11 applies).
+(3) Except as mentioned in subsections (4), (5) and (6), section 9A does not apply to a 
+lease granted—
+(a)
+before the commencement date, or
+(b)
+on or after that date in pursuance of an agreement entered into, or an order of 
+a court made, before the commencement date.
+(4) Section 9A applies to a periodic or secure tenancy that is in existence on the 
+commencement date, but in the case of any such tenancy the covenant implied by that 
+section has effect in the following way—
+(a)
+subsection (1)(a) of that section has effect as if the reference to the later of the 
+times there mentioned were a reference to the time that begins at the end of 
+the period of 12 months beginning with the commencement date, and
+(b)
+subsection (1)(b) of that section has effect only in respect of times falling after 
+the end of that 12 month period.
+
+
+## Page 10
+
+10
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) Section 9A applies to a periodic or secure tenancy that comes into existence after the 
+commencement date on expiry of a term of a lease granted before that date.
+(6) Section 9A applies to a lease for a fixed term which—
+(a)
+is granted or renewed before the commencement date, and
+(b)
+is renewed for a further fixed term on or after that date,
+and for this purpose the renewal on or after the commencement date is to be treated 
+as a grant of the lease on or after that date.
+(7) For the purposes of subsection (1) it is immaterial—
+(a)
+whether the dwelling is to be occupied under the lease or under an inferior 
+lease derived out of it, or
+(b)
+that the lease also demises other property (which may consist of or include 
+one or more other dwellings).
+(8) In determining for the purposes of subsection (1)(a) whether a lease is for a term of 
+less than 7 years—
+(a)
+any part of the term falling before the grant or creation is to be ignored and 
+the lease is to be treated as a lease for a term commencing with the grant or 
+creation;
+(b)
+a lease which is determinable at the option of the lessor before the expiry of 
+7 years from the commencement of the term is to be treated as a lease for a 
+term of less than 7 years;
+(c)
+a lease (other than one to which paragraph (b) applies) is not to be treated 
+as a lease for a term of less than 7 years if it confers on the lessee an option 
+for renewal for a term which, together with the original term, amounts to 7 
+years or more.
+(9) In this section—
+“the commencement date” means the date on which the Homes (Fitness for 
+Human Habitation) Act 2018 comes into force;
+“lease”, “lessee” and “lessor” have the same meanings as in section 9A;
+“secure tenancy” has the meaning given by section 79 of the Housing Act 
+1985.
+Textual Amendments
+F10
+Ss. 9A-9C inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 1(3),
+2(2)
+F11
+Word in s. 9B(1)(b) inserted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(a)(i), 145(5)
+(a) (with s. 138)
+F12
+Words in s. 9B(1)(b) substituted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(a)(ii),
+145(5)(a) (with s. 138)
+9C
+Application of section 9A to certain dwellings occupied by agricultural workers
+(1) This section applies where under a contract of employment of a worker employed in
+agriculture—
+(a)
+the provision of a dwelling for the worker’s occupation forms part of the 
+worker’s remuneration, and
+
+
+## Page 11
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+11
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+the provisions of section 9A (implied term as to fitness for human habitation 
+of dwellings in England) are inapplicable by reason only of the dwelling not 
+being let to the worker.
+(2) There is implied as part of the contract of employment (in spite of any stipulation to 
+the contrary) a term having the same effect as the covenant that would be implied by 
+section 9A if the dwelling were let by a lease to which that section applies.
+(3) The provisions of section 9A apply accordingly—
+(a)
+with the substitution of “employer” and “employee” for “lessor” and “lessee”, 
+and
+(b)
+with such other modifications as may be necessary.
+(4) This section does not affect—
+(a)
+any obligation of a person other than the employer to repair a dwelling to 
+which the covenant implied by section 9A applies by virtue of this section, or
+(b)
+any remedy for enforcing such an obligation.]
+Textual Amendments
+F10
+Ss. 9A-9C inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 1(3),
+2(2)
+10
+Fitness for human habitation.
+[F13(1)] In determining for the purposes of this Act whether a house [F14or dwelling] is unfit 
+for human habitation, regard shall be had to its condition in respect of the following
+matters—
+repair,
+stability,
+freedom from damp,
+internal arrangement,
+natural lighting,
+ventilation,
+water supply,
+drainage and sanitary conveniences,
+facilities for preparation and cooking of food and for the disposal of waste water;
+[F15in relation to a dwelling in England, any prescribed hazard;]
+and the house [F14or dwelling] shall be regarded as unfit for human habitation if, and 
+only if, it is so far defective in one or more of those matters that it is not reasonably 
+suitable for occupation in that condition.
+[F16(2) In subsection (1) “prescribed hazard” means any matter or circumstance amounting 
+to a hazard for the time being prescribed in regulations made by the Secretary of State 
+under section 2 of the Housing Act 2004.
+(3) The definition of “hazard” in section 2(1) of the Housing Act 2004 applies for 
+the purposes of subsection (2) as though the reference to a potential occupier were 
+omitted.]
+
+
+## Page 12
+
+12
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F13
+S. 10 renumbered as s. 10(1) (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34),
+ss. 1(4)(a), 2(2)
+F14
+Words in s. 10(1) inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 
+1(4)(b)(i), 2(2)
+F15
+Words in s. 10(1) inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 
+1(4)(b)(ii), 2(2)
+F16
+S. 10(2)(3) inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 1(4)
+(c), 2(2)
+[F17Implied term as to remedying of hazards
+Textual Amendments
+F17
+Ss. 10A, 10B and cross-heading inserted (20.9.2023) by Social Housing (Regulation) Act 2023 (c. 36),
+ss. 42, 46(3)(a); S.I. 2023/1001, reg. 2(t)
+10A
+Remedying of hazards occurring in dwellings let on relevant social housing 
+leases
+(1) This section applies to a lease of a dwelling if—
+(a)
+the dwelling is in England,
+(b)
+the lease is a relevant social housing lease, and
+(c)
+section 9A—
+(i) applies to the lease (see section 9B), or
+(ii) would apply to the lease if the provision in section 9B(3) did not exist.
+(2) There is implied in the lease a covenant by the lessor that the lessor will comply with 
+all prescribed requirements that are applicable to that lease.
+(3) The Secretary of State must make regulations which require the lessor under a lease 
+to which this section applies to take action, in relation to prescribed hazards which 
+affect or may affect the leased dwelling, within the period or periods specified in the 
+regulations.
+(4) Regulations under subsection (3) are enforceable against lessors only through actions 
+for breach of the covenant that is implied by subsection (2).
+(5) In any proceedings for a breach of the covenant that is implied by subsection (2), it 
+is a defence for the lessor to prove that the lessor used all reasonable endeavours to 
+avoid that breach.
+(6) For the purposes of this section a lease is a “relevant social housing lease” at any time
+when—
+(a)
+the lessor under the lease is a registered provider of social housing, and
+(b)
+the dwelling leased under the lease—
+(i) is social housing, but
+(ii) is not low cost home ownership accommodation.
+(7) In this section and section 10B—
+
+
+## Page 13
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+13
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“lease”, “lessor” and “lessee” have the same meanings as in section 9A (see 
+section 9A(9));
+“low cost home ownership accommodation” has the meaning given in 
+section 70 of the Housing and Regeneration Act 2008;
+“prescribed hazard” has the same meaning as in section 10 (see 
+section 10(2) and (3));
+“prescribed requirement” means a requirement prescribed in regulations 
+under subsection (3);
+“social housing” has the same meaning as in Part 2 of the Housing and 
+Regeneration Act 2008 (see sections 68 and 72 of that Act).
+10B
+Regulations section 10A: supplementary provision
+(1) Regulations under section 10A(3) may apply to—
+(a)
+leases granted before the day when section 42 of the Social Housing 
+(Regulation) Act 2023 came into force;
+(b)
+prescribed hazards which began before that day;
+(c)
+only some descriptions of prescribed hazards.
+(2) Regulations under section 10A(3) may—
+(a)
+specify a period that is not of a specific duration (for example a reasonable 
+or appropriate period, including a period decided by the lessor or another 
+person);
+(b)
+specify two (or more) periods in relation to particular action.
+(3) Regulations under section 10A(3) may (in particular)—
+(a)
+require the lessor to take particular action, or action that is intended to produce 
+a particular outcome, in relation to a prescribed hazard;
+(b)
+require the lessor to take action in relation to a prescribed hazard that is not 
+of itself intended to remedy the hazard, for example by requiring the lessor—
+(i) to investigate whether or how a prescribed hazard is affecting the 
+leased dwelling, or
+(ii) to secure that the lessee and any other members of the lessee’s 
+household are provided with alternative accommodation at no cost to 
+them;
+(c)
+require the lessor to take action in relation to a prescribed hazard only—
+(i) in particular circumstances, or
+(ii) if particular conditions are met;
+(d)
+provide that the lessor is not required to take action in relation to a prescribed
+hazard—
+(i) in particular circumstances, or
+(ii) if particular conditions are met.
+(4) The Secretary of State may by regulations—
+(a)
+provide for section 10A not to apply to particular descriptions of leases;
+(b)
+make provision, in relation to the covenant that is implied by section 10A(2), 
+which corresponds to any provision made by section 9A(4) to (8).
+(5) A power to make regulations under section 10A or this section includes power to
+make—
+
+
+## Page 14
+
+14
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+incidental, transitional or saving provision;
+(b)
+different provision for different purposes.
+(6) The power to make transitional or saving provision may (in particular) be used to make 
+provision about situations where the covenant in section 10A(2)—
+(a)
+begins to be implied in a lease after its grant because it becomes a relevant 
+social housing lease;
+(b)
+ceases to be implied in a lease because it ceases to be a relevant social housing 
+lease (including provision to save the lessor’s liability for any breach of the 
+covenant occurring before it ceases to be implied).
+(7) Regulations under section 10A or this section are to be made by statutory instrument.
+(8) A statutory instrument containing regulations under section 10A or this section may 
+not be made unless a draft of it has been laid before and approved by resolution of 
+each House of Parliament.]
+Repairing obligations
+11
+Repairing obligations in short leases.
+(1) In a lease to which this section applies (as to which, see sections 13 and 14) there is 
+implied a covenant by the lessor—
+(a)
+to keep in repair the structure and exterior of the dwelling-house (including 
+drains, gutters and external pipes),
+(b)
+to keep in repair and proper working order the installations in the dwelling-
+house for the supply of water, gas and electricity and for sanitation (including 
+basins, sinks, baths and sanitary conveniences, but not other fixtures, fittings 
+and appliances for making use of the supply of water, gas or electricity), and
+(c)
+to keep in repair and proper working order the installations in the dwelling-
+house for space heating and heating water.
+[F18(1A) If a lease to which this section applies is a lease of a dwelling-house which forms 
+part only of a building, then, subject to subsection (1B), the covenant implied by 
+subsection (1) shall have effect as if—
+(a)
+the reference in paragraph (a) of that subsection to the dwelling-house 
+included a reference to any part of the building in which the lessor has an 
+estate or interest; and
+(b)
+any reference in paragraphs (b) and (c) of that subsection to an installation in 
+the dwelling-house included a reference to an installation which, directly or 
+indirectly, serves the dwelling-house and which either—
+(i) forms part of any part of a building in which the lessor has an estate 
+or interest; or
+(ii) is owned by the lessor or under his control.
+(1B) Nothing in subsection (1A) shall be construed as requiring the lessor to carry out any 
+works or repairs unless the disrepair (or failure to maintain in working order) is such 
+as to affect the lessee’s enjoyment of the dwelling-house or of any common parts, as 
+defined in section 60(1) of the Landlord and Tenant Act M11987, which the lessee, as 
+such, is entitled to use.]
+
+
+## Page 15
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+15
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) The covenant implied by subsection (1) (“the lessor’s repairing covenant”) shall not 
+be construed as requiring the lessor—
+(a)
+to carry out works or repairs for which the lessee is liable by virtue of his duty 
+to use the premises in a tenant-like manner, or would be so liable but for an 
+express covenant on his part,
+(b)
+to rebuild or reinstate the premises in the case of destruction or damage by 
+fire, or by tempest, flood or other inevitable accident, or
+(c)
+to keep in repair or maintain anything which the lessee is entitled to remove 
+from the dwelling-house.
+(3) In determining the standard of repair required by the lessor’s repairing covenant, 
+regard shall be had to the age, character and prospective life of the dwelling-house 
+and the locality in which it is situated.
+[F19(3A) In any case where—
+(a)
+the lessor’s repairing covenant has effect as mentioned in subsection (1A), and
+(b)
+in order to comply with the covenant the lessor needs to carry out works or 
+repairs otherwise than in, or to an installation in, the dwelling-house, and
+(c)
+the lessor does not have a sufficient right in the part of the building or the 
+installation concerned to enable him to carry out the required works or repairs,
+then, in any proceedings relating to a failure to comply with the lessor’s repairing 
+covenant, so far as it requires the lessor to carry out the works or repairs in question, 
+it shall be a defence for the lessor to prove that he used all reasonable endeavours to 
+obtain, but was unable to obtain, such rights as would be adequate to enable him to 
+carry out the works or repairs.]
+(4) A covenant by the lessee for the repair of the premises is of no effect so far as it relates 
+to the matters mentioned in subsection (1)(a) to (c), except so far as it imposes on the 
+lessee any of the requirements mentioned in subsection (2)(a) or (c).
+(5) The reference in subsection (4) to a covenant by the lessee for the repair of the premises 
+includes a covenant—
+(a)
+to put in repair or deliver up in repair,
+(b)
+to paint, point or render,
+(c)
+to pay money in lieu of repairs by the lessee, or
+(d)
+to pay money on account of repairs by the lessor.
+(6) In a lease in which the lessor’s repairing covenant is implied there is also implied a 
+covenant by the lessee that the lessor, or any person authorised by him in writing, 
+may at reasonable times of the day and on giving 24 hours’ notice in writing to the 
+occupier, enter the premises comprised in the lease for the purpose of viewing their 
+condition and state of repair.
+Textual Amendments
+F18
+S. 11(1A)(1B) inserted by Housing Act 1988 (c. 50, SIF 75:1), s. 116(1) (with s. 116(4))
+F19
+S. 11(3A) inserted by Housing Act 1988 (c. 50, SIF 75:1), s. 116(2) (with s. 116(4))
+Modifications etc. (not altering text)
+C7
+S. 11 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+3(1)-(6); S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+
+
+## Page 16
+
+16
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Marginal Citations
+M1
+1987 c.31(75:1).
+12
+Restriction on contracting out of s. 11.
+(1) A covenant or agreement, whether contained in a lease to which section 11 applies or 
+in an agreement collateral to such a lease, is void in so far as it purports—
+(a)
+to exclude or limit the obligations of the lessor or the immunities of the lessee 
+under that section, or
+(b)
+to authorise any forfeiture or impose on the lessee any penalty, disability or 
+obligation in the event of his enforcing or relying upon those obligations or 
+immunities,
+unless the inclusion of the provision was authorised by the county court.
+(2) The county court may, by order made with the consent of the parties, authorise the 
+inclusion in a lease, or in an agreement collateral to a lease, of provisions excluding 
+or modifying in relation to the lease, the provisions of section 11 with respect to the 
+repairing obligations of the parties if it appears to the court that it is reasonable to do 
+so, having regard to all the circumstances of the case, including the other terms and 
+conditions of the lease.
+Modifications etc. (not altering text)
+C8
+S. 12(1)(a) modified (E.) (30.9.2003) (W.) (30.3.2004) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+3(7); S.I. 2003/1986, art. 2(a); S.I. 2004/669 {art. 2(a)}
+13
+Leases to which s. 11 applies: general rule.
+(1) Section 11 (repairing obligations) applies to a lease of a dwelling-house granted on or 
+after 24th October 1961 for a term of less than seven years.
+[F20(1AZA) But that is subject to subsections (1ZA) to (1ZC).]
+[F21(1ZA) [F22In] the case of a dwelling-house in Wales, section 11 does not apply if the dwelling-
+house is subject to an occupation contract (for provisions about repairing obligations 
+in the case of occupation contracts, see Part 4 of the Renting Homes (Wales) Act 2016 
+(anaw 1)).
+(1ZB) In this section, “occupation contract” has the same meaning as in the Renting Homes 
+(Wales) Act 2016 (see section 7 of that Act).]
+[F23(1ZC) Section 11 does not apply to a lease of a dwelling-house in England which—
+(a)
+was an assured tenancy immediately before the commencement date (which 
+has the meaning given by section 146(3) of the Renters’ Rights Act 2025), and
+(b)
+was granted—
+(i) for a term of seven years or more, and
+(ii) by a person other than a private registered provider of social housing.]
+[F24(1A) Section 11 also applies to a lease of a dwelling-house in England granted on or after 
+the day on which section 166 of the Localism Act 2011 came into force which is—
+
+
+## Page 17
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+17
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+a secure tenancy for a fixed term of seven years or more granted by a person 
+within section 80(1) of the Housing Act 1985 (secure tenancies: the landlord 
+condition), or
+F25(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[
+F26(1AA)
+Section 11 also applies to a lease of a dwelling-house in England granted on or after 
+the day on which section 166 of the Localism Act 2011 came into force which is a 
+tenancy for a fixed term of more than seven years that—
+(a)
+would be an assured tenancy if it were not for a term of more than seven years,
+(b)
+is not a shared ownership lease, and
+(c)
+is granted by a private registered provider of social housing.]
+(1B) [F27In this section]—
+“assured tenancy” has the same meaning as in Part 1 of the Housing Act 
+1988;
+“secure tenancy” has the meaning given by section 79 of the Housing Act 
+1985; and
+“shared ownership lease” means a lease—
+(a) granted on payment of a premium calculated by reference to a percentage 
+of the value of the dwelling-house or of the cost of providing it, or
+(b) under which the lessee (or the lessee's personal representatives) will or 
+may be entitled to a sum calculated by reference, directly or indirectly, 
+to the value of the dwelling-house.]
+(2) In determining whether a lease is one to which section 11 applies—
+(a)
+any part of the term which falls before the grant shall be left out of account 
+and the lease shall be treated as a lease for a term commencing with the grant,
+(b)
+a lease which is determinable at the option of the lessor before the expiration 
+of seven years from the commencement of the term shall be treated as a lease 
+for a term of less than seven years, and
+(c)
+a lease (other than a lease to which paragraph (b) applies) shall not be treated 
+as a lease for a term of less than seven years if it confers on the lessee an 
+option for renewal for a term which, together with the original term, amounts 
+to seven years or more.
+(3) This section has effect subject to—
+section 14 (leases to which section 11 applies: exceptions), and
+section 32(2) (provisions not applying to tenancies within Part II of the
+M2Landlord and Tenant Act 1954).
+Textual Amendments
+F20
+S. 13(1AZA) inserted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)(i), 145(5)(a)
+(with s. 138)
+F21
+S. 13(1ZA)(1ZB) inserted (1.12.2022) by The Renting Homes (Wales) Act 2016 (Consequential 
+Amendments) Regulations 2022 (S.I. 2022/1166), regs. 1(1), 13(4)
+F22
+Word in s. 13(1ZA) substituted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)(ii),
+145(5)(a) (with s. 138)
+F23
+S. 13(1ZC) inserted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)(iii), 145(5)(a) (with
+s. 138)
+
+
+## Page 18
+
+18
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+F24
+S. 13(1A)(1B) inserted (1.4.2012) by Localism Act 2011 (c. 20), ss. 166, 240(2); S.I. 2012/628, art. 
+6(c) (with arts. 9, 11, 14, 15, 17)
+F25
+S. 13(1A)(b) and word omitted (27.12.2025) by virtue of Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)
+(iv), 145(5)(a) (with s. 138)
+F26
+S. 13(1AA) inserted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)(v), 145(5)(a) (with
+s. 138)
+F27
+Words in s. 13(1B) substituted (27.12.2025) by Renters’ Rights Act 2025 (c. 26), ss. 31(3)(b)(vi),
+145(5)(a) (with s. 138)
+Marginal Citations
+M2
+1954 c. 56.
+14
+Leases to which s. 11 applies: exceptions.
+(1) Section 11 (repairing obligations) does not apply to a new lease granted to an existing 
+tenant, or to a former tenant still in possession, if the previous lease was not a lease 
+to which section 11 applied (and, in the case of a lease granted before 24th October 
+1961, would not have been if it had been granted on or after that date).
+(2) In subsection (1)—
+“existing tenant” means a person who is when, or immediately before, the 
+new lease is granted, the lessee under another lease of the dwelling-house;
+“former tenant is still in possession” means a person who—
+(a)
+was the lessee under another lease of the dwelling-house which terminated at 
+some time before the new lease was granted, and
+(b)
+between the termination of that other lease and the grant of the new lease was 
+continuously in possession of the dwelling-house or of the rents and profits 
+of the dwelling-house; and
+“the previous lease” means the other lease referred to in the above definitions.
+(3) Section 11 does not apply to a lease of a dwelling-house which is a tenancy of 
+an agricultural holding within the meaning of the [F28Agricultural Holdings Act 
+1986][F29and in relation to which that Act applies or to a farm business tenancy within 
+the meaning of the Agricultural Tenancies Act 1995].
+(4) Section 11 does not apply to a lease granted on or after 3rd October 1980 to—
+a local authority,
+[F30a National Park Authority]
+a new town corporation,
+an urban development corporation,
+[F31 a Mayoral development corporation,]
+the Development Board for Rural Wales,
+[F32a non-profit registered provider of social housing]
+a [F33registered social landlord],
+a co-operative housing association, or
+an educational institution or other body specified, or of a class specified, by 
+regulations under section 8 of the M3Rent Act 1977 [F34or paragraph 8 of 
+Schedule 1 to the Housing Act 1988] (bodies making student lettings)
+[F35a housing action trust established under Part III of the Housing Act 1988].
+
+
+## Page 19
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+19
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) Section 11 does not apply to a lease granted on or after 3rd October 1980 to—
+(a)
+Her Majesty in right of the Crown (unless the lease is under the management 
+of the Crown Estate Commissioners), or
+(b)
+a government department or a person holding in trust for Her Majesty for the 
+purposes of a government department.
+Textual Amendments
+F28
+Words substituted by Agricultural Holdings Act 1986 (c. 5, SIF 2:3), ss. 99, 100, Sch. 13 para. 3, Sch. 
+14 para. 64
+F29
+Words in s. 14(3) added (1.9.1995) by 1995 c. 8, ss. 40, 41(2), Sch. para. 31 (with s. 37)
+F30
+Words in s. 14(4) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 25(1) (with ss. 7(6), 115,
+117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+F31
+Words in s. 14(4) inserted (15.1.2012) by Localism Act 2011 (c. 20), s. 240(1)(l), Sch. 22 para. 21
+F32
+Words in s. 14(4) inserted (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential 
+Provisions) Order 2010 (S.I. 2010/866), art. 1(2), Sch. 2 para. 59 (with art. 6, Sch. 3)
+F33
+Words in s. 14(4) substituted (1.10.1996) by S.I. 1996/2325, art. 5(1), Sch. 2 para. 16(2)
+F34
+Words inserted by Local Government and Housing Act 1989 (c. 42, SIF 75:1), s. 194(1), Sch. 11 para. 
+89
+F35
+Words added by Housing Act 1988 (c. 50, SIF 75:1), s. 116(3) (with s. 116(4))
+Modifications etc. (not altering text)
+C9
+S. 14(4) amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), ss. 4, 5, Sch. 2 para. 61)
+C10
+S. 14(4) explained by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), ss. 4, 5, Sch. 3 
+para. 5(3)
+S. 14(4) extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(a) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+S. 14(4) modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(a)
+Marginal Citations
+M3
+1977 c. 42.
+15
+Jurisdiction of county court.
+The county court has jurisdiction to make a declaration that section 11 (repairing 
+obligations) applies, or does not apply, to a lease—
+(a)
+whatever the net annual value of the property in question, and
+(b)
+notwithstanding that no other relief is sought than a declaration.
+16
+Meaning of “lease” and related expressions.
+In sections 11 to 15 (repairing obligations in short leases)—
+(a)
+“lease” does not include a mortgage term;
+(b)
+“lease of a dwelling-house” means a lease by which a building or part of a 
+building is let wholly or mainly as a private residence and “dwelling-house” 
+means that building or part of a building;
+(c)
+“lessee” and “lessor” mean, respectively, the person for the time being 
+entitled to the term of a lease and to the reversion expectant on it.
+
+
+## Page 20
+
+20
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+17
+Specific performance of landlord’s repairing obligations.
+(1) In proceedings in which a tenant of a dwelling alleges a breach on the part of his 
+landlord of a repairing covenant relating to any part of the premises in which the 
+dwelling is comprised, the court may order specific performance of the covenant 
+whether or not the breach relates to a part of the premises let to the tenant and 
+notwithstanding any equitable rule restricting the scope of the remedy, whether on the 
+basis of a lack of mutuality or otherwise.
+(2) In this section—
+(a)
+“tenant” includes a statutory tenant,
+(b)
+in relation to a statutory tenant the reference to the premises let to him is to 
+the premises of which he is a statutory tenant,
+(c)
+“landlord”, in relation to a tenant, includes any person against whom the tenant 
+has a right to enforce a repairing covenant, and
+(d)
+“repairing covenant” means a covenant to repair, maintain, renew, construct 
+or replace any property.
+Service charges
+18
+Meaning of “service charge” and “relevant costs”.
+(1) In the following provisions of this Act “service charge” means an amount payable by 
+a tenant of a [F36dwelling] as part of or in addition to the rent—
+(a)
+which is payable, directly or indirectly, for services, repairs, maintenance [F37, 
+improvements] or insurance or the landlord’s costs of management, and
+(b)
+the whole or part of which varies or may vary according to the relevant costs.
+(2) The relevant costs are the costs or estimated costs incurred or to be incurred by or on 
+behalf of the landlord, or a superior landlord, in connection with the matters for which 
+the service charge is payable.
+(3) For this purpose—
+(a)
+“costs” includes overheads, and
+(b)
+costs are relevant costs in relation to a service charge whether they are 
+incurred, or to be incurred, in the period for which the service charge is 
+payable or in an earlier or later period.
+Textual Amendments
+F36
+Word substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 1
+F37
+Word in s. 18(1)(a) inserted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 150, 181(1),
+Sch. 9 para. 7 (with para. 13); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i)
+(subject to Sch. 2)
+Modifications etc. (not altering text)
+C11
+S. 18 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C12
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669 {art. 2(a)}
+C13
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+
+
+## Page 21
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+21
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C14
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C15
+S. 18(1)(a): power to amend conferred (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 150,
+181(1), Sch. 9 para. 13(a); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i)
+(subject to Sch. 2)
+19
+Limitation of service charges: reasonableness.
+(1) Relevant costs shall be taken into account in determining the amount of a service 
+charge payable for a period—
+(a)
+only to the extent that they are reasonably incurred, and
+(b)
+where they are incurred on the provision of services or the carrying out of 
+works, only if the services or works are of a reasonable standard;
+and the amount payable shall be limited accordingly.
+(2) Where a service charge is payable before the relevant costs are incurred, no greater 
+amount than is reasonable is so payable, and after the relevant costs have been incurred 
+any necessary adjustment shall be made by repayment, reduction or subsequent 
+charges or otherwise.
+(2A) F38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B) F38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C) F38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) F38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F39(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[F40(5) If a person takes any proceedings in the High Court in pursuance of any of the 
+provisions of this Act relating to service charges and he could have taken those 
+proceedings in the county court, he shall not be entitled to recover any costs.]
+Textual Amendments
+F38
+S. 19(2A)-(3) repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 180, 181(1), Sch. 14;
+S.I. 2003/1986, arts. 1(2), 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 
+Pt. 2 (subject to Sch. 2)
+F39
+S. 19(4) repealed (1.9.1997) by 1996 c. 52, s. 227, Sch. 19 Pt. III; S.I. 1997/1851, art. 2 (with Sch. 
+para. 1)
+F40
+S. 19(5) added by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 2(b), but is 
+repealed (prosp.) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), ss. 124(3), 125(7), Sch. 20
+Modifications etc. (not altering text)
+C16
+S. 19 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+
+
+## Page 22
+
+22
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+C17
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C18
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C19
+S. 19(1)(2) excluded by S.I. 1988/1283, art. 2, Sch. para. 2(a)
+C20
+S. 19(5) excluded by S.I. 1988/1283, art. 2, Sch. para. 5
+[F4120
+Limitation of service charges: consultation requirements
+(1) Where this section applies to any qualifying works or qualifying long term agreement, 
+the relevant contributions of tenants are limited in accordance with subsection (6) or 
+(7) (or both) unless the consultation requirements have been either—
+(a)
+complied with in relation to the works or agreement, or
+(b)
+[F42except in the case of works to which section 20D applies,] dispensed with 
+in relation to the works or agreement by (or on appeal from) [F43the appropriate 
+tribunal].
+(2) In this section “relevant contribution”, in relation to a tenant and any works or 
+agreement, is the amount which he may be required under the terms of his lease to 
+contribute (by the payment of service charges) to relevant costs incurred on carrying 
+out the works or under the agreement.
+(3) This section applies to qualifying works if relevant costs incurred on carrying out the 
+works exceed an appropriate amount.
+(4) The Secretary of State may by regulations provide that this section applies to a 
+qualifying long term agreement—
+(a)
+if relevant costs incurred under the agreement exceed an appropriate amount, 
+or
+(b)
+if relevant costs incurred under the agreement during a period prescribed by 
+the regulations exceed an appropriate amount.
+(5) An appropriate amount is an amount set by regulations made by the Secretary of State; 
+and the regulations may make provision for either or both of the following to be an 
+appropriate amount—
+(a)
+an amount prescribed by, or determined in accordance with, the regulations, 
+and
+(b)
+an amount which results in the relevant contribution of any one or more 
+tenants being an amount prescribed by, or determined in accordance with, the 
+regulations.
+(6) Where an appropriate amount is set by virtue of paragraph (a) of subsection (5), the 
+amount of the relevant costs incurred on carrying out the works or under the agreement 
+which may be taken into account in determining the relevant contributions of tenants 
+is limited to the appropriate amount.
+
+
+## Page 23
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+23
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(7) Where an appropriate amount is set by virtue of paragraph (b) of that subsection, the 
+amount of the relevant contribution of the tenant, or each of the tenants, whose relevant 
+contribution would otherwise exceed the amount prescribed by, or determined in 
+accordance with, the regulations is limited to the amount so prescribed or determined.]
+Textual Amendments
+F41
+Ss. 20, 20ZA substituted (26.7.2002 for E. for certain purposes otherwise 31.10.2003 and 1.1.2003 for 
+W. for certain purposes and otherwise 30.3.2004) for s. 20 by 2002 c. 15, s. 151; S.I. 2002/1912, art. 
+2(c); S.I. 2002/3012, art. 2(c); S.I. 2003/1986, art. 3(1) (subject to art. 3(2)-(7)); S.I. 2004/669, art. 
+2(d) (subject to art. 2(d)(i)-(vi))
+F42
+Words in s. 20(1)(b) inserted (1.4.2023 for specified purposes) by Building Safety Act 2022 (c. 30), ss. 
+133(2), 170(5); S.I. 2023/362, reg. 2(1)(g)
+F43
+Words in s. 20(1)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 50 (with Sch. 3)
+Modifications etc. (not altering text)
+C21
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C22
+S. 20 applied (E.) (31.10.2003) by The Service Charges (Consultation Requirements) (England) 
+Regulations 2003 (S.I. 2003/1987), reg. 4(1)
+[F4420ZAConsultation requirements: supplementary
+(1) Where an application is made to [F45the appropriate tribunal] for a determination to 
+dispense with all or any of the consultation requirements in relation to any qualifying 
+works or qualifying long term agreement, the tribunal may make the determination if 
+satisfied that it is reasonable to dispense with the requirements.
+(2) In section 20 and this section—
+“qualifying works” means works on a building or any other premises, and
+“qualifying long term agreement” means (subject to subsection (3)) an 
+agreement entered into, by or on behalf of the landlord or a superior landlord, 
+for a term of more than twelve months.
+(3) The Secretary of State may by regulations provide that an agreement is not a qualifying 
+long term agreement—
+(a)
+if it is an agreement of a description prescribed by the regulations, or
+(b)
+in any circumstances so prescribed.
+(4) In section 20 and this section “the consultation requirements” means requirements 
+prescribed by regulations made by the Secretary of State.
+(5) Regulations under subsection (4) may in particular include provision requiring the
+landlord—
+(a)
+to provide details of proposed works or agreements to tenants or the 
+recognised tenants’ association representing them,
+
+
+## Page 24
+
+24
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+to obtain estimates for proposed works or agreements,
+(c)
+to invite tenants or the recognised tenants’ association to propose the names 
+of persons from whom the landlord should try to obtain other estimates,
+(d)
+to have regard to observations made by tenants or the recognised tenants’ 
+association in relation to proposed works or agreements and estimates, and
+(e)
+to give reasons in prescribed circumstances for carrying out works or entering 
+into agreements.
+[
+F46(5A)
+And in the case of works to which section 20D applies, regulations under 
+subsection (4) may also include provision requiring the landlord—
+(a)
+to give details of the steps taken or to be taken under section 20D(2),
+(b)
+to give reasons about prescribed matters, and any other prescribed 
+information, relating to the taking of such steps, and
+(c)
+to have regard to observations made by tenants or the recognised tenants’ 
+association in relation to the taking of such steps.]
+(6) Regulations under section 20 or this section—
+(a)
+may make provision generally or only in relation to specific cases, and
+(b)
+may make different provision for different purposes.
+(7) Regulations under section 20 or this section shall be made by statutory instrument 
+which shall be subject to annulment in pursuance of a resolution of either House of 
+Parliament.]
+Textual Amendments
+F44
+Ss. 20, 20ZA substituted (26.7.2002 for E. for certain purposes and otherwise 31.10.2003 and 1.1.2003 
+for W. for certain purposes and otherwise 30.3.2004) for s. 20 by 2002 c. 15, s. 151; S.I. 2002/1912,
+art. 2(c); S.I. 2002/3012, art. 2(c); S.I. 2003/1986, art. 3(1) (subject to art. 3(2)-(7)); S.I. 2004/669,
+art. 2(d) (subject to art. 2(d)(i)-(vi))
+F45
+Words in s. 20ZA(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 51 (with Sch. 3)
+F46
+S. 20ZA(5A) inserted (1.4.2023 for specified purposes) by Building Safety Act 2022 (c. 30), ss. 
+133(3), 170(5); S.I. 2023/362, reg. 2(1)(g)
+Modifications etc. (not altering text)
+C23
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F4720A Limitation of service charges: grant-aided works.
+Where relevant costs are incurred or to be incurred on the carrying out of works 
+in respect of which a grant has been or is to be paid under [F48section 523 of the 
+Housing Act 1985 (assistance for provision of separate service pipe for water supply) 
+or any provision of Part I of the Housing Grants, Construction and Regeneration Act 
+1996 (grants, &c. for renewal of private sector housing) or any corresponding earlier
+
+
+## Page 25
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+25
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+enactment][F49or article 3 of the Regulatory Reform (Housing Assistance) (England 
+and Wales) Order 2002 (power of local housing authorieses to provide assistance)], 
+the amount of the grant shall be deducted from the costs and the amount of the service 
+charge payable shall be reduced accordingly.
+[
+F50(2)
+In any case where—
+(a)
+relevant costs are incurred or to be incurred on the carrying out of works 
+which are included in the external works specified in a group repair scheme, 
+within the meaning of [F51Part I of the Housing Grants, Construction and 
+Regeneration Act 1996], and
+(b)
+the landlord participated or is participating in that scheme as an assisted 
+participant,
+the amount which, in relation to the landlord, is [F52the balance of the cost 
+determined in accordance with section 69(3) of the Housing Grants, Construction and 
+Regeneration Act 1996] shall be deducted from the costs, and the amount of the service 
+charge payable shall be reduced accordingly.]]
+Textual Amendments
+F47
+S. 20A inserted by Housing and Planning Act 1986 (c. 63, SIF 75:1), s. 24(1), Sch. 5 para. 9(1)
+F48
+Words in s. 20A(1) substituted (17.12.1996) by 1996 c. 53, s. 103, Sch. 1 para. 11(1); S.I. 1996/2842,
+art. 3
+F49
+Words in s. 20A(1) inserted (19.7.2002) by S.I. 2002/1860, arts. 1(2)(b), 9, Sch. 1 para. 2
+F50
+S. 20A(2) added by Local Government and Housing Act 1989 (c. 42, SIF 75:1), s. 194, Sch. 11 para. 
+90
+F51
+Words in s. 20A(2)(a) substituted (17.12.1996) by 1996 c. 53, s. 103, Sch. 1 para. 11(2)(a); S.I. 
+1996/2842, art. 3
+F52
+Words in s. 20A(2) substituted (17.12.1996) by 1996 c. 53, Sch. 1 para. 11(2)(b); S.I. 1996/2842, art. 
+3
+Modifications etc. (not altering text)
+C24
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C25
+S. 20A amended by Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C26
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+[F5320B
+Limitation of service charges: time limit on making demands.
+(1) If any of the relevant costs taken into account in determining the amount of any service 
+charge were incurred more than 18 months before a demand for payment of the service 
+charge is served on the tenant, then (subject to subsection (2) ), the tenant shall not be 
+liable to pay so much of the service charge as reflects the costs so incurred.
+(2) Subsection (1) shall not apply if, within the period of 18 months beginning with the 
+date when the relevant costs in question were incurred, the tenant was notified in
+
+
+## Page 26
+
+26
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+writing that those costs had been incurred and that he would subsequently be required 
+under the terms of his lease to contribute to them by the payment of a service charge.]
+Textual Amendments
+F53
+Ss. 20B, 20C inserted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 4
+Modifications etc. (not altering text)
+C27
+S. 20B amended by Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C28
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C29
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C30
+S. 20B(2) modified by S.I. 1988/1283, art. 2, Sch. para. 6
+[F5420C Limitation of service charges: costs of proceedings.
+(1) A tenant may make an application for an order that all or any of the costs incurred, 
+or to be incurred, by the landlord in connection with proceedings before a court
+[F55, residential property tribunal] or leasehold valuation tribunal [F56or the First-tier 
+Tribunal], or the [F57Upper Tribunal], or in connection with arbitration proceedings, 
+are not to be regarded as relevant costs to be taken into account in determining the 
+amount of any service charge payable by the tenant or any other person or persons 
+specified in the application.
+(2) The application shall be made—
+(a)
+in the case of court proceedings, to the court before which the proceedings are 
+taking place or, if the application is made after the proceedings are concluded, 
+to [F58the county court];
+[
+F59(aa)
+in the case of proceedings before a residential property tribunal, to a leasehold 
+valuation tribunal;]
+(b)
+in the case of proceedings before a leasehold valuation tribunal, to the tribunal 
+before which the proceedings are taking place or, if the application is made 
+after the proceedings are concluded, to any leasehold valuation tribunal;
+[
+F60(ba)
+in the case of proceedings before the First-tier Tribunal, to the tribunal;]
+(c)
+in the case of proceedings before the [F61Upper Tribunal], to the tribunal;
+(d)
+in the case of arbitration proceedings, to the arbitral tribunal or, if the 
+application is made after the proceedings are concluded, to [F58the county 
+court].
+(3) The court or tribunal to which the application is made may make such order on the 
+application as it considers just and equitable in the circumstances.]
+
+
+## Page 27
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+27
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F54
+S. 20C substituted (1.9.1997 subject to saving in Sch. para. 1 of S.I. 1997/1851 and otherwise 
+11.8.1998 subject to art. 3 of S.I. 1998/1768) by 1996 c. 52, s. 83(4); S.I. 1997/1851, art. 2; S.I. 
+1998/1768, art. 2
+F55
+Words in s. 20C(1) inserted (6.4.2006 for E. and 16.6.2006 for W.) by Housing Act 2004 (c. 34), ss. 
+265(1), 270, Sch. 15 para. 32(1)(2); S.I. 2006/1060, art. 2(d) (with Sch.); S.I. 2006/1535, art. 2(b)
+(with art. 3, Sch.)
+F56
+Words in s. 20C(1) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 52(a) (with Sch. 3)
+F57
+Words in s. 20C(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and 
+Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 5(1)(2), Sch. 1 para. 177 (with Sch. 5)
+F58
+Words in s. 20C(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 
+9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 
+2014/956, arts. 3-11)
+F59
+S. 20C(2)(aa) inserted (6.4.2006 for E. and 16.6.2006 for W.) by Housing Act 2004 (c. 34), ss. 265(1),
+270, Sch. 15 para. 32(1)(3); S.I. 2006/1060, art. 2(d) (with Sch.); S.I. 2006/1535, art. 2(b) (with art. 
+3, Sch.)
+F60
+S. 20C(2)(ba) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036),
+art. 1, Sch. 1 para. 52(b) (with Sch. 3)
+F61
+Words in s. 20C(2)(c) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal 
+and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 5(1)(2), Sch. 1 para. 177 (with
+Sch. 5)
+Modifications etc. (not altering text)
+C31
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F6220D Limitation of service charges: remediation works
+(1) This section applies to works of a prescribed description (“remediation works”) on a 
+building in England of a prescribed description.
+(2) The landlord must—
+(a)
+take reasonable steps to ascertain whether any grant is payable in respect of 
+the remediation works and, if so, to obtain the grant;
+(b)
+take reasonable steps to ascertain whether monies may be obtained from a 
+third party in connection with the undertaking of the remediation works and, 
+if so, to obtain monies from the third party;
+(c)
+take prescribed steps relating to any other prescribed kind of funding.
+(3) In subsection (2)(b) the reference to obtaining monies from a third party includes 
+obtaining monies—
+(a)
+under a policy of insurance;
+(b)
+under a guarantee or indemnity;
+(c)
+pursuant to a claim made against—
+
+
+## Page 28
+
+28
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(i) a developer;
+(ii) a person involved in the design of the building or of works to the 
+building; or
+(iii) a person involved in carrying out works in relation to the building.
+(4) Where any funding of a kind mentioned in subsection (2) is obtained, the amount of the 
+funding is to be deducted from the remediation costs (and the amount of any service 
+charge is to be reduced accordingly).
+(5) In the case of a failure to comply with subsection (2), a tenant may make an application 
+for an order that all or any of remediation costs are not to be regarded as relevant costs 
+to be taken into account in determining the amount of any service charge payable by—
+(a)
+the tenant, or
+(b)
+anyone else specified in the application.
+(6) An application is to be made to the prescribed court or tribunal.
+(7) The court or tribunal to which the application is made may make such order on the 
+application as it considers just and equitable in the circumstances.
+(8) Nothing in this section requires the landlord to do anything mentioned in subsection (2)
+before carrying out remediation works.
+(9) The Secretary of State may issue guidance about the taking of steps 
+under subsection (2), and may revise or withdraw any issued guidance.
+(10) Where on an application under this section it is alleged that a person failed to comply 
+with subsection (2)—
+(a)
+proof of a failure to comply with any applicable guidance may be relied on as 
+tending to establish that there was such a failure, and
+(b)
+proof of compliance with any applicable guidance may be relied on as tending 
+to establish that there was no such failure.
+(11) In this section—
+“developer”, in relation to a building, means a person who undertakes or 
+commissions the construction or conversion of the building with a view to 
+granting or disposing of interests in the building (or parts of it);
+“prescribed” means prescribed by regulations made by the Secretary of 
+State;
+“remediation costs” means costs incurred or to be incurred in carrying out 
+the remediation works;
+“third party” means a person other than a tenant.
+Textual Amendments
+F62
+Ss. 20D, 20E inserted (1.4.2023 for specified purposes) by Building Safety Act 2022 (c. 30), ss. 
+133(4), 170(5); S.I. 2023/362, reg. 2(1)(g)
+20E
+Regulations under section 20D
+(1) In this section “regulations” means regulations under section 20D.
+(2) Regulations are to be made by statutory instrument.
+
+
+## Page 29
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+29
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) A power to make regulations includes power to make—
+(a)
+incidental, transitional or saving provision;
+(b)
+different provision for different purposes.
+(4) A statutory instrument containing regulations is subject to annulment in pursuance of 
+a resolution of either House of Parliament.]
+Textual Amendments
+F62
+Ss. 20D, 20E inserted (1.4.2023 for specified purposes) by Building Safety Act 2022 (c. 30), ss. 
+133(4), 170(5); S.I. 2023/362, reg. 2(1)(g)
+[F6320F
+Limitation of service charges: excluded costs for higher-risk buildings
+(1) This section applies in relation to a lease to which section 30D (higher-risk buildings: 
+building safety costs) applies.
+(2) Excluded costs are not to be regarded as relevant costs to be taken into account in 
+determining the amount of service charge payable by a tenant under the lease.
+(3) In this section “excluded costs” means any of the following incurred in connection 
+with Part 4 of the Building Safety Act 2022 or regulations made under that Part—
+(a)
+costs incurred or to be incurred by or on behalf of a relevant person solely as 
+a result of any penalty imposed or enforcement action taken by the regulator;
+(b)
+legal costs incurred or to be incurred by or on behalf of a relevant person in 
+connection with special measures order proceedings;
+(c)
+costs incurred or to be incurred by or on behalf of a relevant person by reason 
+of any negligence, breach of contract or unlawful act on the part of that 
+relevant person or a person acting on their behalf;
+(d)
+costs of a description prescribed by regulations made by the Secretary of State 
+that are incurred or to be incurred by or on behalf of an accountable person 
+or special measures manager for the building in connection with the taking of 
+building safety measures.
+(4) In this section—
+“building safety measures” has the meaning given by section 30D;
+“enforcement action” means action taken with a view to, or in connection
+with—
+(a) securing compliance with Part 4 of the Building Safety Act 2022 or 
+regulations made under that Part, or
+(b) the imposition of a sanction in respect of a contravention of that Part or 
+those regulations;
+“the regulator” has the meaning given by section 115 of the Building Safety 
+Act 2022;
+“relevant person” means—
+(a) where the landlord under the lease is an accountable person for the 
+higher-risk building, the landlord or a special measures manager for the 
+higher-risk building;
+
+
+## Page 30
+
+30
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) where the landlord is not such an accountable person, any superior 
+landlord who is an accountable person for the higher-risk building or a 
+special measures manager for the higher-risk building;
+“special measures order proceedings” means any proceedings relating to 
+the making, variation or discharge of, or the giving of directions in relation to, 
+a special measures order under Schedule 7 to the Building Safety Act 2022 
+(including any appeals in relation to such proceedings).
+(5) Regulations under this section are to be made by statutory instrument.
+(6) A power to make regulations includes power to make—
+(a)
+incidental, transitional or saving provision;
+(b)
+different provision for different purposes.
+(7) A statutory instrument containing regulations under this section is subject to 
+annulment in pursuance of a resolution of either House of Parliament.]
+Textual Amendments
+F63
+S. 20F inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by Building Safety 
+Act 2022 (c. 30), ss. 112(3), 170(2) (with s. 164); S.I. 2023/362, reg. 3(1)(z10)(iii)
+[F6420J
+Limitation of variable service charges: non-litigation costs of enfranchisement 
+etc
+(1) Non-litigation costs incurred, or to be incurred, by a landlord in connection with a 
+relevant claim are not to be regarded as relevant costs to be taken into account in 
+determining the amount of a variable service charge payable by a tenant who is a non-
+participating tenant in relation to that claim.
+(2) A lease, contract or other arrangement is of no effect to the extent it makes provision 
+to the contrary.
+(3) In this section and section 20K—
+“the 1967 Act” means the Leasehold Reform Act 1967;
+“the 1993 Act” means the Leasehold Reform, Housing and Urban 
+Development Act 1993;
+“the 2002 Act” means the Commonhold and Leasehold Reform Act 2002;
+“non-litigation costs” means costs incurred, or to be incurred, other than in 
+connection with proceedings before a court or tribunal;
+“non-participating tenant”, in relation to a relevant claim, means a tenant 
+who is not a participating tenant;
+“participating tenant”, in relation to a relevant claim, means a tenant who—
+(a) in the case of a claim under Part 1 of the 1967 Act or Chapter 1 or 2 of 
+Part 1 of the 1993 Act, is making the claim;
+(b) in the case of a claim under Chapter 1 of Part 2 of the 2002 Act, is or 
+has been a member of the RTM company making the claim;
+“relevant claim” means—
+(a) a claim under Part 1 of the 1967 Act (enfranchisement and extension of 
+leases of houses);
+
+
+## Page 31
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+31
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) a claim under Chapter 1 or 2 of Part 1 of the 1993 Act (enfranchisement 
+and extension of leases of flats);
+(c) a claim under Chapter 1 of Part 2 of the 2002 Act (right to manage);
+“RTM company” has the same meaning as in Chapter 1 of Part 2 of the 
+2002 Act (see section 71 of that Act).
+(4) For provision about when a participating tenant is and is not liable in respect of non-
+litigation costs in relation to a relevant claim, see—
+(a)
+section 19A of the 1967 Act;
+(b)
+section 89A of the 1993 Act;
+(c)
+section 87A of the 2002 Act.
+Textual Amendments
+F64
+Ss. 20J, 20K inserted (3.3.2025 for the insertion of s. 20J for specified purposes) by Leasehold and 
+Freehold Reform Act 2024 (c. 22), ss. 64, 124(3) (with s. 71); S.I. 2025/131, reg. 2(e)
+PROSPECTIVE
+20K
+Right to claim where non-litigation costs charged contrary to section 20J
+(1) This section applies if, despite section 20J(1), a non-participating tenant in relation to 
+a relevant claim pays a prohibited amount to any person.
+(2) For the purposes of this section, a “prohibited amount” is an amount that is—
+(a)
+demanded as a variable service charge, and
+(b)
+attributable to non-litigation costs incurred, or to be incurred, in connection 
+with the claim.
+(3) The appropriate tribunal may, on the application of the tenant, order the person to 
+which the prohibited amount was paid to return all or any part of the amount to the 
+tenant.]
+Textual Amendments
+F64
+Ss. 20J, 20K inserted (3.3.2025 for the insertion of s. 20J for specified purposes) by Leasehold and 
+Freehold Reform Act 2024 (c. 22), ss. 64, 124(3) (with s. 71); S.I. 2025/131, reg. 2(e)
+X1[F6521 Service charge information
+(1) The appropriate national authority may make regulations about the provision, by 
+landlords of dwellings to each tenant by whom service charges are payable, of 
+information about service charges.
+(2) The regulations must, subject to any exceptions provided for in the regulations, require 
+the landlord to provide information about—
+(a)
+the service charges of the tenant,
+(b)
+any associated service charges, and
+(c)
+relevant costs relating to service charges falling within paragraph (a) or (b).
+
+
+## Page 32
+
+32
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) The regulations must, subject to any exceptions provided for in the regulations, require 
+the landlord to provide the tenant with a report by a qualified person on information 
+which the landlord is required to provide by virtue of this section.
+(4) The regulations may make provision about—
+(a)
+information to be provided by virtue of subsection (2),
+(b)
+other information to be provided (whether in pursuance of a requirement or 
+otherwise),
+(c)
+reports of the kind mentioned in subsection (3),
+(d)
+the period or periods in relation to which information or reports are to be 
+provided,
+(e)
+the times at or by which information or reports are to be provided,
+(f)
+the form and manner in which information or reports are to be provided 
+(including in particular whether information is to be contained in a statement 
+of account),
+(g)
+the descriptions of persons who are to be qualified persons for the purposes 
+of subsection (3).
+(5) Subsections (2) to (4) do not limit the scope of the power conferred by subsection (1).
+(6) Regulations under this section may—
+(a)
+make different provision for different cases or descriptions of case or for 
+different purposes,
+(b)
+contain such supplementary, incidental, consequential, transitional, transitory 
+or saving provision as the appropriate national authority considers 
+appropriate.
+[F66(6A) In particular, regulations which make provision about higher-risk buildings (within 
+the meaning of Part 4 of the Building Safety Act 2022) [F67or relevant buildings (as 
+defined by section 117 of that Act)] need not contain provision of a kind mentioned 
+in subsection (2) or (3).]
+(7) Regulations under this section are to be made by statutory instrument which, subject 
+to subsections (8) and (9)—
+(a)
+in the case of regulations made by the Secretary of State, is to be subject to 
+annulment in pursuance of a resolution of either House of Parliament, and
+(b)
+in the case of regulations made by the Welsh Ministers, is to be subject to 
+annulment in pursuance of a resolution of the National Assembly for Wales.
+(8) The Secretary of State may not make a statutory instrument containing the first 
+regulations made by the Secretary of State under this section unless a draft of the 
+instrument has been laid before, and approved by a resolution of, each House of 
+Parliament.
+(9) The Welsh Ministers may not make a statutory instrument containing the first 
+regulations made by the Welsh Ministers under this section unless a draft of the 
+instrument has been laid before, and approved by a resolution of, the National 
+Assembly for Wales.
+(10) In this section—
+“the appropriate national authority”—
+(a) in relation to England, means the Secretary of State, and
+
+
+## Page 33
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+33
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) in relation to Wales, means the Welsh Ministers,
+“associated service charges”, in relation to a tenant by whom a contribution to 
+relevant costs is payable as a service charge, means service charges of other 
+tenants so far as relating to the same costs.]
+Editorial Information
+X1
+Editorial note: The substitution of s. 21 (Regular statements of account) by the Commonhold and 
+Leasehold Reform Act 2002 (c. 15), s. 152 (version dated 26.7.2002 on the timeline) has been brought 
+into force only in so far as it confers power to make regulations; and the further substitution of s. 21 
+(Service charge information) by the Housing and Regeneration Act 2008 (c. 17), Sch. 12 para. 2
+(version dated 1.12.2008) has been brought into force only for the purpose of enabling the Secretary 
+of State to make regulations (for England). The power to make such regulations has not to date been 
+exercised in either case. For s. 21 (Request for summary of relevant costs) as it otherwise remains in 
+force, see the version dated 17.12.1996.
+Textual Amendments
+F65
+S. 21 (as substituted by s. 152 of the Commonhold and Leasehold Reform Act 2002 (c. 15)) substituted 
+(1.12.2008 for E. for the purpose of enabling the Secretary of State to make regulations and otherwise 
+prosp.) by Housing and Regeneration Act 2008 (c. 17), ss. 303, 325(3)(b)(4), Sch. 12 para. 2; S.I. 
+2008/3068, art. 4(6) (with arts. 6-3)
+F66
+S. 21(6A) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by
+Building Safety Act 2022 (c. 30), ss. 112(4), 170(2) (with s. 164); S.I. 2023/362, reg. 3(1)(z10)(iv)
+F67
+Words in s. 21(6A) inserted (28.6.2022) by Building Safety Act 2022 (c. 30), s. 170(3), Sch. 8 para. 
+17 (with s. 164)
+Modifications etc. (not altering text)
+C32
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F6821A Withholding of service charges
+[F69(1) A tenant may withhold payment of a service charge if—
+(a)
+the landlord has not provided him with information or a report—
+(i) at the time at which, or
+(ii) (as the case may be) by the time by which,
+he is required to provide it by virtue of section 21, or
+(b)
+the form or content of information or a report which the landlord has provided 
+him with by virtue of that section (at any time) does not conform exactly 
+or substantially with the requirements prescribed by regulations under that 
+section.]
+(2) The maximum amount which the tenant may withhold is an amount equal to the 
+aggregate of—
+(a)
+the service charges paid by him in the [F70period to which the information or 
+report] concerned would or does relate, and
+
+
+## Page 34
+
+34
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F71(b)
+amounts standing to the tenant's credit in relation to the service charges at the 
+beginning of that period.]
+(3) An amount may not be withheld under this section—
+(a)
+in a case within paragraph (a) of subsection (1), after the [F72information or 
+report concerned has been provided] to the tenant by the landlord, or
+[F73(b)
+in a case within paragraph (b) of that subsection, after information or a 
+report conforming exactly or substantially with requirements prescribed by 
+regulations under section 21 has been provided to the tenant by the landlord 
+by way of replacement of that previously provided.]
+(4) If, on an application made by the landlord to [F74the appropriate tribunal], the tribunal 
+determines that the landlord has a reasonable excuse for a failure giving rise to the 
+right of a tenant to withhold an amount under this section, the tenant may not withhold 
+the amount after the determination is made.
+(5) Where a tenant withholds a service charge under this section, any provisions of the 
+tenancy relating to non-payment or late payment of service charges do not have effect 
+in relation to the period for which he so withholds it.]
+Textual Amendments
+F68
+Ss. 21, 21A substituted (26.7.2002 for E. in so far as it confers power to make regulations and 
+1.1.2003 for W. in so far as it confers power to make regulations and otherwise prosp.) for s. 21 by
+Commonhold and Leasehold Reform Act 2002 (c. 15), s. 152; S.I. 2002/1912, art 2(c); S.I. 2002/3012,
+art. 2(c)
+F69
+S. 21A(1) substituted (1.12.2008 for certain purposes and otherwise prosp.) by Housing and 
+Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 3(2); S.I. 2008/3068, art. 4(6) (with arts. 
+6-13)
+F70
+Words in s. 21A(2)(a) substituted (1.12.2008 for certain purposes and otherwise prosp.) by Housing 
+and Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 3(3)(a); S.I. 2008/3068, art. 4(6) (with
+arts. 6-13)
+F71
+S. 21A(2)(b) substituted (1.12.2008 for certain purposes and otherwise prosp.) by Housing and 
+Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 3(3)(b); S.I. 2008/3068, art. 4(6) (with 
+6-13)
+F72
+Words in s. 21A(3)(a) substituted (1.12.2008 for certain purposes and otherwise prosp.) by Housing 
+and Regeneration Act 2008 (c. 17) ss. 303, 325, {Sch. 12 para. 3(4)(a)}; S.I. 2008/3068, art. 4(6) (with
+arts. 6-13)
+F73
+S. 21A(3)(b) substituted (1.12.2008 for certain purposes and otherwise prosp.) by Housing and 
+Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 3(4)(b); S.I. 2008/3068, art. 4(6) (with arts. 
+6-13)
+F74
+Words in s. 21A(4) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 53 (with Sch. 3)
+Modifications etc. (not altering text)
+C33
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject Sch. 2); S.I. 2004/699, art. 2(c)(ii) subject Sch. 2); S.I. 
+2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 2(h)
+(subject to art. 3)
+
+
+## Page 35
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+35
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F7521B
+Notice to accompany demands for service charges
+(1) A demand for the payment of a service charge must be accompanied by a summary of 
+the rights and obligations of tenants of dwellings in relation to service charges.
+(2) The Secretary of State may make regulations prescribing requirements as to the form 
+and content of such summaries of rights and obligations.
+(3) A tenant may withhold payment of a service charge which has been demanded from 
+him if subsection (1) is not complied with in relation to the demand.
+(4) Where a tenant withholds a service charge under this section, any provisions of the 
+lease relating to non-payment or late payment of service charges do not have effect in 
+relation to the period for which he so withholds it.
+(5) Regulations under subsection (2) may make different provision for different purposes.
+(6) Regulations under subsection (2) shall be made by statutory instrument which shall 
+be subject to annulment in pursuance of a resolution of either House of Parliament.]
+Textual Amendments
+F75
+S. 21B inserted (26.7.2002 for E. for certain purposes and otherwise 1.10.2007 and 1.1.2003 for W. 
+for certain purposes and otherwise 30.11.2007) by 2002 c. 15, s. 153; S.I. 2002/1912, art. 2(c); S.I. 
+2002/3012, art. 2(c); S.I. 2007/1256, art. 2; S.I. 2007/3161, art. 2
+Modifications etc. (not altering text)
+C34
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C35
+S. 21B applied (1.10.2007) by The Service Charges (Summary of Rights and Obligations, and 
+Transitional Provision) (England) Regulations 2007 (S.I. 2007/1257), reg. 4(b) (with reg. 2)
+C36
+S. 21B applied (30.11.2007) by The Service Charges (Summary of Rights and Obligations, and 
+Transitional Provisions) (Wales) Regulations 2007 (S.I. 2007/3160), reg. 4(b) (with reg. 2)
+C37
+S. 21B(3)(4) excluded (1.10.2007) by The Service Charges (Summary of Rights and Obligations, and 
+Transitional Provision) (England) Regulations 2007 (S.I. 2007/1257) {reg. 4(a)} (with reg. 2)
+C38
+S. 21B(3)(4) excluded (30.11.2007) by The Service Charges (Summary of Rights and Obligations, and 
+Transitional Provisions) (Wales) Regulations 2007 (S.I. 2007/3160), reg. 4(a) (with reg. 2)
+22
+Request to inspect supporting accounts &c.
+(1) This section applies where a tenant, or the secretary of a recognised tenants’ 
+association, has obtained such a summary as is referred to in section 21(1) (summary 
+of relevant costs), whether in pursuance of that section or otherwise.
+(2) The tenant, or the secretary with the consent of the tenant, may within six months 
+of obtaining the summary require the landlord in writing to afford him reasonable
+facilities—
+(a)
+for inspecting the accounts, receipts and other documents supporting the 
+summary, and
+
+
+## Page 36
+
+36
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+for taking copies or extracts from them.
+(3) A request under this section is duly served on the landlord if it is served on—
+(a)
+an agent of the landlord named as such in the rent book or similar document, or
+(b)
+the person who receives the rent of behalf of the landlord;
+and a person on whom a request is so served shall forward it as soon as may be to 
+the landlord.
+(4) The landlord shall make such facilities available to the tenant or secretary for a period 
+of two months beginning not later than one month after the request is made.
+[F76(5) The landlord shall—
+(a)
+where such facilities are for the inspection of any documents, make them so 
+available free of charge;
+(b)
+where such facilities are for the taking of copies or extracts, be entitled to make 
+them so available on payment of such reasonable charge as he may determine.
+(6) The requirement imposed on the landlord by subsection (5)(a) to make any facilities 
+available to a person free of charge shall not be construed as precluding the landlord 
+from treating as part of his costs of management any costs incurred by him in 
+connection with making those facilities so available.]
+Textual Amendments
+F76
+S. 22(5)(6) added by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 6
+Modifications etc. (not altering text)
+C39
+S. 22 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C40
+S. 22 excluded by S.I. 1988/1283, art. 2, Sch. para. 2(d)
+C41
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C42
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+23
+Request relating to information held by superior landlord.
+(1) If a request under section 21 (request for summary of relevant costs) relates in whole 
+or in part to relevant costs incurred by or on behalf of a superior landlord, and the 
+landlord to whom the request is made is not in possession of the relevant information—
+(a)
+he shall in turn make a written request for the relevant information to the 
+person who is his landlord (and so on, if that person is not himself the superior 
+landlord),
+(b)
+the superior landlord shall comply with that request within a reasonable time, 
+and
+
+
+## Page 37
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+37
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+the immediate landlord shall then comply with the tenant’s or secretary’s 
+request, or that part of it which relates to the relevant costs incurred by or on 
+behalf of the superior landlord, within the time allowed by section 21 or such 
+further time, if any, as is reasonable in the circumstances.
+(2) If a request under section 22 (request for facilities to inspect supporting accounts, &c.) 
+relates to a summary of costs incurred by or on behalf of a superior landlord—
+(a)
+the landlord to whom the request is made shall forthwith inform the tenant or 
+secretary of that fact and of the name and address of the superior landlord, and
+(b)
+section 22 shall then apply to the superior landlord as it applies to the 
+immediate landlord.
+Modifications etc. (not altering text)
+C43
+S. 23 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C44
+S. 23 excluded by S.I. 1988/1283, art. 2, Sch. para. 2(d)
+C45
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C46
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+PROSPECTIVE
+[F7723A Effect of change of landlord
+(1) This section applies where, at a time when a duty imposed on the landlord or a superior 
+landlord by or by virtue of any of sections 21 to 23 remains to be discharged by him, he 
+disposes of the whole or part of his interest as landlord or superior landlord to another 
+person.
+(2) If the landlord or superior landlord is, despite the disposal, still in a position to 
+discharge the duty to any extent, he remains responsible for discharging it to that 
+extent.
+(3) If the other person is in a position to discharge the duty to any extent, he is responsible 
+for discharging it to that extent.
+(4) Where the other person is responsible for discharging the duty to any extent (whether 
+or not the landlord or superior landlord is also responsible for discharging it to that 
+or any other extent)—
+(a)
+references to the landlord or superior landlord in sections 21 to 23 [F78and any 
+regulations under section 21] are to, or include, the other person so far as is
+
+
+## Page 38
+
+38
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+appropriate to reflect his responsibility for discharging the duty to that extent, 
+but
+(b)
+in connection with its discharge by the other person, section 22(6) applies as 
+if the reference to the day on which the landlord receives the notice were to 
+the date of the disposal referred to in subsection (1)[F79 and
+(c)
+any regulations under section 21 apply subject to any modifications contained 
+in the regulations.]]
+Textual Amendments
+F77
+S. 23A inserted (prosp.) by 2002 c. 15, ss. 157, 181(1), Sch. 10 para. 2
+F78
+Words in s. 23A(4)(a) inserted (1.12.2008 for certain purposes and otherwise prosp.) by Housing and 
+Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 6(a); S.I. 2008/3068, art. 4(6) (with arts. 
+6-13)
+F79
+S. 23A(4)(c) and preceding word inserted (1.12.2008 for certain purposes and otherwise prosp.) by
+Housing and Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 6(b); S.I. 2008/3068, art. 4(6)
+(with arts. 6-13)
+Modifications etc. (not altering text)
+C47
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+24
+Effect of assignment on request.
+The assignment of a tenancy does not affect the validity of a request made under 
+section 21, 22 or 23 before the assignment; but a person is not obliged to provide a 
+summary or make facilities available more than once for the same [F80dwelling] and 
+for the same period.
+Textual Amendments
+F80
+Word substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 7
+Modifications etc. (not altering text)
+C48
+S. 24 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C49
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+
+
+## Page 39
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+39
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+25
+Failure to comply with s. 21, 22 or 23 an offence.
+(1) It is a summary offence for a person to fail, without reasonable excuse, to perform a 
+duty imposed on him by section 21, 22 or 23.
+(2) A person committing such an offence is liable on conviction to a fine not exceeding 
+level 4 on the standard scale.
+[F81(3) Subsection (1) does not apply where the person is—
+(a)
+a local authority for an area in Wales, or
+(b)
+a registered social landlord.]
+Textual Amendments
+F81
+S. 25(3) inserted (1.12.2014) by Housing (Wales) Act 2014 (anaw 7), ss. 128, 145(3); S.I. 2014/3127,
+art. 2(a), Sch. Pt. 1
+Modifications etc. (not altering text)
+C50
+S. 25 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C51
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+C52
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+26
+Exception: tenants of certain public authorities.
+(1) Sections 18 to 25 (limitation on service charges and requests for information about 
+costs) do not apply to a service charge payable by a tenant of—
+a local authority,
+[F82a National Park authority [F83, or]]
+a new town corporation, F84. . .
+F84. . .
+unless the tenancy is a long tenancy, in which case sections 18 to 24 apply but 
+section 25 (offence of failure to comply) does not.
+(2) The following are long tenancies for the purposes of subsection (1), subject to 
+subsection (3)—
+(a)
+a tenancy granted for a term certain exceeding 21 years, whether or not it is 
+(or may become) terminable before the end of that term by notice given by 
+the tenant or by re-entry or forfeiture;
+(b)
+a tenancy for a term fixed by law under a grant with a covenant or obligation 
+for perpetual renewal, other than a tenancy by sub-demise from one which is 
+not a long tenancy;
+
+
+## Page 40
+
+40
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+any tenancy granted in pursuance of Part V of the M4Housing Act 1985 (the 
+right to buy) [F85 , including any tenancy granted in pursuance of that Part 
+as it had effect by virtue of section 17 of the Housing Act 1996 (the right to 
+acquire).]
+(3) A tenancy granted so as to become terminable by notice after a death is not a long 
+tenancy for the purposes of subsection (1), unless—
+(a)
+it is granted by a housing association which at the time of the grant is
+[F86a private registered provider of social housing or][F87a registered social 
+landlord],
+(b)
+it is granted at a premium calculated by reference to a percentage of the value 
+of the dwelling-house or the cost of providing it, and
+(c)
+at the time it is granted it complies with the requirements of the regulations 
+then in force under section 140(4)(b) of the M5Housing Act 1980 [F88or 
+paragraph 4(2)(b) of Schedule 4A to the Leasehold Reform Act 1967]
+(conditions for exclusion of shared ownership leases from Part I of Leasehold 
+Reform Act 1967) or, in the case of a tenancy granted before any such 
+regulations were brought into force, with the first such regulations to be in 
+force.
+Textual Amendments
+F82
+Words in s. 26(1) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 25(1) (with ss. 7(6), 115,
+117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+F83
+Words in s. 26(1) inserted (1.10.1998) by 1998 c. 38, s. 129, Sch. 15 para. 12 (with ss. 139(2),
+143(2)); S.I. 1998/2244, art. 4
+F84
+Words in s. 26(1) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2),
+143(2)); S.I. 1998/2244, art. 4
+F85
+Words in s. 26(2)(c) added (1.4.1997) by S.I. 1997/627, art. 2, Sch. para. 4
+F86
+Words in s. 26(3)(a) inserted (1.4.2010) by The Housing and Regeneration Act 2008 (Consequential 
+Provisions) Order 2010 (S.I. 2010/866), art. 1(2), Sch. 2 para. 60 (with art. 6, Sch. 3)
+F87
+Words in s. 26(3)(a) substituted (1.10.1996) by S.I. 1996/2325, art. 5(1), Sch. 2 para. 16(3)
+F88
+Words inserted by Housing Act 1988 (c. 50, SIF 61, 75:1), s. 140(1), Sch. 17 para. 68
+Modifications etc. (not altering text)
+C53
+S. 26 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C54
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C55
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/699, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+Marginal Citations
+M4
+1985 c. 68.
+M5
+1980 c. 51.
+
+
+## Page 41
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+41
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+27
+Exception: rent registered and not entered as variable.
+Sections 18 to 25 (limitation on service charges and requests for information about 
+costs) do no apply to a service charge payable by the tenant of a [F89dwelling] the 
+rent of which is registered under Part IV of the M6Rent Act 1977, unless the amount 
+registered is, in pursuance of section 71(4) of that Act, entered as a variable amount.
+Textual Amendments
+F89
+Word substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 8
+Modifications etc. (not altering text)
+C56
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C57
+S. 27 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C58
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+Marginal Citations
+M6
+1977 c. 42.
+[F90 27A Liability to pay service charges: jurisdiction
+(1) An application may be made to [F91the appropriate tribunal] for a determination 
+whether a service charge is payable and, if it is, as to—
+(a)
+the person by whom it is payable,
+(b)
+the person to whom it is payable,
+(c)
+the amount which is payable,
+(d)
+the date at or by which it is payable, and
+(e)
+the manner in which it is payable.
+(2) Subsection (1) applies whether or not any payment has been made.
+( 3 ) An application may also be made to [F92the appropriate tribunal] for a determination 
+whether, if costs were incurred for services, repairs, maintenance, improvements, 
+insurance or management of any specified description, a service charge would be 
+payable for the costs and, if it would, as to—
+(a)
+the person by whom it would be payable,
+(b)
+the person to whom it would be payable,
+(c)
+the amount which would be payable,
+(d)
+the date at or by which it would be payable, and
+(e)
+the manner in which it would be payable.
+
+
+## Page 42
+
+42
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) No application under subsection (1) or (3) may be made in respect of a matter which—
+(a)
+has been agreed or admitted by the tenant,
+(b)
+has been, or is to be, referred to arbitration pursuant to a post-dispute 
+arbitration agreement to which the tenant is a party,
+(c)
+has been the subject of determination by a court, or
+(d)
+has been the subject of determination by an arbitral tribunal pursuant to a post-
+dispute arbitration agreement.
+(5) But the tenant is not to be taken to have agreed or admitted any matter by reason only 
+of having made any payment.
+(6) An agreement by the tenant of a dwelling (other than a post-dispute arbitration 
+agreement) is void in so far as it purports to provide for a determination—
+(a)
+in a particular manner, or
+(b)
+on particular evidence,
+of any question which may be the subject of an application under subsection (1) or (3).
+(7) The jurisdiction conferred on [F93the appropriate tribunal] in respect of any matter by 
+virtue of this section is in addition to any jurisdiction of a court in respect of the matter.]
+Textual Amendments
+F90
+S. 27A inserted (E.W.) (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 155(1), 181(1); S.I. 
+2003/1986, arts. 1(2), 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject to Sch. 2)
+F91
+Words in s. 27A(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 54 (with Sch. 3)
+F92
+Words in s. 27A(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 54 (with Sch. 3)
+F93
+Words in s. 27A(7) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 54 (with Sch. 3)
+Modifications etc. (not altering text)
+C59
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C60
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C61
+S. 27A(3): power to amend conferred (E.) (30.9.2003) (W.) (30.3.2004) by 2002 c. 15, ss. 150, 181(1),
+Sch. 9 para. 13(b); S.I. 2003/1986, art. 2(c)(i) (subject to savings in Sch. 2); S.I. 2004/699, art. 2(c)(i)
+(subject to savings in Sch. 2)
+28
+Meaning of “qualified accountant”.
+
+
+## Page 43
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+43
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F94(1) The reference to a “ qualified accountant ” in section 21(6) (certification of summary of 
+information about relevant costs) is to a person who, in accordance with the following 
+provisions, has the necessary qualification and is not disqualified from acting.
+F95[(2) A person has the necessary qualification if he is eligible for appointment as a
+[F96statutory auditor under Part 42 of the Companies Act 2006] .]
+F97(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4) The following are disqualified from acting—
+F98(a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)
+an officer [F99, employee or partner] of the landlord or, where the landlord is 
+a company, of an associated company;
+(c)
+a person who is a partner or employee of any such officer or employee.
+[F100(d)
+an agent of the landlord who is a managing agent for any premises to which 
+any of the costs covered by the summary in question relate;
+(e)
+an employee or partner of any such agent.]
+(5) For the purposes of subsection (4)(b) a company is associated with a landlord company 
+if it is (within the meaning of [F101section 1159 of the Companies Act 2006]) the 
+landlord’s holding company, a subsidiary of the landlord or another subsidiary of the 
+landlord’s holding company.
+[F102(5A) For the purposes of subsection (4)(d) a person is a managing agent for any premises 
+to which any costs relate if he has been appointed to discharge any of the landlord’s 
+obligations relating to the management by him of the premises and owed to the tenants 
+who may be required under the terms of their leases to contribute to those costs by 
+the payment of service charges.]
+(6) Where the landlord is a local authority [F103National Park Authority][F104or a new town 
+corporation]—
+(a)
+the persons who have the necessary qualification include members of the 
+Chartered Institute of Public Finance and Accountancy, and
+(b)
+subsection (4)(b) (disqualification of officers and employees of landlord) does 
+not apply.]
+Textual Amendments
+F94
+S. 28 omitted (1.12.2008 for certain purposes and otherwise prosp.) by virtue of Housing and 
+Regeneration Act 2008 (c. 17), ss. 303, 325, {Sch, 12 para. 9} and repealed (prosp.) by Housing and 
+Regeneration Act 2008 (c. 17), ss. 321, 325, Sch. 16; S.I. 2008/3068, art. 4(6) (with arts. 6-13)
+F95
+S. 28(2) substituted (1.10.1991) by S.I. 1991/1997, Sch. para. 60(a) (with reg. 4)
+F96
+Words in s. 28(2) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) 
+Order 2008 (S.I. 2008/948), art. 3(1), Sch. 1 para. 1(jj) (with arts. 6, 11, 12)
+F97
+S. 28(3) repealed (1.10.1991) by S.I. 1991/1997, Sch. para. 60(b) (with reg. 4)
+F98
+S. 28(4)(a) repealed (1.10.1991) by S.I. 1991/1997, Sch. para. 60(c) (with reg. 4)
+F99
+Words substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 9(2)(a)
+F100 S. 28(4)(d)(e) added by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 9(2)(b)
+F101 Words in s. 28(5) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, 
+Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 2(1), Sch. 1 para. 64 (with art. 
+10)
+F102 S. 28(5A) inserted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 9(3)
+
+
+## Page 44
+
+44
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+F103 Words in s. 28(6) inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 25(2) (with ss. 7(6), 115,
+117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+F104 Words in s. 28(6) substituted (1.10.1998) by 1998 c. 38, s. 129, Sch. 15 para. 13 (with ss. 139(2),
+143(2)); S.I. 1998/2244, art. 4
+Modifications etc. (not altering text)
+C62
+S. 28 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C63
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C64
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+C65
+S. 28(1) applied (1.11.1993) by 1993 c. 28, s. 78(4)(a); S.I. 1993/2134, art. 5
+29
+Meaning of “recognised tenants’ association”.
+(1) A recognised tenants’ association is an association of [F105qualifying tenants (whether 
+with or without other tenants)] which is recognised for purposes of the provisions of 
+this Act relating to service charges either—
+(a)
+by notice in writing given by the landlord to the secretary of the association, or
+[F106(b)
+by a certificate—
+(i) in relation to dwellings in England, of the First-tier Tribunal; and
+(ii) in relation to dwellings in Wales, of a member of the local rent 
+assessment committee panel.]
+(2) A notice given under subsection (1)(a) may be withdrawn by the landlord by notice 
+in writing given to the secretary of the association not less than six months before the 
+date on which it is to be withdrawn.
+(3) A certificate given [F107under subsection (1)(b)(i) may be cancelled by the First-tier 
+Tribunal, and a certificate given under subsection (1)(b)(ii)] may be cancelled by any 
+member of the local rent assessment committee panel.
+(4) In this section the “local rent assessment committee panel” means the persons 
+appointed by the Lord Chancellor under the M7Rent Act 1977 to the panel of persons 
+to act as members of a rent assessment committee for the registration area [F108in 
+Wales] in which [F109the dwellings let to the qualifying tenants are situated, and for 
+the purposes of this section a number of tenants are qualifying tenants if each of them 
+may be required under the terms of his lease to contribute to the same costs by the 
+payment of a service charge.].
+[F110(5) The Secretary of State may by regulations specify—
+(a)
+the procedure which is to be followed in connection with an application for, 
+or for the cancellation of, a certificate under [F111subsection (1)(b)(ii)];
+
+
+## Page 45
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+45
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+the matters to which regard is to be had in giving or cancelling [F112a certificate 
+under subsection (1)(b)];
+(c)
+the duration of such a certificate; and
+(d)
+any circumstances in which a certificate is not to be given under subsection (1)
+(b).]
+(6) Regulations under subsection (5)—
+(a)
+may make different provisions with respect to different cases or descriptions 
+of case, including different provision for different areas, and
+(b)
+shall be made by statutory instrument which shall be subject to annulment in 
+pursuance of a resolution of either House of Parliament.
+Textual Amendments
+F105 Words substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 10(2)
+F106 S. 29(1)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036),
+art. 1, Sch. 1 para. 55(a) (with Sch. 3)
+F107 Words in s. 29(3) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 55(b) (with Sch. 3)
+F108 Words in s. 29(4) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 55(c) (with Sch. 3)
+F109 Words substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 10(3)
+F110 S. 29(5) substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 10(4)
+F111 Words in s. 29(5)(a) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 55(d)(i) (with Sch. 3)
+F112 Words in s. 29(5)(b) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 55(d)(ii) (with Sch. 3)
+Modifications etc. (not altering text)
+C66
+S. 29 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C67
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+C68
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+Marginal Citations
+M7
+1977 c. 42.
+[F11329A Tenants' associations: power to request information about tenants
+(1) The Secretary of State may by regulations impose duties on a landlord to provide the 
+secretary of a relevant tenants' association with information about relevant qualifying 
+tenants.
+
+
+## Page 46
+
+46
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) The regulations may—
+(a)
+make provision about the tenants about whom information must be provided 
+and what information must be provided;
+(b)
+require a landlord to seek the consent of a tenant to the provision of 
+information about that tenant;
+(c)
+require a landlord to identify how many tenants have not consented.
+(3) The regulations may—
+(a)
+authorise a landlord to charge costs specified in or determined in accordance 
+with the regulations;
+(b)
+impose time limits on a landlord for the taking of any steps under the 
+regulations;
+(c)
+make provision about the form or content of any notices under the regulations 
+(including provision permitting or requiring a person to design the form of 
+a notice);
+(d)
+make other provision as to the procedure in connection with anything 
+authorised or required by the regulations.
+(4) The regulations may confer power on a court or tribunal to make an order remedying 
+a failure by a landlord to comply with the regulations.
+(5) The regulations may include supplementary, incidental, transitional or saving 
+provision.
+(6) Regulations under this section are to be made by statutory instrument.
+(7) A statutory instrument containing regulations under this section is subject to 
+annulment in pursuance of a resolution of either House of Parliament.
+(8) In this section—
+“relevant tenants' association”, in relation to a landlord, means an association of 
+tenants of the landlord at least one of whom is a qualifying tenant of a dwelling 
+in England;
+“relevant qualifying tenant” means—
+(a) a person who is a qualifying tenant of a dwelling in England and a 
+member of the relevant tenants' association, or
+(b) a person who is a qualifying tenant of a dwelling in England by virtue 
+of being required to contribute to the same costs as a qualifying tenant 
+who is a member of the relevant tenants' association;
+“qualifying tenant” means a tenant who, under the terms of the lease, is required 
+to contribute to the same costs as another tenant by the payment of a service 
+charge.]
+Textual Amendments
+F113 S. 29A inserted (12.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 130, 216(2)(b)
+30
+Meaning of [F114“landlord”, “tenant” etc].
+In the provisions of this Act relating to service charges—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F115
+
+
+## Page 47
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+47
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“landlord” includes any person who has a right to enforce payment of a service 
+charge;
+[F116“services” includes, in relation to a dwelling in a higher-risk building 
+(as defined by section 30I), building safety measures within the meaning of 
+section 30D;]
+“tenant” includes
+(a)
+a statutory tenant, and
+(b)
+where the [F117dwelling] or part of it is sub-let, the sub-tenant.
+Textual Amendments
+F114 Words in s. 30 heading substituted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already 
+in force) by Building Safety Act 2022 (c. 30), ss. 112(5)(b), 170(2) (with s. 164); S.I. 2023/362, reg. 
+3(1)(z10)(iv)
+F115 Definition of “flat” repealed by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), ss. 41, 61(2), Sch. 2 
+para. 11(a), Sch. 5
+F116 Words in s. 30 inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by
+Building Safety Act 2022 (c. 30), ss. 112(5)(a), 170(2) (with s. 164); S.I. 2023/362, reg. 3(1)(z10)(iv)
+F117 Word substituted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 41, Sch. 2 para. 11(b)
+Modifications etc. (not altering text)
+C69
+S. 30 amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24 (as 
+substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 61) and
+Housing Act 1988 (c. 50, SIF 61), s. 79(12)
+C70
+Ss. 18-30 modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(b)
+Ss. 18-30 extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(b) (with ss. 54(5)(7),
+55(5), Sch. 17 paras. 22(1), 23(2))
+C71
+Ss. 18-30 modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 
+4; S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F118 Insurance
+Textual Amendments
+F118 S. 30A inserted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 43(1)
+30A
+Rights of tenants with respect to insurance.
+The Schedule to this Act (which confers on tenants certain rights with respect to the 
+insurance of their dwellings) shall have effect.]
+
+
+## Page 48
+
+48
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Modifications etc. (not altering text)
+C72
+S. 30A modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 5;
+S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+C73
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F119 Managing agents
+Textual Amendments
+F119 S. 30B inserted by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 44
+30B
+Recognised tenants’ associations to be consulted about managing agents.
+(1) A recognised tenants’ association may at any time serve a notice on the landlord 
+requesting him to consult the association in accordance with this section on matters 
+relating to the appointment or employment by him of a managing agent for any 
+relevant premises.
+(2) Where, at the time when any such notice is served by a recognised tenants’ association, 
+the landlord does not employ any managing agent for any relevant premises, the 
+landlord shall, before appointing such a managing agent, serve on the association a 
+notice specifying—
+(a)
+the name of the proposed managing agent;
+(b)
+the landlord’s obligations to the tenants represented by the association which 
+it is proposed that the managing agent should be required to discharge on his 
+behalf; and
+(c)
+a period of not less than one month beginning with the date of service of the 
+notice within which the association may make observations on the proposed 
+appointment.
+(3) Where, at the time when a notice is served under subsection (1) by a recognised 
+tenants’ association, the landlord employs a managing agent for any relevant premises, 
+the landlord shall, within the period of one month beginning with the date of service 
+of that notice, serve on the association a notice specifying—
+(a)
+the landlord’s obligations to the tenants represented by the association which 
+the managing agent is required to discharge on his behalf; and
+(b)
+a reasonable period within which the association may make observations 
+on the manner in which the managing agent has been discharging those 
+obligations, and on the desirability of his continuing to discharge them.
+(4) Subject to subsection (5), a landlord who has been served with a notice by an 
+association under subsection (1) shall, so long as he employs a managing agent for 
+any relevant premises—
+(a)
+serve on that association at least once in every five years a notice specifying—
+
+
+## Page 49
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+49
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(i) any change occurring since the date of the last notice served by him 
+on the association under this section in the obligations which the 
+managing agent has been required to discharge on his behalf; and
+(ii) a reasonable period within which the association may make 
+observations on the manner in which the managing agent has 
+discharged those obligations since that date, and on the desirability of 
+his continuing to discharge them;
+(b)
+serve on that association, whenever he proposes to appoint any new managing 
+agent for any relevant premises, a notice specifying the matters mentioned in 
+paragraphs (a) to (c) of subsection (2).
+(5) A landlord shall not, by virtue of a notice served by an association under subsection (1), 
+be required to serve on the association a notice under subsection (4)(a) or (b) if the 
+association subsequently serves on the landlord a notice withdrawing its request under 
+subsection (1) to be consulted by him.
+(6) Where—
+(a)
+a recognised tenants’ association has served a notice under subsection (1) with 
+respect to any relevant premises, and
+(b)
+the interest of the landlord in those premises becomes vested in a new landlord,
+that notice shall cease to have effect with respect to those premises (without prejudice 
+to the service by the association on the new landlord of a fresh notice under that 
+subsection with respect to those premises).
+(7) Any notice served by a landlord under this section shall specify the name and the 
+address in the United Kingdom of the person to whom any observations made in 
+pursuance of the notice are to be sent; and the landlord shall have regard to any such 
+observations that are received by that person within the period specified in the notice.
+(8) In this section—
+“landlord”, in relation to a recognised tenants’ association, means the 
+immediate landlord of the tenants represented by the association or a person 
+who has a right to enforce payment of service charges payable by any of those 
+tenants;
+“managing agent”, in relation to any relevant premises, means an agent of 
+the landlord appointed to discharge any of the landlord’s obligations to the 
+tenants represented by the recognised tenants’ association in question which 
+relate to the management by him of those premises; and
+“tenant” includes a statutory tenant;
+and for the purposes of this section any premises (whether a building or not) are 
+relevant premises in relation to a recognised tenants’ association if any of the tenants 
+represented by the association may be required under the terms of their leases to 
+contribute by the payment of service charges to costs relating to those premises.]
+Modifications etc. (not altering text)
+C74
+S. 30B modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 6;
+S.I. 2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+C75
+Ss. 18-30B extended (30.9.2003 and 28.2.2005 for E. for certain purposes and otherwise prosp. and 
+30.3.2004 and 31.5.2005 for W. for certain purposes and otherwise prosp.) by 2002 c. 15, ss. 172,
+181(1); S.I. 2003/1986, art. 2(c)(ii) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(ii) (subject to Sch. 2);
+
+
+## Page 50
+
+50
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+S.I. 2004/3056, art. 3(h) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353, art. 
+2(h) (subject to art. 3)
+[F120Higher-risk buildings in England
+Textual Amendments
+F120 Ss. 30C-30I and cross-heading inserted (28.4.2022 for specified purposes, 6.4.2023 for specified 
+purposes) by Building Safety Act 2022 (c. 30), ss. 112(2), 170(2) (with s. 164); S.I. 2023/362, reg. 
+3(1)(z10)(ii)
+30C
+Implied terms relating to building safety
+(1) This section applies to a lease of premises which consist of or include a dwelling in 
+a higher-risk building.
+(2) In the lease there is implied a covenant by the landlord—
+(a)
+where the landlord is an accountable person for the higher-risk building, to 
+comply with their building safety duties;
+(b)
+to cooperate with any person in connection with a relevant person complying 
+with their building safety duties;
+(c)
+where a special measures order in relation to the higher-risk building is in 
+force, to comply with that order so far as it relates to the landlord.
+(3) In the lease there is implied a covenant by the tenant—
+(a)
+to allow the landlord, a relevant person or a person authorised in writing by 
+the landlord or a relevant person to enter the premises for a relevant building 
+safety purpose;
+(b)
+where the tenant is a resident of the higher-risk building, to comply with their 
+duties under sections 95 and 97 of the Building Safety Act 2022;
+(c)
+where a special measures order in relation to the higher-risk building is in 
+force, to comply with that order so far as it relates to the tenant.
+(4) In the covenant implied by subsection (2)(b), “cooperate”, in relation to a person,
+includes—
+(a)
+taking any steps which are reasonably required by the person to facilitate 
+compliance by a relevant person with their building safety duties;
+(b)
+where the person is a relevant person (or a person authorised in writing by 
+a relevant person), providing any information (including names and contact 
+details of residents and tenants of the premises) to the person which is 
+reasonably required in connection with the relevant person complying with 
+their building safety duties.
+(5) In the covenant implied by subsection (3)(a), a relevant building safety purpose
+means—
+(a)
+inspecting the premises in connection with a relevant person complying with 
+their building safety duties;
+(b)
+carrying out works to the premises, where such works are required to be 
+carried out in connection with a relevant person complying with their building 
+safety duties;
+
+
+## Page 51
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+51
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+accessing a part of the higher-risk building that is not let to the tenant in order
+to—
+(i) inspect that part of the building in connection with a relevant person 
+complying with their building safety duties;
+(ii) carry out works to that part of the building, where such works 
+are required to be carried out in connection with a relevant person 
+complying with their building safety duties.
+(6) The covenant implied by subsection (3)(a) requires entry to the premises to be
+allowed—
+(a)
+only at reasonable times, and
+(b)
+only if the tenant has been given at least 48 hours’ notice in writing.
+(7) Except as provided by subsection (8), the disclosure of information in accordance with 
+subsections (2)(b) and (4)(b) does not breach—
+(a)
+any obligation of confidence owed by the landlord in relation to that 
+information;
+(b)
+any other restriction on the disclosure of information (however imposed).
+(8) Subsections (2)(b) and (4)(b) do not require a disclosure of information if the 
+disclosure would contravene the data protection legislation (but in determining 
+whether a disclosure would do so, take into account the duty imposed by 
+subsections (2)(b) and (4)(b)).
+(9) In this section—
+“building safety duties”—
+(a) in relation to an accountable person, means any duties of the accountable 
+person under Part 4 of the Building Safety Act 2022, or regulations made 
+under that Part of that Act;
+(b) in relation to a special measures manager, means any duties of the 
+manager included in the special measures order appointing the manager;
+“the data protection legislation” has the same meaning as in the Data 
+Protection Act 2018 (see section 3 of that Act);
+“relevant person” means—
+(a) an accountable person for the higher-risk building;
+(b) a special measures manager for the higher-risk building;
+“resident” and “resident of a higher-risk building” have the same meaning 
+as in Part 4 of the Building Safety Act 2022 (see section 71(3) and (4)(c) of 
+that Act);
+“works” includes alterations, improvements and installations.
+30D
+Liability for building safety costs
+(1) This section applies to a relevant lease of premises which consist of or include a 
+dwelling in a higher-risk building.
+(2) In this section “relevant lease”—
+(a)
+means a lease—
+(i) that is granted for a term certain of 7 years or more, whether or not it 
+is (or may become) terminable before the end of that term by notice 
+given by the tenant or by re-entry or forfeiture, and
+
+
+## Page 52
+
+52
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(ii) under which the tenant is liable to pay a service charge (within the 
+meaning of section 18), but
+(b)
+does not include a relevant social housing tenancy.
+(3) The relevant lease has effect—
+(a)
+as if the matters for which the service charge is payable under the lease 
+included the taking of building safety measures by or on behalf of a relevant 
+person (insofar as this would not otherwise be the case), and
+(b)
+where the lease contains different methods for apportioning different relevant 
+costs (within the meaning of section 18), as if it provided for any costs for 
+which the tenant is liable by virtue only of paragraph (a) to be apportioned in 
+the same way as costs incurred in connection with insuring the building.
+(4) “Building safety measure” means any of the following—
+(a)
+applying for registration of a higher-risk building in accordance with 
+section 78 of the Building Safety Act 2022;
+(b)
+applying for a building assessment certificate in accordance with section 79 
+of that Act;
+(c)
+displaying a building assessment certificate in accordance with section 82 of 
+that Act;
+(d)
+assessing building safety risks in accordance with section 83 of that Act;
+(e)
+taking reasonable steps in accordance with section 84 of that Act 
+(management of building safety risks), other than steps involving the carrying 
+out of works as referred to in section 84(2);
+(f)
+preparing and revising a safety case report in accordance with section 85 of 
+that Act;
+(g)
+notifying the regulator of a safety case report, and giving a copy of a safety 
+case report to the regulator, in accordance with section 86 of that Act;
+(h)
+establishing and operating a mandatory occurrence reporting system, and 
+giving information to the regulator, in accordance with section 87 of that Act;
+(i)
+keeping information and documents in accordance with section 88 of that Act;
+(j)
+giving information and documents to any person in accordance with 
+section 89, 90 or 92 of that Act;
+(k)
+complying with any duty under section 91 of that Act (residents’ engagement 
+strategy);
+(l)
+establishing and operating a system for the investigation of complaints in 
+accordance with section 93 of that Act;
+(m)
+giving a contravention notice to a resident, and making an application to the 
+county court, in accordance with section 96 of that Act;
+(n)
+making a request to enter premises, or making an application to the county 
+court, in accordance with section 97 of that Act (access to premises).
+(5) For the purposes of this section any of the following incurred in connection with 
+the taking of a building safety measure are to be regarded as incurred in taking the
+measure—
+(a)
+legal and other professional fees;
+(b)
+fees payable to the regulator;
+(c)
+management costs.
+(6) In this section—
+
+
+## Page 53
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+53
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“landlord” includes any person who has a right under the lease to enforce 
+payment of a service charge (within the meaning of section 18);
+“relevant person” means—
+(a) if the landlord is an accountable person for the building, the landlord or 
+a special measures manager for the building;
+(b) otherwise, any superior landlord who is an accountable person for the 
+building or a special measures manager for the building;
+“relevant social housing tenancy” has the meaning given in section 132 of 
+the Land Registration Act 2002;
+“tenant” includes any person who has an obligation under the lease to pay 
+a service charge (within the meaning of section 18).
+(7) The Secretary of State may by regulations made by statutory instrument amend 
+subsection (4) so as to add, remove or modify a building safety measure.
+(8) The regulations may make incidental, transitional or saving provision.
+(9) A statutory instrument containing regulations under subsection (7) may not be made 
+unless a draft of the instrument has been laid before and approved by a resolution of 
+each House of Parliament.
+30E
+Liability for remuneration of building safety director of resident management 
+company etc
+(1) This section applies to a lease of premises which consist of or include a dwelling in 
+a higher-risk building if—
+(a)
+the landlord is an accountable person for the building,
+(b)
+the landlord is—
+(i) a resident management company within the meaning of section 111 
+of the Building Safety Act 2022, or
+(ii) an RTM company within the meaning of Chapter 1 of Part 2 of the 
+Commonhold and Leasehold Reform Act 2002 (right to manage), and
+(c)
+the tenant is liable to pay a service charge.
+(2) The lease has effect—
+(a)
+as if it contained provision authorising the appointment of a person (whether 
+or not a leaseholder or a resident of the building) as a director of the landlord 
+for a building safety purpose,
+(b)
+as if the matters for which the service charge is payable under the lease 
+included remunerating any director of the landlord appointed for a building 
+safety purpose (insofar as this would not otherwise be the case), and
+(c)
+where the lease contains different methods for apportioning different relevant 
+costs (within the meaning of section 18), as if it provided that any costs for 
+which the tenant is liable by virtue only of paragraph (b) to be apportioned in 
+the same way as costs incurred in connection with insuring the building.
+(3) In this section—
+“building safety purpose” means the purpose of supporting the landlord in 
+complying with its duties under Part 4 of the Building Safety Act 2022 or 
+under regulations made under that Part;
+“landlord” includes any person who has a right under the lease to enforce 
+payment of a service charge;
+
+
+## Page 54
+
+54
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“service charge” has the meaning given by section 18;
+“tenant” includes any person who has an obligation under the lease to pay 
+a service charge.
+30F
+Restrictions on contracting out of sections 30C to 30E
+(1) A covenant or agreement, whether contained in a lease to which section 30C (implied 
+terms) applies or in an agreement collateral to such a lease, is void in so far as it
+purports—
+(a)
+to exclude or limit the obligations of the landlord or the tenant under 
+section 30C, or
+(b)
+to authorise any forfeiture or impose on the tenant any penalty, disability or 
+obligation in the event of the tenant enforcing or relying upon the obligations 
+of the landlord.
+(2) A covenant or agreement, whether contained in a lease to which section 30D or 30E
+applies or in an agreement collateral to such a lease, is void insofar as it purports to 
+modify the effect of section 30D(3) or 30E(2).
+30G
+Jurisdiction of county court
+The county court has jurisdiction to deal with any claim or other proceedings 
+arising under or in connection with any of sections 30C to 30E (implied terms etc) 
+notwithstanding that by reason of the amount of the claim or otherwise the case would 
+not, apart from this section, be within the jurisdiction of the county court.
+30H
+Specific performance of implied terms
+In proceedings relating to a breach of a covenant in section 30C(2) or (3) (implied 
+building safety terms), the court may order specific performance of the covenant—
+(a)
+notwithstanding any equitable rule restricting the scope of the remedy, 
+whether on the basis of a lack of mutuality or otherwise, and
+(b)
+in the case of a breach of a covenant in section 30C(2) or (3)(b) or (c), whether 
+or not the breach relates to a part of the higher-risk building let to the tenant.
+30I
+Interpretation of building safety provisions
+In sections 30C to 30H—
+“accountable person” has the meaning given in section 115 of the Building 
+Safety Act 2022;
+“higher-risk building” has the meaning given in section 115 of that Act;
+“lease” does not include a mortgage term;
+“special measures manager” has the meaning given in paragraph 1
+of Schedule 7 to the Building Safety Act 2022;
+“special measures order” has the meaning given in paragraph 1
+of Schedule 7 to that Act.]
+
+
+## Page 55
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+55
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Miscellaneous
+31
+Reserve power to limit rents.
+(1) The Secretary of State may by order provide for—
+(a)
+restricting or preventing increases of rent for dwellings which would 
+otherwise take place, or
+(b)
+restricting the amount of rent which would otherwise be payable on new 
+lettings of dwellings;
+and may provide either generally or in relation to any specified description of dwelling.
+(2) An order may contain supplementary or incidental provisions, including provisions 
+excluding, adapting or modifying any provision made by or under an enactment 
+(whenever passed) relating to rent or the recovery of overpaid rent.
+(3) In this section—
+“new letting” includes any grant of a tenancy, whether or not the premises 
+were previously let, and any grant of a licence;
+“rent” includes a sum payable under a licence, but does not include a sum 
+attributable to rates or [F121council tax or], in the case of dwellings of local 
+authorities [F122National Park authority] or new town corporations, to the use 
+of furniture, or the provision of services;
+and for the purposes of this section an increase in rent takes place at the beginning of 
+the rental period for which the increased rent is payable.
+(4) An order under this section shall be made by statutory instrument which shall be 
+subject to annulment in pursuance of a resolution of either House of Parliament.
+Textual Amendments
+F121 Words in the definition of "rent" in s. 31(3) inserted (1.4.1993) by S.I. 1993/651, art. 2(1), Sch. 1 para. 
+16
+F122 Words in s. 31(3) inserted (23.11.1995) by 1995 c. 25, ss. 78, Sch. 10 para. 25(3) (with ss. 7(6), 115,
+117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+Supplementary provisions
+31A
+Jurisdiction of leasehold valuation tribunal.
+F123. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F123 Ss. 31A-31C repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 180, 181(1), Sch. 14;
+S.I. 2003/1986, art. 2(c)(iv), Sch. 1 (subject to Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 (subject to
+Sch. 2)
+31B
+Leasehold valuation tribunal: applications and fees.
+F124. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+## Page 56
+
+56
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F124 Ss. 31A-31C repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 180, 181(1), Sch. 14;
+S.I. 2003/1986, art. 2(c)(iv), Sch. 1 (subject to Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 (subject to
+Sch. 2)
+31C
+Transfer of cases from county court.
+F125. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F125 Ss. 31A-31C repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 180, 181(1), Sch. 14;
+S.I. 2003/1986, art. 2(c)(iv), Sch. 1 (subject to Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 (subject to
+Sch. 2)
+32
+Provisions not applying to tenancies within Part II of the Landlord and Tenant 
+Act 1954.
+(1) The following provisions do not apply to a tenancy to which Part II of the M8Landlord 
+and Tenant Act 1954 (business tenancies) applies—
+[F126sections 1 to 3A] (information to be given to tenant),
+section 17 (specific performance of landlord’s repairing obligations).
+[F127section 30C (implied terms relation to building safety),
+section 30D (building safety costs),
+section 30E (liability for remuneration of building safety director of resident 
+management company etc).]
+(2) Section 11 (repairing obligations) does not apply to a new lease granted to an existing 
+tenant, or to a former tenant still in possession, if the new lease is a tenancy to which 
+Part II of the Landlord and Tenant Act 1954 applies and the previous lease either is 
+such a tenancy or would be but for section 28 of that Act (tenancy not within Part II 
+if renewal agreed between the parties).
+In this subsection “existing tenant”, “former tenant still in possession” and “previous 
+lease” have the same meaning as in section 14(2).
+(3) Section 31 (reserve power to limit rents) does not apply to a dwelling forming part 
+of a property subject to a tenancy to which Part II of the M9Landlord and Tenant Act 
+1954 applies; but without prejudice to the application of that section in relation to a 
+sub-tenancy of a part of the premises comprised in such a tenancy.
+Textual Amendments
+F126 Words in s. 32(1) substituted (1.10.1996) by 1996 c. 52, s. 93(2); S.I. 1996/2212, art. 2(2)
+F127 Words in s. 32(1) inserted (28.4.2022 for specified purposes, 6.4.2023 for specified purposes) by
+Building Safety Act 2022 (c. 30), ss. 112(6), 170(2) (with s. 164); S.I. 2023/362, reg. 3(1)(z10)(v)
+Marginal Citations
+M8
+1954 c. 56.
+
+
+## Page 57
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+57
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+M9
+1954 c. 56.
+33
+Liability of directors, &c. for offences by body corporate.
+(1) Where an offence under this Act which has been committed by a body corporate is
+proved—
+(a)
+to have been committed with the consent or connivance of a director, manager, 
+secretary or other similar officer of the body corporate, or a person purporting 
+to act in any such capacity, or
+(b)
+to be attributable to any neglect on the part of such an officer or person,
+he, as well as the body corporate, is guilty of an offence and liable to be proceeded 
+against and punished accordingly.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) 
+applies in relation to the acts and defaults of a member in connection with his functions 
+of management as if he were a director of the body corporate.
+34
+Power of local housing authority to prosecute.
+Proceedings for an offence under any provision of this Act may be brought by a local 
+housing authority.
+35
+Application to Isles of Scilly.
+(1) This Act applies to the Isles of Scilly subject to such exceptions, adaptations and 
+modifications as the Secretary of State may by order direct.
+(2) An order shall be made by statutory instrument which shall be subject to annulment 
+in pursuance of a resolution of either House of Parliament.
+36
+Meaning of “lease” and “tenancy” and related expressions.
+(1) In this Act “lease” and “tenancy” have the same meaning.
+(2) Both expressions include—
+(a)
+a sub-lease or sub-tenancy, and
+(b)
+an agreement for a lease or tenancy (or sub-lease or sub-tenancy).
+(3) The expressions “lessor” and “lessee” and “landlord” and “tenant”, and references to 
+letting, to the grant of a lease or to covenants or terms, shall be construed accordingly.
+37
+Meaning of “statutory tenant” and related expressions.
+In this Act—
+(a)
+“statutory tenancy” and “statutory tenant” mean a statutory tenancy or 
+statutory tenant within the meaning of the M10Rent Act 1977 or the M11Rent 
+(Agriculture) Act 1976; and
+(b)
+“landlord”, in relation to a statutory tenant, means the person who, apart from 
+the statutory tenancy, would be entitled to possession of the premises.
+
+
+## Page 58
+
+58
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Marginal Citations
+M10 1977 c. 42.
+M11 1976 c. 80.
+38
+Minor definitions.
+In this Act—
+“address” means a person’s place of abode or place of business or, in the 
+case of a company, its registered office;
+[F128“appropriate tribunal” means—
+(a) in relation to a dwelling in England the First-tier Tribunal or, where 
+determined by or under Tribunal Procedure Rules, the Upper Tribunal; 
+and
+(b) in relation to a dwelling in Wales, a leasehold valuation tribunal;]
+[F129 “arbitration agreement”, “arbitration proceedings” and “arbitral 
+tribunal” have the same meaning as in Part I of the M12 Arbitration Act 1996
+[F130 and post-dispute arbitration agreement”, in relation to any matter, means 
+an arbitration agreement made after a dispute about the matter has arisen;];]
+“co-operative housing association” has the same meaning as in the
+M13Housing Associations Act 1985;
+“dwelling” means a building or part of a building occupied or intended to 
+be occupied as a separate dwelling together with any yard, garden, outhouses 
+and appurtenances belonging to it or usually enjoyed with it;
+“housing association” has the same meaning as in the Housing Associations 
+Act 1985;
+“local authority” means a district, county [F131county borough] or London 
+borough council, the Common Council of the City of London or the Council of 
+the Isles of Scilly and in sections 14(4), 26(1) and 28(6) includes . . . F132[F133the 
+Broads Authority][F134, a police and crime commissioner, the Mayor's Office 
+for Policing and Crime],. . . F135. . . a joint authority established by Part IV of the
+M14Local Government Act 1985 [F136an economic prosperity board established 
+under section 88 of the Local Democracy, Economic Development and 
+Construction Act 2009, a combined authority established under section 103 of 
+that Act, [F137a combined county authority established under section 9(1) of the 
+Levelling-up and Regeneration Act 2023,] a fire and rescue authority created 
+by an order under section 4A of the Fire and Rescue Services Act 2004,]F138...
+[F139and the London Fire Commissioner];
+“local housing authority” has the meaning given by section 1 of the
+M15Housing Act 1985;
+“new town corporation” means—
+(a)
+a development corporation established by an order made, or treated as made, 
+under the M16New Towns Act 1981,
+[F140(b)
+the Homes and Communities Agency so far as exercising functions in 
+relation to anything transferred (or to be transferred) to it as mentioned in 
+section 52(1)(a) to (d) of the Housing and Regeneration Act 2008,
+[F141(ba)
+the Greater London Authority so far as exercising its new towns and urban 
+development functions, or]
+
+
+## Page 59
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+59
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+the Welsh Ministers so far as exercising functions in relation to anything 
+transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) 
+to (iii) of the New Towns Act 1981;]
+“protected tenancy” has the same meaning as in the Rent Act 1977;
+[F142“registered social landlord” has the same meaning as in the Housing Act 
+1985 (see section 5(4) and (5) of that Act);]
+“restricted contract” has the same meaning as in the Rent Act 1977;
+“urban development corporation” has the same meaning as in Part XVI of 
+the M17Local Government, Planning and Land Act 1980.
+Textual Amendments
+F128 Definition in s. 38 inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 56 (with Sch. 3)
+F129 Definition in s. 38 inserted (1.9.1997) by 1996 c. 52, s. 83(5); S.I. 1997/1851, art. 2
+F130 Words in s. 38 inserted (30.9.2003 for E. and 30.3.2004 for W.) by virtue of 2002 c. 15, ss. 155(2),
+181(1); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject to Sch. 2)
+F131 Words in s. 38 inserted (1.4.1996) by 1994 c. 19, s. 22(2), Sch. 8 para. 7 (with ss. 54(5)(7), 55(5), Sch. 
+17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+F132 Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 
+Pt. I
+F133 Words inserted by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 23(2), 27(2), Sch. 6 para. 
+26
+F134 Words in s. 38 substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 
+157(1), Sch. 16 para. 170; S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 49)
+F135 Word in s. 38 repealed (3.7.2000) by 1999 c. 29, s. 423, Sch. 34 Pt. VIII (with Sch. 12 para. 9(1)); S.I. 
+2000/1094, art. 4(i)
+F136 S. 38: words in definition of "local authority" inserted (17.12.2009) by Local Democracy, Economic 
+Development and Construction Act 2009 (c. 20), ss. 119, 148(6), Sch. 6 para. 70; S.I. 2009/3318, art. 
+2(b)(c)
+F137 Words in s. 38 inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c),
+Sch. 4 para. 86 (with s. 247)
+F138 Words in s. 38 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 
+6(20); S.I. 2015/994, art. 6(g)
+F139 Words in s. 38 substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) 
+by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 75; S.I. 2018/227, reg. 4(c)
+F140 S. 38(b)(c) substituted for s. 38(b) and preceding word (1.12.2008) by Housing and Regeneration Act 
+2008 (c. 17), ss. 56, 325, Sch. 8 para. 36; S.I. 2008/3068, art. 2(1)(w) (with arts. 6-13)
+F141 S. 38(ba) substituted for word (1.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 19 para. 22;
+S.I. 2012/628, art. 6(i) (with arts. 9, 11, 14, 15, 17)
+F142 Definition in s. 38 substituted (1.10.1996) by S.I. 1996/2325, art. 5(1), Sch. 2 para. 16(4)
+Modifications etc. (not altering text)
+C76
+S. 38 extended by S.I. 1985/1884, art. 10, Sch. 3 para. 4(y)
+C77
+S. 38 excluded (8.5.2017) by The Greater Manchester Combined Authority (Transfer of Police and 
+Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470), art. 1(2), Sch. 2 para. 10
+Marginal Citations
+M12 1996 c. 23.
+M13 1985 c. 69.
+M14 1985 c. 51
+M15 1985 c. 68.
+
+
+## Page 60
+
+60
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+M16 1981 c. 64.
+M17 1980 c. 65.
+39
+Index of defined expressions.
+The following Table shows provisions defining or otherwise explaining expressions 
+used in this Act (other than provisions) defining or explaining an expression in the 
+same section):
+address
+section 38
+[F143arbitration agreement, arbitration 
+proceedings and [F144, arbitral tribunal 
+and post-dispute arbitration agreement]
+section 38]
+co-operative housing association
+section 38
+dwelling
+section 38
+dwelling-house (in the provisions 
+relating to repairing obligations)
+section 16
+fit for human habitation
+section 10
+flat (in the provisions relating to service 
+charges)
+section 30
+housing association
+section 38
+landlord—
+(generally)
+section 36(3)
+(in sections 1 and 2)
+section 1(3)
+(in the provisions relating to rent books)
+section 4(3)
+(in the provisions relating to service 
+charges)
+section 30
+(in relation to a statutory tenancy)
+section 37(b)
+lease, lessee and lessor—
+(generally)
+section 36
+[F145(in the provisions relating to fitness 
+for human habitation of dwellings in 
+England)
+section 9A(9)]
+(in the provisions relating to repairing 
+obligations
+section 16
+local authority
+section 38
+local housing authority
+section 38
+new town corporation
+section 38
+protected tenancy
+section 38
+[F146qualified accountant (for the 
+purposes of section 21(6))]
+[F146section 28]
+
+
+## Page 61
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+61
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F147registered social landlord]
+section 38
+recognised tenants’ association
+section 29
+relevant costs (in relation to a service 
+charge)
+section 18(2)
+restricted contract
+section 38
+service charge
+section 18(1)
+statutory tenant
+section 37(a)
+tenancy and tenant—
+(generally)
+section 36
+(in sections 1 and 2)
+section 1(3)
+(in the provisions relating to rent books)
+section 4(3)
+(in the provisions relating to service 
+charges)
+section 30
+urban development corporation
+section 38
+Textual Amendments
+F143 Words in s. 39 inserted (1.9.1997 subject to saving in Sch. para. 1 of S.I. 1997/1851 and otherwise 
+11.8.1998 subject to art. 3 of S.I. 1998/1768) by 1996 c. 52, s. 83(6); S.I. 1997/1851, art. 2; S.I. 
+1998/1768, art. 2
+F144 Words in s. 39 substituted (30.9.2003 for E. and 30.3.2004 for W.) by virtue of 2002 c. 15, ss. 155(3),
+181(1); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject to Sch. 2)
+F145 Words in s. 39 inserted (20.3.2019) by Homes (Fitness for Human Habitation) Act 2018 (c. 34), ss. 
+1(5), 2(2)
+F146 S. 39: table entry for 'qualified accountant' omitted (1.12.2008 for certain purposes and otherwise 
+prosp.) by Housing and Regeneration Act 2008 (c. 17), ss. 303, 325, Sch. 12 para. 10 and repealed 
+(prosp.) by s. 321(1), {Sch. 16}; S.I. 2008/3068, art. 4(6) (with arts. 6-13)
+F147 Words in s. 39 substituted (1.10.1996) by S.I. 1996/2325, art. 5(1), Sch. 2 para. 16(5)
+Final provisions
+40
+Short title, commencement and extent.
+(1) This Act may be cited as the Landlord and Tenant Act 1985.
+(2) This Act comes into force on 1st April 1986.
+(3) This Act extends to England and Wales.
+
+
+## Page 62
+
+62
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F148SCHEDULE
+Section 30A
+RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Textual Amendments
+F148 Sch. added by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 43(2)
+Modifications etc. (not altering text)
+C78
+Sch. modified (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 102, 181(1), Sch. 7 para. 5; S.I. 
+2003/1986, art. 2(a); S.I. 2004/669, art. 2(a)
+Sch. extended to Crown Land (E.) (30.9.2003) by 2002 c. 15, ss. 172, 181(1); S.I. 2003/1986, art. 2(c)
+(ii)(iii) (subject to savings in Sch. 2); S.I. 2004/669, art. 2(c)(ii)(iii) (subject to savings in Sch. 2)
+Construction
+1
+In this Schedule—
+“landlord”, in relation to a tenant by whom a service charge is payable 
+which includes an amount payable directly or indirectly for insurance, 
+includes any person who has a right to enforce payment of that service 
+charge;
+“relevant policy”, in relation to a dwelling, means any policy of insurance 
+under which the dwelling is insured (being, in the case of a flat, a policy 
+covering the building containing it); and
+“tenant” includes a statutory tenant.
+F149. . . Summary of insurance cover
+Textual Amendments
+F149 Words in heading before Sch. para. 2 repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 
+180, 181(1), Sch. 14; S.I. 2003/1986, arts. 1(2), 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2); S.I. 2004/669,
+art. 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2)
+2
+(1) Where a service charge is payable by the tenant of a dwelling which consists of or 
+includes an amount payable directly or indirectly for insurance, the tenant may [F150by 
+notice in writing require the landlord] to supply him with a written summary of the 
+insurance for the time being effected in relation to the dwelling.
+(2) If the tenant is represented by a recognised tenants’ association and he consents, the
+[F151notice may be served] by the secretary of the association instead of by the tenant 
+and may then be for the supply of the summary to the secretary.
+(3) A [F152notice under this paragraph is duly] served on the landlord if it is served on—
+(a)
+an agent of the landlord named as such in the rent book or similar document, 
+or
+(b)
+the person who receives the rent on behalf of the landlord;
+and a person on [F153whom such a notice] is so served shall forward it as soon as may 
+be to the landlord.
+
+
+## Page 63
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+63
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) The landlord shall, within [F154the period of twenty-one days beginning with the day 
+on which he receives the notice,] comply with it by supplying to the tenant or the 
+secretary of the recognised tenants’ association (as the case may require) such a 
+summary as is mentioned in sub-paragraph (1), which shall include—
+(a)
+the insured amount or amounts under any relevant policy, and
+(b)
+the name of the insurer under any such policy, and
+(c)
+the risks in respect of which the dwelling or (as the case may be) the building 
+containing it is insured under any such policy.
+(5) In sub-paragraph (4)(a) “the insured amount or amounts”, in relation to a relevant 
+policy, means—
+(a)
+in the case of a dwelling other than a flat, the amount for which the dwelling 
+is insured under the policy; and
+(b)
+in the case of a flat, the amount for which the building containing it is insured 
+under the policy and, if specified in the policy, the amount for which the flat 
+is insured under it.
+(6) The landlord shall be taken to have complied with the [F155notice] if, within the period 
+mentioned in sub-paragraph (4), he instead supplies to the tenant or the secretary (as 
+the case may require) a copy of every relevant policy.
+(7) In a case where two or more buildings are insured under any relevant policy, the 
+summary or copy supplied under sub-paragraph (4) or (6) so far as relating to that 
+policy need only be of such parts of the policy as relate—
+(a)
+to the dwelling, and
+(b)
+if the dwelling is a flat, to the building containing it.
+Textual Amendments
+F150 Words in Sch. para. 2(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 8(1)(2); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F151 Words in Sch. para. 2(2) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 8(1)(3); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F152 Words in Sch. para. 2(3)(a) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 8(1)(4)(a); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F153 Words in Sch. para. 2(3)(b) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 8(1)(4)(b); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F154 Words in Sch. para. 2(4) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 8(1)(5); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F155 Word in Sch. para 2(6) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157, 181(1),
+Sch. 10 para. 8(1)(6); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject 
+to Sch. 2)
+
+
+## Page 64
+
+64
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Request to inspect insurance policy etc.
+Inspection of insurance policy etc.
+[
+F1563
+(1) Where a service charge is payable by the tenant of a dwelling which consists of or 
+includes an amount payable directly or indirectly for insurance, the tenant may by 
+notice in writing require the landlord—
+(a)
+to afford him reasonable facilities for inspecting any relevant policy or 
+associated documents and for taking copies of or extracts from them, or
+(b)
+to take copies of or extracts from any such policy or documents and either 
+send them to him or afford him reasonable facilities for collecting them (as 
+he specifies).
+(2) If the tenant is represented by a recognised tenants’ association and he consents, the 
+notice may be served by the secretary of the association instead of by the tenant (and 
+in that case any requirement imposed by it is to afford reasonable facilities, or to send 
+copies or extracts, to the secretary).
+(3) A notice under this paragraph is duly served on the landlord if it is served on—
+(a)
+an agent of the landlord named as such in the rent book or similar document, 
+or
+(b)
+the person who receives the rent on behalf of the landlord;
+and a person on whom such a notice is so served shall forward it as soon as may 
+be to the landlord.
+(4) The landlord shall comply with a requirement imposed by a notice under this 
+paragraph within the period of twenty-one days beginning with the day on which he 
+receives the notice.
+(5) To the extent that a notice under this paragraph requires the landlord to afford 
+facilities for inspecting documents—
+(a)
+he shall do so free of charge, but
+(b)
+he may treat as part of his costs of management any costs incurred by him 
+in doing so.
+(6) The landlord may make a reasonable charge for doing anything else in compliance 
+with a requirement imposed by a notice under this paragraph.
+(7) In this paragraph—
+“relevant policy” includes a policy of insurance under which the dwelling 
+was insured for the period of insurance immediately preceding that current 
+when the notice is served (being, in the case of a flat, a policy covering the 
+building containing it), and
+“associated documents” means accounts, receipts or other documents 
+which provide evidence of payment of any premiums due under a relevant 
+policy in respect of the period of insurance which is current when the notice 
+is served or the period of insurance immediately preceding that period.]
+Textual Amendments
+F156 Sch. para. 3 substituted (30.9.2003 for E. and 30.4.2004 for W.) by 2002 c. 15, ss. 157, 181(1), Sch. 10 
+para. 9; S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject to Sch. 2)
+
+
+## Page 65
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+65
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+F157. . . Insurance effected by superior landlord
+Textual Amendments
+F157 Words in heading before Sch. para. 4 repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 
+180, 181(1), Sch. 14; S.I. 2003/1986, arts. 1(2), 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2); S.I. 2004/669,
+art. 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2)
+4
+(1) If [F158a notice is served] under paragraph 2 in a case where a superior landlord has 
+effected, in whole or in part, the insurance of the dwelling in question and the landlord
+[F159on whom the notice is served] is not in possession of the relevant information—
+(a)
+he shall in turn [F160by notice in writing require the person who is his landlord 
+to give him the relevant information] (and so on, if that person is not himself 
+the superior landlord),
+(b)
+the superior landlord shall comply with [F161the notice] within a reasonable 
+time, and
+(c)
+the immediate landlord shall then comply with the tenant’s or [F162secretary’s 
+notice] in the manner provided by sub-paragraphs (4) to (7) of paragraph 2 
+within the time allowed by that paragraph or such further time, if any, as is 
+reasonable in the circumstances.
+(2) If, in a case where a superior landlord has effected, in whole or in part, the insurance 
+of the dwelling in question, a [F163notice under paragraph 3 imposes a requirement 
+relating] to any policy of insurance effected by the superior landlord—
+(a)
+the landlord [F164on whom the notice is served] shall forthwith inform the 
+tenant or secretary of that fact and of the name and address of the superior 
+landlord, and
+(b)
+that paragraph shall then apply to the superior landlord in relation to that 
+policy as it applies to the immediate landlord.
+Textual Amendments
+F158 Words in Sch. para. 4(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(2)(a); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F159 Words in Sch. para. 4(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(2)(b); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F160 Words in Sch. para. 4(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(2)(c); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F161 Words in Sch. para. 4(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(2)(d); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F162 Words in Sch. para. 4(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(2)(e); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+F163 Words in Sch. para. 4(2) substituted (30.9.2003 for W. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(3)(a); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+
+
+## Page 66
+
+66
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+F164 Words in Sch. para. 4(2) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 10(1)(3)(b); S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)
+(i) (subject to Sch. 2)
+Effect of change of landlord
+[
+F1654A
+(1) This paragraph applies where, at a time when a duty imposed on the landlord or a 
+superior landlord by virtue of any of paragraphs 2 to 4 remains to be discharged by 
+him, he disposes of the whole or part of his interest as landlord or superior landlord).
+(2) If the landlord or superior landlord is, despite the disposal, still in a position to 
+discharge the duty to any extent, he remains responsible for discharging it to that 
+extent.
+(3) If the other person is in a position to discharge the duty to any extent, he is responsible 
+for discharging it to that extent.
+(4) Where the other person is responsible for discharging the duty to any extent (whether 
+or not the landlord or superior landlord is also responsible for discharging it to that 
+or any other extent)—
+(a)
+references to the landlord or superior landlord in paragraphs 2 to 4 are to, or 
+include, the other person so far as is appropriate to reflect his responsibility 
+for discharging the duty to that extent, but
+(b)
+in connection with its discharge by that person, paragraphs 2(4) and 3(4) 
+apply as if the reference to the day on which the landlord receives the notice 
+were to the date of the disposal referred to in sub-paragraph (1).]
+Textual Amendments
+F165 Sch. para. 4A and preceding sidenote inserted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15,
+ss. 157, 181(1), Sch. 10 para. 11; S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art 2(c)
+(i) (subject to Sch. 2)
+Effect of assignment F166. . .
+Textual Amendments
+F166 Words in heading before Sch. para. 5 repealed (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 
+180, 181(1), Sch. 14; S.I. 2003/1986, arts. 1(2), 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2); S.I. 2004/669,
+art. 2(c)(iv), Sch. 1 Pt. 2 (subject to Sch. 2)
+5
+The assignment of a tenancy does not affect [F167any duty imposed by virtue of any 
+of paragraphs 2 to 4A; but a person is not required to comply with more than a 
+reasonable number of requirements imposed by any one person.]
+Textual Amendments
+F167 Words in Sch. para. 5 substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157, 181(1),
+Sch. 10 para. 12; S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject to
+Sch. 2)
+
+
+## Page 67
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+67
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F168Offence of failure to comply]
+Textual Amendments
+F168 Words in heading before Sch. para. 6 substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15,
+ss. 157, 181(1), Sch. 10 para. 13; S.I. 2003/1986, arts. 1(2), 2(c)(i) (subject to Sch. 2); S.I. 2004/669,
+art. 2(c)(i) (subject to Sch. 2)
+6
+(1) It is a summary offence for a person to fail, without reasonable excuse, to perform a 
+duty imposed on him by or by virtue of [F169any of paragraphs 2 to 4A].
+(2) A person committing such an offence is liable on conviction to a fine not exceeding 
+level 4 on the standard scale.
+Textual Amendments
+F169 Words in Sch. para. 6(1) substituted (30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 157,
+181(1), Sch. 10 para. 13; S.I. 2003/1986, art. 2(c)(i) (subject to Sch. 2); S.I. 2004/669, art. 2(c)(i) (subject 
+to Sch. 2)
+Tenant’s right to notify insurers of possible claim
+7
+(1) This paragraph applies to any dwelling in respect of which the tenant pays to the 
+landlord a service charge consisting of or including an amount payable directly or 
+indirectly for insurance.
+(2) Where—
+(a)
+it appears to the tenant of any such dwelling that damage has been caused—
+(i) to the dwelling, or
+(ii) if the dwelling is a flat, to the dwelling or to any other part of the 
+building containing it,
+in respect of which a claim could be made under the terms of a policy of 
+insurance, and
+(b)
+it is a term of that policy that the person insured under the policy should give 
+notice of any claim under it to the insurer within a specified period,
+the tenant may, within that specified period, serve on the insurer a notice in 
+writing stating that it appears to him that damage has been caused as mentioned in 
+paragraph (a) and describing briefly the nature of the damage.
+(3) Where—
+(a)
+any such notice is served on an insurer by a tenant in relation to any such 
+damage, and
+(b)
+the specified period referred to in sub-paragraph (2)(b) would expire earlier 
+than the period of six months beginning with the date on which the notice 
+is served,
+the policy in question shall have effect as regards any claim subsequently made in 
+respect of that damage by the person insured under the policy as if for the specified 
+period there were substituted that period of six months.
+
+
+## Page 68
+
+68
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Where the tenancy of a dwelling to which this paragraph applies is held by joint 
+tenants, a single notice under this paragraph may be given by any one or more of 
+those tenants.
+(5) The Secretary of State may by regulations prescribe the form of notices under this 
+paragraph and the particulars which such notices must contain.
+(6) Any such regulations—
+(a)
+may make different provision with respect to different cases or descriptions 
+of case, including different provision for different areas, and
+(b)
+shall be made by statutory instrument.
+Right to challenge landlord’s choice of insurers
+[
+F1708
+(1) This paragraph applies where a tenancy of a dwelling requires the tenant to insure 
+the dwelling with an insurer nominated [F171or approved]by the landlord.
+(2) The tenant or landlord may apply to [F172the county court] or [F173the appropriate 
+tribunal] for a determination whether—
+(a)
+the insurance which is available from the nominated [F171or approved]insurer 
+for insuring the tenant’s dwelling is unsatisfactory in any respect, or
+(b)
+the premiums payable in respect of any such insurance are excessive.
+(3) No such application may be made in respect of a matter which—
+(a)
+has been agreed or admitted by the tenant,
+(b)
+under an arbitration agreement to which the tenant is a party is to be referred 
+to arbitration, or
+(c)
+has been the subject of determination by a court or arbitral tribunal.
+(4) On an application under this paragraph the court or tribunal may make—
+(a)
+an order requiring the landlord to nominate [F174or approve] such other 
+insurer as is specified in the order, or
+(b)
+an order requiring him to nominate [F174or approve]another insurer who 
+satisfies such requirements in relation to the insurance of the dwelling as are 
+specified in the order.
+(5) F175 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6) An agreement by the tenant of a dwelling (other than an arbitration agreement) is 
+void in so far as it purports to provide for a determination in a particular manner, or 
+on particular evidence, of any question which may be the subject of an application 
+under this paragraph.]
+Textual Amendments
+F170 Sch. para. 8 substituted (1.9.1997 subject to saving in Sch. para. 1 of S.I. 1997/1851 and otherwise 
+11.8.1998 subject to art. 3 of S.I. 1998/1768) by 1996 c. 52, s. 83(2); S.I. 1997/1851, art. 2; S.I. 
+1998/1768, art. 2
+F171 Words in Sch. para. 8(1)(2) inserted (28.2.2005 for E. and 31.5.2005 for W.) by 2002 c. 15, ss. 165(2),
+181(1); S.I. 2004/3056, art. 3(d) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353,
+art. 2(d) (subject to art. 3)
+
+
+## Page 69
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+69
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+F172 Words in Sch. para. 8(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 
+para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, 
+arts. 3-11)
+F173 Words in Sch. para. 8(2) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 
+2013/1036), art. 1, Sch. 1 para. 57 (with Sch. 3)
+F174 Words in Sch. para. 8(4) inserted (28.2.2005 for E. and 31.5.2005 for W.) by 2002 c. 15, ss. 165(3),
+181(1); S.I. 2004/3056, art. 3(d) (subject to art. 4 (as amended by S.I. 2005/193, art. 2)); S.I. 2005/1353,
+art. 2(d) (subject to art. 3)
+F175 Sch. para 8(5) repealed ((30.9.2003 for E. and 30.3.2004 for W.) by 2002 c. 15, ss. 180, 181(1), Sch. 14;
+S.I. 2003/1986, art. 2(c)(iv), Sch. 1 Pt. 1 (subject to Sch. 2); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1
+Exception for tenants of certain public authorities
+9
+(1) Paragraphs 2 to 8 do not apply to a tenant of—
+a local authority,
+[F176a National Park authority [F177, or]]
+a new town corporation, F178. . .
+F178. . .
+unless the tenancy is a long tenancy, in which case paragraphs 2 to 5 and 7 and 8 
+apply but paragraph 6 does not.
+(2) Subsections (2) and (3) of section 26 shall apply for the purposes of sub-paragraph (1) 
+as they apply for the purposes of subsection (1) of that section.]
+TABLE OF DERIVATIONS
+1. The following abbreviations are used 
+in this Table:—
+Acts of Parliament
+1957
+= The Housing Act 1957 (c. 56).
+1961
+= The Housing Act 1961 (c. 65).
+1962
+= The Landlord and Tenant Act 1962 
+(c. 50).
+1963 (c. 33)
+= The London Government Act 1963.
+1968 (c. 23)
+= The Rent Act, 1968.
+1969
+= The Housing Act 1969 (c. 33).
+1972 (c. 70)
+= The Local Government Act 1972.
+1974
+= The Housing Act 1974 (c. 44).
+1975
+= The Housing Rents and Subsidies Act 
+1975 (c. 6).
+1976 (c. 80)
+= The Rent (Agriculture) Act 1976.
+1977 (c. 42)
+= The Rent Act 1977.
+1980
+= The Housing Act 1980 (c. 51).
+1980 (c. 65)
+= The Local Government, Planning and 
+Land Act 1980.
+
+
+## Page 70
+
+70
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+1981 (c. 64)
+= The New Towns Act 1981.
+1982 (c. 48)
+= The Criminal Justice Act 1982.
+1985 (c. 9)
+= The Companies Consolidation 
+(Consequential Provisions) Act 1985.
+1985(c. 51)
+= The Local Government Act 1985.
+Subordinate legislation
+S.I. 1975/512 = The Isles of Scilly (Housing) Order 1975.
+2. The Table does not show the effect of Transfer of Functions Orders.
+3. The letter R followed by a number indicates that the provision gives effect to 
+the Recommendation bearing that number in the Law Commissions’ Report of the 
+Consolidation of the Housing Acts (Cmnd. 9515).
+4. The entry “drafting” indicates a provision of a mechanical or editorial nature 
+affecting the arrangement of the consolidation; for instance, a provision introducing 
+the provisions which follow or introducing a definition to avoid undue repetition of 
+the defining words.
+Provision
+Derivation
+1(1)
+1974 s. 121(1).
+(2)
+1974 s. 121(1); 1980 s. 144; 1982 
+(c. 48) ss. 37, 46(1).
+(3)
+1974 s. 121(9).
+2(1), (2)
+1974 s. 121(2).
+(3)
+1974 s. 121(4).
+(4)
+1974 s. 121(5); 1980 s. 144; 1982 (c. 48 
+ss. 37, 46(1).
+3(1)
+1974 s. 122(1), (2).
+(2)
+1974 s. 122(4).
+(3)
+1974 s. 122(5); 1980 s. 144; 1982 
+(c. 48) ss. 37, 46(1).
+(4)
+1974 s. 122(8), (9)(a).
+4(1)
+1962 s. 1(1).
+(2)
+1962 s. 1(2).
+(3)
+1962 ss. 1(1), 6(1)(a).
+Provision
+Derivation
+5(1)
+1962 s. 2(1); 1976 (c. 80) Sch. 8 para. 
+9; 1977 (c. 42) Sch. 23 para. 31(a), (b).
+(2)
+1962 s. 2(1); 1968 (c. 23) Sch. 15.
+(3)
+1962 s. 6(1)(b).
+
+
+## Page 71
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+71
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+6(1)
+1962 s. 3(1).
+(2)
+1962 s. 3(2).
+7(1), (2)
+1962 s. 4(1), (3); 1982 (c. 48) ss. 37, 
+46(1), Sch. 3.
+(3)
+1962 s. 4(2), (3); 1982 (c. 48) ss. 37, 
+46(1), Sch. 3.
+(4)
+1962 s. 4(4).
+8(1), (2)
+1957 s. 6(2), (3).
+(3)
+1957 s. 6(1), (2).
+(4)
+1957 s. 6(1); 1963 (c. 33) Sch. 8 para. 
+2.
+(5)
+1957 s. 6(2) proviso.
+(6)
+1957 s. 189(1) “house” (a).
+9(1), (2)
+1957 s. 7.
+(3)
+1957 ss. 7, 189(1) “house” (a).
+10
+1957 s. 4(1); 1969 s. 71.
+11(1)
+1961 s. 32(1).
+(2)
+1961 s. 32(2).
+(3)
+1961 s. 32(3).
+(4)
+1961 s. 32(1), (2).
+(5)
+1961 s. 32(1).
+(6)
+1961 s. 32(4).
+12(1)
+1961 s. 33(7).
+(2)
+1961 s. 33(6).
+13(1)
+1961 s. 33(1).
+(2)
+1961 s. 33(2), (5).
+14(1), (2)
+1961 s. 33(3).
+(3)
+1961 s. 33(4).
+(4)
+1977 (c. 42) ss. 14, 15(3); 1980 s. 80(1)
+(a)-(c), (2), (3); 1980 (c. 65) s. 155(1); 
+1981 (c. 64) Sch. 12 para. 24.
+(5)
+1980 s. 80(1)(d), (e).
+15
+1961 s. 33(8).
+16
+1961 s. 32(5).
+17(1)
+1974 s. 125(1).
+(2)
+1974 s. 125(2); R.14(i).
+18(1)(3)
+1980 Sch. 19 para. 1(1).
+
+
+## Page 72
+
+72
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+19(1)
+1980 Sch. 19 paras. 2, 3.
+(2)
+1980 Sch. 19 para. 2.
+(3)
+180 Sch. 19 para. 11.
+(4)
+1980 Sch. 19 para. 12.
+20(1)
+1980 Sch. 19 paras. 2, 4(1).
+(2)
+1980 Sch. 19 para. 4(2).
+(3)
+1980 Sch. 19 para. 5(1)(6).
+(4)
+1980 Sch. 19 para. 5(7).
+(5)
+1980 Sch. 19 para. 6.
+(6)
+1980 s. 151(1), (3).
+21(1)
+1980 Sch. 19 para. 7(1), (5).
+(2)
+1980 Sch. 19 para. 7(2).
+(3)
+1980 Sch. 19 para. 9.
+(4)
+1980 Sch. 19 para. 7(1).
+(5), (6)
+1980 Sch. 19 para. 7(3)
+22(1), (2)
+1980 Sch. 19 para. 7(4).
+(3)
+1980 Sch. 19 para. 9.
+(4)
+1980 Sch. 19 para. 7(4).
+23(1), (2)
+1980 Sch. 19 para. 8(1), (2).
+24
+1980 Sch. 19 para. 10.
+25(1), (2)
+1980 Sch. 19 para. 13(1); 1982 (c. 48) 
+ss. 37, 46(1).
+26(1)
+1980 s. 50(1) “development 
+corporation”, “local authority”[F176“a 
+National Park authority”], Sch. 19 para. 
+14(1), (2)(a).
+(2), (3)
+1980 Sch. 3 para. 1(2), (2A), (3), Sch. 
+19 para. 14(1); 1984 Sch. 1 para. 12, 
+Sch. 11 para. 33(1).
+27
+1980 Sch. 19 para. 15.
+28(1)
+drafting.
+(2)
+1980 Sch. 16 para. 3(2), Sch. 19 para. 
+17(1); 1985 (c. 9) Sch. 2.
+(3)
+1980 Sch. 16 para. 3(4), Sch. 19 para. 
+17(1).
+(4)
+1980 Sch. 19 para. 17(2).
+(5)
+1980 Sch. 19 para. 17(2)(b); 1985 (c. 9) 
+Sch. 2.
+
+
+## Page 73
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+73
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6)
+1980 Sch. 19 para. 14(1),(2)(b).
+29(1)
+1980 Sch. 19 para. 20.
+(2), (3)
+1980 Sch. 19 para. 21(1).
+(4)
+1980 Sch. 19 para. 20(b).
+(5)
+1980 Sch. 19 para. 21(2).
+(6)
+1980 s. 151(1), (3).
+30
+“flat”
+1980 Sch. 19 para. 16.
+“landlord”
+1980 Sch. 19 para. 18.
+“tenant”
+1980 Sch. 19 para. 19.
+31(1)
+1975 ss. 11(1), 15(1), (5).
+(2)
+1975 ss. 11(2), 15(5).
+(3)
+1975 s. 11(10), (11).
+(4)
+1975 ss. 11(3), 15(1).
+32(1)
+1974 ss. 121(9), 122(8), 125(2).
+(2)
+1961 s. 33(3).
+(3)
+1975 s. 11(11) “dwelling”.
+33)1)
+1962 s. 4(6); 1974 ss. 121(6), 122(6); 
+1980 Sch. 19 para. 13(2).
+(2)
+1974 ss. 121(7), 122(7); 1980 Sch. 19 
+para. 13(3); R.28.
+34
+1962 s. 5(2); 1968 (c. 23) Sch. 15; 1972 
+(c. 70) s. 222(1); 1974 s. 121(8); 1977 
+(c. 42) s. 149(2), Sch. 23 para. 32, Sch. 
+24 para. 30.
+35(1), (2)
+1972 s. 103; 1975 s. 17(11), Sch. 
+5 para. 7(1); S.I. 1972/1204; S.I. 
+1975/512; R.29.
+36
+1961 s. 32(5); 1974 ss. 121(9), 125(2); 
+1975 s. 11(11) “new letting”; drafting.
+37
+1962 s. 6(1)(a); 1974 ss. 121(9), 122(8), 
+125(2); 1976 (c. 80) Sch. 8 para. 31; 
+1977 (c. 42) Sch. 23 para. 66; 1980 Sch. 
+19 para. 18; R.14(i).
+38
+“address”
+1962 s. 6(2); 1974 ss. 121(3), 122(3), 
+Sch. 13 para. 9.
+“co-operative housing association”
+1977 (c. 42) s. 15(3)(d); 1980 s. 80(1)
+(b); drafting.
+
+
+## Page 74
+
+74
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“dwelling”
+1974 s. 129(1) “dwelling”; 1975 s. 
+16(1) “dwelling”.
+“housing association”
+1977 (c. 42) s. 15(3)(a); 1980 s. 80(1)
+(b).
+“local authority” [F176 “a National Park 
+authority” ]
+1975 ss. 11(11), 16(1) “local 
+authority”[F176“a National Park 
+authority”]; 1977 (c. 42) s. 14(1)(a)-(c); 
+1980 s. 80(1)(c); 1985 (c. 51 Sch. 13 
+para. 21, Sch. 14 paras. 56, 58 (h).
+“local housing authority”
+1962 s. 5(2); 1968 (c. 23) Sch. 15; 
+1974 s. 121(8); S.I. 1975/512; 1977 
+(c. 42) s. 149(2), Sch. 23 para. 32, 
+Sch. 24 para. 30; 1980 s. 50(1) “local 
+authority”[F176“a National Park 
+authority”], Sch. 19 para. 14(1)(a).
+“new town corporation”
+1977 (c. 42) s. 14(d), (e); 1980 ss. 50(1) 
+“development corporation”, 80(1)(c), 
+Sch. 19 para. 14(1)(a), (c); 1981 (c. 64;) 
+Sch. 12 para. 24; drafting.
+“protected tenancy”
+1962 s. 2(1); 1968 (c. 23) Sch. 15; 1977 
+(c. 42) Sch. 23 para. 31(b), Sch. 24 
+para. 30.
+“registered”
+1977 (c. 42) s. 15(3)(a); 1980 s. 80(1)
+(b).
+“restricted contract”
+1962 s. 2(1); 1977 (c. 42) Sch. 23 para. 
+31(a).
+“urban development corporation”
+1977 (c. 42) s. 14(1)(g); 1980 s. 80(1)
+(c); 1980 (c. 65) s. 155(1).
+39
+drafting.
+40
+drafting.
+Textual Amendments
+F176 Words in Sch. para. 9 inserted (23.11.1995) by 1995 c. 25, s. 78, Sch. 10 para. 25(1) (with ss. 7(6), 115,
+117, Sch. 8 para. 7); S.I. 1995/2950, art. 2(1)
+F177 Words in Sch. para. 9(1) inserted (1.10.1998) by 1998 c. 38, s. 129, Sch. 15 para. 14 (with ss. 139(2),
+143(2)); S.I. 1998/2244, art. 4
+F178 Words in Sch. para. 9(1) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1),
+139(2), 143(2)); S.I. 1998/2244, art. 4
+Modifications etc. (not altering text)
+C79
+Sch. para. 9(1) amended by Local Government Act 1985 (c. 51, SIF 81:1), s. 57(7), Sch. 13 para. 24
+(as substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), ss. 4, 5, Sch. 2 para. 61
+and as amended by Landlord and Tenant Act 1987 (c. 31, SIF 75:1), s. 61, Sch. 4 para. 3(a)(ii))
+Sch. para. 9(1) extended (5.7.1994) by 1994 c. 19, ss. 39, 66(2)(b), Sch. 13 para. 23(c) (with ss. 54(5)
+(7), 55(5), Sch. 17 paras. 22(1), 23(2))
+
+
+## Page 75
+
+Landlord and Tenant Act 1985 (c. 70)
+SCHEDULE – RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+Document Generated: 2026-04-22
+75
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 
+22 April 2026. There are changes that may be brought into force at a future date. Changes that have been made appear 
+in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Sch. para. 9(1) modified (1.4.1995) by S.I. 1995/401, art. 18, Sch. para. 10(c)
+
+
+## Page 76
+
+76
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+Status: 
+This version of this Act contains provisions that are prospective.
+Changes to legislation: 
+Landlord and Tenant Act 1985 is up to date with all changes known to be in force on or before 22 
+April 2026. There are changes that may be brought into force at a future date. Changes that have 
+been made appear in the content and are referenced with annotations.
+View outstanding changes
+Changes and effects yet to be applied to :
+–
+s. 18 heading words inserted by 2024 c. 22 s. 53(2)(a)
+–
+s. 19 heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(a)
+–
+s. 20 heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(b)
+–
+s. 20A heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(c)
+–
+s. 20B heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(d)
+–
+s. 20D heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(e)
+–
+s. 20F heading words substituted by 2024 c. 22 s. 53(3)s. 53(4)(f)
+–
+s. 10A heading words substituted by 2025 c. 26 s. 60(2)(a)
+–
+s. 5(3) words substituted by 2024 c. 22 Sch. 11 para. 2(a)(i)
+–
+s. 5(3)(b) words omitted by 2024 c. 22 Sch. 11 para. 2(a)(ii)
+–
+s. 5(4) inserted by 2024 c. 22 Sch. 11 para. 2(b)
+–
+s. 10A(1)(1A) substituted for s. 10A(1) by 2025 c. 26 s. 60(2)(b)
+–
+s. 10A(3) word substituted by 2025 c. 26 s. 60(2)(c)
+–
+s. 10A(5A)(5B) inserted by 2025 c. 26 s. 60(2)(d)
+–
+s. 10A(6) omitted by 2025 c. 26 s. 60(2)(e)
+–
+s. 10A(7) words omitted by 2025 c. 26 s. 60(2)(f)(ii)
+–
+s. 10A(7) words substituted by 2025 c. 26 s. 60(2)(f)(i)
+–
+s. 10B(1)(a) words substituted by 2025 c. 26 s. 60(3)(a)
+–
+s. 10B(3)(b)(i) word substituted by 2025 c. 26 s. 60(3)(b)
+–
+s. 10B(4)(a) substituted by 2025 c. 26 s. 60(3)(c)
+–
+s. 10B(6) omitted by 2025 c. 26 s. 60(3)(d)
+–
+s. 10B(8) words substituted by 2024 c. 22 Sch. 11 para. 3
+–
+s. 10C10D inserted by 2025 c. 26 s. 61(1)
+–
+s. 13(1A)(b) and word omitted by 2025 c. 26 Sch. 2 para. 18
+–
+s. 13(1B) words inserted by 2016 c. 22 Sch. 7 para. 18(3)(b)
+–
+s. 13(1B) words substituted by 2016 c. 22 Sch. 7 para. 18(3)(a)
+–
+s. 13(1AB) inserted by 2016 c. 22 Sch. 7 para. 18(2)
+–
+s. 18(1)(2) substituted by 2024 c. 22 s. 53(2)(b)
+–
+s. 18(3)(b) words substituted by 2024 c. 22 s. 53(2)(c)
+–
+s. 19(1)(2) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(a)
+–
+s. 20(2) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(b)
+–
+s. 20(4) words substituted by 2024 c. 22 Sch. 11 para. 4(a)
+–
+s. 20(5) words substituted by 2024 c. 22 Sch. 11 para. 4(b)
+–
+s. 20A(1)(2) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(c)
+–
+s. 20B(1) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(d)
+–
+s. 20B(3)-(10) and words substituted for words by 2024 c. 22 s. 54
+–
+s. 20C omitted by 2024 c. 22 s. 62(2)
+–
+s. 20D(4)(5) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(e)
+–
+s. 20E(4) words substituted by 2024 c. 22 Sch. 11 para. 6
+–
+s. 20F(2) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(f)
+–
+s. 20F(7) words substituted by 2024 c. 22 Sch. 11 para. 7
+–
+s. 20G-20I inserted by 2024 c. 22 s. 59
+–
+s. 20CA20CB inserted by 2024 c. 22 s. 62(3)
+–
+s. 20ZA(3) words substituted by 2024 c. 22 Sch. 11 para. 5(a)
+–
+s. 20ZA(4) words substituted by 2024 c. 22 Sch. 11 para. 5(b)
+–
+s. 20ZA(7) words omitted by 2024 c. 22 Sch. 11 para. 5(c)
+
+
+## Page 77
+
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+77
+–
+s. 20ZA(8) inserted by 2024 c. 22 Sch. 11 para. 5(d)
+–
+s. 21 omitted by 2024 c. 22 s. 55(2)(a)
+–
+s. 21A omitted by 2024 c. 22 s. 55(2)(b)
+–
+s. 21B omitted by 2024 c. 22 s. 55(2)(c)
+–
+s. 21C inserted by 2024 c. 22 s. 55(3)
+–
+s. 21D21E inserted by 2024 c. 22 s. 56(2)
+–
+s. 21F-21H inserted by 2024 c. 22 s. 57(2)
+–
+s. 22 omitted by 2024 c. 22 s. 57(3)(a)
+–
+s. 22 substituted by 2002 c. 15 s. 154
+–
+s. 23 omitted by 2024 c. 22 s. 57(3)(b)
+–
+s. 23 substituted by 2002 c. 15 Sch. 10 para. 1
+–
+s. 23A inserted by 2002 c. 15 Sch. 10 para. 2
+–
+s. 23A(1) words substituted by 2024 c. 22 Sch. 11 para. 15(a)
+–
+s. 23A(4) words substituted by 2024 c. 22 Sch. 11 para. 15(b)(i)
+–
+s. 23A(4)(b) and word omitted by 2024 c. 22 Sch. 11 para. 15(b)(ii)
+–
+s. 23A(4)(c) omitted by 2024 c. 22 Sch. 11 para. 15(b)(iii)
+–
+s. 24 omitted by 2024 c. 22 s. 57(3)(c)
+–
+s. 24 substituted by 2002 c. 15 Sch. 10 para. 3
+–
+s. 25 omitted by 2024 c. 22 s. 58(2)
+–
+s. 25(1) words substituted by 2002 c. 15 Sch. 10 para. 4
+–
+s. 25A inserted by 2024 c. 22 s. 58(3)
+–
+s. 26(1) words inserted by 2014 anaw 7 s. 129
+–
+s. 26(1) words substituted by 2002 c. 15 Sch. 10 para. 5
+–
+s. 26(1) words substituted by 2024 c. 22 Sch. 11 para. 16(a)(i)
+–
+s. 26(1) words substituted by 2024 c. 22 Sch. 11 para. 16(a)(ii)
+–
+s. 26(1A) inserted by 2024 c. 22 Sch. 11 para. 16(b)
+–
+s. 26(3)(c) substituted by 2024 c. 22 Sch. 9 para. 5(a)
+–
+s. 26(4)-(7) inserted by 2024 c. 22 Sch. 9 para. 5(b)
+–
+s. 27 words substituted by 2002 c. 15 Sch. 10 para. 5
+–
+s. 27 words substituted by 2024 c. 22 Sch. 11 para. 17
+–
+s. 28(1) words substituted by 2002 c. 15 Sch. 10 para. 6(2)
+–
+s. 28(1) words substituted by 2024 c. 22 s. 56(3)(a)
+–
+s. 28(2) substituted by 2024 c. 22 s. 56(3)(b)
+–
+s. 28(4)(d) words substituted by 2002 c. 15 Sch. 10 para. 6(3)
+–
+s. 28(4)(d) words substituted by 2024 c. 22 s. 56(3)(c)
+–
+s. 28(5A) words substituted by 2002 c. 15 Sch. 10 para. 6(4)(a)
+–
+s. 28(5A) words substituted by 2002 c. 15 Sch. 10 para. 6(4)(b)
+–
+s. 28(6) words inserted by 2002 c. 15 Sch. 10 para. 6(5)
+–
+s. 28(7)(8) inserted by 2024 c. 22 s. 56(3)(d)
+–
+s. 29(5) words substituted by 2024 c. 22 Sch. 11 para. 8(a)
+–
+s. 29(6)(b) words omitted by 2024 c. 22 Sch. 11 para. 8(b)
+–
+s. 29(7) inserted by 2024 c. 22 Sch. 11 para. 8(c)
+–
+s. 29A(7) words substituted by 2024 c. 22 Sch. 11 para. 9
+–
+s. 30D(2)(a)(ii) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(g)
+–
+s. 30D(9) words substituted by 2024 c. 22 Sch. 11 para. 10
+–
+s. 30E(1)(c) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(h)
+–
+s. 30E(3) words substituted by 2024 c. 22 s. 53(5)
+–
+s. 30J and cross-heading inserted by 2024 c. 22 s. 63
+–
+s. 30K-30P and cross-heading inserted by 2024 c. 22 s. 67
+–
+s. 31(1) words substituted by 2024 c. 22 Sch. 11 para. 11(a)
+–
+s. 31(4) words omitted by 2024 c. 22 Sch. 11 para. 11(b)
+–
+s. 31(5) inserted by 2024 c. 22 Sch. 11 para. 11(c)
+–
+s. 35(2) words omitted by 2024 c. 22 Sch. 11 para. 12(a)
+–
+s. 35(3) inserted by 2024 c. 22 Sch. 11 para. 12(b)
+–
+s. 37A inserted by 2024 c. 22 s. 68(2)
+–
+s. 38 words inserted by 2024 c. 22 s. 68(3)
+–
+s. 39 words inserted by 2024 c. 22 s. 53(6)
+–
+s. 39 words inserted by 2024 c. 22 s. 68(4)
+
+
+## Page 78
+
+78
+Landlord and Tenant Act 1985 (c. 70)
+Document Generated: 2026-04-22
+–
+s. 39 words substituted by 2002 c. 15 Sch. 10 para. 7
+–
+s. 39 words substituted by 2024 c. 22 s. 56(4)
+–
+s. 39 words substituted by 2025 c. 26 s. 60(4)
+–
+s. 39A inserted by 2024 c. 22 s. 69(1)
+–
+Sch. para. 1A-1C and cross-heading inserted by 2024 c. 22 s. 60(2)
+–
+Sch. para. 2-6 omitted by 2024 c. 22 s. 60(3)
+–
+Sch. para. 9(1) words substituted by 2024 c. 22 s. 60(4)(a)
+–
+Sch. para. 9(1) words substituted by 2024 c. 22 s. 60(4)(b)
+–
+Sch. para. 7(5) words substituted by 2024 c. 22 Sch. 11 para. 13
+Changes and effects yet to be applied to the whole Act associated Parts and Chapters:
+Whole provisions yet to be inserted into this Act (including any effects on those 
+provisions):
+–
+s. 5(4) inserted by 2024 c. 22 Sch. 11 para. 2(b)
+–
+s. 10A(1)(1A) substituted for s. 10A(1) by 2025 c. 26 s. 60(2)(b)
+–
+s. 10A(5A)(5B) inserted by 2025 c. 26 s. 60(2)(d)
+–
+s. 10C10D inserted by 2025 c. 26 s. 61(1)
+–
+s. 13(1AB) inserted by 2016 c. 22 Sch. 7 para. 18(2)
+–
+s. 20A(1)(2) words substituted by 2024 c. 22 s. 53(3)s. 53(4)(c)
+–
+s. 20B(3)-(10) and words substituted for words by 2024 c. 22 s. 54
+–
+s. 20G-20I inserted by 2024 c. 22 s. 59
+–
+s. 20CA20CB inserted by 2024 c. 22 s. 62(3)
+–
+s. 20ZA(8) inserted by 2024 c. 22 Sch. 11 para. 5(d)
+–
+s. 21C inserted by 2024 c. 22 s. 55(3)
+–
+s. 21D21E inserted by 2024 c. 22 s. 56(2)
+–
+s. 21F-21H inserted by 2024 c. 22 s. 57(2)
+–
+s. 25A inserted by 2024 c. 22 s. 58(3)
+–
+s. 26(1A) inserted by 2024 c. 22 Sch. 11 para. 16(b)
+–
+s. 26(4)-(7) inserted by 2024 c. 22 Sch. 9 para. 5(b)
+–
+s. 28(7)(8) inserted by 2024 c. 22 s. 56(3)(d)
+–
+s. 29(7) inserted by 2024 c. 22 Sch. 11 para. 8(c)
+–
+s. 30J and cross-heading inserted by 2024 c. 22 s. 63
+–
+s. 30K-30P and cross-heading inserted by 2024 c. 22 s. 67
+–
+s. 31(5) inserted by 2024 c. 22 Sch. 11 para. 11(c)
+–
+s. 35(3) inserted by 2024 c. 22 Sch. 11 para. 12(b)
+–
+s. 37A inserted by 2024 c. 22 s. 68(2)
+–
+s. 39A inserted by 2024 c. 22 s. 69(1)
+–
+Sch. para. 1A-1C and cross-heading inserted by 2024 c. 22 s. 60(2)

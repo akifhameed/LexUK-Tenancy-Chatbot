@@ -1,0 +1,10772 @@
+# immigration act 2014
+
+**Source PDF:** `immigration_act_2014.pdf`
+
+**Converted:** 2026-04-25 12:21:50
+
+---
+
+
+
+## Page 1
+
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Immigration Act 2014
+2014 CHAPTER 22
+An Act to make provision about immigration law; to limit, or otherwise make provision 
+about, access to services, facilities and employment by reference to immigration status; 
+to make provision about marriage and civil partnership involving certain foreign 
+nationals; to make provision about the acquisition of citizenship by persons unable to 
+acquire it because their fathers and mothers were not married to each other and provision 
+about the removal of citizenship from persons whose conduct is seriously prejudicial to 
+the United Kingdom's vital interests; and for connected purposes.
+[14th May 2014]
+BE IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and consent of 
+the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by 
+the authority of the same, as follows:—
+Modifications etc. (not altering text)
+C1
+Act extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Jersey) Order 2021 (S.I. 2021/1281), art. 12, Sch. 10, Sch. 
+10A (with art. 16)
+C2
+Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in 
+force) by Nationality and Borders Act 2022 (c. 36), ss. 82(1)(2)(n)(3)-(6), 87(1)(4)(i); S.I. 2022/590,
+regs. 1(2), 2, Sch. 1 para. 29
+C3
+Act excluded (25.4.2024) by Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8), ss. 2(5)(a),
+5, 10(1) (with ss. 4, 10(2))
+
+
+## Page 2
+
+2
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 1
+REMOVAL AND OTHER POWERS
+Removal
+1
+Removal of persons unlawfully in the United Kingdom
+For section 10 of the Immigration and Asylum Act 1999, substitute—
+“10 Removal of persons unlawfully in the United Kingdom
+(1) A person may be removed from the United Kingdom under the authority of 
+the Secretary of State or an immigration officer if the person requires leave to 
+enter or remain in the United Kingdom but does not have it.
+(2) Where a person (“P”) is liable to be or has been removed from the United 
+Kingdom under subsection (1), a member of P's family who meets the 
+following three conditions may also be removed from the United Kingdom 
+under the authority of the Secretary of State or an immigration officer, provided 
+that the Secretary of State or immigration officer has given the family member 
+written notice of the intention to remove him or her.
+(3) The first condition is that the family member is—
+(a)
+P's partner,
+(b)
+P's child, or a child living in the same household as P in circumstances 
+where P has care of the child,
+(c)
+in a case where P is a child, P's parent, or
+(d)
+an adult dependent relative of P.
+(4) The second condition is that—
+(a)
+in a case where the family member has leave to enter or remain in 
+the United Kingdom, that leave was granted on the basis of his or her 
+family life with P;
+(b)
+in a case where the family member does not have leave to enter or 
+remain in the United Kingdom, in the opinion of the Secretary of State 
+or immigration officer the family member—
+(i) would not, on making an application for such leave, be granted 
+leave in his or her own right, but
+(ii) would be granted leave on the basis of his or her family life 
+with P, if P had leave to enter or remain.
+(5) The third condition is that the family member is neither a British citizen, nor 
+is he or she entitled to enter or remain in the United Kingdom by virtue of 
+an enforceable EU right or of any provision made under section 2(2) of the 
+European Communities Act 1972.
+(6) A notice given to a family member under subsection (2) invalidates any leave 
+to enter or remain in the United Kingdom previously given to the family 
+member.
+(7) For the purposes of removing a person from the United Kingdom under 
+subsection (1) or (2), the Secretary of State or an immigration officer may
+
+
+## Page 3
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+3
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+give any such direction for the removal of the person as may be given under 
+paragraphs 8 to 10 of Schedule 2 to the 1971 Act.
+(8) But subsection (7) does not apply where a deportation order is in force against 
+a person (and any directions for such a person's removal must be given under 
+Schedule 3 to the 1971 Act).
+(9) The following paragraphs of Schedule 2 to the 1971 Act apply in relation to 
+directions under subsection (7) (and the persons subject to those directions) 
+as they apply in relation to directions under paragraphs 8 to 10 of Schedule 2 
+(and the persons subject to those directions)—
+(a)
+paragraph 11 (placing of person on board ship or aircraft);
+(b)
+paragraph 16(2) to (4) (detention of person where reasonable grounds 
+for suspecting removal directions may be given or pending removal 
+in pursuance of directions);
+(c)
+paragraph 17 (arrest of person liable to be detained and search of 
+premises for person liable to arrest);
+(d)
+paragraph 18 (supplementary provisions on detention);
+(e)
+paragraph 18A (search of detained person);
+(f)
+paragraph 18B (detention of unaccompanied children);
+(g)
+paragraphs 19 and 20 (payment of expenses of custody etc);
+(h)
+paragraph 21 (temporary admission to UK of person liable to 
+detention);
+(i)
+paragraphs 22 to 25 (bail);
+(j)
+paragraphs 25A to 25E (searches etc).
+(10) The Secretary of State may by regulations make further provision about—
+(a)
+the time period during which a family member may be removed under 
+subsection (2);
+(b)
+the service of a notice under subsection (2).
+(11) In this section “child” means a person who is under the age of 18.”
+Modifications etc. (not altering text)
+C4
+S. 1 extended (Isle of Man) (with modifications) (31.12.2020) by S.I. 2008/680, art. 22(2), Sch. 9A (as 
+amended by The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214), arts. 1, 5, 12
+and as further amended (11.11.2021) by The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 
+2021/1277), arts. 1(2), 6)
+Commencement Information
+I1
+S. 1 in force at 20.10.2014 by S.I. 2014/2771, art. 2(a) (with arts. 9-11) (as amended (2.3.2015 and 
+6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+2
+Restriction on removal of children and their parents etc
+After section 78 of the Nationality, Immigration and Asylum Act 2002, insert—
+
+
+## Page 4
+
+4
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“78A Restriction on removal of children and their parents etc
+(1) This section applies in a case where—
+(a)
+a child is to be removed from or required to leave the United Kingdom, 
+and
+(b)
+an individual who—
+(i) is a parent of the child or has care of the child, and
+(ii) is living in a household in the United Kingdom with the child,
+is also to be removed from or required to leave the United Kingdom 
+(a “relevant parent or carer”).
+(2) During the period of 28 days beginning with the day on which the relevant 
+appeal rights are exhausted—
+(a)
+the child may not be removed from or required to leave the United 
+Kingdom; and
+(b)
+a relevant parent or carer may not be removed from or required to 
+leave the United Kingdom if, as a result, no relevant parent or carer 
+would remain in the United Kingdom.
+(3) The relevant appeal rights are exhausted at the time when—
+(a)
+neither the child, nor any relevant parent or carer, could bring an appeal 
+under section 82 (ignoring any possibility of an appeal out of time with 
+permission), and
+(b)
+no appeal brought by the child, or by any relevant parent or carer, is 
+pending within the meaning of section 104.
+(4) Nothing in this section prevents any of the following during the period of 28 
+days mentioned in subsection (2)—
+(a)
+the giving of a direction for the removal of a person from the United 
+Kingdom,
+(b)
+the making of a deportation order in respect of a person, or
+(c)
+the taking of any other interim or preparatory action.
+(5) In this section—
+“child” means a person who is aged under 18;
+references to a person being removed from or required to leave the 
+United Kingdom are to the person being removed or required to leave 
+in accordance with a provision of the Immigration Acts.”
+Commencement Information
+I2
+S. 2 in force at 28.7.2014 by S.I. 2014/1820, art. 3(a)
+3
+Independent Family Returns Panel
+Before section 55 of the Borders, Citizenship and Immigration Act 2009, insert—
+
+
+## Page 5
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+5
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“54A Independent Family Returns Panel
+(1) The Independent Family Returns Panel is established.
+(2) The Secretary of State must consult the Independent Family Returns Panel—
+(a)
+in each family returns case, on how best to safeguard and promote the 
+welfare of the children of the family, and
+(b)
+in each case where the Secretary of State proposes to detain a family in 
+pre-departure accommodation, on the suitability of so doing, having 
+particular regard to the need to safeguard and promote the welfare of 
+the children of the family.
+(3) A family returns case is a case where—
+(a)
+a child who is living in the United Kingdom is to be removed from or 
+required to leave the United Kingdom, and
+(b)
+an individual who—
+(i) is a parent of the child or has care of the child, and
+(ii) is living in a household in the United Kingdom with the child,
+is also to be removed from or required to leave the United Kingdom.
+(4) The Secretary of State may by regulations make provision about—
+(a)
+additional functions of the Independent Family Returns Panel,
+(b)
+its status and constitution,
+(c)
+the appointment of its members,
+(d)
+the payment of remuneration and allowances to its members, and
+(e)
+any other matters in connection with its establishment and operation.
+(5) Regulations under this section must be made by statutory instrument.
+(6) An instrument containing regulations under this section is subject to annulment 
+in pursuance of a resolution of either House of Parliament.
+(7) In this section—
+“child” means a person who is under the age of 18;
+“pre-departure accommodation” has the same meaning as in Part 8 
+of the Immigration and Asylum Act 1999;
+references to a person being removed from or required to leave the 
+United Kingdom are to the person being removed or required to leave 
+in accordance with a provision of the Immigration Acts.”
+Commencement Information
+I3
+S. 3 in force at 28.7.2014 by S.I. 2014/1820, art. 3(b)
+Powers of immigration officers
+4
+Enforcement powers
+Schedule 1 (enforcement powers) has effect.
+
+
+## Page 6
+
+6
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I4
+S. 4 in force at 28.7.2014 by S.I. 2014/1820, art. 3(c)
+Detention and bail
+5
+Restrictions on detention of unaccompanied children
+(1) Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on 
+entry etc) is amended as follows.
+(2) In paragraph 16, after paragraph (2) insert—
+“(2A) But the detention of an unaccompanied child under sub-paragraph (2) is 
+subject to paragraph 18B.”
+(3) In paragraph 18, after sub-paragraph (1) insert—
+“(1A) But the detention of an unaccompanied child under paragraph 16(2) is subject 
+to paragraph 18B.”
+(4) After paragraph 18A (as inserted by paragraph 2 of Schedule 1) insert—
+“18B
+(1) Where a person detained under paragraph 16(2) is an unaccompanied 
+child, the only place where the child may be detained is a short-term 
+holding facility, except where—
+(a)
+the child is being transferred to or from a short-term holding 
+facility, or
+(b)
+sub-paragraph (3) of paragraph 18 applies.
+(2) An unaccompanied child may be detained under paragraph 16(2) in a 
+short-term holding facility for a maximum period of 24 hours, and only 
+for so long as the following two conditions are met.
+(3) The first condition is that—
+(a)
+directions are in force that require the child to be removed from 
+the short-term holding facility within the relevant 24 hour period, 
+or
+(b)
+a decision on whether or not to give directions is likely to result 
+in such directions.
+(4) The second condition is that the immigration officer under whose 
+authority the child is being detained reasonably believes that the child will 
+be removed from the short-term holding facility within the relevant 24 
+hour period in accordance with those directions.
+(5) An unaccompanied child detained under paragraph 16(2) who has been 
+removed from a short-term holding facility and detained elsewhere may 
+be detained again in a short-term holding facility but only if, and for as 
+long as, the relevant 24 hour period has not ended.
+
+
+## Page 7
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+7
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) An unaccompanied child who has been released following detention 
+under paragraph 16(2) may be detained again in a short-term holding 
+facility in accordance with this paragraph.
+(7) In this paragraph—
+“relevant 24 hour period”, in relation to the detention of a child 
+in a short-term holding facility, means the period of 24 hours 
+starting when the child was detained (or, in a case falling within 
+sub-paragraph (5), first detained) in a short-term holding facility;
+“short-term holding facility” has the same meaning as in Part 
+8 of the Immigration and Asylum Act 1999;
+“unaccompanied child” means a person—
+(a) who is under the age of 18, and
+(b) who is not accompanied (whilst in detention) by his or her 
+parent or another individual who has care of him or her.”
+Commencement Information
+I5
+S. 5 in force at 28.7.2014 by S.I. 2014/1820, art. 3(d)
+6
+Pre-departure accommodation for families
+(1) Part 8 of the Immigration and Asylum Act 1999 (removal centres and detained 
+persons) is amended as follows.
+(2) In section 147 (interpretation)—
+(a)
+after the definition of “custodial functions” insert—
+““detained children” means detained persons who are under the age 
+of 18;”;
+(b)
+after the definition of “escort monitor” insert—
+““pre-departure accommodation” means a place used solely for the 
+detention of detained children and their families for a period of—
+(a)
+not more than 72 hours, or
+(b)
+not more than seven days in cases where the longer period 
+of detention is authorised personally by a Minister of the 
+Crown (within the meaning of the Ministers of the Crown 
+Act 1975);”;
+(c)
+in the definition of “removal centre”, after “facility,” insert “ pre-departure 
+accommodation, ”;
+(d)
+in the definition of “short-term holding facility”, at the end insert—
+“but which is not pre-departure accommodation.”
+(3) In section 155 (custodial functions and discipline), in subsection (2), at the end insert
+“ and in pre-departure accommodation ”.
+(4) After section 157 insert—
+
+
+## Page 8
+
+8
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“157A Pre-departure accommodation
+(1) The following provisions of this Part apply to pre-departure accommodation 
+as they apply to removal centres—
+(a)
+section 149 (contracting out of certain removal centres);
+(b)
+section 150 (contracting out functions at directly managed removal 
+centres);
+(c)
+section 151 (intervention by Secretary of State).
+(2) In the application of those provisions to pre-departure accommodation—
+(a)
+references to a removal centre contract are to be read as a contract 
+made under section 149(1) for the provision or running of pre-
+departure accommodation;
+(b)
+references to a contracted out removal centre are to be read as 
+references to pre-departure accommodation in relation to which a 
+contract under section 149(1) is in force;
+(c)
+references to a directly managed removal centre are to be read as 
+references to pre-departure accommodation in relation to which there 
+is no contract under section 149(1) in force;
+(d)
+references to removal centre rules are to be read as references to rules 
+made under subsection (4).
+(3) The Secretary of State may by regulations extend to pre-departure 
+accommodation any other provision made by or under this Part in relation to 
+removal centres.
+(4) The Secretary of State may make rules for the regulation and management of 
+pre-departure accommodation.”
+Commencement Information
+I6
+S. 6 in force at 28.7.2014 by S.I. 2014/1820, art. 3(e)
+7
+Immigration bail: repeat applications and effect of removal directions
+(1) Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on 
+entry etc) is amended as follows.
+(2) In paragraph 22 (bail) at the end insert—
+“(4) A person must not be released on bail in accordance with this paragraph 
+without the consent of the Secretary of State if—
+(a)
+directions for the removal of the person from the United Kingdom are 
+for the time being in force, and
+(b)
+the directions require the person to be removed from the United 
+Kingdom within the period of 14 days starting with the date of the 
+decision on whether the person should be released on bail.”
+(3) In paragraph 25—
+(a)
+the existing paragraph is re-numbered as sub-paragraph (1);
+(b)
+in that sub-paragraph, for “may” substitute “ must ”;
+
+
+## Page 9
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+9
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+after that sub-paragraph insert—
+“(2) Tribunal Procedure Rules must secure that, where the First-tier 
+Tribunal has decided not to release a person on bail under paragraph 
+22, the Tribunal is required to dismiss without a hearing any further 
+application by the person for release on bail (whether under paragraph 
+22 or otherwise) that is made during the period of 28 days starting with 
+the date of the Tribunal's decision, unless the person demonstrates to 
+the Tribunal that there has been a material change in circumstances.”
+(4) In paragraph 29 (grant of bail pending appeal), in sub-paragraph (1), at the end insert
+“ (and paragraph 22 does not apply) ”.
+(5) In paragraph 30 (restrictions on grant of bail pending appeal), in sub-paragraph (1)—
+(a)
+after “if” insert “ — (a) ”;
+(b)
+for “or the power to give such directions is for the time being exercisable” 
+substitute “and
+(b)
+the directions require the person to be removed from the 
+United Kingdom within the period of 14 days starting with 
+the date of the decision on whether the person should be 
+released on bail.”
+(6) After paragraph 33, insert—
+“33A(1) Tribunal Procedure Rules must make provision with respect to applications 
+to the First-tier Tribunal under paragraphs 29 to 33 and matters arising out of 
+such applications.
+(2) Tribunal Procedure Rules must secure that, where the First-tier Tribunal has 
+decided not to release a person on bail under paragraph 29, the Tribunal is 
+required to dismiss without a hearing any further application by the person 
+for release on bail (whether under paragraph 29 or otherwise) that is made 
+during the period of 28 days starting with the date of the Tribunal's decision, 
+unless the person demonstrates to the Tribunal that there has been a material 
+change in circumstances.”
+Commencement Information
+I7
+S. 7(1)(2)(5) in force at 28.7.2014 by S.I. 2014/1820, art. 3(f)
+I8
+S. 7(3)(4)(6) in force at 20.10.2014 by S.I. 2014/2771, art. 4(a)
+Biometrics
+8
+Provision of biometric information with immigration applications
+(1) Section 126 of the Nationality, Immigration and Asylum Act 2002 (power to require 
+provision of physical data with certain immigration applications) is amended as 
+follows.
+(2) In subsection (2), after paragraph (c) insert—
+
+
+## Page 10
+
+10
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(d)
+a transit visa (within the meaning of section 41 of the Immigration 
+and Asylum Act 1999), or
+(e)
+a document issued as evidence that a person who is not a national of 
+an EEA state or Switzerland is entitled to enter or remain in the United 
+Kingdom by virtue of an enforceable EU right or of any provision 
+made under section 2(2) of the European Communities Act 1972.”
+(3) In subsection (4), after paragraph (f) insert—
+“(fa)
+provide for biometric information to be recorded on any document 
+issued as a result of the application in relation to which the 
+information was provided;”.
+(4) In subsection (9), after the definition of “code” insert—
+““document” includes a card or sticker and any other method of recording 
+information (whether in writing or by the use of electronic or other technology 
+or by a combination of methods),”.
+Modifications etc. (not altering text)
+C5
+S. 8 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358), art. 
+4, Sch. 3
+C6
+S. 8 extended (Isle of Man) (with modifications) by S.I. 2008/680, art. 22, Sch. 9A (as amended: 
+(14.3.2019) by S.I. 2019/562, arts. 1, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) 
+by S.I. 2021/1277, arts. 1(2), 6)
+Commencement Information
+I9
+S. 8 in force at 28.7.2014 by S.I. 2014/1820, art. 3(g)
+9
+Identifying persons liable to detention
+In paragraph 18(2) of Schedule 2 to the Immigration Act 1971 (power to take steps for 
+identifying persons detained under paragraph 16 of that Schedule) after “detained” 
+insert “ or liable to be detained ”.
+Modifications etc. (not altering text)
+C7
+S. 9 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+C8
+S. 9 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Guernsey) Order 2020 (S.I. 2020/1560), arts. 1(1), 5, Sch. 4, Sch. 
+4A
+Commencement Information
+I10
+S. 9 in force at 28.7.2014 by S.I. 2014/1820, art. 3(h)
+
+
+## Page 11
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+11
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+10
+Provision of biometric information with citizenship applications
+(1) Section 41 of the British Nationality Act 1981 (regulations for giving effect to the Act) 
+is amended as follows.
+(2) In subsection (1), after paragraph (b) insert—
+“(bza)
+requiring an application for registration or naturalisation of a person 
+as a British citizen to be accompanied by biometric information, or 
+enabling an authorised person to require an individual to whom such 
+an application relates to provide biometric information;”.
+(3) After subsection (1) insert—
+“(1ZA) In subsection (1)(bza) “authorised person” and “biometric information” have 
+the same meaning as in section 126 of the Nationality, Immigration and 
+Asylum Act 2002.
+(1ZB) Section 126(4) to (7) of that Act applies to regulations under subsection (1)
+(bza) as it applies to regulations under section 126(1) of that Act.
+(1ZC) Section 8 of the UK Borders Act 2007 (power to make regulations about 
+use and retention of biometric information) applies to biometric information 
+provided in accordance with regulations under subsection (1)(bza) as it applies 
+to biometric information provided in accordance with regulations under 
+section 5(1) of that Act.
+(1ZD) But (despite section 8(5)(b) of that Act) regulations made by virtue of 
+subsection (1ZC) may provide for photographs of a person who is registered 
+or naturalised as a British citizen to be retained until the person is issued with 
+a United Kingdom passport describing the person as a British citizen.”
+(4) In subsection (8)(b) for “(1)(bc)” substitute “ (1)(bza), (bc) ”.
+Commencement Information
+I11
+S. 10 in force at 28.7.2014 by S.I. 2014/1820, art. 3(i)
+11
+Biometric immigration documents
+After section 7(2) of the UK Borders Act 2007 (effect of failure to comply with 
+regulations about biometric immigration documents) insert—
+“(2A) If the regulations require a biometric immigration document to be used in 
+connection with an application or claim, they may require or permit the 
+application or claim to be disregarded or refused if that requirement is not 
+complied with.”
+Modifications etc. (not altering text)
+C9
+S. 11 extended (Isle of Man) (with modifications) by S.I. 2008/680, art. 22, Sch. 9A (as amended: 
+(14.3.2019) by S.I. 2019/562, arts. 1, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) 
+by S.I. 2021/1277, arts. 1(2), 6)
+
+
+## Page 12
+
+12
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I12
+S. 11 in force at 28.7.2014 by S.I. 2014/1820, art. 3(j)
+12
+Meaning of “biometric information”
+(1) Section 15 of the UK Borders Act 2007 (biometric immigration documents: 
+interpretation) is amended as follows.
+(2) In subsection (1), omit paragraphs (b) and (c).
+(3) After subsection (1) insert—
+“(1A) For the purposes of section 5 “biometric information” means—
+(a)
+information about a person's external physical characteristics 
+(including in particular fingerprints and features of the iris), and
+(b)
+any other information about a person's physical characteristics 
+specified in an order made by the Secretary of State.
+(1B) An order under subsection (1A)(b)—
+(a)
+may specify only information that can be obtained or recorded by an 
+external examination of a person;
+(b)
+must not specify information about a person's DNA.
+(1C) Section 6(6) applies to an order under subsection (1A)(b) as it applies to 
+regulations under section 5(1).”
+(4) Schedule 2 (which amends other enactments) has effect.
+Modifications etc. (not altering text)
+C10
+S. 12 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Guernsey) Order 2020 (S.I. 2020/1560), arts. 1(1), 5, Sch. 4, Sch. 
+4A
+C11
+S. 12 extended (Isle of Man) (with modifications) by S.I. 2008/680, art. 22, Sch. 9A (as amended: 
+(14.3.2019) by S.I. 2019/562, arts. 1, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) 
+by S.I. 2021/1277, arts. 1(2), 6)
+C12
+S. 12(4) extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+Commencement Information
+I13
+S. 12 in force at 28.7.2014 by S.I. 2014/1820, art. 3(k)
+13
+Safeguards for children
+(1) Schedule 2 to the Immigration Act 1971 (entry control) is amended as follows.
+(2) In paragraph 4 (power to take biometric information on examination), after sub-
+paragraph (6) (as inserted by paragraph 1(3) of Schedule 2) insert—
+“(7) A person (“P”) who is under 16 may not be required to provide biometric 
+information under sub-paragraph (5) unless—
+
+
+## Page 13
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+13
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+the decision to require P to provide the information has been 
+confirmed by a chief immigration officer, and
+(b)
+the information is provided in the presence of a person of full age 
+who is—
+(i) P's parent or guardian, or
+(ii) a person who for the time being takes responsibility for P.
+(8) The person mentioned in sub-paragraph (7)(b)(ii) may not be—
+(a)
+a person who is entitled to require the provision of information 
+under sub-paragraph (5) (an “authorised person”), or
+(b)
+an officer of the Secretary of State who is not such a person.
+(9) Sub-paragraph (7) does not prevent an authorised person requiring the 
+provision of biometric information by a person the authorised person 
+reasonably believes to be 16 or over.”
+(3) In paragraph 18 (power to take biometric information from detained persons), after 
+sub-paragraph (2A) insert—
+“(2B) Paragraph 4(7) to (9) applies to sub-paragraph (2) as it applies to paragraph 
+4(5).”
+Modifications etc. (not altering text)
+C13
+S. 13 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+C14
+S. 13 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Guernsey) Order 2020 (S.I. 2020/1560), arts. 1(1), 5, Sch. 4, Sch. 
+4A
+C15
+S. 13 extended (Isle of Man) (with modifications) by S.I. 2008/680, art. 22, Sch. 9A (as amended: 
+(14.3.2019) by S.I. 2019/562, arts. 1, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) 
+by S.I. 2021/1277, arts. 1(2), 6)
+Commencement Information
+I14
+S. 13 in force at 28.7.2014 by S.I. 2014/1820, art. 3(l)
+14
+Use and retention of biometric information
+(1) For section 8 of the UK Borders Act 2007 substitute—
+“8 Use and retention of biometric information
+(1) The Secretary of State must by regulations make provision about the use 
+and retention by the Secretary of State of biometric information provided in 
+accordance with regulations under section 5(1).
+(2) The regulations must provide that biometric information may be retained 
+only if the Secretary of State thinks that it is necessary to retain it for use in 
+connection with—
+(a)
+the exercise of a function by virtue of the Immigration Acts, or
+(b)
+the exercise of a function in relation to nationality.
+
+
+## Page 14
+
+14
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) The regulations may include provision permitting biometric information 
+retained by virtue of subsection (2) also to be used—
+(a)
+in connection with the prevention, investigation or prosecution of an 
+offence,
+(b)
+for a purpose which appears to the Secretary of State to be required 
+in order to protect national security,
+(c)
+in connection with identifying persons who have died, or are suffering 
+from illness or injury,
+(d)
+for the purpose of ascertaining whether a person has acted unlawfully, 
+or has obtained or sought anything to which the person is not legally 
+entitled, and
+(e)
+for such other purposes (whether in accordance with functions under 
+an enactment or otherwise) as the regulations may specify.
+(4) The regulations must include provision about the destruction of biometric 
+information.
+(5) In particular the regulations must require the Secretary of State to take all 
+reasonable steps to ensure that biometric information is destroyed if the 
+Secretary of State—
+(a)
+no longer thinks that it is necessary to retain the information for use 
+as mentioned in subsection (2), or
+(b)
+is satisfied that the person to whom the information relates is a British 
+citizen, or a Commonwealth citizen who has a right of abode in the 
+United Kingdom as a result of section 2(1)(b) of the Immigration Act 
+1971.
+(6) The regulations must also—
+(a)
+require that any requirement to destroy biometric information by 
+virtue of the regulations also applies to copies of the information, and
+(b)
+require the Secretary of State to take all reasonable steps to ensure—
+(i) that data held in electronic form which relates to biometric 
+information which has to be destroyed by virtue of the 
+regulations is destroyed or erased, or
+(ii) that access to such data is blocked.
+(7) But a requirement to destroy biometric information or data is not to apply if 
+and in so far as the information or data is retained in accordance with and for 
+the purposes of another power.
+(8) The regulations must include provision—
+(a)
+entitling a person whose biometric information has to be destroyed 
+by virtue of the regulations, on request, to a certificate issued by the 
+Secretary of State to the effect that the Secretary of State has taken 
+the steps required by virtue of subsection (6)(b), and
+(b)
+requiring such a certificate to be issued within the period of 3 months 
+beginning with the date on which the request for it is received by the 
+Secretary of State.
+(9) Section 6(6) applies to regulations under this section as it applies to 
+regulations under section 5(1).”
+
+
+## Page 15
+
+Immigration Act 2014 (c. 22)
+PART 1 – Removal and other powers
+Document Generated: 2026-02-14
+15
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) In the Immigration and Asylum Act 1999, after section 144 insert—
+“144A Use and retention of fingerprints etc.
+(1) Section 8 of the UK Borders Act 2007 (power to make regulations about use 
+and retention of biometric information) applies to—
+(a)
+fingerprints taken by virtue of section 141, and
+(b)
+biometric information taken by virtue of regulations under 
+section 144,
+as it applies to biometric information provided in accordance with regulations 
+under section 5(1) of that Act.
+(2) Regulations made by virtue of subsection (1)(a) must require fingerprints 
+taken from a person (“F”) by virtue of section 141(7)(f) to be destroyed when 
+fingerprints taken from the person whose dependant F is are destroyed.
+(3) Regulations made by virtue of subsection (1)(b) must make equivalent 
+provision in relation to biometric information taken by virtue of any provision 
+of regulations under section 144 which is equivalent to section 141(7)(f).”
+(3) In section 126 of the Nationality, Immigration and Asylum Act 2002 (power to require 
+provision of physical data with certain immigration applications), after subsection (8)
+insert—
+“(8A) Section 8 of the UK Borders Act 2007 (power to make regulations about 
+use and retention of biometric information) applies to biometric information 
+provided in accordance with regulations under subsection (1) as it applies 
+to biometric information provided in accordance with regulations under 
+section 5(1) of that Act.”
+Modifications etc. (not altering text)
+C16
+S. 14 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+C17
+S. 14 extended (Isle of Man) (with modifications) by S.I. 2008/680, art. 22, Sch. 9A (as amended: 
+(14.3.2019) by S.I. 2019/562, arts. 1, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) 
+by S.I. 2021/1277, arts. 1(2), 6)
+C18
+S. 14(3) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358), art. 
+4, Sch. 3
+Commencement Information
+I15
+S. 14 in force at 28.7.2014 by S.I. 2014/1820, art. 3(m)
+
+
+## Page 16
+
+16
+Immigration Act 2014 (c. 22)
+PART 2 – Appeals etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 2
+APPEALS ETC
+15
+Right of appeal to First-tier Tribunal
+(1) Part 5 of the Nationality, Immigration and Asylum Act 2002 (immigration and asylum 
+appeals) is amended as follows.
+(2) For section 82 substitute—
+“82 Right of appeal to the Tribunal
+(1) A person (“P”) may appeal to the Tribunal where—
+(a)
+the Secretary of State has decided to refuse a protection claim made 
+by P,
+(b)
+the Secretary of State has decided to refuse a human rights claim made 
+by P, or
+(c)
+the Secretary of State has decided to revoke P's protection status.
+(2) For the purposes of this Part—
+(a)
+a “protection claim” is a claim made by a person (“P”) that removal 
+of P from the United Kingdom—
+(i) would breach the United Kingdom's obligations under the 
+Refugee Convention, or
+(ii) would breach the United Kingdom's obligations in relation to 
+persons eligible for a grant of humanitarian protection;
+(b)
+P's protection claim is refused if the Secretary of State makes one or 
+more of the following decisions—
+(i) that removal of P from the United Kingdom would not 
+breach the United Kingdom's obligations under the Refugee 
+Convention;
+(ii) that removal of P from the United Kingdom would not breach 
+the United Kingdom's obligations in relation to persons 
+eligible for a grant of humanitarian protection;
+(c)
+a person has “protection status” if the person has been granted leave 
+to enter or remain in the United Kingdom as a refugee or as a person 
+eligible for a grant of humanitarian protection;
+(d)
+“humanitarian protection” is to be construed in accordance with the 
+immigration rules;
+(e)
+“refugee” has the same meaning as in the Refugee Convention.
+(3) The right of appeal under subsection (1) is subject to the exceptions and 
+limitations specified in this Part.”
+(3) Sections 83 and 83A (appeal rights in respect of asylum claims) are repealed.
+(4) For section 84 substitute—
+
+
+## Page 17
+
+Immigration Act 2014 (c. 22)
+PART 2 – Appeals etc
+Document Generated: 2026-02-14
+17
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“84 Grounds of appeal
+(1) An appeal under section 82(1)(a) (refusal of protection claim) must be brought 
+on one or more of the following grounds—
+(a)
+that removal of the appellant from the United Kingdom would breach 
+the United Kingdom's obligations under the Refugee Convention;
+(b)
+that removal of the appellant from the United Kingdom would breach 
+the United Kingdom's obligations in relation to persons eligible for a 
+grant of humanitarian protection;
+(c)
+that removal of the appellant from the United Kingdom would be 
+unlawful under section 6 of the Human Rights Act 1998 (public 
+authority not to act contrary to Human Rights Convention).
+(2) An appeal under section 82(1)(b) (refusal of human rights claim) must be 
+brought on the ground that the decision is unlawful under section 6 of the 
+Human Rights Act 1998.
+(3) An appeal under section 82(1)(c) (revocation of protection status) must be 
+brought on one or more of the following grounds—
+(a)
+that the decision to revoke the appellant's protection status breaches 
+the United Kingdom's obligations under the Refugee Convention;
+(b)
+that the decision to revoke the appellant's protection status breaches 
+the United Kingdom's obligations in relation to persons eligible for a 
+grant of humanitarian protection.”
+(5) In section 85 (matters to be considered), for subsection (5) substitute—
+“(5) But the Tribunal must not consider a new matter unless the Secretary of State 
+has given the Tribunal consent to do so.
+(6) A matter is a “new matter” if—
+(a)
+it constitutes a ground of appeal of a kind listed in section 84, and
+(b)
+the Secretary of State has not previously considered the matter in the 
+context of—
+(i) the decision mentioned in section 82(1), or
+(ii) a statement made by the appellant under section 120.”
+Commencement Information
+I16
+S. 15 in force at 20.10.2014 by S.I. 2014/2771, art. 2(b) (with arts. 9-11) (as amended (2.3.2015 and 
+6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+16
+Report by Chief Inspector on administrative review
+(1) Before the end of the period of 12 months beginning on the day on which section 15 
+comes into force, the Secretary of State must commission from the Chief Inspector a 
+report that addresses the following matters—
+(a)
+the effectiveness of administrative review in identifying case working errors;
+(b)
+the effectiveness of administrative review in correcting case working errors;
+
+
+## Page 18
+
+18
+Immigration Act 2014 (c. 22)
+PART 2 – Appeals etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+the independence of persons conducting administrative review (in terms of 
+their separation from the original decision-maker).
+(2) On completion of the report, the Chief Inspector must send it to the Secretary of State.
+(3) The Secretary of State must lay before Parliament a copy of the report received under 
+subsection (2).
+(4) In this section—
+“administrative review” means review conducted under the immigration 
+rules;
+“case working error” has the meaning given in the immigration rules;
+the “Chief Inspector” means the Chief Inspector established under 
+section 48 of the UK Borders Act 2007;
+“immigration rules” has the same meaning as in the Immigration Act 1971.
+Commencement Information
+I17
+S. 16 in force at 20.10.2014 by S.I. 2014/2771, art. 4(a)
+17
+Place from which appeal may be brought or continued
+(1) Part 5 of the Nationality, Immigration and Asylum Act 2002 (immigration and asylum 
+appeals) is amended as follows.
+(2) For section 92 substitute—
+“92 Place from which an appeal may be brought or continued
+(1) This section applies to determine the place from which an appeal under 
+section 82(1) may be brought or continued.
+(2) In the case of an appeal under section 82(1)(a) (protection claim appeal), the 
+appeal must be brought from outside the United Kingdom if—
+(a)
+the claim to which the appeal relates has been certified under 
+section 94(1) or (7) (claim clearly unfounded or removal to safe third 
+country), or
+(b)
+paragraph 5(3)(a), 10(3), 15(3) or 19(b) of Schedule 3 to the Asylum 
+and Immigration (Treatment of Claimants, etc) Act 2004 (removal of 
+asylum seeker to safe third country) applies.
+Otherwise, the appeal must be brought from within the United Kingdom.
+(3) In the case of an appeal under section 82(1)(b) (human rights claim appeal) 
+where the claim to which the appeal relates was made while the appellant was 
+in the United Kingdom, the appeal must be brought from outside the United 
+Kingdom if—
+(a)
+the claim to which the appeal relates has been certified under 
+section 94(1) or (7) (claim clearly unfounded or removal to safe third 
+country) or section 94B (certification of human rights claims made 
+by persons liable to deportation), or
+
+
+## Page 19
+
+Immigration Act 2014 (c. 22)
+PART 2 – Appeals etc
+Document Generated: 2026-02-14
+19
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+paragraph 5(3)(b) or (4), 10(4), 15(4) or 19(c) of Schedule 3 to the 
+Asylum and Immigration (Treatment of Claimants, etc) Act 2004 
+(removal of asylum seeker to safe third country) applies.
+Otherwise, the appeal must be brought from within the United Kingdom.
+(4) In the case of an appeal under section 82(1)(b) (human rights claim appeal) 
+where the claim to which the appeal relates was made while the appellant was 
+outside the United Kingdom, the appeal must be brought from outside the 
+United Kingdom.
+(5) In the case of an appeal under section 82(1)(c) (revocation of protection status)
+—
+(a)
+the appeal must be brought from within the United Kingdom if the 
+decision to which the appeal relates was made while the appellant was 
+in the United Kingdom;
+(b)
+the appeal must be brought from outside the United Kingdom if the 
+decision to which the appeal relates was made while the appellant was 
+outside the United Kingdom.
+(6) If, after an appeal under section 82(1)(a) or (b) has been brought from within 
+the United Kingdom, the Secretary of State certifies the claim to which the 
+appeal relates under section 94(1) or (7) or section 94B, the appeal must be 
+continued from outside the United Kingdom.
+(7) Where a person brings or continues an appeal under section 82(1)(a) (refusal 
+of protection claim) from outside the United Kingdom, for the purposes of 
+considering whether the grounds of appeal are satisfied, the appeal is to be 
+treated as if the person were not outside the United Kingdom.
+(8) Where an appellant brings an appeal from within the United Kingdom but 
+leaves the United Kingdom before the appeal is finally determined, the appeal 
+is to be treated as abandoned unless the claim to which the appeal relates has 
+been certified under section 94(1) or (7) or section 94B.”
+(3) After section 94A, insert—
+“94B Appeal from within the United Kingdom: certification of human 
+rights claims made by persons liable to deportation
+(1) This section applies where a human rights claim has been made by a person 
+(“P”) who is liable to deportation under—
+(a)
+section 3(5)(a) of the Immigration Act 1971 (Secretary of State 
+deeming deportation conducive to public good), or
+(b)
+section 3(6) of that Act (court recommending deportation following 
+conviction).
+(2) The Secretary of State may certify the claim if the Secretary of State considers 
+that, despite the appeals process not having been begun or not having been 
+exhausted, removal of P to the country or territory to which P is proposed to be 
+removed, pending the outcome of an appeal in relation to P's claim, would not 
+be unlawful under section 6 of the Human Rights Act 1998 (public authority 
+not to act contrary to Human Rights Convention).
+
+
+## Page 20
+
+20
+Immigration Act 2014 (c. 22)
+PART 2 – Appeals etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) The grounds upon which the Secretary of State may certify a claim under 
+subsection (2) include (in particular) that P would not, before the appeals 
+process is exhausted, face a real risk of serious irreversible harm if removed 
+to the country or territory to which P is proposed to be removed.”
+Commencement Information
+I18
+S. 17(1)(3) in force at 28.7.2014 by S.I. 2014/1820, art. 3(n)
+I19
+S. 17(2) in force at 20.10.2014 by S.I. 2014/2771, art. 2(c) (with arts. 9-11, 15) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+18
+Review of certain deportation decisions by Special Immigration Appeals 
+Commission
+In the Special Immigration Appeals Commission Act 1997, after section 2D insert—
+“2E Jurisdiction: review of certain deportation decisions
+(1) Subsection (2) applies in relation to a relevant deportation decision which has 
+been certified under section 97 or 97A(1) of the Nationality, Immigration and 
+Asylum Act 2002 (certification on grounds of national security etc).
+(2) The person to whom the decision relates may apply to the Special Immigration 
+Appeals Commission to set aside the decision.
+(3) In determining whether the decision should be set aside, the Commission must 
+apply the principles which would be applied in judicial review proceedings.
+(4) If the Commission decides that the decision should be set aside, it may make 
+any such order, or give any such relief, as may be made or given in judicial 
+review proceedings.
+(5) In this section “relevant deportation decision” means a decision of the 
+Secretary of State about the deportation of a person from the United Kingdom, 
+if and to the extent that—
+(a)
+the decision is not subject to a right of appeal, or
+(b)
+the decision (being subject to a right of appeal) gives rise to issues 
+which may not be raised on such an appeal.”
+Commencement Information
+I20
+S. 18 in force at 6.4.2015 by S.I. 2015/371, art. 4(a)
+19
+Article 8 of the ECHR: public interest considerations
+After Part 5 of the Nationality, Immigration and Asylum Act 2002 insert—
+
+
+## Page 21
+
+Immigration Act 2014 (c. 22)
+PART 5A – Article 8 of the ECHR: public interest considerations
+Document Generated: 2026-02-14
+21
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“PART 5A
+ARTICLE 8 OF THE ECHR: PUBLIC INTEREST CONSIDERATIONS
+117A Application of this Part
+(1) This Part applies where a court or tribunal is required to determine whether a 
+decision made under the Immigration Acts—
+(a)
+breaches a person's right to respect for private and family life under 
+Article 8, and
+(b)
+as a result would be unlawful under section 6 of the Human Rights 
+Act 1998.
+(2) In considering the public interest question, the court or tribunal must (in 
+particular) have regard—
+(a)
+in all cases, to the considerations listed in section 117B, and
+(b)
+in cases concerning the deportation of foreign criminals, to the 
+considerations listed in section 117C.
+(3) In subsection (2), “the public interest question” means the question of whether 
+an interference with a person's right to respect for private and family life is 
+justified under Article 8(2).
+117B Article 8: public interest considerations applicable in all cases
+(1) The maintenance of effective immigration controls is in the public interest.
+(2) It is in the public interest, and in particular in the interests of the economic 
+well-being of the United Kingdom, that persons who seek to enter or remain 
+in the United Kingdom are able to speak English, because persons who can 
+speak English—
+(a)
+are less of a burden on taxpayers, and
+(b)
+are better able to integrate into society.
+(3) It is in the public interest, and in particular in the interests of the economic 
+well-being of the United Kingdom, that persons who seek to enter or remain 
+in the United Kingdom are financially independent, because such persons—
+(a)
+are not a burden on taxpayers, and
+(b)
+are better able to integrate into society.
+(4) Little weight should be given to—
+(a)
+a private life, or
+(b)
+a relationship formed with a qualifying partner,
+that is established by a person at a time when the person is in the United 
+Kingdom unlawfully.
+(5) Little weight should be given to a private life established by a person at a time 
+when the person's immigration status is precarious.
+(6) In the case of a person who is not liable to deportation, the public interest does 
+not require the person's removal where—
+
+
+## Page 22
+
+22
+Immigration Act 2014 (c. 22)
+PART 5A – Article 8 of the ECHR: public interest considerations
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+the person has a genuine and subsisting parental relationship with a 
+qualifying child, and
+(b)
+it would not be reasonable to expect the child to leave the United 
+Kingdom.
+117C Article 8: additional considerations in cases involving foreign criminals
+(1) The deportation of foreign criminals is in the public interest.
+(2) The more serious the offence committed by a foreign criminal, the greater is 
+the public interest in deportation of the criminal.
+(3) In the case of a foreign criminal (“C”) who has not been sentenced to a period of 
+imprisonment of four years or more, the public interest requires C's deportation 
+unless Exception 1 or Exception 2 applies.
+(4) Exception 1 applies where—
+(a)
+C has been lawfully resident in the United Kingdom for most of C's 
+life,
+(b)
+C is socially and culturally integrated in the United Kingdom, and
+(c)
+there would be very significant obstacles to C's integration into the 
+country to which C is proposed to be deported.
+(5) Exception 2 applies where C has a genuine and subsisting relationship with 
+a qualifying partner, or a genuine and subsisting parental relationship with a 
+qualifying child, and the effect of C's deportation on the partner or child would 
+be unduly harsh.
+(6) In the case of a foreign criminal who has been sentenced to a period of 
+imprisonment of at least four years, the public interest requires deportation 
+unless there are very compelling circumstances, over and above those 
+described in Exceptions 1 and 2.
+(7) The considerations in subsections (1) to (6) are to be taken into account where 
+a court or tribunal is considering a decision to deport a foreign criminal only 
+to the extent that the reason for the decision was the offence or offences for 
+which the criminal has been convicted.
+117D Interpretation of this Part
+(1) In this Part—
+“Article 8” means Article 8 of the European Convention on Human 
+Rights;
+“qualifying child” means a person who is under the age of 18 and
+who—
+(a) is a British citizen, or
+(b) has lived in the United Kingdom for a continuous period of seven 
+years or more;
+“qualifying partner” means a partner who—
+(a) is a British citizen, or
+(b) who is settled in the United Kingdom (within the meaning of the 
+Immigration Act 1971 — see section 33(2A) of that Act).
+
+
+## Page 23
+
+Immigration Act 2014 (c. 22)
+PART 5A – Article 8 of the ECHR: public interest considerations
+Document Generated: 2026-02-14
+23
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) In this Part, “foreign criminal” means a person—
+(a)
+who is not a British citizen,
+(b)
+who has been convicted in the United Kingdom of an offence, and
+(c)
+who—
+(i) has been sentenced to a period of imprisonment of at least 12 
+months,
+(ii) has been convicted of an offence that has caused serious harm, 
+or
+(iii) is a persistent offender.
+(3) For the purposes of subsection (2)(b), a person subject to an order under—
+(a)
+section 5 of the Criminal Procedure (Insanity) Act 1964 (insanity etc),
+(b)
+section 57 of the Criminal Procedure (Scotland) Act 1995 (insanity 
+etc), or
+(c)
+Article 50A of the Mental Health (Northern Ireland) Order 1986 
+(insanity etc),
+has not been convicted of an offence.
+(4) In this Part, references to a person who has been sentenced to a period of 
+imprisonment of a certain length of time—
+(a)
+do not include a person who has received a suspended sentence (unless 
+a court subsequently orders that the sentence or any part of it (of 
+whatever length) is to take effect);
+(b)
+do not include a person who has been sentenced to a period of 
+imprisonment of that length of time only by virtue of being sentenced 
+to consecutive sentences amounting in aggregate to that length of time;
+(c)
+include a person who is sentenced to detention, or ordered or directed 
+to be detained, in an institution other than a prison (including, in 
+particular, a hospital or an institution for young offenders) for that 
+length of time; and
+(d)
+include a person who is sentenced to imprisonment or detention, 
+or ordered or directed to be detained, for an indeterminate period, 
+provided that it may last for at least that length of time.
+(5) If any question arises for the purposes of this Part as to whether a person is a 
+British citizen, it is for the person asserting that fact to prove it.”
+Commencement Information
+I21
+S. 19 in force at 28.7.2014 by S.I. 2014/1820, art. 3(o)
+
+
+## Page 24
+
+24
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 3
+ACCESS TO SERVICES ETC
+CHAPTER 1
+RESIDENTIAL TENANCIES
+Key interpretation
+20
+Residential tenancy agreement
+(1) This section applies for the purposes of this Chapter.
+(2) “Residential tenancy agreement” means a tenancy which—
+(a)
+grants a right of occupation of premises for residential use,
+(b)
+provides for payment of rent (whether or not a market rent), and
+(c)
+is not an excluded agreement.
+(3) In subsection (2), “tenancy” includes—
+(a)
+any lease, licence, sub-lease or sub-tenancy, and
+(b)
+an agreement for any of those things,
+and in this Chapter references to “landlord” and “tenant”, and references to premises 
+being “leased”, are to be read accordingly.
+(4) For the purposes of subsection (2)(a), an agreement grants a right of occupation of 
+premises “for residential use” if, under the agreement, one or more adults have the right 
+to occupy the premises as their only or main residence (whether or not the premises 
+may also be used for other purposes).
+(5) In subsection (2)(b) “rent” includes any sum paid in the nature of rent.
+(6) In subsection (2)(c) “excluded agreement” means any agreement of a description for 
+the time being specified in Schedule 3.
+(7) The Secretary of State may by order amend Schedule 3 so as to—
+(a)
+add a new description of excluded agreement,
+(b)
+remove any description, or
+(c)
+amend any description.
+Commencement Information
+I22
+S. 20 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(a)
+I23
+S. 20 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(a)
+21
+Persons disqualified by immigration status or with limited right to rent
+(1) For the purposes of this Chapter, a person (“P”) is disqualified as a result of their 
+immigration status from occupying premises under a residential tenancy agreement
+if—
+
+
+## Page 25
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+25
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+P is not a relevant national, and
+(b)
+P does not have a right to rent in relation to the premises.
+(2) P does not have a “right to rent” in relation to premises if—
+(a)
+P requires leave to enter or remain in the United Kingdom but does not have 
+it, or
+(b)
+P's leave to enter or remain in the United Kingdom is subject to a condition 
+preventing P from occupying the premises.
+(3) But P is to be treated as having a right to rent in relation to premises (in spite of 
+subsection (2)) if the Secretary of State has granted P permission for the purposes of 
+this Chapter to occupy premises under a residential tenancy agreement.
+(4) References in this Chapter to a person with a “limited right to rent” are references to—
+(a)
+a person who has been granted leave to enter or remain in the United Kingdom 
+for a limited period, or
+(b)
+a person who—
+(i) is not a relevant national, F1...
+F1(ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5) In this section “relevant national” means—
+(a)
+a British citizen,
+[F2(aa)
+an Irish citizen, or
+(ab)
+a person who is not an Irish citizen and who has leave to enter or remain 
+in the United Kingdom which was granted by virtue of residence scheme 
+immigration rules within the meaning given by section 17 of the European 
+Union (Withdrawal Agreement) Act 2020.]
+F3(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F3(c)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+S. 21(4)(b)(ii) and word omitted (31.12.2020) by virtue of The Immigration and Social Security Co-
+ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) 
+(EU Exit) Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(2)(a)
+F2
+S. 21(5)(aa)(ab) inserted (31.12.2020) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(2)(b)(i)
+F3
+S. 21(5)(b)(c) omitted (31.12.2020) by virtue of The Immigration and Social Security Co-ordination 
+(EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(2)(b)(ii)
+Modifications etc. (not altering text)
+C19
+S. 21 applied (with modifications) (31.12.2020) by The Citizens' Rights (Application Deadline and 
+Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209), regs. 1(1), 3(4), 4(5), 12(1)(n)
+Commencement Information
+I24
+S. 21 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(b)
+I25
+S. 21 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(b)
+
+
+## Page 26
+
+26
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Penalty notices
+22
+Persons disqualified by immigration status not to be leased premises
+(1) A landlord must not authorise an adult to occupy premises under a residential tenancy 
+agreement if the adult is disqualified as a result of their immigration status.
+(2) A landlord is to be taken to “authorise” an adult to occupy premises in the 
+circumstances mentioned in subsection (1) if (and only if) there is a contravention of 
+this section.
+(3) There is a contravention of this section in either of the following cases.
+(4) The first case is where a residential tenancy agreement is entered into that, at the time 
+of entry, grants a right to occupy premises to—
+(a)
+a tenant who is disqualified as a result of their immigration status,
+(b)
+another adult named in the agreement who is disqualified as a result of their 
+immigration status, or
+(c)
+another adult not named in the agreement who is disqualified as a result of 
+their immigration status (subject to subsection (6)).
+(5) The second case is where—
+(a)
+a residential tenancy agreement is entered into that grants a right to occupy 
+premises on an adult with a limited right to rent,
+(b)
+the adult later becomes a person disqualified as a result of their immigration 
+status, and
+(c)
+the adult continues to occupy the premises after becoming disqualified.
+(6) There is a contravention as a result of subsection (4)(c) only if—
+(a)
+reasonable enquiries were not made of the tenant before entering into the 
+agreement as to the relevant occupiers, or
+(b)
+reasonable enquiries were so made and it was, or should have been, apparent 
+from the enquiries that the adult in question was likely to be a relevant 
+occupier.
+(7) Any term of a residential tenancy agreement that prohibits occupation of premises by 
+a person disqualified by their immigration status is to be ignored for the purposes of 
+determining whether there has been a contravention of this section if—
+(a)
+the landlord knew when entering into the agreement that the term would be 
+breached, or
+(b)
+the prescribed requirements were not complied with before entering into the 
+agreement.
+(8) It does not matter for the purposes of this section whether or not—
+(a)
+a right of occupation is exercisable on entering into an agreement or from a 
+later date;
+(b)
+a right of occupation is granted unconditionally or on satisfaction of a 
+condition.
+(9) A contravention of this section does not affect the validity or enforceability of any 
+provision of a residential tenancy agreement by virtue of any rule of law relating to 
+the validity or enforceability of contracts in circumstances involving illegality.
+(10) In this Chapter—
+
+
+## Page 27
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+27
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“post-grant contravention” means a contravention in the second case 
+mentioned in subsection (5);
+“pre-grant contravention” means a contravention in the first case mentioned 
+in subsection (4);
+“relevant occupier”, in relation to a residential tenancy agreement, means 
+any adult who occupies premises under the agreement (whether or not named 
+in the agreement).
+Commencement Information
+I26
+S. 22 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(c)
+I27
+S. 22 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(c)
+23
+Penalty notices: landlords
+(1) If there is a contravention of section 22, the Secretary of State may give the responsible 
+landlord a notice requiring the payment of a penalty.
+(2) The amount of the penalty is such an amount as the Secretary of State considers 
+appropriate, but the amount must not exceed [F4£20,000].
+(3) “Responsible landlord” means—
+(a)
+in relation to a pre-grant contravention, the landlord who entered into the 
+residential tenancy agreement;
+(b)
+in relation to a post-grant contravention, the person who is the landlord under 
+the agreement at the time of the contravention.
+(4) But if there is a superior landlord in relation to the residential tenancy agreement who 
+is responsible for the purposes of this section, the “responsible landlord” means that 
+superior landlord (and references to the landlord in the following provisions of this 
+Chapter are to be read accordingly).
+(5) A superior landlord is “responsible for the purposes of this section” if arrangements 
+in writing have been made in relation to the residential tenancy agreement between 
+the landlord and the superior landlord under which the superior landlord accepts 
+responsibility for—
+(a)
+contraventions of section 22 generally, or
+(b)
+contraventions of a particular description and the contravention in question is 
+of that description.
+(6) The Secretary of State may by order amend the amount for the time being specified 
+in subsection (2).
+Textual Amendments
+F4
+Sum in s. 23(2) substituted (13.2.2024) by The Immigration Act 2014 (Residential Accommodation) 
+(Maximum Penalty) Order 2024 (S.I. 2024/81), arts. 1(2), 2(2) (with art. 2(4))
+Commencement Information
+I28
+S. 23 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(d)
+I29
+S. 23 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(d)
+
+
+## Page 28
+
+28
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+I30
+S. 23(6) in force at 14.12.2023 in so far as not already in force by S.I. 2023/1245, art. 2(a)
+24
+Excuses available to landlords
+(1) This section applies where a landlord is given a notice under section 23 requiring 
+payment of a penalty.
+(2) Where the notice is given for a pre-grant contravention, the landlord is excused from 
+paying the penalty if the landlord shows that—
+(a)
+the prescribed requirements were complied with before the residential tenancy 
+agreement was entered into, or
+(b)
+a person acting as the landlord's agent is responsible for the contravention (see 
+section 25(2)).
+(3) The prescribed requirements may be complied with for the purposes of subsection (2)
+(a) at any time before the residential tenancy agreement is entered into.
+(4) But where compliance with the prescribed requirements discloses that a relevant 
+occupier is a person with a limited right to rent, the landlord is excused under 
+subsection (2)(a) only if the requirements are complied with in relation to that occupier 
+within such period as may be prescribed.
+(5) The excuse under subsection (2)(a) or (b) is not available if the landlord knew that 
+entering into the agreement would contravene section 22.
+(6) Where the notice is given for a post-grant contravention, the landlord is excused from 
+paying the penalty if any of the following applies—
+(a)
+the landlord has notified the Secretary of State of the contravention as soon 
+as reasonably practicable;
+(b)
+a person acting as the landlord's agent is responsible for the contravention;
+(c)
+the eligibility period in relation to the limited right occupier whose occupation 
+caused the contravention has not expired.
+(7) For the purposes of subsection (6)(a), the landlord is to be taken to have notified 
+the Secretary of State of the contravention “as soon as reasonably practicable” if the
+landlord—
+(a)
+complied with the prescribed requirements in relation to each limited right 
+occupier at the end of the eligibility period, and
+(b)
+notified the Secretary of State of the contravention without delay on it first 
+becoming apparent that the contravention had occurred.
+(8) Notification under subsection (6)(a) must be in the prescribed form and manner.
+(9) In this Chapter “limited right occupier”, in relation to a residential tenancy agreement, 
+means a relevant occupier who had a limited right to rent at the time when the occupier 
+was first granted a right to occupy the premises under the agreement.
+Modifications etc. (not altering text)
+C20
+S. 24 modified (1.12.2014) by The Immigration (Residential Accommodation) (Prescribed Cases) 
+Order 2014 (S.I. 2014/2873), arts. 1, 7, Sch. paras. 3
+C21
+S. 24 modified (1.12.2014) by The Immigration (Residential Accommodation) (Prescribed Cases) 
+Order 2014 (S.I. 2014/2873), arts. 1, 6, Sch. paras. 1
+
+
+## Page 29
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+29
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I31
+S. 24 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(e)
+I32
+S. 24 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(e)
+25
+Penalty notices: agents
+(1) Subsection (3) applies where—
+(a)
+a landlord contravenes section 22, and
+(b)
+a person acting as the landlord's agent (“the agent”) is responsible for the 
+contravention.
+(2) For the purposes of this Chapter, an agent is responsible for a landlord's contravention 
+of section 22 if (and only if)—
+(a)
+the agent acts in the course of a business, and
+(b)
+under arrangements made with the landlord in writing, the agent was under 
+an obligation for the purposes of this Chapter to comply with the prescribed 
+requirements on behalf of the landlord.
+(3) The Secretary of State may give the agent a notice requiring the agent to pay a penalty.
+(4) The amount of the penalty is such an amount as the Secretary of State considers 
+appropriate, but the amount must not exceed [F5£20,000].
+(5) The Secretary of State may by order amend the amount for the time being specified 
+in subsection (4).
+Textual Amendments
+F5
+Sum in s. 25(4) substituted (13.2.2024) by The Immigration Act 2014 (Residential Accommodation) 
+(Maximum Penalty) Order 2024 (S.I. 2024/81), arts. 1(2), 2(3) (with art. 2(4))
+Commencement Information
+I33
+S. 25 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(f)
+I34
+S. 25 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(f)
+I35
+S. 25(5) in force at 14.12.2023 in so far as not already in force by S.I. 2023/1245, art. 2(b)
+26
+Excuses available to agents
+(1) This section applies where an agent is given a notice under section 25 requiring 
+payment of a penalty.
+(2) Where the notice is given for a pre-grant contravention, the agent is excused from 
+paying the penalty if the agent shows that the prescribed requirements were complied 
+with before the residential tenancy agreement was entered into.
+(3) The prescribed requirements may be complied with for the purposes of subsection (2) 
+at any time before the residential tenancy agreement is entered into.
+(4) But where compliance with the prescribed requirements discloses that a relevant 
+occupier is a person with a limited right to rent, the agent is excused under 
+subsection (2) only if the requirements are complied with in relation to that occupier 
+within such period as may be prescribed.
+
+
+## Page 30
+
+30
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) The excuse under subsection (2) is not available if the agent—
+(a)
+knew that the landlord would contravene section 22 by entering into the 
+agreement,
+(b)
+had sufficient opportunity to notify the landlord of that fact before the landlord 
+entered into the agreement, but
+(c)
+did not do so.
+(6) Where the notice is given for a post-grant contravention, the agent is excused from 
+paying the penalty if either of the following applies—
+(a)
+the agent has notified the Secretary of State and the landlord of the 
+contravention as soon as reasonably practicable;
+(b)
+the eligibility period in relation to the limited right occupier whose occupation 
+caused the contravention has not expired.
+(7) For the purposes of subsection (6)(a), the agent is to be taken to have notified the 
+Secretary of State and the landlord of the contravention “as soon as reasonably 
+practicable” if the agent—
+(a)
+complied with the prescribed requirements in relation to each limited right 
+occupier at the end of the eligibility period, and
+(b)
+notified the Secretary of State and the landlord of the contravention without 
+delay on it first becoming apparent that the contravention had occurred.
+(8) Notification under subsection (6)(a) must be in the prescribed form and manner.
+Modifications etc. (not altering text)
+C22
+S. 26 modified (1.12.2014) by The Immigration (Residential Accommodation) (Prescribed Cases) 
+Order 2014 (S.I. 2014/2873), arts. 1, 7, Sch. paras. 4
+C23
+S. 26 modified (1.12.2014) by The Immigration (Residential Accommodation) (Prescribed Cases) 
+Order 2014 (S.I. 2014/2873), arts. 1, 6, Sch. paras. 2
+Commencement Information
+I36
+S. 26 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(g)
+I37
+S. 26 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(g)
+27
+Eligibility period
+(1) An eligibility period in relation to a limited right occupier is established if the 
+prescribed requirements are complied with in relation to the occupier.
+(2) An eligibility period established under subsection (1) may be renewed (on one or more 
+occasions) by complying with the prescribed requirements again.
+(3) But an eligibility period in relation to a limited right occupier is only established or 
+renewed under this section at any time if it reasonably appears from the information 
+obtained in complying with the prescribed requirements at that time that the occupier 
+is a person with a limited right to rent.
+(4) The length of an eligibility period established or renewed under this section in relation 
+to a limited right occupier is the longest of the following periods—
+(a)
+the period of one year beginning with the time when the prescribed 
+requirements were last complied with in relation to the occupier;
+
+
+## Page 31
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+31
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+so much of any leave period as remains at that time;
+(c)
+so much of any validity period as remains at that time.
+(5) In subsection (4)—
+“leave period” means a period for which the limited right occupier was 
+granted leave to enter or remain in the United Kingdom;
+“validity period” means the period for which an immigration document 
+issued to the limited right occupier by or on behalf of the Secretary of State 
+is valid.
+(6) In subsection (5) “immigration document” means a document of a prescribed 
+description which—
+F6(a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)
+grants to the holder a right to enter or remain in the United Kingdom for such 
+period as the document may authorise.
+Textual Amendments
+F6
+S. 27(6)(a) and word omitted (31.12.2020) by virtue of The Immigration and Social Security Co-
+ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) 
+(EU Exit) Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(3)
+Modifications etc. (not altering text)
+C24
+S. 27 applied (with modifications) (31.12.2020) by The Citizens' Rights (Application Deadline and 
+Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209), regs. 1(1), 3(4), 4(5), 12(1)(o)
+Commencement Information
+I38
+S. 27 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(h)
+I39
+S. 27 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(h)
+28
+Penalty notices: general
+(1) The Secretary of State may give a penalty notice—
+(a)
+to a landlord under section 23 without having established whether the landlord 
+is excused from paying the penalty under section 24;
+(b)
+to an agent under section 25 without having established whether the agent is 
+excused from paying the penalty under section 26.
+(2) A penalty notice must—
+(a)
+be in writing,
+(b)
+state why the Secretary of State thinks the recipient is liable to the penalty,
+(c)
+state the amount of the penalty,
+(d)
+specify a date, at least 28 days after the date specified in the notice as the date 
+on which it is given, before which the penalty must be paid,
+(e)
+specify how a penalty must be paid,
+(f)
+explain how the recipient may object to the penalty or make an appeal against 
+it, and
+(g)
+explain how the Secretary of State may enforce the penalty.
+(3) A separate penalty notice may be given in respect of each adult disqualified by their 
+immigration status in relation to whom there is a contravention of section 22.
+
+
+## Page 32
+
+32
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Where a penalty notice is given to two or more persons who jointly constitute the 
+landlord or agent in relation to a residential tenancy agreement, those persons are 
+jointly and severally liable for any sum payable to the Secretary of State as a penalty 
+imposed by the notice.
+(5) A penalty notice may not be given in respect of any adult if—
+(a)
+the adult has ceased to occupy the premises concerned, and
+(b)
+a period of 12 months or more has passed since the time when the adult last 
+occupied the premises,
+but this subsection is not to be taken as affecting the validity of a penalty notice given 
+before the end of that period.
+(6) Subsection (5) does not apply to a penalty notice given after the end of the 12 month 
+period mentioned in that subsection if—
+(a)
+it is a new penalty notice given by virtue of section 29(6)(b) on the 
+determination of an objection to another penalty notice, and
+(b)
+that other penalty notice was given before the end of the period.
+Commencement Information
+I40
+S. 28 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(i)
+I41
+S. 28 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(i)
+Objections, appeals and enforcement
+29
+Objection
+(1) The recipient of a penalty notice (“the recipient”) may object on the ground that—
+(a)
+the recipient is not liable to the imposition of the penalty,
+(b)
+the recipient is excused by virtue of section 24 or 26, or
+(c)
+the amount of the penalty is too high.
+(2) An objection must be made by giving a notice of objection to the Secretary of State.
+(3) A notice of objection must—
+(a)
+be in writing,
+(b)
+give the reasons for the objection,
+(c)
+be given in the prescribed manner, and
+(d)
+be given before the end of the prescribed period.
+(4) In considering a notice of objection to a penalty the Secretary of State must have regard 
+to the code of practice under section 32.
+(5) On considering a notice of objection the Secretary of State may—
+(a)
+cancel the penalty,
+(b)
+reduce the penalty,
+(c)
+increase the penalty, or
+(d)
+determine to take no action.
+
+
+## Page 33
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+33
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) After reaching a decision as to how to proceed under subsection (5) the Secretary of 
+State must—
+(a)
+notify the recipient of the decision (including the amount of any increased or 
+reduced penalty) before the end of the prescribed period or such longer period 
+as the Secretary of State may agree with the recipient, and
+(b)
+if the penalty is increased, issue a new penalty notice under section 23 or (as 
+the case may be) section 25.
+Commencement Information
+I42
+S. 29 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(j)
+I43
+S. 29 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(j)
+30
+Appeals
+(1) The recipient may appeal to the court on the ground that—
+(a)
+the recipient is not liable to the imposition of a penalty,
+(b)
+the recipient is excused payment as a result of section 24 or 26, or
+(c)
+the amount of the penalty is too high.
+(2) The court may—
+(a)
+allow the appeal and cancel the penalty,
+(b)
+allow the appeal and reduce the penalty, or
+(c)
+dismiss the appeal.
+(3) An appeal is to be a re-hearing of the Secretary of State's decision to impose a penalty 
+and is to be determined having regard to—
+(a)
+the code of practice under section 32 that has effect at the time of the appeal, 
+and
+(b)
+any other matters which the court thinks relevant (which may include matters 
+of which the Secretary of State was unaware).
+(4) Subsection (3) has effect despite any provisions of rules of court.
+(5) An appeal may be brought only if the recipient has given a notice of objection under 
+section 29 and the Secretary of State—
+(a)
+has determined the objection by issuing to the recipient the penalty notice (as 
+a result of increasing the penalty under section 29(5)(c)),
+(b)
+has determined the objection by—
+(i) reducing the penalty under section 29(5)(b), or
+(ii) taking no action under section 29(5)(d), or
+(c)
+has not informed the recipient of a decision before the end of the period that 
+applies for the purposes of section 29(6)(a).
+(6) An appeal must be brought within the period of 28 days beginning with the relevant 
+date.
+(7) Where the appeal is brought under subsection (5)(a), the relevant date is the date 
+specified in the penalty notice issued in accordance with section 29(6)(b) as the date 
+on which it is given.
+
+
+## Page 34
+
+34
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(8) Where the appeal is brought under subsection (5)(b), the relevant date is the date 
+specified in the notice informing the recipient of the decision for the purposes of 
+section 29(6)(a) as the date on which it is given.
+(9) Where the appeal is brought under subsection (5)(c), the relevant date is the date on 
+which the period that applies for the purposes of section 29(6)(a) ends.
+(10) In this section “the court” means—
+(a)
+the county court, if the appeal relates to a residential tenancy agreement in 
+relation to premises in England and Wales;
+(b)
+the sheriff, if the appeal relates to a residential tenancy agreement in relation 
+to premises in Scotland;
+(c)
+a county court in Northern Ireland, if the appeal relates to a residential tenancy 
+agreement in relation to premises in Northern Ireland.
+Commencement Information
+I44
+S. 30 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(k)
+I45
+S. 30 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(k)
+31
+Enforcement
+(1) This section applies where a sum is payable to the Secretary of State as a penalty under 
+this Chapter.
+(2) In England and Wales the penalty is recoverable as if it were payable under an order 
+of the county court in England and Wales.
+(3) In Scotland the penalty may be enforced in the same manner as an extract registered 
+decree arbitral bearing a warrant for execution issued by the sheriff court of any 
+sheriffdom in Scotland.
+(4) In Northern Ireland the penalty is recoverable as if it were payable under an order of 
+a county court in Northern Ireland.
+(5) Where action is taken under this section for the recovery of a sum payable as a penalty 
+under this Chapter, the penalty is—
+(a)
+in relation to England and Wales, to be treated for the purposes of section 98 
+of the Courts Act 2003 (register of judgments and orders etc) as if it were a 
+judgment entered in the county court;
+(b)
+in relation to Northern Ireland, to be treated for the purposes of Article 116 
+of the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 
+(N.I. 6)) (register of judgments) as if it were a judgment in respect of which 
+an application has been accepted under Article 22 or 23(1) of that Order.
+(6) Money paid to the Secretary of State by way of a penalty must be paid into the 
+Consolidated Fund.
+Commencement Information
+I46
+S. 31 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(l)
+I47
+S. 31 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(l)
+
+
+## Page 35
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+35
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Codes of practice
+32
+General matters
+(1) The Secretary of State must issue a code of practice for the purposes of this Chapter.
+(2) The code must specify factors that the Secretary of State will consider when 
+determining the amount of a penalty imposed under this Chapter.
+(3) The code may contain guidance about—
+(a)
+factors that the Secretary of State will consider when determining whether—
+(i) a residential tenancy agreement grants a right of occupation of 
+premises for residential use, or
+(ii) a person is occupying premises as an only or main residence;
+(b)
+the reasonable enquiries that a landlord should make to determine the identity 
+of relevant occupiers in relation to a residential tenancy agreement (so far as 
+they are not named in the agreement);
+(c)
+any other matters in connection with this Chapter that the Secretary of State 
+considers appropriate.
+(4) Guidance under subsection (3)(a) may in particular relate to the treatment for the 
+purposes of this Chapter of arrangements that are made in connection with holiday 
+lettings or lettings for purposes connected with business travel.
+(5) The Secretary of State must from time to time review the code and may revise and re-
+issue it following a review.
+(6) The code (or revised code)—
+(a)
+may not be issued unless a draft has been laid before Parliament, and
+(b)
+comes into force in accordance with provision made by order of the Secretary 
+of State.
+Commencement Information
+I48
+S. 32 in force at 1.12.2014 by S.I. 2014/2771, art. 7(a)
+33
+Discrimination
+(1) The Secretary of State must issue a code of practice specifying what a landlord or 
+agent should or should not do to ensure that, while avoiding liability to pay a penalty 
+under this Chapter, the landlord or agent also avoids contravening—
+(a)
+the Equality Act 2010, so far as relating to race, or
+(b)
+the Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6)).
+(2) The Secretary of State must from time to time review the code and may revise and re-
+issue it following a review.
+(3) Before issuing the code (or a revised code) the Secretary of State must consult—
+(a)
+the Commission for Equality and Human Rights,
+(b)
+the Equality Commission for Northern Ireland, and
+(c)
+such persons representing the interests of landlords and tenants as the 
+Secretary of State considers appropriate.
+
+
+## Page 36
+
+36
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) After consulting under subsection (3) the Secretary of State must—
+(a)
+publish a draft code, and
+(b)
+consider any representations made about the published draft.
+(5) The code (or revised code)—
+(a)
+may not be issued unless a draft has been laid before Parliament (prepared 
+after considering representations under subsection (4)(b) and with or without 
+modifications to reflect the representations), and
+(b)
+comes into force in accordance with provision made by order of the Secretary 
+of State.
+(6) A breach of the code—
+(a)
+does not make a person liable to civil or criminal proceedings, but
+(b)
+may be taken into account by a court or tribunal.
+Commencement Information
+I49
+S. 33 in force at 1.12.2014 by S.I. 2014/2771, art. 7(b)
+[F7Offences
+Textual Amendments
+F7
+Ss. 33A-33C and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not 
+already in force) by Immigration Act 2016 (c. 19), ss. 39(2), 94(1); S.I. 2016/1037, regs. 2(a), 5(c)
+33A
+Offences: landlords
+(1) The landlord under a residential tenancy agreement which relates to premises in 
+England commits an offence if the first and second conditions are met.
+(2) The first condition is that the premises are occupied by an adult who is disqualified 
+as a result of their immigration status from occupying premises under a residential 
+tenancy agreement.
+(3) The second condition is that the landlord knows or has reasonable cause to believe 
+that the premises are occupied by an adult who is disqualified as a result of their 
+immigration status from occupying premises under a residential tenancy agreement.
+(4) But unless subsection (5) applies the landlord does not commit an offence under 
+subsection (1) if—
+(a)
+the premises are located in an area in relation to which section 22 is in force,
+(b)
+the adult mentioned in subsections (2) and (3) is a limited right occupier, and
+(c)
+the eligibility period in relation to that occupier has not expired.
+(5) This subsection applies if the Secretary of State has given a notice in writing to the 
+landlord which—
+(a)
+identifies the adult mentioned in subsections (2) and (3), and
+(b)
+states that the adult is disqualified as a result of their immigration status from 
+occupying premises under a residential tenancy agreement.
+
+
+## Page 37
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+37
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) It is a defence for a person charged with an offence under subsection (1) to prove that—
+(a)
+the person has taken reasonable steps to terminate the residential tenancy 
+agreement, and
+(b)
+the person has taken such steps within a reasonable period beginning with the 
+time when the person first knew or had reasonable cause to believe that the 
+premises were occupied by the adult mentioned in subsections (2) and (3).
+(7) In determining whether subsection (6)(a) or (b) applies to a person, the court must 
+have regard to any guidance which, at the time in question, had been issued by the 
+Secretary of State for the purposes of that subsection and was in force at that time.
+(8) Guidance issued for the purposes of subsection (6)—
+(a)
+must be laid before Parliament in draft before being issued, and
+(b)
+comes into force in accordance with regulations made by the Secretary of 
+State.
+(9) Section 22(9) applies for the purposes of subsection (1) as it applies for the purposes 
+of that section.
+(10) A person commits an offence if—
+(a)
+there has been a post-grant contravention in relation to a residential tenancy 
+agreement which relates to premises in England,
+(b)
+the person is the responsible landlord in relation to the post-grant 
+contravention,
+(c)
+the person knows or has reasonable cause to believe that there has been a post-
+grant contravention in relation to the agreement, and
+(d)
+none of paragraphs (a), (b) and (c) of section 24(6) applies in relation to the 
+post-grant contravention.
+(11) Subsection (10) applies whether or not the landlord is given a notice under section 23 
+in respect of the contravention.
+33B
+Offences: agents
+(1) Subsection (2) applies to an agent who is responsible for a landlord's contravention of 
+section 22 in relation to premises in England.
+(2) The agent commits an offence if the agent—
+(a)
+knew or had reasonable cause to believe that the landlord would contravene 
+section 22 by entering into the residential tenancy agreement in question,
+(b)
+had sufficient opportunity to notify the landlord of that fact before the landlord 
+entered into the agreement, but
+(c)
+did not do so.
+(3) Subsection (4) applies where—
+(a)
+a landlord contravenes section 22 in relation to a residential tenancy 
+agreement relating to premises in England,
+(b)
+the contravention is a post-grant contravention, and
+(c)
+a person acting as the landlord's agent (“the agent”) is responsible for the post-
+grant contravention.
+(4) The agent commits an offence if—
+
+
+## Page 38
+
+38
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+the agent knows or has reasonable cause to believe that there has been a post-
+grant contravention in relation to the agreement, and
+(b)
+neither of paragraphs (a) and (b) of section 26(6) applies in relation to the 
+post-grant contravention.
+(5) Subsection (4) applies whether or not the agent is given a notice under section 25 in 
+respect of the contravention.
+33C
+Offences: penalties etc
+(1) A person who is guilty of an offence under section 33A or 33B is liable—
+(a)
+on conviction on indictment, to imprisonment for a term not exceeding five 
+years, to a fine or to both;
+(b)
+on summary conviction, to imprisonment for a term not exceeding [F8the 
+general limit in a magistrates’ court], to a fine or to both.
+(2) In the application of this section in relation to an offence committed before [F92 May 
+2022] the reference in subsection (1)(b) to [F10the general limit in a magistrates’ court]
+is to be read as a reference to 6 months.
+(3) If an offence under section 33A or 33B is committed by a body corporate with the 
+consent or connivance of an officer of the body, the officer, as well as the body, is to 
+be treated as having committed the offence.
+(4) In subsection (3) a reference to an officer of a body includes a reference to—
+(a)
+a director, manager or secretary,
+(b)
+a person purporting to act as a director, manager or secretary, and
+(c)
+if the affairs of the body are managed by its members, a member.
+(5) Where an offence under section 33A or 33B is committed by a partnership (whether 
+or not a limited partnership) subsection (3) has effect, but as if a reference to an officer 
+of the body were a reference to—
+(a)
+a partner, and
+(b)
+a person purporting to act as a partner.
+(6) An offence under section 33A or 33B is to be treated as—
+(a)
+a relevant offence for the purposes of sections 28B and 28D of the 
+Immigration Act 1971 (search, entry and arrest), and
+(b)
+an offence under Part 3 of that Act (criminal proceedings) for the purposes of 
+sections 28E, 28G and 28H of that Act (search after arrest).]
+Textual Amendments
+F8
+Words in s. 33C(1)(b) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 
+2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. 
+Pt. 1
+F9
+Words in s. 33C(2) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) 
+and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1),
+Sch. Pt. 1
+F10
+Words in s. 33C(2) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 
+(Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+
+
+## Page 39
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+39
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+[F11Eviction
+Textual Amendments
+F11
+Ss. 33D, 33E and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not 
+already in force) by Immigration Act 2016 (c. 19), ss. 40(2), 94(1); S.I. 2016/1037, regs. 2(a), 5(d)
+33D
+Termination of agreement where all occupiers disqualified
+(1) The landlord under a residential tenancy agreement relating to premises in England 
+may terminate the agreement in accordance with this section if the condition in 
+subsection (2) is met.
+(2) The condition is that the Secretary of State has given one or more notices in writing 
+to the landlord which, taken together,—
+(a)
+identify the occupier of the premises or (if there is more than one occupier) 
+all of them, and
+(b)
+state that the occupier or occupiers are disqualified as a result of their 
+immigration status from occupying premises under a residential tenancy 
+agreement.
+(3) The landlord may terminate the residential tenancy agreement by giving notice in 
+writing and in the prescribed form to the tenant or, in the case of a joint tenancy, all of 
+the tenants specifying the date on which the agreement comes to an end.
+(4) That date must not be earlier than the end of the period of 28 days beginning with the 
+day specified in the notice as the day on which it is given.
+(5) The notice may be given—
+(a)
+by delivering it to the tenant or tenants,
+(b)
+by leaving it at the premises,
+(c)
+by sending it by post to the tenant or tenants at the address of the premises, or
+(d)
+in any other prescribed manner.
+(6) The notice is to be treated as a notice to quit in a case where a notice to quit would 
+otherwise be required to bring the residential tenancy agreement to an end.
+(7) The notice is enforceable as if it were an order of the High Court.
+(8) In this section “occupier”, in relation to premises to which a residential tenancy 
+agreement applies, means—
+(a)
+a tenant,
+(b)
+a person who, under the agreement, otherwise has the right to occupy the 
+premises and is named in the agreement, and
+(c)
+any other person who the landlord knows is occupying the premises.
+Modifications etc. (not altering text)
+C25
+S. 33D(3) modified (1.12.2016) by The Immigration (Residential Accommodation) (Termination of 
+Residential Tenancy Agreements) (Guidance etc.) Regulations 2016 (S.I. 2016/1060), regs. 1(1), 3,
+Sch.
+
+
+## Page 40
+
+40
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+33E
+Other procedures for ending agreement
+(1) It is an implied term of a residential tenancy agreement to which this subsection applies 
+that the landlord may terminate the tenancy if the premises to which it relates are 
+occupied by an adult who is disqualified as a result of their immigration status from 
+occupying premises under a residential tenancy agreement.
+(2) Subsection (1) applies to a residential tenancy agreement relating to premises in 
+England if—
+(a)
+it is a tenancy or sub-tenancy or an agreement for a tenancy or sub-tenancy, but
+(b)
+it is not a protected or statutory tenancy within the meaning of the Rent Act 
+1977 or an assured tenancy within the meaning of the Housing Act 1988.
+(3) For provision relating to a residential tenancy agreement which is a protected or 
+statutory tenancy where a tenant or occupier is disqualified as a result of their 
+immigration status from occupying premises under a residential tenancy agreement, 
+see Case 10A in Part 1 of Schedule 15 to the Rent Act 1977.
+(4) For provision relating to a residential tenancy agreement which is an assured tenancy 
+where a tenant or occupier is disqualified as a result of their immigration status from 
+occupying premises under a residential tenancy agreement, see Ground 7B in Part 1 
+of Schedule 2 to the Housing Act 1988.]
+General
+34
+Orders
+(1) An order prescribing requirements for the purposes of this Chapter may, in particular, 
+require a landlord or agent to—
+(a)
+obtain a document of a prescribed description from relevant occupiers
+[F12, a DVS-registered person or a DVS-registered person of a prescribed 
+description] before or during the course of a residential tenancy agreement;
+(b)
+obtain one document of each of a number of prescribed descriptions from 
+relevant occupiers [F13, a DVS-registered person or a DVS-registered person 
+of a prescribed description] before or during the course of a residential tenancy 
+agreement;
+(c)
+take steps to verify, retain, copy or record the content of a document obtained 
+in accordance with the order [F14, including steps involving the use of 
+services provided by a DVS-registered person or a DVS-registered person of 
+a prescribed description];
+(d)
+take such other steps before or during the course of a residential tenancy 
+agreement as the order may specify.
+[F15(1A) An order prescribing requirements for the purposes of this Chapter which contains 
+provision described in subsection (1)(a) or (b) may, in particular—
+(a)
+prescribe a document generated by a DVS-registered person or a DVS-
+registered person of a prescribed description;
+(b)
+prescribe a document which was provided to such a person in order to generate 
+such a document.
+(1B) In subsections (1) and (1A), “DVS-registered person” means a person who is 
+registered in the DVS register maintained under Part 2 of the Data (Use and Access) 
+Act 2025 (“the DVS register”).
+
+
+## Page 41
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+41
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(1C) An order prescribing requirements for the purposes of this Chapter which prescribes a 
+description of DVS-registered person may do so by, for example, describing a DVS-
+registered person whose entry in the DVS register includes a note relating to prescribed 
+services (see section 36 of the Data (Use and Access) Act 2025).]
+(2) If the draft of an instrument containing an order under or in connection with this 
+Chapter would, apart from this subsection, be a hybrid instrument for the purposes of 
+the standing orders of either House of Parliament, it is to proceed in that House as if 
+it were not a hybrid instrument.
+Textual Amendments
+F12
+Words in s. 34(1)(a) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in 
+force) by Data (Use and Access) Act 2025 (c. 18), ss. 55(2)(a)(i), 142(1)(2)(h); S.I. 2025/1213, reg. 2
+F13
+Words in s. 34(1)(b) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in 
+force) by Data (Use and Access) Act 2025 (c. 18), ss. 55(2)(a)(ii), 142(1)(2)(h); S.I. 2025/1213, reg. 2
+F14
+Words in s. 34(1)(c) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in 
+force) by Data (Use and Access) Act 2025 (c. 18), ss. 55(2)(a)(iii), 142(1)(2)(h); S.I. 2025/1213, reg. 2
+F15
+S. 34(1A)-(1C) inserted (19.6.2025 for specified purposes, 1.12.2025 in so far as not already in force) 
+by Data (Use and Access) Act 2025 (c. 18), ss. 55(2)(b), 142(1)(2)(h); S.I. 2025/1213, reg. 2
+Commencement Information
+I50
+S. 34 in force at 1.12.2014 by S.I. 2014/2771, art. 7(c)
+35
+Transitional provision
+(1) This Chapter does not apply in relation to a residential tenancy agreement entered into 
+before the commencement day.
+(2) This Chapter does not apply in relation to a residential tenancy agreement entered into 
+on or after the commencement day (“the renewed agreement”) if—
+(a)
+another residential tenancy agreement was entered into before the 
+commencement day between the same parties (“the original agreement”), and
+(b)
+the tenant has always had a right of occupation of the premises leased under 
+the renewed agreement since entering into the original agreement.
+(3) In this section “the commencement day” means such day as the Secretary of State may 
+by order appoint; and different days may be appointed for different purposes or areas.
+[F16(4) References in this section to this Chapter do not include sections 33A to 33E (offences 
+and eviction).
+(5) Sections 33A to 33C apply in relation to a residential tenancy agreement entered into 
+before or after the coming into force of section 39 of the Immigration Act 2016 (which 
+inserted those sections into this Act).
+(6) But sections 33A(10) and (11) and 33B apply only in relation to a contravention of 
+section 22 which occurs after the coming into force of section 39 of the Immigration 
+Act 2016.]
+[F17(7) Sections 33D and 33E apply in relation to a residential tenancy agreement entered into 
+before or after the coming into force of section 40 of the Immigration Act 2016 (which 
+inserted those sections into this Act).]
+
+
+## Page 42
+
+42
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F16
+S. 35(4)-(6) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by
+Immigration Act 2016 (c. 19), ss. 39(3), 94(1); S.I. 2016/1037, regs. 2(a), 5(c)
+F17
+S. 35(7) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by
+Immigration Act 2016 (c. 19), ss. 40(3), 94(1); S.I. 2016/1037, regs. 2(b), 5(d)
+Modifications etc. (not altering text)
+C26
+S. 35(3): 1.12.2014 appointed as "the commencement day" by S.I. 2014/2771, art. 12
+Commencement Information
+I51
+S. 35 in force at 1.12.2014 by S.I. 2014/2771, art. 7(d)
+36
+Crown application
+This Chapter binds the Crown, except where the Crown is the responsible landlord 
+for the purposes of section 23 [F18or the landlord for the purposes of section 33A.]
+Textual Amendments
+F18
+Words in s. 36 inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), ss. 39(4), 94(1); S.I. 2016/1037, regs. 2(a), 5(c)
+Commencement Information
+I52
+S. 36 in force at 1.12.2014 by S.I. 2014/2771, art. 7(e)
+37
+Interpretation
+(1) In this Chapter—
+“adult” means a person who has attained the age of 18;
+“agreement” includes an agreement in any form (whether or not in writing);
+“eligibility period”, in relation to a limited right occupier, is to be read in 
+accordance with section 27;
+“limited right occupier” has the meaning given in section 24(9);
+“occupy” means occupy as an only or main residence;
+“penalty notice” means a penalty notice given under this Chapter;
+“person with a limited right to rent” has the meaning given in section 21(4);
+“post-grant contravention” has the meaning given in section 22(10);
+“pre-grant contravention” has the meaning given in section 22(10);
+“premises” includes land, buildings, moveable structures, vehicles and 
+vessels;
+“prescribed” means prescribed in an order made by the Secretary of State;
+“recipient” means the recipient of a penalty notice;
+“relevant occupier” has the meaning given in section 22(10);
+“residential tenancy agreement” has the meaning given in section 20(2).
+(2) For the purposes of this Chapter a residential tenancy agreement grants a person a 
+right to occupy premises if—
+
+
+## Page 43
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 1 – Residential tenancies
+Document Generated: 2026-02-14
+43
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+the agreement expressly grants that person the right (whether or not by naming 
+the person), or
+(b)
+the person is permitted to occupy the premises by virtue of an express grant 
+given to another person,
+and references to a person occupying premises under an agreement are to be read 
+accordingly.
+(3) A reference in this Chapter to the “prescribed requirements”, in connection with 
+compliance with the requirements at a particular time, is a reference only to such of 
+the requirements as are capable of being complied with at that time.
+(4) Where two or more persons jointly constitute the landlord in relation to a residential 
+tenancy agreement—
+(a)
+the references to the landlord in—
+(i) section 22(7)(a),
+(ii) section 24(5), (6)(a) and (7), F19...
+(iii) section 26(6)(a) and (7)(b),
+[F20(iv) section 33A,]
+[F21(v) section 33D, and
+(vi) section 33E,]
+are to be taken as references to any of those persons;
+(b)
+any other references to the landlord in this Chapter are to be taken as 
+references to all of those persons.
+(5) Where two or more persons jointly constitute the agent in relation to a residential 
+tenancy agreement—
+(a)
+the references to the agent in section 26(5), (6)(a) and (7) are to be taken as 
+references to any of those persons;
+(b)
+any other references to the agent in this Chapter are to be taken as references 
+to all of those persons.
+(6) The Secretary of State may by order prescribe cases in which—
+(a)
+a residential tenancy agreement is, or is not, to be treated as being entered into 
+for the purposes of this Chapter;
+(b)
+a person is, or is not, to be treated as occupying premises as an only or main 
+residence for the purposes of this Chapter.
+(7) An order under subsection (6) prescribing a case may modify the application of this 
+Chapter in relation to that case.
+(8) The cases mentioned in subsection (6)(a) include, in particular, cases where—
+(a)
+an option to renew an agreement is exercised;
+(b)
+rights of occupation under an agreement are varied;
+(c)
+an agreement is assigned (whether by the landlord or the tenant);
+(d)
+a periodic tenancy arises at the end of a fixed term;
+(e)
+an agreement grants a right of occupation on satisfaction of a condition;
+(f)
+there is a change in the persons in occupation of the premises leased under an 
+agreement or in the circumstances of any such person.
+
+
+## Page 44
+
+44
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F19
+Word in s. 37(4)(a)(ii) omitted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in 
+force) by virtue of Immigration Act 2016 (c. 19), ss. 39(5)(a), 94(1); S.I. 2016/1037, regs. 2(a), 5(c)
+F20
+S. 37(4)(a)(iv) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), ss. 39(5)(b), 94(1); S.I. 2016/1037, regs. 2(a), 5(c)
+F21
+S. 37(4)(a)(v)(vi) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in 
+force) by Immigration Act 2016 (c. 19), ss. 40(4), 94(1); S.I. 2016/1037, regs. 2(b), 5(d)
+Commencement Information
+I53
+S. 37 in force at 1.12.2014 by S.I. 2014/2771, art. 7(f)
+CHAPTER 2
+OTHER SERVICES ETC
+National Health Service
+38
+Immigration health charge
+(1) The Secretary of State may by order provide for a charge to be imposed on—
+(a)
+persons who apply for immigration permission, or
+(b)
+any description of such persons.
+(2) “Immigration permission” means—
+(a)
+leave to enter or remain in the United Kingdom for a limited period,
+(b)
+entry clearance which, by virtue of provision made under section 3A(3) of the 
+Immigration Act 1971, has effect as leave to enter the United Kingdom for 
+a limited period, or
+(c)
+any other entry clearance which may be taken as evidence of a person's 
+eligibility for entry into the United Kingdom for a limited period.
+(3) An order under this section may in particular—
+(a)
+impose a separate charge on a person in respect of each application made by 
+that person;
+(b)
+specify the amount of any charge (and different amounts may be specified for 
+different purposes);
+(c)
+make provision about when or how a charge may or must be paid to the 
+Secretary of State;
+(d)
+make provision about the consequences of a person failing to pay a charge 
+(including provision for the person's application to be refused);
+(e)
+provide for exemptions from a charge;
+(f)
+provide for the reduction, waiver or refund of part or all of a charge (whether 
+by conferring a discretion or otherwise).
+(4) In specifying the amount of a charge under subsection (3)(b) the Secretary of State 
+must (among other matters) have regard to the range of health services that are likely 
+to be available free of charge to persons who have been given immigration permission.
+
+
+## Page 45
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+45
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) Sums paid by virtue of an order under this section must—
+(a)
+be paid into the Consolidated Fund, or
+(b)
+be applied in such other way as the order may specify.
+(6) In this section—
+“entry clearance” has the meaning given by section 33(1) of the 
+Immigration Act 1971;
+“health services” means services provided as part of the health service in 
+England, Wales, Scotland and Northern Ireland;
+and the references to applying for leave to enter or remain for a limited period include 
+references to applying for a variation of leave to enter or remain which would result 
+in leave to enter or remain for a limited period.
+Modifications etc. (not altering text)
+C27
+S. 38 extended (with modifications) (Isle of Man) (4.2.2026) by S.I. 2008/680, art. 22, Sch. 9A para. 
+A4A (as amended by The Immigration (Isle of Man) (Amendment) Order 2026 (S.I. 2026/98), arts. 
+1(2), 3(2), 5)
+Commencement Information
+I54
+S. 38 in force at 20.10.2014 by S.I. 2014/2771, art. 4(b)
+39
+Related provision: charges for health services
+(1) A reference in the NHS charging provisions to persons not ordinarily resident in 
+Great Britain or persons not ordinarily resident in Northern Ireland includes (without 
+prejudice to the generality of that reference) a reference to—
+(a)
+persons who require leave to enter or remain in the United Kingdom but do 
+not have it, and
+(b)
+persons who have leave to enter or remain in the United Kingdom for a 
+limited period [F22unless that leave was granted by virtue of residence scheme 
+immigration rules].
+(2) The “NHS charging provisions” are—
+(a)
+section 175 of the National Health Service Act 2006 (charges in respect of 
+persons not ordinarily resident in Great Britain);
+(b)
+section 124 of the National Health Service (Wales) Act 2006 (charges in 
+respect of persons not ordinarily resident in Great Britain);
+(c)
+section 98 of the National Health Service (Scotland) Act 1978 (charges in 
+respect of persons not ordinarily resident in Great Britain);
+(d)
+Article 42 of the Health and Personal Social Services (Northern Ireland) Order 
+1972 (S.I. 1972/1265 (N.I. 14)) (provision of services to persons not ordinarily 
+resident in Northern Ireland).
+[F23(3) For the purposes of subsection (1) “residence scheme immigration rules” has the 
+meaning given by section 17 of the European Union (Withdrawal Agreement) Act 
+2020.]
+
+
+## Page 46
+
+46
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F22
+Words in s. 39(1)(b) inserted (31.12.2020) by The Immigration and Social Security Co-ordination 
+(EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(4)(a)
+F23
+S. 39(3) inserted (31.12.2020) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2), 20(4)(b)
+Modifications etc. (not altering text)
+C28
+S. 39 extended (with modifications) (Isle of Man) (4.2.2026) by S.I. 2008/680, art. 22, Sch. 9A para. 
+A4B (as amended by The Immigration (Isle of Man) (Amendment) Order 2026 (S.I. 2026/98), arts. 
+1(2), 3(2), 5)
+Commencement Information
+I55
+S. 39 in force at 6.4.2015 by S.I. 2015/874, art. 2(a)
+Bank accounts
+40
+Prohibition on opening current accounts for disqualified persons
+(1) A bank or building society (B) must not open a current account for a person (P) who 
+is within subsection (2) unless—
+(a)
+B has carried out a status check which indicates that P is not a disqualified 
+person, or
+(b)
+at the time when the account is opened B is unable, because of circumstances 
+that cannot reasonably be regarded as within its control, to carry out a status 
+check in relation to P.
+(2) A person is within this subsection if he or she—
+(a)
+is in the United Kingdom, and
+(b)
+requires leave to enter or remain in the United Kingdom but does not have it.
+(3) For the purposes of this section—
+(a)
+carrying out a “status check” in relation to P means checking with a specified 
+anti-fraud organisation or a specified data-matching authority whether, 
+according to information supplied to that organisation or authority by the 
+Secretary of State, P is a disqualified person;
+(b)
+a “disqualified person” is a person within subsection (2) for whom the 
+Secretary of State considers that a current account should not be opened by 
+a bank or building society;
+(c)
+opening an account for P includes—
+(i) opening a joint account for P and others;
+(ii) opening an account in relation to which P is a signatory or is identified 
+as a beneficiary;
+(iii) adding P as an account holder or as a signatory or identified 
+beneficiary in relation to an account.
+(4) In subsection (3)(a)—
+
+
+## Page 47
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+47
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“anti-fraud organisation” has the same meaning as in section 68 of the 
+Serious Crime Act 2007;
+“data-matching authority” means a person or body conducting data 
+matching exercises, within the meaning of Schedule 9 to the Local Audit and 
+Accountability Act 2014, under or by virtue of that or any other Act;
+“specified” means specified by an order made by the Secretary of State for 
+the purposes of this section.
+(5) Subsection (1)(b) does not apply where—
+(a)
+a bank or building society is required to pay a reasonable fee for carrying out 
+status checks, and
+(b)
+its inability to carry out a status check is due to its failure to pay the fee.
+(6) A bank or building society that refuses to open a current account for someone on the 
+ground that he or she is a disqualified person must tell the person, if it may lawfully 
+do so, that that is the reason for its refusal.
+[F24(7) The prohibition in subsection (1) does not apply in the case of an account to be operated 
+(or an account that is operated) by or for a person or body of a description specified 
+in an order made by the Treasury.]
+Textual Amendments
+F24
+S. 40(7) inserted (12.12.2014) by The Immigration Act 2014 (Bank Accounts) (Amendment) Order 
+2014 (S.I. 2014/3074), arts. 1, 2
+Commencement Information
+I56
+S. 40 in force at 12.12.2014 by S.I. 2014/1943, art. 2
+[F2540A Requirement to carry out immigration checks in relation to current accounts
+(1) A bank or building society must, at such times or with such frequency as is specified in 
+regulations made by the Treasury, carry out an immigration check in relation to each 
+current account held with it that is not an excluded account.
+(2) For the purposes of this section carrying out an “immigration check” in relation to 
+a current account means checking whether, according to information supplied by the 
+Secretary of State to a specified anti-fraud organisation or a specified data-matching 
+authority, the account is operated by or for a disqualified person.
+(3) A “disqualified person” is a person—
+(a)
+who is in the United Kingdom,
+(b)
+who requires leave to enter or remain in the United Kingdom but does not 
+have it, and
+(c)
+for whom the Secretary of State considers that a current account should not 
+be provided by a bank or building society.
+(4) A current account is an excluded account for the purposes of subsection (1) if the 
+account is operated by or for a person or body of a description specified in regulations 
+made by the Treasury.
+(5) An account is operated by or for a person or body if the person or body is an account 
+holder or a signatory or identified as a beneficiary in relation to the account.
+
+
+## Page 48
+
+48
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) A bank or building society must—
+(a)
+make arrangements with a specified anti-fraud organisation or a specified 
+data-matching authority for the purpose of enabling the bank or building 
+society to carry out immigration checks in relation to current accounts, and
+(b)
+pay any reasonable fee required to be paid under those arrangements.
+(7) In this section “specified anti-fraud organisation” and “specified data-matching 
+authority” have the same meaning as in section 40(3)(a).
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40B
+Requirement to notify existence of current accounts for disqualified persons
+(1) This section applies where, as a result of an immigration check carried out under 
+section 40A, a bank or building society identifies a current account that is operated by 
+or for a person who the bank or building society believes to be a disqualified person.
+(2) Where this section applies, the bank or building society (as the case may be) must as 
+soon as reasonably practicable—
+(a)
+notify the Secretary of State that a current account held with it is operated by 
+or for a person who it believes to be a disqualified person, and
+(b)
+provide the Secretary of State with such other information as may be 
+prescribed.
+(3) A notification made, or information provided, under subsection (2) must be made or 
+provided in the prescribed form and manner.
+(4) In subsections (2) and (3) “prescribed” means prescribed in regulations made by the 
+Treasury.
+(5) Regulations under subsection (2) may (in particular) require the provision of 
+information relating to any accounts held with the bank or building society that are 
+operated by or for the person who is believed to be a disqualified person.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40C
+Action to be taken by Secretary of State following section 40B notification
+(1) Where the Secretary of State receives a notification from a bank or building society 
+under section 40B(2) in relation to a person, the Secretary of State must check whether 
+the person is a disqualified person.
+
+
+## Page 49
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+49
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) If the Secretary of State determines that the person is a disqualified person, the 
+Secretary of State may apply under section 40D for a freezing order in respect of one 
+or more of the accounts held with the bank or building society that are operated by 
+or for the disqualified person.
+(3) If the Secretary of State decides not to apply for a freezing order under subsection (2), 
+or decides to apply for a freezing order in respect of one or more but not all of 
+the accounts held with the bank or building society that are operated by or for the 
+disqualified person, the Secretary of State must notify the bank or building society 
+that it is subject to the duty in section 40G(2) in relation to the disqualified person.
+(4) A notification made under subsection (3) must contain the prescribed information and 
+be made in the prescribed form and manner.
+(5) In subsection (4) “prescribed” means prescribed in regulations made by the Treasury.
+(6) If the Secretary of State determines that the person is not a disqualified person, the 
+Secretary of State must notify the bank or building society accordingly.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40D
+Freezing orders
+(1) On an application by the Secretary of State under section 40C(2), the court may make 
+a freezing order in respect of any account specified in the application.
+(2) A freezing order in respect of an account is an order that prohibits each person and 
+body by or for whom the account is operated from making withdrawals or payments 
+from the account.
+(3) A freezing order may be made subject to exceptions.
+(4) An exception may (in particular)—
+(a)
+make provision for the disqualified person to meet his or her reasonable living 
+expenses and reasonable legal expenses;
+(b)
+allow another person or body by or for whom the account is operated to make 
+withdrawals or payments from the account.
+(5) An application for a freezing order may be made without notice.
+(6) The court may vary or discharge a freezing order made in respect of an account 
+(whether made under this section or on an appeal under section 40E) on an application 
+made by—
+(a)
+the Secretary of State, or
+(b)
+a person or body by or for whom the account is operated.
+(7) If the Secretary of State applies for a freezing order in respect of an account and the 
+order is not made, or the order is made but subsequently discharged, the Secretary 
+of State must notify the bank or building society that it is subject to the duty in 
+section 40G(2) in relation to the disqualified person.
+
+
+## Page 50
+
+50
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(8) A notification made under subsection (7) must contain the information and be in the 
+form and manner prescribed in regulations made under subsection (4) of section 40C 
+for the purposes of subsection (3) of that section.
+(9) In this section—
+“the court” means—
+(a) in England and Wales, a magistrates' court;
+(b) in Scotland, the sheriff;
+(c) in Northern Ireland, a court of summary jurisdiction;
+“the disqualified person” means the person who, following a check under 
+section 40C(1), was determined to be a disqualified person, resulting in the 
+application for the freezing order.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40E
+Freezing orders: appeals
+(1) An appeal may be made to the relevant appeal court against a decision of a court under 
+section 40D.
+(2) The right of appeal under subsection (1) is exercisable by—
+(a)
+the Secretary of State, and
+(b)
+if the decision relates to a freezing order that is in force in respect of an 
+account, a person or body by or for whom the account is operated.
+(3) On an appeal under this section the relevant appeal court may make—
+(a)
+whatever orders are necessary to give effect to its determination of the appeal;
+(b)
+whatever incidental or consequential orders appear to it to be just.
+(4) In this section “the relevant appeal court” means—
+(a)
+the Crown Court, where the decision appealed against is a decision of a 
+magistrates' court;
+(b)
+the Sheriff Appeal Court, where the decision appealed against is a decision 
+of the sheriff;
+(c)
+a county court, where the decision appealed against is a decision of a court 
+of summary jurisdiction.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+
+
+## Page 51
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+51
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+40F
+Freezing orders: code of practice
+(1) The Secretary of State must issue a code of practice—
+(a)
+specifying the factors that the Secretary of State will consider when deciding 
+whether to apply for a freezing order under section 40C(2),
+(b)
+outlining the arrangements for keeping a freezing order under review for the 
+purpose of deciding whether to apply under section 40D(6) for its variation 
+or discharge, and
+(c)
+specifying the factors that the Secretary of State will consider when deciding 
+whether to make such an application.
+(2) The Secretary of State must from time to time review the code and may revise and re-
+issue it following a review.
+(3) The code (or revised code)—
+(a)
+may not be issued unless a draft has been laid before Parliament, and
+(b)
+comes into force in accordance with provision contained in regulations made 
+by the Secretary of State.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40G
+Closure of accounts not subject to freezing order
+(1) This section applies where—
+(a)
+a bank or building society makes a notification under section 40B(2) in 
+relation to a person,
+(b)
+the person is determined by the Secretary of State (following a check under 
+section 40C(1)) to be a disqualified person, and
+(c)
+the bank or building society receives a notification under section 40C(3) or 
+40D(7) in relation to the disqualified person.
+(2) Where this section applies the bank or building society must as soon as reasonably 
+practicable close each account held with it that—
+(a)
+in the case of a notification under section 40C(3), is operated by or for the 
+disqualified person and is not the subject of an application for a freezing order;
+(b)
+in the case of a notification under section 40D(7), is operated by or for the 
+disqualified person and in respect of which a freezing order is not in force.
+(3) The bank or building society may delay closing an account which it would otherwise 
+be required to close under subsection (2) if at the time at which it would otherwise 
+be required to close it—
+(a)
+the account is overdrawn, or
+(b)
+where the account is operated by or for the disqualified person and one or more 
+bodies or other persons, the bank or building society considers that closing 
+the account would significantly adversely affect the interests of any of those 
+other bodies or persons.
+
+
+## Page 52
+
+52
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Where subsection (3) applies, closure of the account may be delayed for such period 
+as is reasonable (but not indefinitely).
+(5) If an account falling within subsection (2) is operated by or for the disqualified person 
+and one or more bodies or other persons, the bank or building society is to be treated 
+as having complied with that subsection in relation to that account if, as soon as 
+reasonably practicable, it takes all such steps as are necessary to prevent the account 
+from being operated by or for the disqualified person (instead of closing the account).
+(6) Where the bank or building society closes an account in compliance with this section, 
+it must tell each person or body by or for whom the account is operated, if it may 
+lawfully do so, why it has closed the account.
+(7) Where the bank or building society prevents an account from being operated by or for 
+the disqualified person by virtue of subsection (5), it must tell each person or body by 
+or for whom the account is operated, if it may lawfully do so, why it has prevented 
+the account from being operated by or for the disqualified person.
+(8) The bank or building society must provide the Secretary of State with information 
+about the steps that it has taken to comply with this section.
+(9) Information provided under subsection (8) must be provided in the prescribed form 
+and manner and at the prescribed times or with the prescribed frequency.
+(10) In subsection (9) “prescribed” means prescribed in regulations made by the Treasury.
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+40H
+Sections 40A to 40G: interpretation
+(1) This section applies for the purposes of sections 40A to 40G.
+(2) “Account” includes a financial product by means of which a payment may be made.
+(3) “Freezing order” has the meaning given by section 40D(2).
+(4) “Disqualified person” has the meaning given by section 40A(3).
+(5) References to an account being operated by or for a person or body are to be read in 
+accordance with section 40A(5).]
+Textual Amendments
+F25
+Ss. 40A-40H inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) 
+by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 2; S.I. 2016/1037, reg. 2(d); S.I. 2017/929, reg. 
+2(b)
+
+
+## Page 53
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+53
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+41
+Regulation by Financial Conduct Authority
+(1) The Treasury may make regulations to enable the Financial Conduct Authority to make 
+arrangements for monitoring and enforcing compliance with the prohibition imposed 
+on banks and building societies by section 40 [F26and the requirements imposed on 
+them by sections 40A, 40B and 40G] .
+(2) The regulations may (in particular)—
+(a)
+provide for the Financial Conduct Authority to be given free access to the 
+information to which banks and building societies are given access when 
+carrying out status checks under section 40 [F27or immigration checks under 
+section 40A] ;
+(b)
+apply, or make provision corresponding to, any of the provisions of the 
+Financial Services and Markets Act 2000, including in particular those 
+mentioned in subsection (3), with or without modification.
+(3) The provisions are—
+(a)
+provisions about investigations, including powers of entry and search and 
+criminal offences;
+(b)
+provisions for the grant of an injunction (or, in Scotland, an interdict) in 
+relation to a contravention or anticipated contravention;
+(c)
+provisions giving the Financial Conduct Authority powers to impose 
+disciplinary measures (including financial penalties) or to give directions;
+(d)
+provisions giving a Minister of the Crown (within the meaning of the 
+Ministers of the Crown Act 1975) or the Financial Conduct Authority powers 
+to make subordinate legislation;
+(e)
+provisions for the Financial Conduct Authority to charge fees.
+Textual Amendments
+F26
+Words in s. 41(1) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in 
+force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 3(2); S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+F27
+Words in s. 41(2)(a) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 3(3); S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+Commencement Information
+I57
+S. 41 in force at 14.7.2014 by S.I. 2014/1820, art. 2(a)
+42
+“Bank” and “building society”
+(1) In sections 40 [F28to 41] “bank” means an authorised deposit-taker that has its head 
+office or a branch in the United Kingdom.
+This is subject to subsection (4).
+(2) In subsection (1) “authorised deposit-taker” means—
+(a)
+a person who under Part 4A of the Financial Services and Markets Act 2000 
+has permission to accept deposits;
+F29(b)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+## Page 54
+
+54
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) A reference in subsection (2) to a person F30... with permission to accept deposits does 
+not include a person F30... with permission to do so only for the purposes of, or in the 
+course of, an activity other than accepting deposits.
+(4) “Bank” does not include—
+(a)
+a building society;
+(b)
+a person who is specified, or is within a class of persons specified, by an order 
+under section 38 of the Financial Services and Markets Act 2000 (exemption 
+orders);
+(c)
+a credit union within the meaning given by section 31(1) of the Credit Unions 
+Act 1979 or by Article 2(2) of the Credit Unions (Northern Ireland) Order 
+1985;
+(d)
+a friendly society within the meaning given by section 116 of the Friendly 
+Societies Act 1992.
+(5) In sections 40 [F31to 41] , and in subsection (4), “building society” means a building 
+society incorporated (or deemed to be incorporated) under the Building Societies Act 
+1986.
+Textual Amendments
+F28
+Words in s. 42(1) substituted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 4; S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+F29
+S. 42(2)(b) omitted (31.12.2020) by virtue of The Immigration, Nationality and Asylum (EU Exit) 
+Regulations 2019 (S.I. 2019/745), regs. 1(2), 21(4)(a); 2020 c. 1, Sch. 5 para. 1(1)
+F30
+Words in s. 42(3) omitted (31.12.2020) by virtue of The Immigration, Nationality and Asylum (EU 
+Exit) Regulations 2019 (S.I. 2019/745), regs. 1(2), 21(4)(b); 2020 c. 1, Sch. 5 para. 1(1)
+F31
+Words in s. 42(5) substituted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 4; S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+Commencement Information
+I58
+S. 42 in force at 14.7.2014 by S.I. 2014/1820, art. 2(b)
+43
+Power to amend
+(1) The Treasury may by order amend any of sections 40 to 42 so as—
+(a)
+to alter the categories of financial institution to which those sections apply;
+(b)
+to alter the categories of account to which the prohibition in section 40(1)
+[F32or the requirement in section 40A(1)] applies;
+(c)
+to include provision defining a category of account specified in [F33section 40 
+or 40A] ;
+(d)
+to provide for the prohibition in section 40(1) not to apply in the case of an 
+account to be operated (or an account that is operated) by or for a person or 
+body of a specified description.
+(2) An order under subsection (1) may amend a section so that it provides for a matter to 
+be specified in a further order to be made by the Treasury.
+
+
+## Page 55
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+55
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) In subsection (1) “account” includes a financial product by means of which a payment 
+may be made.
+Textual Amendments
+F32
+Words in s. 43(1)(b) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 5(2); S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+F33
+Words in s. 43(1)(c) substituted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 5(3); S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+Commencement Information
+I59
+S. 43 in force at 14.7.2014 by S.I. 2014/1820, art. 2(c)
+Work
+44
+Appeals against penalty notices
+In section 17 of the Immigration, Asylum and Nationality Act 2006 (appeal), for 
+subsections (4) and (5) substitute—
+“(4A) An appeal may be brought only if the employer has given a notice of objection 
+under section 16 and the Secretary of State—
+(a)
+has determined the objection by issuing to the employer the penalty 
+notice (as a result of increasing the penalty under section 16(4)(c)),
+(b)
+has determined the objection by—
+(i) reducing the penalty under section 16(4)(b), or
+(ii) taking no action under section 16(4)(d), or
+(c)
+has not informed the employer of a decision before the end of the 
+period that applies for the purposes of section 16(5)(b).
+(4B) An appeal must be brought within the period of 28 days beginning with the 
+relevant date.
+(4C) Where the appeal is brought under subsection (4A)(a), the relevant date is the 
+date specified in the penalty notice issued in accordance with section 16(5)(c) 
+as the date on which it is given.
+(4D) Where the appeal is brought under subsection (4A)(b), the relevant date is the 
+date specified in the notice informing the employer of the decision for the 
+purposes of section 16(5)(b) as the date on which it is given.
+(4E) Where the appeal is brought under subsection (4A)(c), the relevant date is the 
+date on which the period that applies for the purposes of section 16(5)(b) ends.”
+Commencement Information
+I60
+S. 44 in force at 28.7.2014 by S.I. 2014/1820, art. 3(p) (with art. 5)
+
+
+## Page 56
+
+56
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+45
+Recovery of sums payable under penalty notices
+In section 18 of the Immigration, Asylum and Nationality Act 2006 (enforcement), 
+for subsections (1) and (2) substitute—
+“(1) This section applies where a sum is payable to the Secretary of State as a 
+penalty under section 15.
+(1A) In England and Wales the penalty is recoverable as if it were payable under 
+an order of the county court.
+(1B) In Scotland, the penalty may be enforced in the same manner as an extract 
+registered decree arbitral bearing a warrant for execution issued by the sheriff 
+court of any sheriffdom in Scotland.
+(1C) In Northern Ireland the penalty is recoverable as if it were payable under an 
+order of a county court in Northern Ireland.
+(1D) Where action is taken under this section for the recovery of a sum payable as 
+a penalty under section 15, the penalty is—
+(a)
+in relation to England and Wales, to be treated for the purposes of 
+section 98 of the Courts Act 2003 (register of judgments and orders 
+etc) as if it were a judgment entered in the county court;
+(b)
+in relation to Northern Ireland, to be treated for the purposes of Article 
+116 of the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 
+1981/226 (N.I. 6)) (register of judgments) as if it were a judgment in 
+respect of which an application has been accepted under Article 22 or 
+23(1) of that Order.”
+Commencement Information
+I61
+S. 45 in force at 28.7.2014 by S.I. 2014/1820, art. 3(q) (with art. 6)
+Driving licences
+46
+Grant of driving licences: residence requirement
+(1) In section 97 of the Road Traffic Act 1988 (grant of licences), in the opening words 
+of subsection (1), after “who” insert “ meets the relevant residence requirement (see 
+section 97A) and ”.
+(2) After that section insert—
+“97A Residence requirement
+(1) For the purposes of an application under section 97, a person meets the 
+relevant residence requirement if, on the date the application is made—
+(a)
+in the case of an application that is made by virtue of section 89(1)
+(ea) (application by holder of Community licence), the applicant is 
+lawfully resident in the United Kingdom and—
+(i) is also normally resident in the United Kingdom, or
+(ii) has been attending a course of study in the United Kingdom 
+during the period of six months ending on that date;
+
+
+## Page 57
+
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+57
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+in the case of an application that is made by virtue of section 89(1)
+(f) (application by holder of exchangeable licence), the applicant is 
+normally and lawfully resident in Great Britain but has not been so 
+resident for more than the prescribed period;
+(c)
+in the case of an application that is made by virtue of section 97(2) 
+(application for provisional licence), the applicant is lawfully resident 
+in Great Britain and the Secretary of State is satisfied that the 
+applicant will remain so for not less than 185 days; and
+(d)
+in any other case, the applicant is normally and lawfully resident in 
+Great Britain.
+(2) For the purposes of subsection (1) a person is not lawfully resident in Great 
+Britain or the United Kingdom if the person requires leave to enter or remain 
+in the United Kingdom but does not have it.”
+(3) In Article 13 of the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 
+1)) (grant of licences), in the opening words of paragraph (1), after “who” insert “ 
+meets the relevant residence requirement (see Article 13A) and ”.
+(4) After that Article insert—
+“13A Residence requirement
+(1) For the purposes of an application under Article 13, a person meets the 
+relevant residence requirement if, on the date the application is made—
+(a)
+in the case of an application that is made by virtue of Article 5(1)
+(ea) (application by holder of Community licence), the applicant is 
+lawfully resident in the United Kingdom and—
+(i) is also normally resident in the United Kingdom, or
+(ii) has been attending a course of study in the United Kingdom 
+during the period of six months ending on that date;
+(b)
+in the case of an application that is made by virtue of Article 5(1)
+(f) (application by holder of exchangeable licence), the applicant is 
+normally and lawfully resident in Northern Ireland but has not been 
+so resident for more than the prescribed period;
+(c)
+in the case of an application that is made by virtue of Article 13(2) 
+(application for provisional licence), the applicant is lawfully resident 
+in Northern Ireland and the Department is satisfied that the applicant 
+will remain so for not less than 185 days; and
+(d)
+in any other case, the applicant is normally and lawfully resident in 
+Northern Ireland.
+(2) For the purposes of paragraph (1) a person is not lawfully resident in Northern 
+Ireland or the United Kingdom if the person requires leave to enter or remain 
+in the United Kingdom but does not have it.”
+Commencement Information
+I62
+S. 46 in force at 14.7.2014 by S.I. 2014/1820, art. 2(d)
+
+
+## Page 58
+
+58
+Immigration Act 2014 (c. 22)
+PART 3 – Access to services etc
+CHAPTER 2 – Other services etc
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+47
+Revocation of driving licences on grounds of immigration status
+(1) In section 99 of the Road Traffic Act 1988 (duration of licences)—
+(a)
+after subsection (3) insert—
+“(3ZA) Where it appears to the Secretary of State that a licence holder is 
+not lawfully resident in the United Kingdom, the Secretary of State 
+may serve notice in writing on that person revoking the licence 
+and requiring the person to surrender the licence and its counterpart 
+forthwith to the Secretary of State, and it is the duty of that person to 
+comply with the requirement.
+(3ZB) For the purposes of subsection (3ZA) a person is not lawfully resident 
+in the United Kingdom if the person requires leave to enter or remain 
+in the United Kingdom but does not have it.”;
+(b)
+in subsection (5), after “(3)” insert “ , (3ZA) ”;
+(c)
+in subsection (7ZZA)—
+(i) after “(3)” insert “ , (3ZA) ”;
+(ii) after “subsections and” insert “ , except in the case of a licence and 
+counterpart surrendered in pursuance of subsection (3ZA), ”.
+(2) In section 100 of that Act (appeals)—
+(a)
+in subsection (1)(c), after “99(3)” insert “ , (3ZA) ”;
+(b)
+at the end insert—
+“(4) In any proceedings under this section about the revocation of a 
+licence in pursuance of section 99(3ZA) (revocation on grounds of 
+immigration status), the court or sheriff is not entitled to entertain any 
+question as to whether—
+(a)
+the appellant should be, or should have been, granted leave 
+to enter or remain in the United Kingdom, or
+(b)
+the appellant has, after the date that the Secretary of State 
+served notice under section 99(3ZA), been granted leave to 
+enter or remain in the United Kingdom.”
+(3) In Article 15 of the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 
+1)) (duration of licences)—
+(a)
+after paragraph (5) insert—
+“(5ZA) Where it appears to the Department that a licence holder is not 
+lawfully resident in the United Kingdom, the Department may serve 
+notice in writing on that person revoking the licence and requiring 
+the person to surrender the licence and its counterpart forthwith to 
+the Department, and it is the duty of that person to comply with the 
+requirement.
+(5ZB) For the purposes of paragraph (5ZA) a person is not lawfully resident 
+in the United Kingdom if the person requires leave to enter or remain 
+in the United Kingdom but does not have it.”;
+(b)
+in paragraph (7), after “(5)” insert “ , (5ZA) ”.
+(4) In Article 16 of that Order (appeals)—
+(a)
+in paragraph (1)(c), after “15(5)” insert “ , (5ZA) ”;
+(b)
+at the end insert—
+
+
+## Page 59
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+59
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(4) In any proceedings under this Article about the revocation of a 
+licence in pursuance of Article 15(5ZA) (revocation on grounds of 
+immigration status), the court is not entitled to entertain any question 
+as to whether—
+(a)
+the appellant should be, or should have been, granted leave 
+to enter or remain in the United Kingdom, or
+(b)
+the appellant has, after the date that the Department served 
+notice under Article 15(5ZA), been granted leave to enter or 
+remain in the United Kingdom.”
+Commencement Information
+I63
+S. 47 in force at 14.7.2014 by S.I. 2014/1820, art. 2(e)
+PART 4
+MARRIAGE AND CIVIL PARTNERSHIP
+CHAPTER 1
+REFERRAL AND INVESTIGATION OF PROPOSED MARRIAGES AND CIVIL PARTNERSHIPS
+Investigation
+48
+Decision whether to investigate
+(1) This section applies if—
+(a)
+a superintendent registrar refers a proposed marriage to the Secretary of State 
+under section 28H of the Marriage Act 1949, or
+(b)
+a registration authority refers a proposed civil partnership to the Secretary of 
+State under section 12A of the Civil Partnership Act 2004.
+[F34(1A) This section also applies if—
+(a)
+a registrar refers a proposed marriage to the Secretary of State under Article 
+3E of the Marriage (Northern Ireland) Order 2003, or
+(b)
+a registrar refers a proposed civil partnership to the Secretary of State under 
+section 139E of the Civil Partnership Act 2004.]
+[F35(1B) This section also applies if—
+(a)
+a district registrar refers a proposed marriage to the Secretary of State under 
+section 3F of the Marriage (Scotland) Act 1977, or
+(b)
+a district registrar refers a proposed civil partnership to the Secretary of State 
+under section 88F of the Civil Partnership Act 2004.]
+(2) The Secretary of State must decide whether to investigate whether the proposed 
+marriage or civil partnership is a sham.
+(3) The Secretary of State may not decide to conduct such an investigation unless 
+conditions A and B are met.
+
+
+## Page 60
+
+60
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Condition A is met if the Secretary of State is satisfied that—
+(a)
+only one of the parties to the proposed marriage or civil partnership is an 
+exempt person, or
+(b)
+neither of the parties are exempt persons.
+(5) Condition B is met if the Secretary of State has reasonable grounds for suspecting that 
+the proposed marriage or civil partnership is a sham.
+(6) In making the decision whether to investigate, regard must be had to any guidance 
+published by the Secretary of State for this purpose.
+(7) In the case of a proposed marriage [F36referred to the Secretary of State as mentioned in 
+subsection (1)(a)], the Secretary of State must give notice of the decision made under 
+this section to—
+(a)
+both of the parties to the proposed marriage, F37...
+(b)
+the superintendent registrar who referred the proposed marriage to the 
+Secretary of State [F38, and
+(c)
+if different, the superintendent registrar responsible for issuing the marriage 
+schedule under section 31 of the Marriage Act 1949 in relation to the proposed 
+marriage.]
+(8) In the case of a proposed civil partnership [F39referred to the Secretary of State as 
+mentioned in subsection (1)(b)], the Secretary of State must give notice of the decision 
+made under this section to—
+(a)
+both of the parties to the proposed civil partnership,
+(b)
+the registration authority who referred the proposed civil partnership to the 
+Secretary of State, and
+(c)
+if different, the registration authority responsible for issuing the civil 
+partnership schedule under section 14(1) of the Civil Partnership Act 2004 in 
+relation to the proposed civil partnership.
+[F40(8A) In the case of a proposed marriage referred to the Secretary of State as mentioned in 
+subsection (1A)(a), the Secretary of State must give notice of the decision made under 
+this section to—
+(a)
+both of the parties to the proposed marriage, and
+(b)
+the registrar who referred the proposed marriage to the Secretary of State.
+(8B) In the case of a proposed civil partnership referred to the Secretary of State as 
+mentioned in subsection (1A)(b), the Secretary of State must give notice of the 
+decision made under this section to—
+(a)
+both of the parties to the proposed civil partnership, and
+(b)
+the registrar who referred the proposed civil partnership to the Secretary of 
+State.]
+[F41(8C) In the case of a proposed marriage referred to the Secretary of State as mentioned in 
+subsection (1B)(a), the Secretary of State must give notice of the decision made under 
+this section to—
+(a)
+both of the parties to the proposed marriage, and
+(b)
+the district registrar who referred the proposed marriage to the Secretary of 
+State.
+
+
+## Page 61
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+61
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(8D) In the case of a proposed civil partnership referred to the Secretary of State as 
+mentioned in subsection (1B)(b), the Secretary of State must give the notice of the 
+decision made under this section to—
+(a)
+both of the parties to the proposed civil partnership, and
+(b)
+the district registrar who referred the proposed civil partnership to the 
+Secretary of State.]
+(9) The Secretary of State must make the decision, and give the notice, required by this 
+section within the relevant statutory period.
+Textual Amendments
+F34
+S. 48(1A) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and Civil 
+Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 1(2),
+Sch. 4 para. 2(a) (with art. 1(3))
+F35
+S. 48(1B) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and Civil 
+Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 2(a) (with art. 1(3))
+F36
+Words in s. 48(7) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 2(b) (with art. 1(3))
+F37
+Word in s. 48(7)(a) omitted (4.5.2021) by virtue of The Registration of Marriages Regulations 2021 
+(S.I. 2021/411), reg. 1(2), Sch. 1 para. 62(2)(a) (with Sch. 2)
+F38
+S. 48(7)(c) and word inserted (4.5.2021) by The Registration of Marriages Regulations 2021 (S.I. 
+2021/411), reg. 1(2), Sch. 1 para. 62(2)(b) (with Sch. 2)
+F39
+Words in s. 48(8) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 2(c) (with art. 1(3))
+F40
+S. 48(8A)(8B) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and Civil 
+Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 1(2),
+Sch. 4 para. 2(d) (with art. 1(3))
+F41
+S. 48(8C)(8D) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and Civil 
+Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 2(b) (with art. 1(3))
+Commencement Information
+I64
+S. 48 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(a)
+49
+Exempt persons
+(1) A person who is a party to a proposed marriage or civil partnership is an exempt person 
+if the person—
+(a)
+is a relevant national;
+(b)
+has the appropriate immigration status; or
+(c)
+holds a relevant visa in respect of the proposed marriage or civil partnership.
+(2) A person has the appropriate immigration status if the person—
+F42(a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)
+is exempt from immigration control; or
+(c)
+is settled in the United Kingdom (within the meaning of the Immigration Act 
+1971 — see section 33(2A) of that Act).
+[F43(2A) “Retained enforceable EU right” means a right that—
+
+
+## Page 62
+
+62
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+was created or arose by or under the EU Treaties before the coming into force 
+of this subsection, and
+(b)
+forms part of retained EU law by virtue of section 3 or 4 of the European 
+Union (Withdrawal) Act 2018,
+as that right is modified from time to time.]
+(3) The question of whether a person is exempt from immigration control is to be 
+determined in accordance with regulations made for this purpose by the Secretary of 
+State.
+(4) A person holds a relevant visa if the person holds a visa or other authorisation that is 
+of a kind specified for this purpose in regulations made by the Secretary of State.
+(5) The Secretary of State may not specify a visa or other authorisation under 
+subsection (4) unless the Secretary of State considers that the purpose of issuing that 
+kind of visa or authorisation is, or includes, enabling a person to enter or remain in the 
+United Kingdom to marry or form a civil partnership.
+Textual Amendments
+F42
+S. 49(2)(a) omitted (1.7.2021) by virtue of The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(c), 20(5)
+F43
+S. 49(2A) inserted (31.12.2020) by The Immigration, Nationality and Asylum (EU Exit) Regulations 
+2019 (S.I. 2019/745), regs. 1(2), 21(5)(b); 2020 c. 1, Sch. 5 para. 1(1)
+Modifications etc. (not altering text)
+C29
+S. 49 applied by 2004 c. 33, s. 139A(9) (as inserted (1.3.2015) by The Referral and Investigation of 
+Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 
+2015 (S.I. 2015/395), art. 1(2), Sch. 3 para. 2 (with art. 1(3)))
+C30
+S. 49 applied by 1977 c. 35, s. 3A(10) (as inserted (1.3.2015) by The Referral and Investigation of 
+Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 1 
+para. 2 (with art. 1(3)))
+C31
+S. 49 applied by 2004 c. 33, s. 88A(9) (as inserted (1.3.2015) by The Referral and Investigation of 
+Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 3 
+para. 2 (with art. 1(3)))
+C32
+S. 49 applied by S.I. 2003/413 (N.I. 3), Sch. 1 para. 3A(9) (as inserted (1.3.2015) by The Referral 
+and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous 
+Provisions) Order 2015 (S.I. 2015/395), art. 1(2), Sch. 1 para. 3 (with art. 1(3)))
+Commencement Information
+I65
+S. 49 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(a)
+I66
+S. 49 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(b)
+50
+Conduct of investigation
+(1) An investigation must be conducted in accordance with any regulations made by the 
+Secretary of State for this purpose.
+(2) In conducting an investigation, regard must also be had to any guidance published by 
+the Secretary of State for this purpose.
+
+
+## Page 63
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+63
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) A relevant party must comply with a requirement specified in regulations made under 
+section 51(4) if—
+(a)
+the section 48 notice given to the relevant party states that he or she must do 
+so, or
+(b)
+the Secretary of State subsequently notifies the relevant party (orally or in 
+writing) that he or she must do so;
+and the relevant party must comply with that requirement in the manner stated in the 
+section 48 notice or in the Secretary of State's notification (if such a manner is stated 
+there).
+(4) As part of an investigation, the Secretary of State must decide whether or not each of 
+the relevant parties has complied with the investigation (the “compliance question”).
+(5) The compliance question must be decided in accordance with any regulations made 
+by the Secretary of State for this purpose.
+(6) In deciding the compliance question, regard must also be had to any guidance 
+published by the Secretary of State for this purpose.
+(7) Within the 70 day period, the Secretary of State must—
+(a)
+decide the compliance question; and
+(b)
+give notice of that decision to the persons to whom the Secretary of State gave 
+the section 48 notice relating to the proposed marriage or civil partnership.
+(8) If the Secretary of State's decision is that one or both of the relevant parties have 
+not complied with the investigation, the notice under subsection (7) must include a 
+statement of the Secretary of State's reasons for reaching that decision.
+(9) Regulations made under this section may, in particular, make provision about—
+(a)
+the circumstances in which a relevant party is to be taken to have failed to 
+comply with a relevant requirement;
+(b)
+the consequences of a relevant party's failure to comply with a relevant 
+requirement.
+(10) The provision that may be made under subsection (9)(b) includes provision for the 
+compliance question to be decided (in whole or in part) by reference to a relevant 
+party's compliance or non-compliance with one or more relevant requirements.
+(11) In this section—
+“70 day period” means the period of 70 days beginning with the day on 
+which the relevant statutory period begins;
+“investigation” means an investigation, conducted following a decision by 
+the Secretary of State under section 48, whether a proposed marriage or civil 
+partnership is a sham;
+“relevant party” means a person who is a party to a proposed marriage or 
+civil partnership that is the subject of an investigation;
+“relevant requirement” [F44in relation to a proposed marriage or civil 
+partnership under the law of England and Wales,] means any requirement 
+imposed by law, including a requirement imposed by or in accordance with—
+(a) subsection (3);
+(b) section 27E, 28B or 28C of the Marriage Act 1949;
+(c) regulations under section 28D of that Act;
+
+
+## Page 64
+
+64
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(d) section 8A, or any of sections 9 to 9B, of the Civil Partnership Act 2004.
+[F45“relevant requirement” in relation to a proposed marriage or civil 
+partnership under the law of Northern Ireland, means any requirement 
+imposed by law, including a requirement imposed by or in accordance with—
+((a)) subsection (3);
+((b)) regulations under paragraph 4 of Schedule 5;
+((c)) Article 3A or 3B of the Marriage (Northern Ireland) Order 2003;
+((d)) Article 5 of the Marriage (Northern Ireland) Order 2003 so far as that 
+requirement relates to nationality;
+((e)) section 139A or 139B of the Civil Partnership Act 2004;
+((f)) section 141 of the Civil Partnership Act 2004 so far as that requirement 
+relates to nationality.]
+[F46“relevant requirement” in relation to a proposed marriage or civil 
+partnership under the law of Scotland, means any requirement imposed by 
+law including a requirement imposed by or in accordance with—
+(a) subsection (3);
+(b) regulations under paragraph 4 of Schedule 5;
+(c) section 3(4A), 3A or 3B of the Marriage (Scotland) Act 1977;
+(d) section 88(8), 88A or 88B of the Civil Partnership Act 2004.]
+Textual Amendments
+F44
+Words in s. 50(11) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 3(a) (with art. 1(3))
+F45
+Words in s. 50 inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and Civil 
+Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 1(2),
+Sch. 4 para. 3(b) (with art. 1(3))
+F46
+Words in s. 50(11) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 3
+Commencement Information
+I67
+S. 50 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(b)
+I68
+S. 50 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(c)
+51
+Investigations: supplementary
+(1) A section 48 notice which states that the Secretary of State has decided to investigate 
+whether a proposed marriage or civil partnership is a sham must include—
+(a)
+notice that the compliance question must be decided within the period of 70 
+days mentioned in section 50(7);
+(b)
+notice of the date on which that period will end;
+(c)
+notice that a relevant party may be required to comply with one or more 
+requirements imposed by the Secretary of State subsequently in accordance 
+with section 50(3); and
+(d)
+prescribed information about the investigation.
+(2) The section 48 notice may also include such other information as the Secretary of State 
+considers appropriate.
+
+
+## Page 65
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+65
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) For the purposes of subsection (1)(d) “prescribed information” means information 
+prescribed by the Secretary of State by regulations; and the information that may be 
+prescribed includes information about—
+(a)
+the conduct of the investigation;
+(b)
+requirements with which the relevant parties must comply in relation to the 
+investigation;
+(c)
+the consequence of a failure to comply with those or any other requirements;
+(d)
+the possible outcomes of the investigation;
+(e)
+the consequences of those outcomes.
+(4) The Secretary of State may, by regulations, specify requirements relating to the 
+conduct of investigations which may be imposed on a relevant party by the section 48 
+notice or by the Secretary of State subsequently in accordance with section 50(3).
+(5) Regulations made under subsection (4) may, in particular, specify any of the following
+requirements—
+(a)
+a requirement to make contact with a particular person or description of 
+persons in a particular way (including by telephoning a particular number) 
+within a particular time period;
+(b)
+a requirement to be present at a particular place at a particular time;
+(c)
+a requirement to be visited at home;
+(d)
+a requirement to be interviewed;
+(e)
+a requirement to provide information (whether orally or in writing);
+(f)
+a requirement to provide photographs;
+(g)
+a requirement to provide evidence.
+(6) The provisions of this Part, and any investigation or other steps taken under those 
+provisions (including the decision of the compliance question), do not limit the powers 
+of the Secretary of State in relation to marriages or civil partnerships that are, or are 
+suspected to be, a sham (including any powers to investigate such marriages or civil 
+partnerships).
+(7) In this section “investigation”, “relevant party” and “compliance question” have the 
+same meanings as in section 50.
+Commencement Information
+I69
+S. 51 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(c)
+I70
+S. 51 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(d)
+Referral
+52
+Referral of proposed marriages and civil partnerships in England and Wales
+Schedule 4 (referral of proposed marriages and civil partnerships in England and 
+Wales) has effect.
+Commencement Information
+I71
+S. 52 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(d)
+
+
+## Page 66
+
+66
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+I72
+S. 52 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(e)
+Scotland and Northern Ireland
+53
+Extension of scheme to Scotland and Northern Ireland
+(1) The Secretary of State may, by order, make such provision as the Secretary of State 
+considers appropriate for extending the referral and investigation scheme to any of 
+the following—
+(a)
+proposed marriages under the law of Scotland;
+(b)
+proposed civil partnerships under the law of Scotland;
+(c)
+proposed marriages under the law of Northern Ireland;
+(d)
+proposed civil partnerships under the law of Northern Ireland.
+(2) An order under this section may—
+(a)
+make provision having a similar effect to the provision made by section 58, 
+Schedule 4, or Parts 1, 2 and 4 of Schedule 6;
+(b)
+confer functions on any person;
+(c)
+amend, repeal or revoke any enactment (including an enactment contained in 
+this Act).
+(3) The power under subsection (2)(b) to confer functions includes power to impose a 
+duty of referral on persons exercising functions in Scotland or Northern Ireland in 
+relation to marriage or civil partnership.
+(4) But an order under this section may not impose that or any other duty, or otherwise 
+confer functions, on—
+(a)
+the Scottish Ministers,
+(b)
+the First Minister and deputy First Minister in Northern Ireland,
+(c)
+a Northern Ireland Minister, or
+(d)
+a Northern Ireland department.
+(5) In this section—
+“duty of referral” means a duty to refer a proposed marriage or proposed 
+civil partnership to the Secretary of State in a case where—
+(a) one of the parties is not an exempt person, or
+(b) both of the parties are not exempt persons;
+“enactment” includes—
+(a) an enactment contained in subordinate legislation within the meaning of 
+the Interpretation Act 1978;
+(b) an enactment contained in, or in an instrument made under, an Act of 
+the Scottish Parliament;
+(c) an enactment contained in, or in an instrument made under, Northern 
+Ireland legislation;
+“referral and investigation scheme” means the provision made by sections 
+48 to 51.
+
+
+## Page 67
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 1 – Referral and investigation of proposed marriages and civil partnerships
+Document Generated: 2026-02-14
+67
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I73
+S. 53 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(f)
+I74
+S. 53 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(g)
+54
+Supplementary provision
+(1) This section applies if the referral and investigation scheme is extended by an order 
+under section 53 (an “extension order”).
+(2) The Secretary of State may make administrative regulations in connection with the 
+application of the scheme—
+(a)
+to proposed marriages or civil partnerships under the law of Scotland (insofar 
+as the scheme is extended to them), and
+(b)
+to proposed marriages or civil partnerships under the law of Northern Ireland 
+(insofar as the scheme is extended to them).
+(3) For that purpose “administrative regulations” means regulations of any kind set out in 
+Schedule 5 (sham marriage and civil partnership: administrative regulations).
+(4) The Secretary of State may by order make provision about—
+(a)
+the information that must or may be given, or
+(b)
+the matters in respect of which evidence must or may be given,
+in relation to proposed marriages or civil partnerships under the law of Scotland or 
+Northern Ireland in cases where one or both of the parties is not a relevant national.
+(5) An order under subsection (4) may amend, repeal or revoke any enactment (including 
+an enactment contained in this Act or in provision made by an extension order or an 
+order under subsection (4)).
+(6) If an extension order makes provision (“information disclosure provision”) having 
+similar effect to the provision made by paragraph 2 of Schedule 6 about the disclosure 
+of information for immigration purposes, the Secretary of State may by order specify 
+other immigration purposes (in addition to those specified in provision made by an 
+extension order or in any provision made under this subsection) for which information 
+may be disclosed under the information disclosure provision.
+(7) The Secretary of State must consult—
+(a)
+the Registrar General for Scotland before making administrative regulations, 
+or an order under subsection (4), in relation to proposed marriages or civil 
+partnerships under the law of Scotland;
+(b)
+the Registrar General for Northern Ireland before making administrative 
+regulations, or an order under subsection (4), in relation to proposed marriages 
+or civil partnerships under the law of Northern Ireland.
+(8) Expressions used in this section or Schedule 5 that are also used in section 53 have 
+the same meanings in this section or Schedule 5 as in section 53.
+Commencement Information
+I75
+S. 54 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(g)
+I76
+S. 54(1)(8) in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(h)
+
+
+## Page 68
+
+68
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 2 – Sham marriage and civil partnership
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+CHAPTER 2
+SHAM MARRIAGE AND CIVIL PARTNERSHIP
+55
+Meaning of “sham marriage” and “sham civil partnership”
+(1) The Immigration and Asylum Act 1999 is amended in accordance with this section.
+(2) In section 24 (duty to report suspicious marriages), for subsection (5) substitute—
+“(5) A marriage (whether or not it is void) is a “sham marriage” if—
+(a)
+either, or both, of the parties to the marriage is not a relevant national,
+(b)
+there is no genuine relationship between the parties to the marriage, 
+and
+(c)
+either, or both, of the parties to the marriage enter into the marriage 
+for one or more of these purposes—
+(i) avoiding the effect of one or more provisions of United 
+Kingdom immigration law or the immigration rules;
+(ii) enabling a party to the marriage to obtain a right conferred 
+by that law or those rules to reside in the United Kingdom.
+(6) In subsection (5)—
+“relevant national” means—
+(a) a British citizen,
+(b) a national of an EEA State other than the United Kingdom, or
+(c) a national of Switzerland;
+“United Kingdom immigration law” includes any subordinate 
+legislation concerning the right of relevant nationals to move between 
+and reside in member States.”.
+(3) In section 24A (duty to report suspicious civil partnerships), for subsection (5)
+substitute—
+“(5) A civil partnership (whether or not it is void) is a “sham civil partnership” if—
+(a)
+either, or both, of the parties to the civil partnership is not a relevant 
+national,
+(b)
+there is no genuine relationship between the parties to the civil 
+partnership, and
+(c)
+either, or both, of the parties to the civil partnership enter into the civil 
+partnership for one or more of these purposes—
+(i) avoiding the effect of one or more provisions of United 
+Kingdom immigration law or the immigration rules;
+(ii) enabling a party to the civil partnership to obtain a right 
+conferred by that law or those rules to reside in the United 
+Kingdom.
+(5A) In subsection (5)—
+“relevant national” means—
+(a) a British citizen,
+(b) a national of an EEA State other than the United Kingdom, or
+(c) a national of Switzerland;
+
+
+## Page 69
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 2 – Sham marriage and civil partnership
+Document Generated: 2026-02-14
+69
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“United Kingdom immigration law” includes any subordinate 
+legislation concerning the right of relevant nationals to move between 
+and reside in member States.”.
+Modifications etc. (not altering text)
+C33
+S. 55 extended (Isle of Man) (with modifications) (31.12.2020) by S.I. 2008/680, art. 22(2), Sch. 9A
+(as amended by The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214), arts. 1, 5,
+12 and as further amended (11.11.2021) by The Immigration (Isle of Man) (Amendment) Order 2021 
+(S.I. 2021/1277), arts. 1(2), 6)
+Commencement Information
+I77
+S. 55 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(i)
+56
+Duty to report suspicious marriages and civil partnerships
+(1) The Immigration and Asylum Act 1999 is amended in accordance with this section.
+(2) In section 24 (duty to report suspicious marriages), in subsection (1)—
+(a)
+after paragraph (a) insert—
+“(aa)
+a superintendent registrar, or registrar of births, deaths and 
+marriages, who receives information in advance of a person 
+giving such a notice,”;
+(b)
+at the end of paragraph (c), omit “or”;
+(c)
+after paragraph (c) insert—
+“(ca)
+a district registrar who receives information in advance of a 
+person submitting such a notice or certificate,”;
+(d)
+after paragraph (d) insert “or
+(da)
+a registrar or deputy registrar who receives information in 
+advance of a person giving such a notice,”.
+(3) In section 24A (duty to report suspicious civil partnerships), in subsection (1)—
+(a)
+after paragraph (a) insert—
+“(aa)
+a registration authority that receives information in advance 
+of a person giving such a notice,”;
+(b)
+at the end of paragraph (c), omit “or”;
+(c)
+after paragraph (c) insert—
+“(ca)
+a district registrar who receives information in advance of a 
+person giving such a notice,”;
+(d)
+after paragraph (d) insert “or
+(da)
+a registrar who receives information in advance of a person 
+giving such a notice,”.
+
+
+## Page 70
+
+70
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+CHAPTER 3
+OTHER PROVISIONS
+Persons not relevant nationals etc: marriage on superintendent registrar's certificates
+57
+Solemnization of marriage according to rites of Church of England
+(1) The Marriage Act 1949 is amended in accordance with this section.
+(2) In section 5 (methods of authorising marriages)—
+(a)
+at the beginning insert—
+“(1)”;
+(b)
+in the words after paragraph (d), for “except that paragraph (a)” substitute—
+“(2) Subsection (1)(a)”;
+(c)
+at the end insert—
+“(3) In a case where one or both of the persons whose marriage is to be 
+solemnized is not a relevant national—
+(a)
+subsection (1)(a) shall not apply unless the banns are 
+published in accordance with section 14 (whether or not the 
+banns are also published otherwise);
+(b)
+subsection (1)(c) shall not apply.”.
+(3) In section 8 (notice to clergy before publication of banns)—
+(a)
+at the beginning insert—
+“(1)”;
+(b)
+for “delivered to him a notice” substitute “delivered to him—
+(a)
+a notice”;
+(c)
+at the end insert “, and
+(b)
+specified evidence that both of the persons are relevant 
+nationals.
+(2) In this section “specified evidence” means evidence that is in 
+accordance with regulations made under section 28G.”.
+(4) In section 16 (provisions as to common licences), before subsection (2) insert—
+“(1C) A common licence shall not be granted unless the persons to be married 
+deliver to the person granting the licence specified evidence that both of the 
+persons are relevant nationals.
+(1D) For that purpose “specified evidence” means evidence that is in accordance 
+with regulations made under section 28G.”.
+Commencement Information
+I78
+S. 57 in force at 2.3.2015 by S.I. 2015/371, art. 2(2) (with art. 5)
+
+
+## Page 71
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+71
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+58
+Requirement as to giving of notice of marriage or civil partnership
+(1) Section 19 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 
+(procedure for marriage in England and Wales) is amended in accordance with 
+subsections (2) and (3).
+(2) For subsection (1) substitute—
+“(1) This section applies to a marriage that is to be solemnised on the authority of 
+certificates issued by a superintendent registrar under Part 3 of the Marriage 
+Act 1949 (the “1949 Act”) unless each party to the marriage falls within 
+exception A or exception B.
+(1A) A party to the marriage falls within exception A if the person is a relevant 
+national.
+(1B) A party to the marriage falls within exception B if—
+(a)
+the person is exempt from immigration control, and
+(b)
+the notice of marriage is accompanied by the specified evidence 
+required by section 28C(2) of the 1949 Act that the person is exempt 
+from immigration control.”.
+(3) For subsection (4) substitute—
+“(4) In this section—
+(a)
+a reference to a person being a relevant national, or being exempt 
+from immigration control, has the same meaning as in section 49 of 
+the Immigration Act 2014;
+(b)
+“notice of marriage” means a notice of marriage given under 
+section 27 of the 1949 Act.”.
+(4) Schedule 23 to the Civil Partnership Act 2004 (immigration control and formation of 
+civil partnerships) is amended in accordance with subsections (5) to (9).
+(5) Before paragraph 1 insert—
+“A1 (1) Part 2 of this Schedule applies to a civil partnership that is to be formed in 
+England and Wales by signing a civil partnership schedule unless each party 
+to the civil partnership falls within exception A or exception B.
+(2) A party to the civil partnership falls within exception A if the person is a 
+relevant national.
+(3) A party to the civil partnership falls within exception B if—
+(a)
+the person is exempt from immigration control, and
+(b)
+the notice of civil partnership is accompanied by the specified 
+evidence required by section 9A(2) that the person is exempt from 
+immigration control.
+(4) In this paragraph, a reference to a person being a relevant national, or being 
+exempt from immigration control, has the same meaning as in section 49 of 
+the Immigration Act 2014.”.
+(6) For paragraph 1(1) substitute—
+
+
+## Page 72
+
+72
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“1 (1A) Part 3 of this Schedule applies if—
+(a)
+two people wish to register in Scotland as civil partners of each other, 
+and
+(b)
+one of them is subject to immigration control.
+(1B) Part 4 of this Schedule applies if—
+(a)
+two people wish to register in Northern Ireland as civil partners of 
+each other, and
+(b)
+one of them is subject to immigration control.”.
+(7) For paragraph 3 substitute—
+“3
+This Part of this Schedule applies as mentioned in paragraph A1.”.
+(8) For paragraph 8 substitute—
+“8
+This Part of this Schedule applies as mentioned in paragraph 1(1A).”.
+(9) For paragraph 12 substitute—
+“12
+This Part of this Schedule applies as mentioned in paragraph 1(1B).”.
+Commencement Information
+I79
+S. 58 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(j) (with art. 6)
+Information
+59
+Information
+Schedule 6 (information) has effect.
+Miscellaneous
+60
+Regulations about evidence
+(1) The Secretary of State may make regulations about evidence relevant to the 
+determination of any of the following questions for a purpose of this Part—
+(a)
+whether a person is a relevant national;
+(b)
+whether a person has the appropriate immigration status;
+(c)
+whether a person has a relevant visa.
+(2) The regulations may, in particular, make provision about—
+(a)
+the kind of evidence which is to be supplied;
+(b)
+the form in which evidence is to be supplied;
+
+
+## Page 73
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+73
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+the manner in which evidence is to be supplied;
+(d)
+the period within which evidence is to be supplied;
+(e)
+the supply of further evidence;
+(f)
+the sufficiency of evidence supplied;
+(g)
+the consequences of failing to supply sufficient evidence in accordance with 
+the regulations (including provision to secure that, in such a case, a particular 
+decision is made or is to be treated as having been made);
+(h)
+the retention or copying of evidence supplied.
+(3) The Secretary of State must consult the Registrar General before making regulations 
+under this section.
+(4) In this section “evidence” includes a photograph or other image.
+Commencement Information
+I80
+S. 60 in force at 20.10.2014 by S.I. 2014/2771, art. 3(i)
+61
+Notices
+(1) The Secretary of State may, by regulations, make provision about the giving of—
+(a)
+notices under any provision of this Part;
+(b)
+notices relating to the referral of proposed marriages under section 28H of the 
+Marriage Act 1949 which are given under any provision of that Act;
+(c)
+notices relating to the referral of proposed civil partnerships under section 12A 
+of the Civil Partnership Act 2004 which are given under any provision of that 
+Act.
+(2) The regulations may, in particular, make provision that a notice given in accordance 
+with the regulations is to be presumed to have been received by the person to whom 
+it is given.
+(3) The Secretary of State must consult the Registrar General before making regulations 
+under this section.
+Commencement Information
+I81
+S. 61 in force at 20.10.2014 by S.I. 2014/2771, art. 3(j)
+62
+Interpretation of this Part
+(1) These expressions have the meanings given—
+“exempt person” has the meaning given in section 49;
+“registrar” means a registrar of births, deaths and marriages;
+“Registrar General” [F47means—
+(a) in relation to regulations that apply to proposed marriages or civil 
+partnerships under the law of England and Wales, the Registrar General 
+for England and Wales;
+
+
+## Page 74
+
+74
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) in relation to regulations that apply to proposed marriages or civil 
+partnerships under the law of Northern Ireland, the Registrar General for 
+Northern Ireland;
+(c) [F48in relation to regulations that apply to proposed marriages or civil 
+partnerships under the law of Scotland, the Registrar General for 
+Scotland.]]
+“registration authority” has the same meaning as in the Civil Partnership 
+Act 2004 (see section 28 of that Act);
+“relevant national” means—
+(a) a British citizen,
+(aa) [F49an Irish citizen;
+(ab) a person who is not an Irish citizen who—
+(i) has leave to enter or remain in the United Kingdom which 
+was granted by virtue of residence scheme immigration rules 
+within the meaning given by section 17 of the European Union 
+(Withdrawal Agreement) Act 2020, or
+(ii) is an applicant for the purposes of regulation 4 of the Citizens’ 
+Rights (Application Deadline and Temporary Protection) (EU 
+Exit) Regulations 2020 (applications which have not been 
+finally determined by the deadline) where the relevant period 
+within the meaning of that regulation has not expired;]
+(b)
+F50...
+(c)
+F50...
+“relevant statutory period” means—
+(a) in relation to a proposed marriage [F51under the law of England and 
+Wales], the period—
+(i) beginning the day after notice of the proposed marriage is
+[F52recorded in the marriage register] in accordance with Part 3 
+of the Marriage Act 1949, F53... and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;
+(aa) [F54in relation to a proposed marriage under the law of Northern Ireland, 
+the period—
+(i) beginning the day on which the record of the proposed marriage 
+is made in the marriage notice book in accordance with Article 
+4 of the Marriage (Northern Ireland) Order 2003; and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;]
+(ab) [F55in relation to a proposed marriage under the law of Scotland, the 
+period—
+(i) beginning the day after receipt by the district registrar of the 
+marriage notice (as entered by the district registrar in the 
+marriage notice book in accordance with section 4(1) of the 
+Marriage (Scotland) Act 1977), and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;]
+(b) in relation to a proposed civil partnership [F56under the law of England 
+and Wales], the period—
+
+
+## Page 75
+
+Immigration Act 2014 (c. 22)
+PART 4 – Marriage and civil partnership
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+75
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(i) beginning the day after notice of the proposed civil partnership 
+is recorded in the register in accordance with Chapter 1 of Part 
+2 of the Civil Partnership Act 2004, and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;
+(ba) [F57in relation to a proposed civil partnership under the law of Northern 
+Ireland, the period—
+(i) beginning the day on which the record of the proposed civil 
+partnership is made in the civil partnership notice book in 
+accordance with section 140(1) of the Civil Partnership Act 
+2004, and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;]
+(bb) [F58in relation to a proposed civil partnership under the law of Scotland, 
+the period—
+(i) beginning the day after the particulars of the proposed civil 
+partnership are entered in the civil partnership book in 
+accordance with section 89(1) of the Civil Partnership Act 2004, 
+and
+(ii) ending at the end of the period of 28 days beginning with that 
+day;]
+[F59“section 48 notice” means—
+(a) in relation to a proposed marriage or civil partnership under the law of 
+England and Wales, a notice given under section 48(7) or (8),
+(b) in relation to a proposed marriage or civil partnership under the law of 
+Northern Ireland, a notice given under section 48(8A) or (8B),
+(c) [F60in relation to a proposed marriage or civil partnership under the law 
+of Scotland, a notice given under section 48(8C) or (8D);]]
+“superintendent registrar” means a superintendent registrar of births, deaths 
+and marriages.
+(2) A reference to a person being a party to a proposed marriage or civil partnership is 
+a reference to a person who would be a party to the marriage or civil partnership if 
+it took place as proposed.
+(3) A reference to a proposed marriage or civil partnership being a sham is a reference 
+to a marriage or civil partnership which would (if it took place as proposed) be a 
+sham marriage or sham civil partnership (within the meaning of the Immigration and 
+Asylum Act 1999 — see section 24 or 24A of that Act).
+(4) For provision about the interpretation of the following expressions, see section 49—
+(a)
+the appropriate immigration status;
+(b)
+a relevant visa.
+(5) This section, and the provision mentioned in subsection (4), apply for the purposes 
+of this Part.
+
+
+## Page 76
+
+76
+Immigration Act 2014 (c. 22)
+PART 5 – Oversight
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F47
+Words in s. 62(1) substituted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(a)
+F48
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 4(2)
+F49
+Words in s. 62(1) inserted (1.7.2021) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(c), 20(6)(a)
+F50
+Words in s. 62(1) omitted (1.7.2021) by virtue of The Immigration and Social Security Co-ordination 
+(EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(c), 20(6)(b)
+F51
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(b)(i)
+F52
+Words in s. 62 substituted (4.5.2021) by The Registration of Marriages Regulations 2021 (S.I. 
+2021/411), reg. 1(2), Sch. 1 para. 62(3)(a) (with Sch. 2)
+F53
+Words in s. 62 omitted (4.5.2021) by virtue of The Registration of Marriages Regulations 2021 (S.I. 
+2021/411), reg. 1(2), Sch. 1 para. 62(3)(b) (with Sch. 2)
+F54
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(b)(ii)
+F55
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 4(3)(a) (with art. 1(4))
+F56
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(b)(iii)
+F57
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(b)(iv)
+F58
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 4(3)(b) (with art. 
+1(5))
+F59
+Words in s. 62(1) substituted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395), art. 
+1(2), Sch. 4 para. 4(c)
+F60
+Words in s. 62(1) inserted (1.3.2015) by The Referral and Investigation of Proposed Marriages and 
+Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396), art. 1(2), Sch. 4 para. 4(4)
+PART 5
+OVERSIGHT
+Office of the Immigration Services Commissioner
+63
+Immigration advisers and immigration service providers
+Schedule 7 (immigration advisers and immigration service providers) has effect.
+
+
+## Page 77
+
+Immigration Act 2014 (c. 22)
+PART 5 – Oversight
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+77
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I82
+S. 63 in force at 28.7.2014 for specified purposes by S.I. 2014/1820, art. 3(r)
+I83
+S. 63 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 4(c)
+I84
+S. 63 in force at 17.11.2014 for specified purposes by S.I. 2014/2771, art. 5(a)
+Police Ombudsman for Northern Ireland
+64
+Police Ombudsman for Northern Ireland
+After section 60ZA of the Police (Northern Ireland) Act 1998 insert—
+“60ZB Immigration and customs enforcement functions
+(1) The Ombudsman and the Secretary of State may enter into an agreement to 
+establish, in relation to the exercise of specified enforcement functions by 
+relevant officials, procedures which correspond to or are similar to any of those 
+established by virtue of this Part.
+(2) Where no such procedures are in force in relation to a particular kind of 
+relevant official, the Secretary of State may by order establish such procedures 
+in relation to the exercise of specified enforcement functions by that kind of 
+relevant official.
+(3) “Relevant officials” means—
+(a)
+immigration officers and other officials of the Secretary of State 
+exercising functions relating to immigration or asylum;
+(b)
+designated customs officials, and officials of the Secretary of State, 
+exercising customs functions (within the meaning of Part 1 of the 
+Borders, Citizenship and Immigration Act 2009);
+(c)
+the Director of Border Revenue exercising customs revenue functions 
+(within the meaning of that Part of that Act), and persons exercising 
+such functions of the Director;
+(d)
+persons providing services pursuant to arrangements relating to the 
+discharge of a function within paragraph (a), (b), or (c).
+(4) “Enforcement functions” includes, in particular—
+(a)
+powers of entry,
+(b)
+powers to search persons or property,
+(c)
+powers to seize or detain property,
+(d)
+powers to arrest persons,
+(e)
+powers to detain persons, and
+(f)
+powers to examine persons or otherwise to obtain information 
+(including powers to take fingerprints or to acquire other personal 
+data).
+(5) “Specified” means specified in an agreement under subsection (1) or an order 
+under subsection (2).
+(6) “Immigration officer” means a person appointed under paragraph 1(1) of 
+Schedule 2 to the Immigration Act 1971.
+
+
+## Page 78
+
+78
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+60ZC Section 60ZB: supplementary
+(1) An agreement under section 60ZB may at any time be varied or terminated—
+(a)
+by the Secretary of State, or
+(b)
+by the Ombudsman, with the consent of the Secretary of State.
+(2) Before making an order under section 60ZB the Secretary of State must consult 
+the Ombudsman and such persons as the Secretary of State thinks appropriate.
+(3) An agreement or order under section 60ZB may provide for payment by the 
+Secretary of State to or in respect of the Ombudsman.
+(4) An agreement or order under section 60ZB must relate only to the exercise of 
+enforcement functions—
+(a)
+wholly in Northern Ireland, or
+(b)
+partly in Northern Ireland and partly in another part of the United 
+Kingdom.
+(5) An agreement or order under section 60ZB must relate only to the exercise 
+of enforcement functions on or after the day on which the agreement or order 
+is made.
+(6) An agreement or order under section 60ZB must not provide for procedures in 
+relation to so much of any complaint or matter as relates to functions conferred 
+by or under Part 8 of the Immigration and Asylum Act 1999 (detained persons 
+& removal centres etc.).”
+Commencement Information
+I85
+S. 64 in force at 28.7.2014 by S.I. 2014/1820, art. 3(s)
+PART 6
+MISCELLANEOUS
+Citizenship
+65
+Persons unable to acquire citizenship: natural father not married to mother
+After section 4D of the British Nationality Act 1981 insert—
+“4E The general conditions
+For the purposes of sections 4F to 4I, a person (“P”) meets the general 
+conditions if—
+(a)
+P was born before 1 July 2006;
+(b)
+at the time of P's birth, P's mother—
+(i) was not married, or
+(ii) was married to a person other than P's natural father;
+
+
+## Page 79
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+79
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+no person is treated as the father of P under section 28 of the Human 
+Fertilisation and Embryology Act 1990; and
+(d)
+P has never been a British citizen.
+4F Person unable to be registered under other provisions of this Act
+(1) A person (“P”) is entitled to be registered as a British citizen on an application 
+made under this section if—
+(a)
+P meets the general conditions; and
+(b)
+P would be entitled to be registered as a British citizen under—
+(i) section 1(3),
+(ii) section 3(2),
+(iii) section 3(5),
+(iv) paragraph 4 of Schedule 2, or
+(v) paragraph 5 of Schedule 2,
+had P's mother been married to P's natural father at the time of P's birth.
+(2) In the following provisions of this section “relevant registration provision” 
+means the provision under which P would be entitled to be registered as a 
+British citizen (as mentioned in subsection (1)(b)).
+(3) If the relevant registration provision is section 3(2), a person who is registered 
+as a British citizen under this section is a British citizen by descent.
+(4) If the relevant registration provision is section 3(5), the Secretary of State may, 
+in the special circumstances of the particular case, waive the need for any or 
+all of the parental consents to be given.
+(5) For that purpose, the “parental consents” are—
+(a)
+the consent of P's natural father, and
+(b)
+the consent of P's mother,
+insofar as they would be required by section 3(5)(c) (as read with section 3(6)
+(b)), had P's mother been married to P's natural father at the time of P's birth.
+4G Person unable to become citizen automatically after commencement
+(1) A person (“P”) is entitled to be registered as a British citizen on an application 
+made under this section if—
+(a)
+P meets the general conditions; and
+(b)
+at any time in the period after commencement, P would have 
+automatically become a British citizen at birth by the operation of any 
+provision of this Act or the British Nationality (Falkland Islands) Act 
+1983, had P's mother been married to P's natural father at the time of 
+P's birth.
+(2) A person who is registered as a British citizen under this section is a British 
+citizen by descent if the British citizenship which the person would have 
+acquired at birth (as mentioned in subsection (1)(b)) would (by virtue of 
+section 14) have been British citizenship by descent.
+
+
+## Page 80
+
+80
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) If P is under the age of 18, no application may be made unless the consent 
+of P's natural father and mother to the registration has been signified in the 
+prescribed manner.
+(4) But if P's natural father or mother has died on or before the date of the 
+application, the reference in subsection (3) to P's natural father and mother is 
+to be read as a reference to either of them.
+(5) The Secretary of State may, in the special circumstances of a particular case, 
+waive the need for any or all of the consents required by subsection (3) (as 
+read with subsection (4)) to be given.
+(6) The reference in this section to the period after commencement does not 
+include the time of commencement (and, accordingly, this section does not 
+apply to any case in which a person was unable to become a British citizen 
+at commencement).
+4H Citizen of UK and colonies unable to become citizen at 
+commencement
+(1) A person (“P”) is entitled to be registered as a British citizen on an application 
+made under this section if—
+(a)
+P meets the general conditions;
+(b)
+P was a citizen of the United Kingdom and Colonies immediately 
+before commencement; and
+(c)
+P would have automatically become a British citizen at 
+commencement, by the operation of any provision of this Act, had P's 
+mother been married to P's natural father at the time of P's birth.
+(2) A person who is registered as a British citizen under this section is a British 
+citizen by descent if the British citizenship which the person would have 
+acquired at commencement (as mentioned in subsection (1)(c)) would (by 
+virtue of section 14) have been British citizenship by descent.
+4I Other person unable to become citizen at commencement
+(1) A person (“P”) is entitled to be registered as a British citizen on an application 
+made under this section if—
+(a)
+P meets the general conditions;
+(b)
+P is either—
+(i) an eligible former British national, or
+(ii) an eligible non-British national; and
+(c)
+had P's mother been married to P's natural father at the time of P's 
+birth, P—
+(i) would have been a citizen of the United Kingdom and 
+Colonies immediately before commencement, and
+(ii) would have automatically become a British citizen at 
+commencement by the operation of any provision of this Act.
+(2) P is an “eligible former British national” if P was not a citizen of the United 
+Kingdom and Colonies immediately before commencement and either—
+
+
+## Page 81
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+81
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+P ceased to be a British subject or a citizen of the United Kingdom 
+and Colonies by virtue of the commencement of any independence 
+legislation, but would not have done so had P's mother been married 
+to P's natural father at the time of P's birth, or
+(b)
+P was a British subject who did not automatically become a citizen 
+of the United Kingdom and Colonies at commencement of the British 
+Nationality Act 1948 by the operation of any provision of it, but would 
+have done so had P's mother been married to P's natural father at the 
+time of P's birth.
+(3) P is an “eligible non-British national” if—
+(a)
+P was never a British subject or citizen of the United Kingdom and 
+Colonies; and
+(b)
+had P's mother been married to P's natural father at the time of P's 
+birth, P would have automatically become a British subject or citizen 
+of the United Kingdom and Colonies—
+(i) at birth, or
+(ii) by virtue of paragraph 3 of Schedule 3 to the British 
+Nationality Act 1948 (child of male British subject to become 
+citizen of the United Kingdom and Colonies if the father 
+becomes such a citizen).
+(4) A person who is registered as a British citizen under this section is a British 
+citizen by descent if the British citizenship which the person would have 
+acquired at commencement (as mentioned in subsection (1)(c)(ii)) would (by 
+virtue of section 14) have been British citizenship by descent.
+(5) In determining for the purposes of subsection (1)(c)(i) whether P would 
+have been a citizen of the United Kingdom and Colonies immediately before 
+commencement, it must be assumed that P would not have—
+(a)
+renounced or been deprived of any notional British nationality, or
+(b)
+lost any notional British nationality by virtue of P acquiring the 
+nationality of a country or territory outside the United Kingdom.
+(6) A “notional British nationality” is—
+(a)
+in a case where P is an eligible former British national, any status as a 
+British subject or a citizen of the United Kingdom and Colonies which 
+P would have held at any time after P's nationality loss (had that loss 
+not occurred and had P's mother had been married to P's natural father 
+at the time of P's birth);
+(b)
+in a case where P is an eligible non-British national—
+(i) P's status as a British subject or citizen of the United Kingdom 
+and Colonies mentioned in subsection (3)(b), and
+(ii) any other status as a British subject or citizen of the United 
+Kingdom and Colonies which P would have held at any time 
+afterwards (had P's mother been married to P's natural father 
+at the time of P's birth).
+(7) In this section—
+“British subject” has any meaning which it had for the purposes of the 
+British Nationality and Status of Aliens Act 1914;
+
+
+## Page 82
+
+82
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“independence legislation” means an Act of Parliament or any 
+subordinate legislation (within the meaning of the Interpretation Act 
+1978) forming part of the law in the United Kingdom (whenever passed 
+or made, and whether or not still in force)—
+(a) providing for a country or territory to become independent from 
+the United Kingdom, or
+(b) dealing with nationality, or any other ancillary matters, in 
+connection with a country or territory becoming independent 
+from the United Kingdom;
+“P's nationality loss” means P's—
+(a) ceasing to be a British subject or citizen of the United Kingdom 
+and Colonies (as mentioned in subsection (2)(a)), or
+(b) not becoming a citizen of the United Kingdom and Colonies (as 
+mentioned in subsection (2)(b)).
+4J Sections 4E to 4I: supplementary provision
+(1) In sections 4E to 4I and this section, a person's “natural father” is a person 
+who satisfies the requirements as to proof of paternity that are prescribed in 
+regulations under section 50(9B).
+(2) The power under section 50(9B) to make different provision for different 
+circumstances includes power to make provision for the purposes of any 
+provision of sections 4E to 4I which is different from other provision made 
+under section 50(9B).
+(3) The following provisions apply for the purposes of sections 4E to 4I.
+(4) A reference to a person automatically becoming a British citizen, or a citizen 
+of the United Kingdom and Colonies, is a reference to the person becoming 
+such a citizen without the need for—
+(a)
+the person to be registered as such a citizen by the Secretary of State 
+or any other minister of the Crown;
+(b)
+the birth of the person to be registered by a diplomatic or consular 
+representative of the United Kingdom; or
+(c)
+the person to be naturalised as such a citizen.
+(5) If the mother of a person could not actually have been married to the person's 
+natural father at the time of the person's birth (for whatever reason), that fact 
+does not prevent an assumption being made that the couple were married at 
+the time of the birth.”
+Commencement Information
+I86
+S. 65 in force at 6.4.2015 by S.I. 2015/371, art. 4(b)
+66
+Deprivation if conduct seriously prejudicial to vital interests of the UK
+(1) In section 40 of the British Nationality Act 1981 (deprivation of citizenship), after 
+subsection (4) insert—
+
+
+## Page 83
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+83
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(4A) But that does not prevent the Secretary of State from making an order under 
+subsection (2) to deprive a person of a citizenship status if—
+(a)
+the citizenship status results from the person's naturalisation,
+(b)
+the Secretary of State is satisfied that the deprivation is conducive 
+to the public good because the person, while having that citizenship 
+status, has conducted him or herself in a manner which is seriously 
+prejudicial to the vital interests of the United Kingdom, any of the 
+Islands, or any British overseas territory, and
+(c)
+the Secretary of State has reasonable grounds for believing that the 
+person is able, under the law of a country or territory outside the 
+United Kingdom, to become a national of such a country or territory.”
+(2) In deciding whether to make an order under subsection (2) of section 40 of the British 
+Nationality Act 1981 in a case which falls within subsection (4A) of that Act, the 
+Secretary of State may take account of the manner in which a person conducted him 
+or herself before this section came into force.
+(3) After section 40A of the British Nationality Act 1981 insert—
+“40B Review of power under section 40(4A)
+(1) The Secretary of State must arrange for a review of the operation of the 
+relevant deprivation power to be carried out in relation to each of the following
+periods—
+(a)
+the initial one year period;
+(b)
+each subsequent three year period.
+(2) The “relevant deprivation power” is the power to make orders under 
+section 40(2) to deprive persons of a citizenship status in the circumstances 
+set out in section 40(4A).
+(3) A review must be completed as soon as practicable after the end of the period 
+to which the review relates.
+(4) As soon as practicable after a person has carried out a review in relation to a 
+particular period, the person must—
+(a)
+produce a report of the outcome of the review, and
+(b)
+send a copy of the report to the Secretary of State.
+(5) The Secretary of State must lay before each House of Parliament a copy of 
+each report sent under subsection (4)(b).
+(6) The Secretary of State may, after consultation with the person who produced 
+the report, exclude a part of the report from the copy laid before Parliament if 
+the Secretary of State is of the opinion that it would be contrary to the public 
+interest or prejudicial to national security for that part of the report to be made 
+public.
+(7) The Secretary of State may—
+(a)
+make such payments as the Secretary of State thinks appropriate in 
+connection with the carrying out of a review, and
+
+
+## Page 84
+
+84
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+make such other arrangements as the Secretary of State thinks 
+appropriate in connection with the carrying out of a review (including 
+arrangements for the provision of staff, other resources and facilities).
+(8) In this section—
+“initial one year period” means the period of one year beginning 
+with the day when section 40(4A) comes into force;
+“subsequent three year period” means a period of three years 
+beginning with the first day after the most recent of—
+(a) the initial one year period, or
+(b) the most recent subsequent three year period.”
+Commencement Information
+I87
+S. 66 in force at 28.7.2014 by S.I. 2014/1820, art. 3(t)
+Embarkation checks
+67
+Embarkation checks
+Schedule 8 (embarkation checks) has effect.
+Modifications etc. (not altering text)
+C34
+S. 67 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Jersey) Order 2015 (S.I. 2015/1532), arts. 1(1), 2(2)(3), Sch. 2
+(with art. 2(3))
+C35
+S. 67 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the 
+amending S.I.) by The Immigration (Guernsey) Order 2015 (S.I. 2015/1533), arts. 1, 5, Sch. 2 (with
+art. 6)
+Commencement Information
+I88
+S. 67 in force at 28.7.2014 by S.I. 2014/1820, art. 3(u)
+Fees
+68
+Fees
+(1) The Secretary of State may provide, in accordance with this section, for fees to be 
+charged in respect of the exercise of functions in connection with immigration or 
+nationality.
+(2) The functions in respect of which fees are to be charged are to be specified by the 
+Secretary of State by order (“a fees order”).
+(3) A fees order—
+(a)
+must specify how the fee in respect of the exercise of each specified function 
+is to be calculated, and
+(b)
+may not provide for a fee to be charged in respect of the exercise of a function 
+otherwise than in connection with an application or claim, or on request.
+
+
+## Page 85
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+85
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) For any specified fee, a fees order must provide for it to comprise one or more amounts 
+each of which is—
+(a)
+a fixed amount, or
+(b)
+an amount calculated by reference to an hourly rate or other factor.
+(5) Where a fees order provides for a fee (or part of a fee) to be a fixed amount, it—
+(a)
+must specify a maximum amount for the fee (or part), and
+(b)
+may specify a minimum amount.
+(6) Where a fees order provides for a fee (or part of a fee) to be calculated as mentioned 
+in subsection (4)(b), it—
+(a)
+must specify—
+(i) how the fee (or part) is to be calculated, and
+(ii) a maximum rate or other factor, and
+(b)
+may specify a minimum rate or other factor.
+(7) For any specified fee, the following are to be set by the Secretary of State by 
+regulations (“fees regulations”)—
+(a)
+if the fee (or any part of it) is to be a fixed amount, that amount;
+(b)
+if the fee (or any part of it) is to be calculated as mentioned in subsection (4)
+(b), the hourly rate or other factor by reference to which it (or that part) is to 
+be calculated.
+(8) An amount, or rate or other factor, set by fees regulations for a fee in respect of the 
+exercise of a specified function—
+(a)
+must not—
+(i) exceed the maximum specified for that amount, or rate or other factor;
+(ii) be less than the minimum, if any, so specified;
+(b)
+subject to that, may be intended to exceed, or result in a fee which exceeds, 
+the costs of exercising the function.
+(9) In setting the amount of any fee, or rate or other factor, in fees regulations, the 
+Secretary of State may have regard only to—
+(a)
+the costs of exercising the function;
+(b)
+benefits that the Secretary of State thinks are likely to accrue to any person in 
+connection with the exercise of the function;
+(c)
+the costs of exercising any other function in connection with immigration or 
+nationality;
+(d)
+the promotion of economic growth;
+(e)
+fees charged by or on behalf of governments of other countries in respect of 
+comparable functions;
+(f)
+any international agreement.
+This is subject to section 69(5).
+(10) In respect of any fee provided for under this section, fees regulations may—
+(a)
+provide for exceptions;
+(b)
+provide for the reduction, waiver or refund of part or all of a fee (whether by 
+conferring a discretion or otherwise);
+(c)
+make provision about—
+
+
+## Page 86
+
+86
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(i) the consequences of failure to pay a fee;
+(ii) enforcement;
+(iii) when a fee may or must be paid.
+(11) Any provision that may be made by fees regulations by virtue of subsection (10) may 
+be included instead in a fees order (and any provision so included may be amended 
+or revoked by fees regulations).
+(12) In this section and sections 69 and 70—
+“costs” includes—
+(a) the costs of the Secretary of State, and
+(b) the costs of any other person (whether or not funded from public money);
+“fees order” has the meaning given by subsection (2);
+“fees regulations” has the meaning given by subsection (7);
+“function” includes a power or a duty;
+“function in connection with immigration or nationality” includes a 
+function in connection with an enactment (including an enactment of a 
+jurisdiction outside the United Kingdom) that relates wholly or partly to 
+immigration or nationality;
+“specified” means specified in a fees order.
+(13) Any reference in this section or section 70 to the exercise of a function includes a 
+reference to its exercise in particular circumstances, including its exercise—
+(a)
+at particular times or in a particular place;
+(b)
+under particular arrangements;
+(c)
+otherwise in particular ways,
+and, for this purpose, “arrangements” includes arrangements for the convenience of 
+applicants, claimants or persons making requests for the exercise of a function.
+Modifications etc. (not altering text)
+C36
+Ss. 68-70 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Jersey) Order 2016 (S.I. 2016/994), arts. 1(1), 3, Sch.
+C37
+Ss. 68-70 extended (with modifications) to Guernsey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Guernsey) Order 2016 (S.I. 2016/996), arts. 1(1), 4, Sch.
+C38
+S. 68 extended (with modifications) to the Isle of Man by S.I. 2008/680, art. 22, Sch. 9A (as inserted 
+(9.10.2015 for specified purposes and 6.4.2016 in so far as not already in force) by The Immigration 
+(Isle of Man) (Amendment) Order 2015 (S.I. 2015/1765), arts. 1(2), 5, 7) (as amended: (14.3.2019) 
+by S.I. 2019/562, arts. 1, 5, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) by S.I. 
+2021/1277, arts. 1(2), 6)
+Commencement Information
+I89
+S. 68 in force at 15.12.2014 by S.I. 2014/2771, art. 8(a)
+69
+Fees orders and fees regulations: supplemental
+(1) A fees order or fees regulations may be made only with the consent of the Treasury.
+(2) A fee under section 68 may relate to something done outside the United Kingdom.
+
+
+## Page 87
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+87
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) Fees payable by virtue of section 68 may be recovered as a debt due to the Secretary 
+of State.
+(4) Fees paid to the Secretary of State by virtue of section 68 must—
+(a)
+be paid into the Consolidated Fund, or
+(b)
+be applied in such other way as the relevant order may specify.
+(5) Section 68 is without prejudice to—
+(a)
+section 1 of the Consular Fees Act 1980 (fees for consular acts etc);
+(b)
+section 102 of the Finance (No. 2) Act 1987 (government fees and charges), or
+(c)
+any other power to charge a fee.
+Modifications etc. (not altering text)
+C36
+Ss. 68-70 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Jersey) Order 2016 (S.I. 2016/994), arts. 1(1), 3, Sch.
+C37
+Ss. 68-70 extended (with modifications) to Guernsey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Guernsey) Order 2016 (S.I. 2016/996), arts. 1(1), 4, Sch.
+C39
+S. 69 extended (with modifications) to the Isle of Man by S.I. 2008/680, art. 22, Sch. 9A (as inserted 
+(9.10.2015 for specified purposes and 6.4.2016 in so far as not already in force) by The Immigration 
+(Isle of Man) (Amendment) Order 2015 (S.I. 2015/1765), arts. 1(2), 5, 7) (as amended: (14.3.2019) 
+by S.I. 2019/562, arts. 1, 5, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) by S.I. 
+2021/1277, arts. 1(2), 6)
+Commencement Information
+I90
+S. 69 in force at 15.12.2014 by S.I. 2014/2771, art. 8(b)
+70
+Power to charge fees for attendance services in particular cases
+(1) This section applies where a person exercises a function in connection with 
+immigration or nationality in respect of which a fee is chargeable by virtue of a fees 
+order (a “chargeable function”) in a particular case and—
+(a)
+in doing so attends at a place outside the United Kingdom, and time, agreed 
+with a person (“the client”), and
+(b)
+does so at the request of the client.
+It is immaterial whether or not the client is a person in respect of whom the chargeable 
+function is exercised.
+(2) In this section “attendance service” means the service described in subsection (1) 
+except so far as it consists of the exercise of a chargeable function.
+(3) The following are to be disregarded in determining whether a fee is chargeable in 
+respect of a function by virtue of a fees order—
+(a)
+any exception provided for by a fees order or fees regulations;
+(b)
+any power so provided to waive or refund a fee.
+(4) The person exercising the chargeable function may charge the client such fee for the 
+purposes of recovering the costs of providing the attendance service as the person may 
+determine.
+
+
+## Page 88
+
+88
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) Fees paid to the Secretary of State by virtue of this section must be paid into the 
+Consolidated Fund.
+(6) A fee payable by virtue of this section may be recovered as a debt due to the Secretary 
+of State.
+(7) This section is without prejudice to—
+(a)
+section 68;
+(b)
+section 1 of the Consular Fees Act 1980 (fees for consular acts etc);
+(c)
+section 102 of the Finance (No. 2) Act 1987 (government fees and charges), or
+(d)
+any other power to charge a fee.
+Modifications etc. (not altering text)
+C36
+Ss. 68-70 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Jersey) Order 2016 (S.I. 2016/994), arts. 1(1), 3, Sch.
+C37
+Ss. 68-70 extended (with modifications) to Guernsey (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Guernsey) Order 2016 (S.I. 2016/996), arts. 1(1), 4, Sch.
+C40
+S. 70 extended (with modifications) to the Isle of Man by S.I. 2008/680, art. 22, Sch. 9A (as inserted 
+(9.10.2015 for specified purposes and 6.4.2016 in so far as not already in force) by The Immigration 
+(Isle of Man) (Amendment) Order 2015 (S.I. 2015/1765), arts. 1(2), 5, 7) (as amended: (14.3.2019) 
+by S.I. 2019/562, arts. 1, 5, 9, 18; (31.12.2020) by S.I. 2020/1214, arts. 1, 5, 12; (11.11.2021) by S.I. 
+2021/1277, arts. 1(2), 6)
+Commencement Information
+I91
+S. 70 in force at 28.7.2014 by S.I. 2014/1820, art. 3(v) (with art. 7)
+[F6170A Immigration skills charge
+(1) The Secretary of State may by regulations provide for a charge to be imposed on—
+(a)
+persons who make immigration skills arrangements, or
+(b)
+any description of such persons.
+(2) “Immigration skills arrangements” are arrangements made by a person (“the sponsor”) 
+with the Secretary of State with a view to securing that an individual who is not 
+exempt for the purposes of this section is granted entry clearance or leave to remain 
+in the United Kingdom to enable the individual to work for the sponsor in the United 
+Kingdom.
+(3) Regulations under this section may in particular—
+(a)
+impose a separate charge on a sponsor in respect of each individual in relation 
+to whom the sponsor makes immigration skills arrangements;
+(b)
+specify the amount of any charge (and different amounts may be specified for 
+different purposes);
+(c)
+make provision about when or how a charge may or must be paid to the 
+Secretary of State;
+(d)
+make provision about the consequences of a sponsor failing to pay a charge;
+(e)
+provide for exemptions from a charge;
+(f)
+provide for the reduction, waiver or refund of part or all of a charge (whether 
+by conferring a discretion or otherwise).
+
+
+## Page 89
+
+Immigration Act 2014 (c. 22)
+PART 6 – Miscellaneous
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+89
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Sums paid by virtue of regulations under this section must—
+(a)
+be paid into the Consolidated Fund, or
+(b)
+be applied in such other way as the regulations may specify.
+(5) Regulations under this section may be made only with the consent of the Treasury.
+(6) An individual is exempt for the purposes of this section if he or she is—
+(a)
+a British citizen;
+[
+F62(aa)
+an Irish citizen;]
+[F63(b)
+a person who has leave to enter or remain in the United Kingdom granted by 
+virtue of residence scheme immigration rules.]
+F64(c)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+F64(d)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7) In this section “entry clearance” has the meaning given by section 33(1) of the 
+Immigration Act 1971 [F65and “residence scheme immigration rules” has the meaning 
+given by section 17 of the European Union (Withdrawal Agreement) Act 2020] .]
+Textual Amendments
+F61
+S. 70A inserted (12.7.2016) by Immigration Act 2016 (c. 19), ss. 85(2), 94(4)
+F62
+S. 70A(6)(aa) inserted (1.12.2020) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(b), 20(7)(a)(i) (with reg. 20(8))
+F63
+S. 70A(6)(b) substituted (1.12.2020) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(b), 20(7)(a)(ii) (with reg. 20(8))
+F64
+S. 70A(6)(c)(d) omitted (1.12.2020) by virtue of The Immigration and Social Security Co-ordination 
+(EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(b), 20(7)(a)(iii) (with reg. 20(8))
+F65
+Words in s. 70A(7) inserted (1.12.2020) by The Immigration and Social Security Co-ordination (EU 
+Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) 
+Regulations 2020 (S.I. 2020/1309), regs. 1(2)(b), 20(7)(b) (with reg. 20(8))
+Modifications etc. (not altering text)
+C41
+S. 70A applied (with modifications) (31.12.2020) by The Citizens' Rights (Application Deadline and 
+Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209), regs. 1(1), 3(4), 4(5), 12(1)(p)
+Welfare of children
+71
+Duty regarding the welfare of children
+For the avoidance of doubt, this Act does not limit any duty imposed on the Secretary 
+of State or any other person by section 55 of the Borders, Citizenship and Immigration 
+Act 2009 (duty regarding the welfare of children).
+Commencement Information
+I92
+S. 71 in force at 28.7.2014 by S.I. 2014/1820, art. 3(w)
+
+
+## Page 90
+
+90
+Immigration Act 2014 (c. 22)
+PART 7 – Final provisions
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 7
+FINAL PROVISIONS
+72
+Financial provision
+The following are to be paid out of money provided by Parliament—
+(a)
+expenditure incurred under or by virtue of this Act by the Secretary of State, 
+and
+(b)
+any increase attributable to this Act in the sums payable under any other Act 
+out of money so provided.
+73
+Transitional and consequential provision
+(1) The Secretary of State may, by order, make such transitional, transitory or saving 
+provision as the Secretary of State considers appropriate in connection with the coming 
+into force of any provision of this Act.
+(2) The Secretary of State may, by order, make such provision as the Secretary of State 
+considers appropriate in consequence of this Act.
+(3) The provision that may be made by an order under subsection (2) includes provision 
+amending, repealing or revoking any enactment.
+(4) “Enactment” includes—
+(a)
+an enactment contained in subordinate legislation within the meaning of the 
+Interpretation Act 1978;
+(b)
+an enactment contained in, or in an instrument made under, an Act of the 
+Scottish Parliament;
+(c)
+an enactment contained in, or in an instrument made under, a Measure or Act 
+of the National Assembly for Wales;
+(d)
+an enactment contained in, or in an instrument made under, Northern Ireland 
+legislation.
+(5) In section 61(2) of the UK Borders Act 2007 (definition of “the Immigration Acts”)—
+(a)
+at the end of paragraph (h), omit “and”;
+(b)
+at the end of paragraph (i) insert “, and
+(j)
+the Immigration Act 2014.”.
+(6) Schedule 9 (transitional and consequential provision) has effect.
+Modifications etc. (not altering text)
+C42
+S. 73(6) extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Jersey) Order 2015 (S.I. 2015/1532), arts. 1(1), 2(2)(3), Sch. 2
+(with art. 2(3))
+C43
+S. 73(6) extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the 
+amending S.I.) by The Immigration (Guernsey) Order 2015 (S.I. 2015/1533), arts. 1, 5, Sch. 2 (with
+art. 6)
+C44
+S. 73(6) extended (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by The 
+Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358), art. 4(d)
+
+
+## Page 91
+
+Immigration Act 2014 (c. 22)
+PART 7 – Final provisions
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+91
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I93
+S. 73 partly in force; S. 73(1)-(5) in force at Royal Assent, see s.75(1)(3)
+I94
+S. 73(6) in force at 14.7.2014 for specified purposes by S.I. 2014/1820, art. 2(f)
+I95
+S. 73(6) in force at 28.7.2014 for specified purposes by S.I. 2014/1820, art. 3(x)
+I96
+S. 73(6) in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 4(d)
+I97
+S. 73(6) in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 2(d) (with arts. 9-11) (as 
+amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions 
+and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+I98
+S. 73(6) in force at 17.11.2014 for specified purposes by S.I. 2014/2771, art. 5(b)
+I99
+S. 73(6) in force at 15.12.2014 for specified purposes by S.I. 2014/2771, art. 8(c)
+I100 S. 73(6) in force at 1.3.2015 for specified purposes by S.I. 2015/371, art. 2(1)(k)
+I101 S. 73(6) in force at 1.3.2015 for specified purposes by S.I. 2015/371, art. 3(a)
+I102 S. 73(6) in force at 6.4.2015 for specified purposes by S.I. 2015/874, art. 2(b)
+I103 S. 73(6) in force at 1.7.2021 for specified purposes by S.I. 2021/771, reg. 2(a)
+74
+Orders and regulations
+(1) Any power of the Secretary of State or Treasury to make an order or regulations under 
+this Act is exercisable by statutory instrument.
+(2) A statutory instrument containing any of the following orders or regulations may not 
+be made unless a draft of the instrument has been laid before each House of Parliament 
+and approved by a resolution of each House of Parliament—
+(a)
+an order under section 20(7), 23(6) or 25(5);
+(b)
+an order under section 38;
+[F66(ba)
+regulations under section 40A(4);
+(bb)
+regulations under section 40B;]
+(c)
+regulations under section 41;
+(d)
+an order under section 43, or under a section amended by such an order;
+(e)
+the first regulations under section 50(1);
+(f)
+the first regulations under section 50(5);
+(g)
+the first regulations under section 51(3);
+(h)
+the first regulations under section 51(4);
+(i)
+an order under section 53 or 54(4) or (6);
+(j)
+a fees order (within the meaning of section 68);
+[F67(ja)
+regulations under section 70A;]
+(k)
+an order under section 73(2) which amends or repeals primary legislation;
+(l)
+an order under paragraph 2(3)(e) of Schedule 6.
+(3) “Primary legislation” means any of the following—
+(a)
+a public general Act;
+(b)
+an Act of the Scottish Parliament;
+(c)
+a Measure or Act of the National Assembly for Wales;
+(d)
+Northern Ireland legislation.
+(4) A statutory instrument containing any other order or regulations made by the Secretary 
+of State or Treasury under this Act is subject to annulment in pursuance of a resolution 
+of either House of Parliament.
+
+
+## Page 92
+
+92
+Immigration Act 2014 (c. 22)
+PART 7 – Final provisions
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) But subsection (4) does not apply to a statutory instrument containing an order under 
+any of sections 35(3), 73(1) and 75(3) (subject to subsection (7)).
+(6) Subsection (7) applies if an order under section 75(3) is made which—
+(a)
+brings into force a provision of Chapter 1 of Part 3,
+(b)
+brings that provision into force only in relation to a particular area or areas 
+within England and Wales, Scotland or Northern Ireland, and
+(c)
+is the first order to be made bringing into force a provision of that Chapter 
+only in relation to an area or areas within England and Wales, Scotland or 
+Northern Ireland.
+(7) A statutory instrument containing any subsequent order under section 75(3) (after the 
+order mentioned in subsection (6)) that brings into force a provision of Chapter 1 of 
+Part 3 for anywhere other than the area or areas mentioned in paragraph (b) of that 
+subsection is subject to annulment in pursuance of a resolution of either House of 
+Parliament.
+(8) An order or regulations made by the Secretary of State or Treasury under this Act
+may—
+(a)
+make different provision for different purposes or areas,
+(b)
+make provision which applies generally or only for particular purposes or 
+areas,
+(c)
+make transitional, transitory or saving provision, or
+(d)
+make incidental, supplementary or consequential provision.
+Textual Amendments
+F66
+S. 74(2)(ba)(bb) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already 
+in force) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 7 para. 6; S.I. 2016/1037, reg. 2(d); S.I. 
+2017/929, reg. 2(b)
+F67
+S. 74(2)(ja) inserted (12.7.2016) by Immigration Act 2016 (c. 19), ss. 85(3), 94(4)
+75
+Commencement
+(1) This Part, other than section 73(6) and Schedule 9, comes into force on the day on 
+which this Act is passed.
+(2) Section 56, section 59 and Schedule 6, and section 62 come into force at the end of 
+the period of two months beginning with the day on which this Act is passed.
+(3) Subject to subsections (1) and (2), this Act comes into force on such day as the 
+Secretary of State may by order appoint; and different days may be appointed for 
+different purposes or areas.
+76
+Extent
+(1) This Act extends to England and Wales, Scotland and Northern Ireland.
+(2) Subsection (1) is subject to subsection (3).
+(3) Section 59 and Schedule 6 extend to England and Wales only.
+
+
+## Page 93
+
+Immigration Act 2014 (c. 22)
+PART 7 – Final provisions
+CHAPTER 3 – Other provisions
+Document Generated: 2026-02-14
+93
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Subsections (1) to (3) do not apply to an amendment, repeal or revocation made by 
+this Act.
+(5) An amendment, repeal or revocation made by this Act has the same extent as the 
+provision amended, repealed or revoked (ignoring extent by virtue of an Order in 
+Council).
+(6) Her Majesty may by Order in Council provide for any of the provisions of this Act to 
+extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
+(7) Subsection (6) does not apply in relation to the extension to a place of a provision 
+which extends there by virtue of subsection (5).
+Modifications etc. (not altering text)
+C45
+S. 76(6) power to extend (with modifications) to the Channel Islands or the Isle of Man any 
+amendments or repeals made to this Act by the Immigration Act 2016 to which this section relates 
+(12.5.2016) by Immigration Act 2016 (c. 19), ss. 94(5), 95(6)(7)(i)
+C46
+S. 76(6) power extended (28.4.2022) by Nationality and Borders Act 2022 (c. 36), ss. 86(5)(6)(l),
+87(3)(c)
+C47
+S. 76(6) power extended (19.6.2025) by Data (Use and Access) Act 2025 (c. 18), ss. 141(8), 142(2)(g)
+77
+Short title
+This Act may be cited as the Immigration Act 2014.
+Modifications etc. (not altering text)
+C48
+S. 77 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+C49
+S. 77 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Guernsey) Order 2020 (S.I. 2020/1560), arts. 1(1), 5, Sch. 4, Sch. 
+4A
+
+
+## Page 94
+
+94
+Immigration Act 2014 (c. 22)
+SCHEDULE 1 – Enforcement powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+S C H E D U L E S
+SCHEDULE 1
+Section 4
+ENFORCEMENT POWERS
+Power to escort detained persons
+1
+In Schedule 2 to the Immigration Act 1971, in paragraph 18(3) (power to escort 
+detained persons) for the first “or of” substitute “ an immigration officer, or ”.
+Commencement Information
+I104 Sch. 1 para. 1 in force at 28.7.2014 by S.I. 2014/1820, art. 3(y)
+Power to search detained persons
+2
+(1) In Schedule 2 to the Immigration Act 1971, after paragraph 18 insert—
+“18A (1) An immigration officer or constable may search a person (“P”) who is 
+detained under paragraph 16 for anything which P might use—
+(a)
+to cause physical injury to P or others, or
+(b)
+to assist P's escape from legal custody.
+(2) The power to search P—
+(a)
+unless sub-paragraph (3) applies, does not include power to 
+require P to remove any clothing other than an outer coat, jacket 
+or glove, but
+(b)
+includes power to require P to open P's mouth.
+(3) This sub-paragraph applies if an immigration officer or constable has 
+reasonable grounds to believe that there is concealed on P anything 
+which P might use as mentioned in sub-paragraph (1).
+(4) The power to search P may be exercised only to the extent reasonably 
+required for the purpose of discovering anything which P might use as 
+mentioned in sub-paragraph (1).
+(5) An intimate search (as defined in section 28H(11)) may not be conducted 
+under this paragraph.
+(6) An immigration officer or constable may seize and retain anything found 
+on a search of P if the officer or constable has reasonable grounds to 
+believe P might use it as mentioned in sub-paragraph (1).
+(7) Nothing seized under sub-paragraph (6) may be retained when P is 
+released from detention under paragraph 16.”
+F68(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+## Page 95
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 1 – Enforcement powers
+Document Generated: 2026-02-14
+95
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) In section 10(7) of the Immigration and Asylum Act 1999 (which applies certain 
+provisions of Schedule 2 to the Immigration Act 1971), for “18” substitute “ 18A ”.
+F69(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5) In regulation 22(2) of the Immigration (European Economic Area) Regulations 2006 
+(S.I. 2006/1003) (which applies certain provisions of Schedule 2 to the Immigration 
+Act 1971), for “18” substitute “ 18A ”.
+Textual Amendments
+F68
+Sch. 1 para. 2(3) repealed (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 7 table;
+S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 
+1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked 
+(6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+F69
+Sch. 1 para. 2(4) repealed (20.10.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 7 table;
+S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 
+1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 2014/2928, art. 2 (which S.I. is revoked 
+(6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Commencement Information
+I105 Sch. 1 para. 2 in force at 28.7.2014 by S.I. 2014/1820, art. 3(y)
+Entry and search of premises
+3
+(1) Paragraph 25A of Schedule 2 to the Immigration Act 1971 (power to enter premises 
+and search for documents following arrest) is amended as follows.
+(2) In sub-paragraph (1)(b) for “by a constable (other than under this Schedule)” 
+substitute “ other than under this Schedule ”.
+(3) After sub-paragraph (6) insert—
+“(6A) If, on an application made by an immigration officer, a justice of the peace 
+is satisfied that—
+(a)
+there are reasonable grounds for believing that relevant documents 
+may be found on premises not within sub-paragraph (2) which are 
+specified in the application, and
+(b)
+any of the conditions in sub-paragraph (6B) is met,
+the justice of the peace may issue a warrant authorising an immigration 
+officer to enter and search the premises.
+(6B) The conditions are that—
+(a)
+it is not practicable to communicate with any person entitled to grant 
+entry to the premises;
+(b)
+it is practicable to communicate with a person entitled to grant entry 
+to the premises but it is not practicable to communicate with any 
+person entitled to grant access to the relevant documents;
+(c)
+entry to the premises will not be granted unless a warrant is 
+produced;
+
+
+## Page 96
+
+96
+Immigration Act 2014 (c. 22)
+SCHEDULE 1 – Enforcement powers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(d)
+the purpose of a search may be frustrated or seriously prejudiced 
+unless an immigration officer arriving at the premises can secure 
+immediate entry.
+(6C) In the application of sub-paragraph (6A) to Scotland, references to a justice 
+of the peace are to be treated as references to the sheriff or a justice of the 
+peace.”
+(4) In sub-paragraph (7)—
+(a)
+for “sub-paragraph (2)” substitute “ this paragraph ”;
+(b)
+in paragraph (a) omit “and retain”;
+(c)
+omit paragraph (b) and the “but” before it.
+(5) After sub-paragraph (8) insert—
+“(8A) An immigration officer may retain a document seized under sub-
+paragraph (7) while the officer has reasonable grounds for believing that—
+(a)
+the arrested person may be liable to removal from the United 
+Kingdom in accordance with a provision of the Immigration Acts, 
+and
+(b)
+retention of the document may facilitate the person's removal.”
+Commencement Information
+I106 Sch. 1 para. 3 in force at 28.7.2014 by S.I. 2014/1820, art. 3(y)
+4
+In sections 28J(11) and 28K(14) of the Immigration Act 1971 (warrants - safeguards 
+and execution) after “paragraph 17(2)” insert “ or 25A(6A) ”.
+Commencement Information
+I107 Sch. 1 para. 4 in force at 28.7.2014 by S.I. 2014/1820, art. 3(y)
+General power to use reasonable force
+5
+In section 146(1) of the Immigration and Asylum Act 1999 (power of immigration 
+officer to use reasonable force when exercising powers under certain enactments) 
+for “the 1971 Act or this Act” substitute “ the Immigration Acts ”.
+Commencement Information
+I108 Sch. 1 para. 5 in force at 28.7.2014 by S.I. 2014/1820, art. 3(y)
+
+
+## Page 97
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 2 – Meaning of biometric information
+Document Generated: 2026-02-14
+97
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 2
+Section 12
+MEANING OF BIOMETRIC INFORMATION
+Modifications etc. (not altering text)
+C50
+Sch. 2 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619), arts. 
+1(1), 3, Sch. 2
+C51
+Sch. 2 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Guernsey) Order 2020 (S.I. 2020/1560), arts. 1(1), 5, Sch. 4, Sch. 4A
+Immigration Act 1971 (c. 77)
+1
+(1) Schedule 2 to the Immigration Act 1971 (entry control) is amended as follows.
+(2) In paragraph 4(5)—
+(a)
+after “provide” insert “ biometric ”;
+(b)
+omit from “about his external physical characteristics” to the end.
+(3) After paragraph 4(5) insert—
+“(6) Biometric information” has the meaning given by section 15 of the UK 
+Borders Act 2007.”
+(4) In paragraph 18(2A), for “fingerprints” substitute “ biometric information (within 
+the meaning given by section 15 of the UK Borders Act 2007) ”.
+Commencement Information
+I109 Sch. 2 para. 1 in force at 28.7.2014 by S.I. 2014/1820, art. 3(z)
+Immigration and Asylum Act 1999 (c. 33)
+2
+(1) Section 144 of the Immigration and Asylum Act 1999 (provision for collecting 
+physical data other than fingerprints) is amended as follows.
+(2) In subsection (1), for “data about external physical characteristics” substitute “ 
+biometric information ”.
+(3) For subsection (2) substitute—
+“(2) Biometric information” has the meaning given by section 15 of the UK 
+Borders Act 2007.”
+Commencement Information
+I110
+Sch. 2 para. 2 in force at 28.7.2014 by S.I. 2014/1820, art. 3(z)
+
+
+## Page 98
+
+98
+Immigration Act 2014 (c. 22)
+SCHEDULE 2 – Meaning of biometric information
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Nationality, Immigration and Asylum Act 2002 (c. 41)
+3
+(1) Section 126 of the Nationality, Immigration and Asylum Act 2002 (power to require 
+provision of physical data with certain immigration applications) is amended as 
+follows.
+(2) In subsection (1)—
+(a)
+in paragraph (a), for “information about external physical characteristics of 
+the applicant” substitute “ biometric information ”;
+(b)
+in paragraphs (b) and (c), for “information about his external physical 
+characteristics” substitute “ biometric information ”.
+(3) In subsection (4)(a), (b) and (c), before “information” insert “ biometric ”.
+(4) In subsection (9), after the definition of “authorised person” insert—
+““biometric information” has the meaning given by section 15 of the UK 
+Borders Act 2007,”.
+(5) In that subsection, omit the definition of “external physical characteristics” (and the 
+“and” before it).
+Modifications etc. (not altering text)
+C52
+Sch. 2 para. 3 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358),
+art. 4, Sch. 3
+Commencement Information
+I111
+Sch. 2 para. 3 in force at 28.7.2014 by S.I. 2014/1820, art. 3(z)
+4
+(1) Section 127 of that Act (voluntary provision of physical data) is amended as follows.
+(2) In subsection (1), for “information about his external physical characteristics” 
+substitute “ biometric information ”.
+(3) In subsection (2)(a) and (b), before “information” insert “ biometric ”.
+(4) In subsection (3)—
+(a)
+after paragraph (a) insert—
+“(aa)
+biometric information”, and”;
+(b)
+omit the “and” at the end of paragraph (b);
+(c)
+omit paragraph (c).
+Modifications etc. (not altering text)
+C53
+Sch. 2 para. 4 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of 
+the amending S.I.) by The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358),
+art. 4, Sch. 3
+Commencement Information
+I112
+Sch. 2 para. 4 in force at 28.7.2014 by S.I. 2014/1820, art. 3(z)
+
+
+## Page 99
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+99
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+5
+In section 35(2) of the Asylum and Immigration (Treatment of Claimants, etc) 
+Act 2004 (imposition of requirements to facilitate deportation or removal), for 
+paragraph (c) substitute—
+“(c)
+provide biometric information (within the meaning of section 15 of 
+the UK Borders Act 2007), or submit to a process by means of which 
+such information is obtained or recorded;”.
+Commencement Information
+I113
+Sch. 2 para. 5 in force at 28.7.2014 by S.I. 2014/1820, art. 3(z)
+SCHEDULE 3
+Section 20
+EXCLUDED RESIDENTIAL TENANCY AGREEMENTS
+Social housing
+1
+(1) An agreement that grants a right of occupation in social housing.
+(2) “Social housing” means accommodation provided to a person by virtue of a relevant 
+provision.
+(3) “Relevant provision” means a provision of—
+(a)
+in relation to England and Wales—
+(i) Part 2 of the Housing Act 1985, or
+(ii) Part 6 or 7 of the Housing Act 1996;
+(b)
+in relation to Scotland, Part 1 or 2 of the Housing (Scotland) Act 1987;
+(c)
+in relation to Northern Ireland—
+(i) Chapter 4 of Part 2 of the Housing (Northern Ireland) Order 1981 
+(S.I. 1981/156 (N.I. 3)), or
+(ii) Part 2 of the Housing (Northern Ireland) Order 1988 (S.I. 1988/1990 
+(N.I. 23)).
+(4) Accommodation provided to a person by virtue of a relevant provision includes 
+accommodation provided in pursuance of arrangements made under any such 
+provision.
+Commencement Information
+I114
+Sch. 3 para. 1 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I115
+Sch. 3 para. 1 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+2
+(1) This paragraph applies for the purposes of paragraph 1.
+(2) An allocation of housing accommodation by a local housing authority in England to 
+a person who is already—
+(a)
+a secure or introductory tenant, or
+
+
+## Page 100
+
+100
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+an assured tenant of housing accommodation held by a private registered 
+provider of social housing or a registered social landlord,
+is to be treated as an allocation of housing accommodation by virtue of Part 6 of the 
+Housing Act 1996 (and accordingly section 159(4A) of that Act is to be ignored).
+(3) An allocation of housing accommodation that falls within a case specified in, or 
+prescribed under, section 160 of the Housing Act 1996 (cases where provisions about 
+allocation under Part 6 of that Act do not apply) is to be treated as an allocation of 
+housing accommodation by virtue of Part 6 of that Act (and accordingly that section 
+is to be ignored).
+(4) An allocation of housing accommodation by virtue of Part 1 of the Housing 
+(Scotland) Act 1987 is to be treated as provided by virtue of a relevant provision only 
+if it is provided by a local authority within the meaning of that Act (or in pursuance 
+of arrangements made under or for the purposes of that Part with a local authority).
+(5) Accommodation provided to a person in Northern Ireland by a registered housing 
+association is to be treated as provided to the person by virtue of a relevant provision.
+(6) Terms used in sub-paragraphs (2) and (3) have the same meanings as in Part 6 of 
+the Housing Act 1996.
+(7) In sub-paragraph (5) “registered housing association” means a housing association, 
+within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992 (S.I. 
+1992/1725 (N.I. 15)), that is registered in the register of housing associations 
+maintained under Article 14 of that Order.
+Commencement Information
+I116
+Sch. 3 para. 2 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I117
+Sch. 3 para. 2 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Care homes
+3
+(1) An agreement that grants a right of occupation in a care home.
+(2) “Care home” means—
+(a)
+in relation to England and Wales, an establishment that is a care home for 
+the purposes of the Care Standards Act 2000;
+[F70(aa)
+premises in Wales at which a care home service within the meaning of Part 
+1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 
+2) is provided wholly or mainly to persons aged 18 or over;]
+(b)
+in relation to Scotland, accommodation that is provided as a care home 
+service within the meaning of Part 5 of the Public Services Reform 
+(Scotland) Act 2010;
+(c)
+in relation to Northern Ireland, an establishment that is a residential care 
+home, or a nursing home, for the purposes of the Health and Personal Social 
+Services (Quality, Improvement and Regulation) (Northern Ireland) Order 
+2003 (S.I. 2003/431 (N.I. 9)).
+
+
+## Page 101
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+101
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F70
+Sch. 3 para. 3(2)(aa) inserted (2.4.2018) by The Regulation and Inspection of Social Care (Wales) Act 
+2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195), regs. 2(1), 46(b)
+Commencement Information
+I118
+Sch. 3 para. 3 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I119
+Sch. 3 para. 3 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Hospitals and hospices
+4
+(1) An agreement that grants a right of occupation of accommodation in a hospital or 
+hospice.
+(2) “Hospital”—
+(a)
+in relation to England, has the meaning given in section 275 of the National 
+Health Service Act 2006;
+(b)
+in relation to Wales, has the meaning given in section 206 of the National 
+Health Service (Wales) Act 2006;
+(c)
+in relation to Scotland, has the meaning given in section 108 of the National 
+Health Service (Scotland) Act 1978;
+(d)
+in relation to Northern Ireland, has the meaning given in Article 2(2) of 
+the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 
+1972/1265 (N.I. 14)).
+(3) “Hospice” means an establishment other than a hospital whose primary function is 
+the provision of palliative care to persons resident there who are suffering from a 
+progressive disease in its final stages.
+Commencement Information
+I120 Sch. 3 para. 4 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I121 Sch. 3 para. 4 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Other accommodation relating to healthcare provision
+5
+(1) An agreement—
+(a)
+under which accommodation is provided to a person as a result of a duty 
+imposed on a relevant NHS body by an enactment, and
+(b)
+which is not excluded by another provision of this Schedule.
+(2) “Relevant NHS body” means—
+(a)
+in relation to England—
+[F71(i) an integrated care board,] or
+(ii) [F72NHS England];
+(b)
+in relation to Wales, a local health board;
+(c)
+in relation to Scotland, a health board constituted by order made under 
+section 2 of the National Health Service (Scotland) Act 1978;
+(d)
+in relation to Northern Ireland, a Health and Social Services trust.
+
+
+## Page 102
+
+102
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Textual Amendments
+F71
+Sch. 3 para. 5(2)(a)(i) substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 4 para. 
+208; S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+F72
+Words in Sch. 3 substituted (1.7.2022) by Health and Care Act 2022 (c. 31), s. 186(6), Sch. 1 para. 
+1(1)(2); S.I. 2022/734, reg. 2(a), Sch. (with regs. 13, 29, 30)
+Commencement Information
+I122 Sch. 3 para. 5 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I123 Sch. 3 para. 5 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Hostels and refuges
+6
+(1) An agreement that grants a right of occupation of accommodation in a hostel or 
+refuge.
+(2) “Hostel” means a building which satisfies the following two conditions.
+(3) The first condition is that the building is used for providing to persons generally, or 
+to a class of persons—
+(a)
+residential accommodation otherwise than in separate and self-contained 
+premises, and
+(b)
+board or facilities for the preparation of food adequate to the needs of those 
+persons (or both).
+(4) The second condition is that any of the following applies in relation to the building—
+(a)
+it is managed by a registered housing association;
+(b)
+it is not operated on a commercial basis and its costs of operation are 
+provided wholly or in part by a government department or agency, or by a 
+local authority;
+(c)
+it is managed by a voluntary organisation or charity.
+(5) “Refuge” means a building which satisfies the second condition in sub-paragraph (4) 
+and is used wholly or mainly for providing accommodation to persons who have 
+been subject to any incident, or pattern of incidents, of—
+(a)
+controlling, coercive or threatening behaviour,
+(b)
+physical violence,
+(c)
+abuse of any other description (whether physical or mental in nature), or
+(d)
+threats of any such violence or abuse.
+(6) In this paragraph—
+“government department” includes—
+(a) any part of the Scottish Administration;
+(b) a Northern Ireland department;
+(c) the Welsh Assembly Government;
+(d) any body or authority exercising statutory functions on behalf of the 
+Crown;
+“registered housing association” means—
+(a) a private registered provider of social housing;
+
+
+## Page 103
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+103
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b) a registered social landlord within the meaning of Part 1 of the Housing 
+Act 1996 or section 165 of the Housing (Scotland) Act 2010;
+(c) a housing association which is registered in a register maintained 
+under Article 14 of the Housing (Northern Ireland) Order 1992 (S.I. 
+1992/1725 (N.I. 15));
+“voluntary organisation” means a body, other than a public or local 
+authority, whose activities are not carried on for profit.
+Commencement Information
+I124 Sch. 3 para. 6 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I125 Sch. 3 para. 6 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Accommodation from or involving local authorities
+7
+(1) An agreement—
+(a)
+under which accommodation is provided to a person as a result of a duty 
+or relevant power that is imposed or conferred on a local authority by an 
+enactment (whether or not provided by the local authority), and
+(b)
+which is not excluded by another provision of this Schedule.
+(2) “Relevant power” means a power that is exercised for, or in connection with, a 
+purpose of providing accommodation to a person who is homeless or is threatened 
+with homelessness.
+(3) In sub-paragraph (2) the reference to a person who is homeless or is threatened with 
+homelessness is to be read in accordance with—
+(a)
+in relation to England and Wales, section 175 of the Housing Act 1996;
+(b)
+in relation to Scotland, section 24 of the Housing (Scotland) Act 1987;
+(c)
+in relation to Northern Ireland, Article 3 of the Housing (Northern Ireland) 
+Order 1988 (S.I. 1988/1990 (N.I. 23)).
+Commencement Information
+I126 Sch. 3 para. 7 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I127 Sch. 3 para. 7 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Accommodation provided by virtue of immigration provisions
+8
+An agreement granting a right of occupation of accommodation that is provided to 
+an individual by virtue of any of the following provisions of the Immigration and 
+Asylum Act 1999—
+(a)
+section 4 (provision of accommodation to persons granted temporary 
+admission etc);
+(b)
+section 95 (provision of support to asylum seekers etc);
+(c)
+section 98 (provision of temporary support to asylum seekers etc).
+Commencement Information
+I128 Sch. 3 para. 8 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+
+
+## Page 104
+
+104
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+I129 Sch. 3 para. 8 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Mobile homes
+9
+An agreement to which the Mobile Homes Act 1983 applies.
+Commencement Information
+I130 Sch. 3 para. 9 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I131 Sch. 3 para. 9 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Tied accommodation
+10
+(1) An agreement that grants a right of occupation of tied accommodation.
+(2) “Tied accommodation” means accommodation that is provided—
+(a)
+by an employer to an employee in connection with a contract of employment, 
+or
+(b)
+by a body providing training in a trade, profession or vocation to an 
+individual in connection with that training.
+(3) In this paragraph “employer” and “employee” have the same meanings as in the 
+Employment Rights Act 1996 (see section 230 of that Act).
+Commencement Information
+I132 Sch. 3 para. 10 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I133 Sch. 3 para. 10 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Student accommodation
+11
+(1) An agreement that grants a right of occupation in a building which—
+(a)
+is used wholly or mainly for the accommodation of students, and
+(b)
+satisfies either of the following conditions.
+(2) The first condition is that the building is owned or managed by any of the following—
+(a)
+an institution within the meaning of paragraph 5 of Schedule 1 to the Local 
+Government Finance Act 1992;
+(b)
+a body that is specified in regulations made under Article 42(2A) of the Rates 
+(Northern Ireland) Order 1977 (S.I. 1977/2157 (N.I. 28));
+(c)
+a body established for charitable purposes only.
+(3) The second condition is that the building is a hall of residence.
+(4) In this paragraph and paragraph 12 “student”—
+(a)
+in relation to England and Wales or Scotland, has the same meaning as in 
+paragraph 4 of Schedule 1 to the Local Government Finance Act 1992;
+(b)
+in relation to Northern Ireland, means a person who satisfies such conditions 
+as to education or training as may be specified in regulations made under 
+Article 42(2A) of the Rates (Northern Ireland) Order 1977 (S.I. 1977/2157 
+(N.I. 28)).
+
+
+## Page 105
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 3 – Excluded residential tenancy agreements
+Document Generated: 2026-02-14
+105
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I134 Sch. 3 para. 11 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I135 Sch. 3 para. 11 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+12
+An agreement under which accommodation is provided to a student who has been 
+nominated to occupy it by an institution or body of the kind mentioned in paragraph 
+11(2).
+Commencement Information
+I136 Sch. 3 para. 12 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I137 Sch. 3 para. 12 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Long leases
+13
+(1) An agreement that—
+(a)
+is, or is for, a long lease, or
+(b)
+grants a right of occupation for a term of 7 years or more.
+(2) “Long lease” means—
+(a)
+in relation to England and Wales, a lease which is a long lease for the 
+purposes of Chapter 1 of Part 1 of the Leasehold Reform, Housing and Urban 
+Development Act 1993 or which, in the case of a shared ownership lease 
+(within the meaning given by section 7(7) of that Act), would be such a lease 
+if the tenant's total share (within the meaning given by that section) were 
+100 per cent;
+(b)
+in relation to Scotland, has the meaning given by section 9(2) of the Land 
+Registration (Scotland) Act 2012.
+(3) An agreement does not grant a right of occupation for a term of 7 years or more if 
+the agreement can be terminated at the option of a party before the end of 7 years 
+from the commencement of the term.
+Commencement Information
+I138 Sch. 3 para. 13 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I139 Sch. 3 para. 13 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+Interpretation
+14
+(1) This paragraph applies for the purposes of this Schedule.
+(2) “Building” includes a part of a building.
+(3) “Enactment” includes—
+(a)
+an enactment contained in subordinate legislation within the meaning of the 
+Interpretation Act 1978;
+(b)
+an enactment contained in, or in an instrument made under, an Act of the 
+Scottish Parliament;
+
+
+## Page 106
+
+106
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+an enactment contained in, or in an instrument made under, a Measure or 
+Act of the National Assembly for Wales;
+(d)
+an enactment contained in, or in an instrument made under, Northern Ireland 
+legislation.
+(4) “Local authority” means—
+(a)
+in relation to England—
+(i) a county, district or parish council in England,
+(ii) a London borough council,
+(iii) the Common Council of the City of London in its capacity as a local 
+authority, or
+(iv) the Council of the Isles of Scilly;
+(b)
+in relation to Wales, any county, county borough or community council in 
+Wales;
+(c)
+in relation to Scotland, a council constituted under section 2 of the Local 
+Government etc. (Scotland) Act 1994;
+(d)
+in relation to Northern Ireland, a district council constituted under section 1 
+of the Local Government Act (Northern Ireland) 1972 (c. 9 (N.I.)).
+Commencement Information
+I140 Sch. 3 para. 14 in force at 1.12.2014 for specified purposes by S.I. 2014/2771, art. 6(1)(m)
+I141 Sch. 3 para. 14 in force at 1.2.2016 for E. in so far as not already in force by S.I. 2016/11, art. 2(m)
+SCHEDULE 4
+Section 52
+REFERRAL OF PROPOSED MARRIAGES AND CIVIL PARTNERSHIPS IN ENGLAND AND WALES
+PART 1
+MARRIAGE
+Introduction
+1
+The Marriage Act 1949 is amended in accordance with this Part of this Schedule.
+Commencement Information
+I142 Sch. 4 para. 1 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I143 Sch. 4 para. 1 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Supply of additional information and evidence
+2
+(1) Section 27 (notice of marriage) is amended in accordance with this paragraph.
+(2) In subsection (3), after “surname,” insert “ the date of birth, ”.
+
+
+## Page 107
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+107
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) In subsection (4), for “27A” substitute “ 27ZA ”.
+Commencement Information
+I144 Sch. 4 para. 2 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+3
+(1) After section 27 insert—
+“27ZA Entry of particulars in notice book: compliance with requirements
+The superintendent registrar shall not enter the particulars relating to a 
+marriage in the marriage notice book in accordance with section 27(4), or 
+in an approved electronic form by virtue of section 27(4A), in a case where 
+any of the following requirements is applicable but is not complied with—
+(a)
+a requirement imposed by or under any of the following provisions 
+of this Act—
+section 27A(2) or (3);
+section 27A(4);
+section 27B(2);
+section 27E(3) to (7);
+section 27E(8);
+section 28B(1);
+section 28C(4) or (6);
+(b)
+the requirement imposed by section 19(2) of the Asylum and 
+Immigration (Treatment of Claimants, etc) Act 2004.”.
+(2) Omit section 27A(5).
+Commencement Information
+I145 Sch. 4 para. 3 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+4
+After section 27D insert—
+“27E Additional information if party not relevant national
+(1) This section applies to notice of marriage given to a superintendent registrar 
+in accordance with section 27 if one, or each, of the parties to the proposed 
+marriage is not a relevant national.
+(2) But this section does not apply if section 39A applies to the proposed 
+marriage.
+(3) For each party to the proposed marriage who is not a relevant national, the 
+notice must include whichever of statements A, B or C is applicable to that 
+person.
+(4) Statement A is a statement that the person has the appropriate immigration 
+status.
+(5) Statement B is a statement that the person holds a relevant visa in respect 
+of the proposed marriage.
+
+
+## Page 108
+
+108
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) Statement C is a statement that the person neither—
+(a)
+has the appropriate immigration status, nor
+(b)
+holds a relevant visa in respect of the proposed marriage.
+(7) If the notice contains the statement referred to in the first column of an 
+entry in this table, the notice must be accompanied by the information and 
+photographs referred to in the second column of that entry (insofar as that 
+entry is applicable to the parties to the proposed marriage)—
+If the notice includes this statement...
+...the notice must be accompanied by...
+Statement A (in respect of one or both of 
+the parties to the proposed marriage)
+For each party in respect of whom 
+statement A is made, details of the 
+particular immigration status which that 
+party has
+Statement B (in respect of one or both of 
+the parties to the proposed marriage)
+(1)
+For each party, a specified 
+photograph of that party
+(2)
+For each party in respect of 
+whom statement B is made, 
+details of the relevant visa which 
+that party has
+Statement C (in respect of one or both of 
+the parties to the proposed marriage)
+(1)
+For each party, a specified 
+photograph of that party
+(2)
+For each party, the usual address 
+of that party
+(3)
+For each party whose usual 
+address is outside the United 
+Kingdom, an address in the 
+United Kingdom at which that 
+party can be contacted by post
+(4)
+For each party who has 
+previously used any name or 
+names other than the person's 
+name stated in the notice in 
+accordance with section 27(3), 
+a statement of the other name or 
+names
+(5)
+For each party who currently 
+uses, or has previously used, an 
+alias or aliases, a statement of the 
+alias or aliases
+(8) If the notice contains more than one of statements A, B and C, subsection (7) 
+must be complied with in relation to each of those statements; but where the 
+notice contains statements B and C, subsection (7) does not require the notice 
+to be accompanied by more than one specified photograph of each party.
+(9) If the notice includes statement C for a party to the proposed marriage—
+(a)
+the notice may be accompanied by a statement (“statement D”) of 
+that person's immigration position in the United Kingdom;
+
+
+## Page 109
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+109
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+if the notice is accompanied by statement D for a party to the 
+proposed marriage, the person may provide the superintendent 
+registrar with details of his or her immigration position in the United 
+Kingdom; and
+(c)
+if any such details are provided, the superintendent registrar must 
+record them.
+(10) In this section—
+(a)
+a reference—
+(i) to a person having the appropriate immigration status, or
+(ii) to a person holding a relevant visa,
+has the same meaning as in section 49 of the Immigration Act 2014;
+(b)
+a reference to the particular immigration status which a person has 
+is a reference to the immigration status set out in any of paragraphs 
+(a) to (c) of section 49(2) of that Act which the person has;
+(c)
+a reference to a person's immigration position in the United 
+Kingdom includes a reference to the person's not being entitled to 
+be in the United Kingdom.
+(11) In this section “specified photograph” means a photograph that is in 
+accordance with regulations made under section 28G (and for this purpose 
+“photograph” includes other kinds of images).”.
+Commencement Information
+I146 Sch. 4 para. 4 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I147 Sch. 4 para. 4 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+5
+In section 28 (declaration to accompany notice of marriage), in subsection (1), after 
+paragraph (c) insert—
+“(d)
+that he or she believes all of the information stated in the notice, and 
+all information and evidence supplied with the notice, is true.”.
+Commencement Information
+I148 Sch. 4 para. 5 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+6
+(1) Section 28A (power to require evidence) is amended in accordance with this 
+paragraph.
+(2) For the title substitute “ Power to require evidence of consent to marriages of 
+same sex couples ”.
+(3) Omit subsection (1).
+(4) In subsection (2), for the words before “may” substitute “ A requirement under 
+subsection (1A) ”.
+(5) Omit subsection (3).
+
+
+## Page 110
+
+110
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I149 Sch. 4 para. 6 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+7
+After section 28A insert—
+“28B Provision of evidence
+(1) A notice of marriage under section 27 must, in relation to each of the parties 
+to the marriage, be accompanied by specified evidence of the following
+matters—
+(a)
+the person's name and surname;
+(b)
+the person's date of birth;
+(c)
+the person's place of residence;
+(d)
+the person's nationality.
+(2) A person giving a notice of marriage under section 27 must provide 
+the superintendent registrar to whom the notice is given with specified
+evidence—
+(a)
+as to whether the person has previously been married or formed a 
+civil partnership; and
+(b)
+if so, as to the ending of the marriage or civil partnership.
+(3) In this section “specified evidence” means evidence that is in accordance 
+with regulations made under section 28G.
+28C Additional evidence if party not relevant national
+(1) This section applies to notice of marriage given to a superintendent registrar 
+in accordance with section 27 if one, or each, of the parties to the proposed 
+marriage is not a relevant national.
+(2) If the notice includes statement A (referred to in section 27E(4)), and 
+accordingly is accompanied by details of the particular immigration status 
+which a party to the proposed marriage has, the notice must be accompanied 
+by specified evidence of that status.
+(3) If the notice includes statement B (referred to in section 27E(5)), the notice 
+must be accompanied by specified evidence of the holding of the relevant 
+visa by the party to the proposed marriage.
+(4) If, in accordance with section 27E(7), the notice is accompanied by the 
+usual address of a party to the proposed marriage, the notice must also be 
+accompanied by specified evidence that it is that party's usual address.
+(5) If the notice includes statement D (referred to in section 27E(9)), the notice 
+may be accompanied by evidence of the person's immigration position in the 
+United Kingdom.
+(6) If subsection (2) or (3) applies to the notice, and the notice is not 
+accompanied by the specified evidence required by that subsection, the 
+notice must be accompanied by—
+
+
+## Page 111
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+111
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+photographs and addresses of the kinds referred to in paragraphs 1 
+and 2 in the relevant entry in section 27E(7);
+(b)
+as respects the usual address of each party that is provided in 
+accordance with paragraph (a), specified evidence that the address 
+provided is that party's usual address; and
+(c)
+addresses, names and aliases of the kinds referred to in paragraphs 
+3 to 5 in the relevant entry in section 27E(7) (insofar as those 
+paragraphs are applicable to the parties to the proposed marriage).
+(7) In this section—
+“relevant entry in section 27E(7)” means the second column of 
+the last entry in the table in section 27E(7);
+“specified evidence” means evidence that is in accordance with 
+regulations made under section 28G.
+28D Change of usual address or UK contact address
+(1) The Secretary of State may, by regulations, make provision about the giving 
+to the Secretary of State of—
+(a)
+notice of a person's usual address, if the person's notified usual 
+address changes;
+(b)
+notice of a UK contact address, if the person's notified usual address 
+is not in the United Kingdom;
+(c)
+notice of a person's UK contact address, if the person's notified UK 
+contact address changes;
+(d)
+evidence of any address notified in accordance with regulations 
+under paragraph (a), (b) or (c).
+(2) The provision that may be made in regulations under this section includes—
+(a)
+provision imposing a requirement on a person;
+(b)
+provision about the rejection of information or evidence which there 
+are reasonable grounds to suspect to be false.
+(3) Regulations under subsection (1)(d) may, in particular, make any provision 
+of the kind that may be made under section 28G(3).
+(4) Regulations under this section are to be made by statutory instrument; and a 
+statutory instrument containing such regulations is subject to annulment in 
+pursuance of a resolution of either House of Parliament.
+(5) In this section—
+“notified UK contact address” means an address in the United 
+Kingdom, at which a person can be contacted by post, that has been 
+notified in accordance with—
+(a) section 27E(7) or 28C(6), or
+(b) regulations under this section;
+“notified usual address” means the usual address of a person that 
+has been notified in accordance with—
+(a) section 27E(7) or 28C(6), or
+(b) regulations under this section.
+
+
+## Page 112
+
+112
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+28E Rejection of false information or evidence
+(1) A superintendent registrar may reject—
+(a)
+any information or photograph provided under section 27, 27E or 
+28C, or
+(b)
+any evidence provided under section 28A, 28B or 28C,
+if (in particular) the superintendent registrar has reasonable grounds for 
+suspecting that the information, photograph or evidence is false.
+(2) If the superintendent registrar rejects any information, photograph or 
+evidence, the superintendent registrar may proceed under this Act as if the 
+rejected information, photograph or evidence had not been provided.
+(3) This section does not limit the powers of superintendent registrars to reject 
+anything provided under any other enactment.
+28F Amendment of notice and evidence provisions
+(1) The Secretary of State may by order—
+(a)
+amend section 27, 27E or 28C so as to vary the information that must 
+or may be given in cases where that section applies;
+(b)
+amend section 28B or 28C so as to vary the matters in respect of 
+which evidence must or may be given in cases where that section 
+applies;
+(c)
+make such provision (including provision amending section 27ZA, 
+28D or 28G or any other enactment) as the Secretary of State 
+considers appropriate in consequence of provision made under 
+paragraph (a) or (b).
+(2) The Secretary of State must consult the Registrar General before making an 
+order under this section.
+(3) An order under this section is to be made by statutory instrument; and no 
+statutory instrument containing such an order may be made unless a draft 
+of it has been laid before, and approved by resolution of, each House of 
+Parliament.
+28G Specified evidence
+(1) The Registrar General may make regulations about the evidence that is 
+required to be given for the purposes of section 8, 16 or 28B.
+(2) The Secretary of State may make regulations about the evidence that is 
+required to be given for the purposes of section 28C.
+(3) Regulations under this section may, in particular, make provision about—
+(a)
+the kind of evidence which is to be supplied;
+(b)
+the form in which evidence is to be supplied;
+(c)
+the manner in which evidence is to be supplied;
+(d)
+the period within which evidence is to be supplied;
+(e)
+the supply of further evidence;
+(f)
+the sufficiency of evidence supplied;
+
+
+## Page 113
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+113
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(g)
+the consequences of failing to supply sufficient evidence in 
+accordance with the regulations (including provision to secure that, 
+in such a case, a particular decision is made or is to be treated as 
+having been made);
+(h)
+the retention or copying of evidence supplied.
+(4) In this section “evidence” includes a photograph or other image.
+(5) The Secretary of State must consult the Registrar General before making 
+regulations under this section.
+(6) The Registrar General must obtain the approval of the Secretary of State 
+before making regulations under this section.
+(7) Regulations under this section are to be made by statutory instrument.
+(8) A statutory instrument containing regulations under this section made by the 
+Secretary of State is subject to annulment in pursuance of a resolution of 
+either House of Parliament.”.
+Commencement Information
+I150 Sch. 4 para. 7 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I151 Sch. 4 para. 7 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Referral to Secretary of State
+8
+After section 28G insert—
+“28H Referral of proposed marriage to Secretary of State
+(1) On every occasion when notice of marriage is given under section 27, a 
+superintendent registrar must decide whether or not each of the parties to the 
+proposed marriage is an exempt person.
+(2) But this section does not apply if section 39A applies to the proposed 
+marriage.
+(3) In making a decision under subsection (1) about a party to a proposed 
+marriage, a superintendent registrar may rely on any advice given in relation 
+to that decision by the Secretary of State.
+(4) In a case where—
+(a)
+section 27E applies to the notice of marriage, and
+(b)
+specified evidence required by section 28C(2) or (3) in relation to a 
+party to the proposed marriage is not produced in accordance with 
+that section,
+the superintendent registrar must decide that that party to the proposed 
+marriage is not an exempt person.
+(5) If the superintendent registrar decides that either of the parties is not an 
+exempt person, or that both of the parties are not exempt persons, the 
+superintendent registrar must—
+(a)
+refer the proposed marriage to the Secretary of State;
+
+
+## Page 114
+
+114
+Immigration Act 2014 (c. 22)
+SCHEDULE 3A – Modifications if proposed marriage referred under section 28H
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+notify the parties to the proposed marriage that the proposed 
+marriage must be referred to the Secretary of State;
+(c)
+give the parties to the proposed marriage prescribed information
+about—
+(i) the effects of the referral;
+(ii) the requirement under regulations under section 28D to 
+notify the Secretary of State of changes of address.
+(6) The superintendent registrar must act in accordance with regulations when 
+complying with the duty in subsection (5)(a) to refer a proposed marriage 
+to the Secretary of State.
+(7) Regulations may, in particular, make provision about—
+(a)
+the form, manner or timing of the referral of a proposed marriage;
+(b)
+information, photographs or evidence — or copies of any of those 
+things — to be included with the referral of a proposed marriage.
+(8) Regulations are to be made by statutory instrument; and a statutory 
+instrument containing regulations is subject to annulment in pursuance of a 
+resolution of either House of Parliament.
+(9) If the superintendent registrar refers the proposed marriage to the Secretary 
+of State, this Act has effect in relation to the proposed marriage subject to 
+the modifications in Schedule 3A.
+(10) In this section—
+(a)
+a reference to a person being an exempt person has the same 
+meaning as in section 49 of the Immigration Act 2014;
+(b)
+“prescribed information” means information prescribed in 
+regulations;
+(c)
+“regulations” means regulations made by the Secretary of State after 
+consulting the Registrar General.”.
+Commencement Information
+I152 Sch. 4 para. 8 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I153 Sch. 4 para. 8 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+9
+Before Schedule 4 insert—
+“SCHEDULE 
+3A
+MODIFICATIONS IF PROPOSED MARRIAGE REFERRED UNDER SECTION 28H
+Introduction
+1
+(1) These are the modifications subject to which this Act has effect if the 
+superintendent registrar refers a proposed marriage to the Secretary of State.
+(2) In this Schedule—
+“2014 Act” means the Immigration Act 2014;
+
+
+## Page 115
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+115
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“referred marriage” means the proposed marriage referred to the 
+Secretary of State.
+No certificate to be issued until decision about investigation etc
+2
+(1) The duty under section 31(2) to issue a certificate in respect of the referred 
+marriage does not apply unless and until one of the following events occurs.
+(2) Event 1 occurs if—
+(a)
+the Secretary of State gives the superintendent registrar the 
+section 48 notice, and
+(b)
+that notice is of a decision not to investigate whether the referred 
+marriage is a sham.
+(3) Event 2 occurs if—
+(a)
+the relevant statutory period ends, and
+(b)
+the Secretary of State has not given the superintendent registrar the 
+section 48 notice.
+(4) Event 3 occurs if—
+(a)
+the Secretary of State gives the superintendent registrar the 
+section 48 notice,
+(b)
+that notice is of a decision to investigate whether the referred 
+marriage is a sham,
+(c)
+the Secretary of State gives the superintendent registrar the 
+section 50 notice, and
+(d)
+that notice is of a decision that both of the parties to the referred 
+marriage have complied with the investigation.
+(5) Event 4 occurs if—
+(a)
+the 70 day period ends, and
+(b)
+the Secretary of State has not given the superintendent registrar the 
+section 50 notice.
+(6) Event 5 occurs if the Secretary of State gives the superintendent registrar 
+notice that the duty under section 31(2) is applicable.
+(7) The Secretary of State may give a notice for that purpose only if—
+(a)
+the Secretary of State has given the superintendent registrar the 
+section 48 notice,
+(b)
+that notice is of a decision to investigate whether the referred 
+marriage is a sham,
+(c)
+the Secretary of State has given the superintendent registrar the 
+section 50 notice, and
+(d)
+that notice is of a decision that one or both of the parties to the 
+referred marriage have not complied with the investigation.
+(8) This paragraph applies in addition to any other requirements applicable to 
+the issue of the certificate.
+(9) This paragraph is subject to paragraph 4.
+(10) In this paragraph—
+
+
+## Page 116
+
+116
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“70 day period” has the same meaning as in section 50 of the 
+2014 Act;
+“relevant statutory period” has the same meaning as in section 48 
+of the 2014 Act;
+“section 48 notice” means notice under section 48(7) of the 2014 
+Act;
+“section 50 notice” means notice under section 50(7) of the 2014 
+Act.
+Marriage to be investigated: extension of waiting period to 70 days
+3
+(1) The modifications in this paragraph have effect if the Secretary of State gives 
+the superintendent registrar notice under section 48(7) of the 2014 Act of a 
+decision to investigate whether the referred marriage is a sham.
+(2) Section 31(2): the reference to the said period of 28 days has effect as a 
+reference to the relevant 70 day period.
+(3) Section 31(4A)(a): the reference to the period of 28 days has effect as a 
+reference to the relevant 70 day period.
+(4) Section 31(5A) and (5C): the reference to the 28 day period has effect as a 
+reference to the relevant 70 day period.
+(5) Section 31(5B) does not apply.
+(6) Section 75(3)(a): the reference to 28 days has effect as a reference to 70 days 
+(and the reference in section 31(5C) to 28 days has effect accordingly).
+(7) In this paragraph “relevant 70 day period” means the period—
+(a)
+beginning the day after notice of the proposed marriage is entered 
+in the marriage book in accordance with Part 3 of the Marriage 
+Act 1949, or is entered in an approved electronic form by virtue of 
+section 27(4A) of that Act, and
+(b)
+ending at the end of the period of 70 days beginning with that day.
+Effect of reducing statutory period
+4
+(1) This paragraph applies if—
+(a)
+the Secretary of State gives notice under section 31(5EB) of the 
+grant of an application made under section 31(5A) (reduction of 
+statutory period) in relation to the referred marriage, and
+(b)
+that notice is given at a time when the duty under section 31(2) to 
+issue a certificate in respect of the referred marriage has not arisen 
+in accordance with paragraph 2.
+(2) The duty under subsection 31(2) to issue a certificate in respect of the 
+referred marriage arises on the giving of the notice, subject to any other 
+requirements applicable to the issue of the certificate being met.
+(3) But the requirements of paragraph 2 are not applicable in such a case.
+
+
+## Page 117
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+117
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) The Secretary of State is not prevented from deciding to conduct, 
+conducting, or continuing, an investigation if a certificate in respect of the 
+referred marriage is issued as mentioned in sub-paragraph (2).
+(5) But in such a case, nothing in the 2014 Act requires the Secretary of State to 
+decide whether to conduct, to conduct, or to continue, an investigation.
+(6) In this paragraph “investigation” means an investigation, conducted 
+following a decision by the Secretary of State under section 48 of the 2014 
+Act, whether a proposed marriage is a sham.”.
+Commencement Information
+I154 Sch. 4 para. 9 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Notice period
+10
+(1) Section 31 (marriage under certificate without licence) is amended in accordance 
+with this paragraph.
+(2) In section 31—
+(a)
+for “15 successive days” (in each place) substitute “ 28 successive days ”;
+(b)
+for “15 days” (in each place) substitute “ 28 days ”;
+(c)
+for “15 day period” (in each place) substitute “ 28 day period ”.
+(3) After subsection (5E) insert—
+“(5EA) If a proposed marriage is referred to the Secretary of State under 
+section 28H—
+(a)
+any application under subsection (5A) is to be made to the Secretary 
+of State; and
+(b)
+the power conferred by subsection (5A) is exercisable by the 
+Secretary of State;
+and the reference to the Registrar General in subsection (5C) accordingly 
+has effect as a reference to the Secretary of State.
+(5EB) If the Secretary of State grants an application made under subsection (5A), 
+the Secretary of State must give notice of the grant of the application to the 
+applicant and to the superintendent registrar to whom notice of the marriage 
+was given.
+(5EC) Regulations under subsection (5D) do not apply to applications made to the 
+Secretary of State in accordance with subsection (5EA).
+(5ED) The Secretary of State may by regulations make provision with respect 
+to the making, and granting, of applications made in accordance with 
+subsection (5EA).
+(5EE) The Secretary of State must consult the Registrar General before making 
+regulations under subsection (5ED).”.
+(4) In subsection (5H), after “(5D)” insert “ or (5ED) ”.
+
+
+## Page 118
+
+118
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I155 Sch. 4 para. 10 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I156 Sch. 4 para. 10 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Marriage referred to Secretary of State: issue of certificates
+11
+(1) In section 31 (marriage under certificate without licence), at the end insert—
+“(7) This section has effect subject to section 31ZA.”.
+(2) After section 31 insert—
+“31ZA Notice of marriage: false information or evidence
+(1) A superintendent registrar may refuse to issue a certificate under 
+section 31(2) in a case where—
+(a)
+notice of marriage has been given under section 27, and
+(b)
+a superintendent registrar has reasonable grounds for suspecting that 
+a relevant decision was made incorrectly because of the provision 
+of false information or evidence.
+(2) If the superintendent registrar refuses to issue the certificate, the parties to the 
+proposed marriage are to be taken not to have given notice under section 27; 
+but that does not prevent criminal proceedings from being brought against 
+either party, or any other person, in relation to the giving of the notice.
+(3) This section does not limit the powers of superintendent registrars to refuse 
+to issue certificates under section 31 in respect of marriages.
+(4) In this section—
+“evidence” includes a photograph or other image;
+“exempt person” has the same meaning as in section 28H;
+“relevant decision” means a decision of a superintendent registrar 
+that a party to a proposed marriage is an exempt person.”.
+(3) In section 31A (appeal on refusal under section 31(2)(a))—
+(a)
+in the title, at the end insert “ or 31ZA ”;
+(b)
+in subsection (1), after “31(2)(a)” insert “ or 31ZA ”;
+(c)
+after subsection (2) insert—
+“(2A) In a case where—
+(a)
+in reliance on section 31ZA, a superintendent registrar 
+refuses to issue a certificate, and
+(b)
+on an appeal against the refusal, the Registrar General 
+directs that a certificate be issued,
+section 31ZA(2) is of no effect — and is to be taken to have never 
+had any effect — in relation to the parties' giving of notice under 
+section 27.”;
+(d)
+after subsection (3) insert—
+“(3A) If—
+
+
+## Page 119
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+119
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+relying on section 31ZA, a superintendent registrar refuses 
+to issue a certificate, and
+(b)
+on an appeal against the refusal, the Registrar General 
+declares the appeal to have been frivolous,
+the person making the appeal is liable for the costs of the 
+proceedings before the Registrar General.”;
+(e)
+in subsection (4)—
+(i) for “such costs and damages” substitute “ costs and damages in 
+accordance with subsection (3) or (3A) ”;
+(ii) at the end insert “ (in the case of subsection (3)) or evidence that the 
+Registrar General has declared the appeal to have been frivolous (in 
+the case of subsection (3A)) ”.
+Commencement Information
+I157 Sch. 4 para. 11 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Certificates
+12
+(1) Section 35 (marriage in registration district in which neither party resides) is 
+amended in accordance with sub-paragraphs (2) and (3).
+(2) After subsection (3) insert—
+“(3A) In a case where one or both of the persons to be married (“the couple”) 
+are not relevant nationals, a superintendent registrar may issue a certificate 
+for the solemnization of a marriage in a qualifying church or chapel, 
+notwithstanding that it is not within a registration district in which either of 
+the couple resides.
+(3B) In subsection (3A) “qualifying church or chapel” means a church or chapel 
+which is not the usual place of worship of the couple but in which it would 
+be possible—
+(a)
+(if section 5(3)(a) were disregarded) for the marriage of the couple 
+to be solemnized in accordance with section 5(1)(a) (marriage after 
+publication of banns), or
+(b)
+(if section 5(3)(b) were disregarded) for the marriage of the couple 
+to be solemnized in accordance with section 5(1)(c) (marriage on 
+authority of common licence).”.
+(3) After subsection (5) insert—
+“(6) Where a marriage is intended to be solemnized on the authority of certificates 
+of a superintendent registrar issued under subsection (3A), each notice of 
+marriage given to the superintendent registrar and each certificate issued by 
+the superintendent registrar shall state, in addition to the description of the 
+church or chapel in which the marriage is to be solemnized, that it would be 
+possible for the marriage of the couple to be solemnized in that church or 
+chapel after the publication of banns or on the authority of a common licence 
+(if section 5(3) were disregarded).”.
+(4) Omit section 38.
+
+
+## Page 120
+
+120
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I158 Sch. 4 para. 12 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+One party resident in Scotland
+13
+In section 37 (one party resident in Scotland), in subsection (1)(b), for the words 
+from “with” to “Act” (in the first place) substitute “ with section 27 and the other 
+provisions of this Act ”.
+Commencement Information
+I159 Sch. 4 para. 13 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Proof of certain matters not necessary to validity of marriages
+14
+In section 48 (proof of certain matters not necessary to validity of marriages), in 
+subsection (1)—
+(a)
+omit the word “or” at the end of paragraph (e) (inserted by paragraph 14(c) 
+of Schedule 7 to the Marriage (Same Sex Couples) Act 2013);
+(b)
+at the end of paragraph (ea) (inserted by that provision of the Marriage 
+(Same Sex Couples) Act 2013) insert “or
+(eb)
+that, in the case of a marriage to which Schedule 3A 
+applied, any of the events listed in paragraph 2(2) to (6) of 
+that Schedule occurred.”.
+Commencement Information
+I160 Sch. 4 para. 14 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Regulations etc
+15
+In section 74 (regulations), after subsection (2) insert—
+“(3) Any order or regulations made under this Act may make different provision 
+for different cases.”.
+Commencement Information
+I161 Sch. 4 para. 15 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I162 Sch. 4 para. 15 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Offences
+16
+In section 75 (offences relating to solemnization of marriages), in subsection (3)
+(a), for “15 days” substitute “ 28 days ”.
+
+
+## Page 121
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+121
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I163 Sch. 4 para. 16 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Relevant nationals
+17
+In section 78 (interpretation of the 1949 Act), in subsection (1), after the definition 
+of “registration district” insert—
+““relevant national” means—
+(a)
+a British citizen,
+(b)
+a national of an EEA State other than the United Kingdom, or
+(c)
+a national of Switzerland;”.
+Commencement Information
+I164 Sch. 4 para. 17 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I165 Sch. 4 para. 17 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+PART 2
+CIVIL PARTNERSHIP
+Introduction
+18
+The Civil Partnership Act 2004 is amended in accordance with this Part of this 
+Schedule.
+Commencement Information
+I166 Sch. 4 para. 18 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I167 Sch. 4 para. 18 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Supply of additional information and evidence
+19
+(1) Section 8 (notice of proposed civil partnership and declaration) is amended in 
+accordance with this paragraph.
+(2) In subsection (4), after paragraph (b) insert—
+“(c)
+that the proposed civil partner believes all of the information stated 
+in the notice, and all information and evidence supplied with the 
+notice, is true.”.
+(3) After subsection (5) insert—
+“(5A) Subsection (5) is subject to section 9F.”.
+
+
+## Page 122
+
+122
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I168 Sch. 4 para. 19 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+20
+After section 8 insert—
+“8A Additional information if party not relevant national
+(1) This section applies to notice of proposed civil partnership given to a 
+registration authority in accordance with section 8 if one, or each, of the 
+parties to the proposed civil partnership is not a relevant national.
+(2) But this section does not apply if Schedule 3 applies to the proposed civil 
+partnership.
+(3) For each party to the proposed civil partnership who is not a relevant 
+national, the notice must include whichever of statements A, B or C is 
+applicable to that person.
+(4) Statement A is a statement that the person has the appropriate immigration 
+status.
+(5) Statement B is a statement that the person holds a relevant visa in respect of 
+the proposed civil partnership.
+(6) Statement C is a statement that the person neither—
+(a)
+has the appropriate immigration status, nor
+(b)
+holds a relevant visa in respect of the proposed civil partnership.
+(7) If the notice contains the statement referred to in the first column of an 
+entry in this table, the notice must be accompanied by the information and 
+photographs referred to in the second column of that entry (insofar as that 
+entry is applicable to the parties to the proposed civil partnership)—
+If the notice includes this statement...
+...the notice must be accompanied by...
+Statement A (in respect of one or both 
+of the parties to the proposed civil 
+partnership)
+For each party in respect of whom 
+statement A is made, details of the 
+particular immigration status which that 
+party has
+Statement B (in respect of one or both 
+of the parties to the proposed civil 
+partnership)
+(1)
+For each party, a specified 
+photograph of that party
+(2)
+For each party in respect of 
+whom statement B is made, 
+details of the relevant visa which 
+that party has
+Statement C (in respect of one or both 
+of the parties to the proposed civil 
+partnership)
+(1)
+For each party, a specified 
+photograph of that party
+(2)
+For each party, the usual address 
+of that party
+(3)
+For each party whose usual 
+address is outside the United 
+Kingdom, an address in the
+
+
+## Page 123
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+123
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+United Kingdom at which that 
+party can be contacted by post
+(4)
+For each party who has 
+previously used any name or 
+names other than the person's 
+name stated in the notice of 
+proposed civil partnership in 
+accordance with regulations 
+under section 8(2), a statement of 
+the other name or names
+(5)
+For each party who currently 
+uses, or has previously used, an 
+alias or aliases, a statement of the 
+alias or aliases
+(8) If the notice contains more than one of statements A, B and C, subsection (7) 
+must be complied with in relation to each of those statements; but where the 
+notice contains statements B and C, subsection (7) does not require the notice 
+to be accompanied by more than one specified photograph of each party.
+(9) If the notice includes statement C for a party to the proposed civil
+partnership—
+(a)
+the notice may be accompanied by a statement (“statement D”) of 
+that person's immigration position in the United Kingdom;
+(b)
+if the notice is accompanied by statement D for a party to the 
+proposed civil partnership, the person may provide the registration 
+authority with details of his or her immigration position in the United 
+Kingdom; and
+(c)
+if any such details are provided, the registration authority must 
+record them.
+(10) In this section—
+(a)
+a reference—
+(i) to a person having the appropriate immigration status, or
+(ii) to a person holding a relevant visa,
+has the same meaning as in section 49 of the Immigration Act 2014;
+(b)
+a reference to the particular immigration status which a person has 
+is a reference to the immigration status set out in any of paragraphs 
+(a) to (c) of section 49(2) of that Act which the person has;
+(c)
+a reference to a person's immigration position in the United 
+Kingdom includes a reference to the person's not being entitled to 
+be in the United Kingdom.
+(11) In this section “specified photograph” means a photograph that is in 
+accordance with regulations made under section 9E (and for this purpose 
+“photograph” includes other kinds of images).”.
+Commencement Information
+I169 Sch. 4 para. 20 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I170 Sch. 4 para. 20 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+
+
+## Page 124
+
+124
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+21
+For section 9 substitute—
+“9 Evidence
+(1) A notice of proposed civil partnership under section 8 must, in relation to 
+each of the parties to the civil partnership, be accompanied by specified 
+evidence of the following matters—
+(a)
+the person's name and surname;
+(b)
+the person's date of birth;
+(c)
+the person's place of residence;
+(d)
+the person's nationality.
+(2) A person giving a notice of proposed civil partnership under section 8 must 
+provide the registration authority to which the notice is given with specified
+evidence—
+(a)
+as to whether the person has previously formed a civil partnership 
+or been married; and
+(b)
+if so, as to the ending of the civil partnership or marriage.
+(3) In this section “specified evidence” means evidence that is in accordance 
+with regulations made under section 9E.
+9A Additional evidence if party not relevant national
+(1) This section applies to notice of proposed civil partnership given to a 
+registration authority in accordance with section 8 if one, or each, of the 
+parties to the proposed civil partnership is not a relevant national.
+(2) If the notice includes statement A (referred to in section 8A(4)), and 
+accordingly is accompanied by details of the particular immigration status 
+which a party to the proposed civil partnership has, the notice must be 
+accompanied by specified evidence of that status.
+(3) If the notice includes statement B (referred to in section 8A(5)), the notice 
+must be accompanied by specified evidence of the holding of the relevant 
+visa by the party to the proposed civil partnership.
+(4) If, in accordance with section 8A(7), the notice is accompanied by the usual 
+address of a party to the proposed civil partnership, the notice must also be 
+accompanied by specified evidence that it is that party's usual address.
+(5) If the notice includes statement D (referred to in section 8A(9)), the notice 
+may be accompanied by evidence of the person's immigration position in the 
+United Kingdom.
+(6) If subsection (2) or (3) applies to the notice, and the notice is not 
+accompanied by the specified evidence required by that subsection, the 
+notice must be accompanied by—
+(a)
+photographs and addresses of the kinds referred to in paragraphs 1 
+and 2 in the relevant entry in section 8A(7);
+(b)
+as respects the usual address of each party that is provided in 
+accordance with paragraph (a), specified evidence that the address 
+provided is that party's usual address; and
+
+
+## Page 125
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+125
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+addresses, names and aliases of the kinds referred to in paragraphs 
+3 to 5 in the relevant entry in section 8A(7) (insofar as those 
+paragraphs are applicable to the parties to the proposed civil 
+partnership).
+(7) In this section—
+“relevant entry in section 8A(7)” means the second column of the 
+last entry in the table in section 8A(7);
+“specified evidence” means evidence that is in accordance with 
+regulations made under section 9E.
+9B Change of usual address or UK contact address
+(1) The Secretary of State may, by regulations, make provision about the giving 
+to the Secretary of State of—
+(a)
+notice of a person's usual address, if the person's notified usual 
+address changes;
+(b)
+notice of a UK contact address, if the person's notified usual address 
+is not in the United Kingdom;
+(c)
+notice of a person's UK contact address, if the person's notified UK 
+contact address changes;
+(d)
+evidence of any address notified in accordance with regulations 
+under paragraph (a), (b) or (c).
+(2) The provision that may be made in regulations under this section includes—
+(a)
+provision imposing a requirement on a person;
+(b)
+provision about the rejection of information or evidence which there 
+are reasonable grounds to suspect to be false.
+(3) Regulations under subsection (1)(d) may, in particular, make any provision 
+of the kind that may be made under section 9E(3).
+(4) In this section—
+“notified UK contact address” means an address in the United 
+Kingdom, at which a person can be contacted by post, that has been 
+notified in accordance with—
+(a) section 8A(7) or 9A(6), or
+(b) regulations under this section;
+“notified usual address” means the usual address of a person that 
+has been notified in accordance with—
+(a) section 8A(7) or 9A(6), or
+(b) regulations under this section.
+9C Rejection of false information or evidence
+(1) A registration authority may reject—
+(a)
+any information or photograph provided under section 8, 8A or 9A, 
+or
+(b)
+any evidence provided under section 9 or 9A,
+if (in particular) the registration authority has reasonable grounds for 
+suspecting that the information, photograph or evidence is false.
+
+
+## Page 126
+
+126
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) If the registration authority rejects any information, photograph or evidence, 
+the registration authority may proceed under this Act as if the rejected 
+information, photograph or evidence had not been provided.
+(3) This section does not limit the powers of registration authorities to reject 
+anything provided under any other enactment.
+9D Amendment of notice and evidence provisions
+(1) The Secretary of State may by order—
+(a)
+amend section 8A or 9A so as to vary the information that must or 
+may be given in cases where that section applies;
+(b)
+amend section 9 or 9A so as to vary the matters in respect of which 
+specified evidence must or may be given in cases where that section 
+applies;
+(c)
+make such provision (including provision amending section 9B or 
+9E or any other enactment) as the Secretary of State considers 
+appropriate in consequence of provision made under paragraph (a) 
+or (b).
+(2) The Secretary of State must consult the Registrar General before making an 
+order under this section.
+9E Specified evidence
+(1) The Registrar General may make regulations about the evidence that is 
+required to be given for the purposes of section 9.
+(2) The Secretary of State may make regulations about the evidence that is 
+required to be given for the purposes of section 9A.
+(3) Regulations under this section may, in particular, make provision about—
+(a)
+the kind of evidence which is to be supplied;
+(b)
+the form in which evidence is to be supplied;
+(c)
+the manner in which evidence is to be supplied;
+(d)
+the period within which evidence is to be supplied;
+(e)
+the supply of further evidence;
+(f)
+the sufficiency of evidence supplied;
+(g)
+the consequences of failing to supply sufficient evidence in 
+accordance with the regulations (including provision to secure that, 
+in such a case, a particular decision is made or is to be treated as 
+having been made);
+(h)
+the retention or copying of evidence supplied.
+(4) In this section “evidence” includes a photograph or other image.
+(5) The Registrar General must obtain the approval of the Secretary of State 
+before making regulations under this section.
+(6) The Secretary of State must consult the Registrar General before making 
+regulations under this section.
+
+
+## Page 127
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+127
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+9F Recording of information in the register: compliance with requirements
+The registration authority must not enter in the register the information 
+relating to a proposed civil partnership mentioned in section 8(5) in a case 
+where any of the requirements imposed by or under any of the following 
+provisions of this Act is applicable but is not complied with—
+section 8A(3) to (7);
+section 8A(8);
+section 9(1);
+section 9A(4) or (6);
+section 18(3);
+section 19(3);
+paragraph 5(1) of Schedule 1;
+paragraph 4 of Schedule 23.”.
+Commencement Information
+I171 Sch. 4 para. 21 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I172 Sch. 4 para. 21 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Notice period
+22
+In section 11 (meaning of “the waiting period”), for “15” substitute “ 28 ”.
+Commencement Information
+I173 Sch. 4 para. 22 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+23
+(1) Section 12 (power to shorten the waiting period) is amended in accordance with this 
+paragraph.
+(2) In subsection (1), for “15” substitute “ 28 ”.
+(3) After subsection (3) insert—
+“(4) If a proposed civil partnership is referred to the Secretary of State under 
+section 12A—
+(a)
+any application under subsection (1) is to be made to the Secretary 
+of State; and
+(b)
+the power conferred by subsection (1) is exercisable by the Secretary 
+of State.
+(5) If the Secretary of State grants an application made under subsection (1), the 
+Secretary of State must give notice of the grant of the application to—
+(a)
+the applicant,
+(b)
+the registration authority to which notice of the proposed civil 
+partnership was given, and
+(c)
+if different, the registration authority responsible for issuing the civil 
+partnership schedule under section 14(1) in relation to the proposed 
+civil partnership.
+
+
+## Page 128
+
+128
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) Regulations under subsection (2) do not apply to applications made to the 
+Secretary of State in accordance with subsection (4).
+(7) The Secretary of State may by regulations make provision with respect 
+to the making, and granting, of applications made in accordance with 
+subsection (4).
+(8) The Secretary of State must consult the Registrar General before making 
+regulations under subsection (7).”.
+Commencement Information
+I174 Sch. 4 para. 23 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I175 Sch. 4 para. 23 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Referral to Secretary of State
+24
+After section 12 insert—
+“12A Referral of proposed civil partnership to Secretary of State
+(1) On every occasion when notice of proposed civil partnership is given under 
+section 8, the registration authority must decide whether or not each of the 
+parties to the proposed civil partnership is an exempt person.
+(2) But this section does not apply if Schedule 3 applies to the proposed civil 
+partnership.
+(3) In making a decision under subsection (1) about a party to a proposed civil 
+partnership, a registration authority may rely on any advice given in relation 
+to that decision by the Secretary of State.
+(4) In a case where—
+(a)
+section 8A applies to the notice of proposed civil partnership, and
+(b)
+specified evidence required by section 9A(2) or (3) in relation to a 
+party to the proposed civil partnership is not produced in accordance 
+with that section,
+the registration authority must decide that that party to the proposed civil 
+partnership is not an exempt person.
+(5) If the registration authority decides that either of the parties is not an exempt 
+person, or that both of the parties are not exempt persons, the registration 
+authority must—
+(a)
+refer the proposed civil partnership to the Secretary of State;
+(b)
+notify the parties to the proposed civil partnership that the proposed 
+civil partnership must be referred to the Secretary of State;
+(c)
+give the parties to the proposed civil partnership prescribed 
+information about—
+(i) the effects of the referral;
+(ii) the requirement under regulations under section 9B to notify 
+the Secretary of State of changes of address.
+
+
+## Page 129
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 3A – Modifications if proposed civil partnership referred under section 12A
+Document Generated: 2026-02-14
+129
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(6) The registration authority must act in accordance with regulations when 
+complying with the duty in subsection (5)(a) to refer a proposed civil 
+partnership to the Secretary of State.
+(7) Regulations may, in particular, make provision about—
+(a)
+the form, manner or timing of the referral of a proposed civil 
+partnership;
+(b)
+information, photographs or evidence — or copies of any of those 
+things — to be included with the referral of a proposed civil 
+partnership.
+(8) If the registration authority refers the proposed civil partnership to the 
+Secretary of State, this Act has effect in relation to the proposed civil 
+partnership subject to the modifications in Schedule 3A.
+(9) In this section—
+(a)
+a reference to a person being an exempt person has the same 
+meaning as in section 49 of the Immigration Act 2014;
+(b)
+“prescribed information” means information prescribed in 
+regulations;
+(c)
+“regulations” means regulations made by the Secretary of State after 
+consulting the Registrar General.”.
+Commencement Information
+I176 Sch. 4 para. 24 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I177 Sch. 4 para. 24 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+25
+After Schedule 3 insert—
+“SCHEDULE 
+3A
+MODIFICATIONS IF PROPOSED CIVIL PARTNERSHIP REFERRED UNDER SECTION 12A
+Introduction
+1
+(1) These are the modifications subject to which this Act has effect if the 
+registration authority refers a proposed civil partnership to the Secretary of 
+State.
+(2) In this Schedule—
+“2014 Act” means the Immigration Act 2014;
+“referred civil partnership” means the proposed civil partnership 
+referred to the Secretary of State.
+No civil partnership schedule to be issued until decision about investigation etc
+2
+(1) The duty under section 14(1) to issue a civil partnership schedule in respect 
+of the referred civil partnership does not apply unless and until one of the 
+following events occurs.
+
+
+## Page 130
+
+130
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) Event 1 occurs if—
+(a)
+the Secretary of State gives the registration authority or authorities 
+the section 48 notice, and
+(b)
+that notice is of a decision not to investigate whether the referred 
+civil partnership is a sham.
+(3) Event 2 occurs if—
+(a)
+the relevant statutory period ends, and
+(b)
+the Secretary of State has not given the registration authority or 
+authorities the section 48 notice.
+(4) Event 3 occurs if—
+(a)
+the Secretary of State gives the registration authority or authorities 
+the section 48 notice,
+(b)
+that notice is of a decision to investigate whether the referred civil 
+partnership is a sham,
+(c)
+the Secretary of State gives the registration authority or authorities 
+the section 50 notice, and
+(d)
+that notice is of a decision that both of the parties to the referred civil 
+partnership have complied with the investigation.
+(5) Event 4 occurs if—
+(a)
+the 70 day period ends, and
+(b)
+the Secretary of State has not given the registration authority or 
+authorities the section 50 notice.
+(6) Event 5 occurs if the Secretary of State gives the registration authority or 
+authorities notice that the duty under section 14(1) is applicable.
+(7) The Secretary of State may give a notice for that purpose only if—
+(a)
+the Secretary of State has given the registration authority or 
+authorities the section 48 notice,
+(b)
+that notice is of a decision to investigate whether the referred civil 
+partnership is a sham,
+(c)
+the Secretary of State has given the registration authority or 
+authorities the section 50 notice, and
+(d)
+that notice is of a decision that one or both of the parties to the 
+referred civil partnership have not complied with the investigation.
+(8) This paragraph applies in addition to any other requirements applicable to 
+the issue of the civil partnership schedule.
+(9) This paragraph is subject to paragraph 4.
+(10) In this paragraph—
+“70 day period” has the same meaning as in section 50 of the 
+2014 Act;
+“relevant statutory period” has the same meaning as in section 48 
+of the 2014 Act;
+“section 48 notice” means notice under section 48(8) of the 2014 
+Act;
+
+
+## Page 131
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+131
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“section 50 notice” means notice under section 50(7) of the 2014 
+Act.
+Civil partnership to be investigated: extension of waiting period to 70 days
+3
+(1) The modifications in this paragraph have effect if the Secretary of State gives 
+the registration authority notice under section 48(8) of the 2014 Act of a 
+decision to investigate whether the referred civil partnership is a sham.
+(2) Section 11(b): the reference to the period of 28 days has effect as a reference 
+to the relevant 70 day period.
+(3) But, for the purposes of section 10, the waiting period is not extended by 
+sub-paragraph (2).
+(4) In this paragraph “relevant 70 day period” means the period—
+(a)
+beginning the day after notice of the proposed civil partnership is 
+recorded in the register in accordance with section 8(5), and
+(b)
+ending at the end of the period of 70 days beginning with that day.
+Effect of shortening waiting period
+4
+(1) This paragraph applies if—
+(a)
+the Secretary of State gives notice under section 12(5) of the grant 
+of an application made under section 12(1) (power to shorten the 
+waiting period) in relation to the referred civil partnership, and
+(b)
+that notice is given at a time when the duty under section 14(1) 
+to issue a civil partnership schedule in respect of the referred civil 
+partnership has not arisen in accordance with paragraph 2.
+(2) The duty under section 14(1) to issue a civil partnership schedule in respect 
+of the referred civil partnership arises on the giving of the notice under 
+section 12(5), subject to any other requirements applicable to the issue of 
+the schedule being met.
+(3) But the requirements of paragraph 2 are not applicable in such a case.
+(4) The Secretary of State is not prevented from deciding to conduct, 
+conducting, or continuing, an investigation if a schedule in respect of the 
+referred civil partnership is issued as mentioned in sub-paragraph (2).
+(5) But in such a case, nothing in the 2014 Act requires the Secretary of State to 
+decide whether to conduct, or to continue, an investigation.
+(6) In this paragraph “investigation” means an investigation, conducted 
+following a decision by the Secretary of State under section 48 of the 2014 
+Act, whether a proposed civil partnership is a sham.”.
+Commencement Information
+I178 Sch. 4 para. 25 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+
+
+## Page 132
+
+132
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Civil partnership referred to Secretary of State: issue of civil partnership schedule
+26
+(1) In section 14 (issue of civil partnership schedule), at the end insert—
+“(6) This section has effect subject to section 14A.”.
+(2) After section 14 insert—
+“14A Notice of proposed civil partnership: false information or evidence
+(1) A registration authority may refuse to issue a civil partnership schedule 
+under section 14(1) in a case where—
+(a)
+notice of a proposed civil partnership has been given under section 8, 
+and
+(b)
+a registration authority has reasonable grounds for suspecting that a 
+relevant decision was made incorrectly because of the provision of 
+false information or evidence.
+(2) If a registration authority refuses to issue the schedule, the parties to the 
+proposed civil partnership are to be taken not to have given notice under 
+section 8; but that does not prevent criminal proceedings from being brought 
+against either party, or any other person, in relation to the giving of the notice.
+(3) This section does not limit the powers of registration authorities to refuse to 
+issue civil partnership schedules.
+(4) In this section—
+“evidence” includes a photograph or other image;
+“exempt person” has the same meaning as in section 12A;
+“relevant decision” means a decision of a registration authority 
+that a party to the proposed civil partnership is an exempt person.”.
+(3) In section 15 (appeal against refusal to issue civil partnership schedule)—
+(a)
+in subsection (1)(b), after “14(3)” insert “ or 14A ”;
+(b)
+after subsection (2) insert—
+“(3) In a case where—
+(a)
+in reliance on section 14A, a registration authority refuses 
+to issue a civil partnership schedule, and
+(b)
+on an appeal against the refusal, the Registrar General 
+directs that a civil partnership schedule be issued,
+section 14A(2) is of no effect — and is to be taken to have never 
+had any effect — in relation to the parties' giving of notice under 
+section 8.”.
+(4) In section 16 (frivolous objections and representations: liability for costs etc)—
+(a)
+in the title, after “representations” insert “ and appeals ”;
+(b)
+after subsection (3) insert—
+“(3A) If—
+(a)
+in reliance on section 14A, a registration authority refuses 
+to issue a civil partnership schedule, and
+(b)
+on an appeal against the refusal, the Registrar General 
+declares that the appeal is frivolous,
+
+
+## Page 133
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 4 – Referral of proposed marriages and civil partnerships in England and Wales
+Document Generated: 2026-02-14
+133
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+the person making the appeal is liable for the costs of the 
+proceedings before the Registrar General.”;
+(c)
+in subsection (4), for “such costs and damages” substitute “ costs and 
+damages in accordance with subsection (3) or (3A) ”.
+Commencement Information
+I179 Sch. 4 para. 26 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+Relevant nationals
+27
+After section 30 insert—
+“30A Relevant nationals
+In this Chapter “relevant national” means—
+(a)
+a British citizen,
+(b)
+a national of an EEA State other than the United Kingdom, or
+(c)
+a national of Switzerland.”.
+Commencement Information
+I180 Sch. 4 para. 27 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I181 Sch. 4 para. 27 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Regulations and orders
+28
+(1) Section 36 (regulations and orders) is amended in accordance with this paragraph.
+(2) In subsection (3), after “6A” insert “ 9B, 9E(2), 12(7) or 12A ”.
+(3) In subsection (5), after “6A” insert “ 9B, 9E(2) or 12A ”.
+(4) In subsection (6), after “section” insert “ 9D or ”.
+Commencement Information
+I182 Sch. 4 para. 28 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(e)
+I183 Sch. 4 para. 28 in force at 1.3.2015 in so far as not already in force by S.I. 2015/371, art. 2(1)(f)
+Proof of certain matters not necessary to validity of civil partnership
+29
+In section 52 (proof of certain matters not necessary to validity of civil partnership), 
+in subsection (1)—
+(a)
+omit the word “or” at the end of paragraph (a);
+(b)
+at the end of paragraph (aa) insert “or
+(ab)
+that, in the case of a civil partnership to which Schedule 3A 
+applied, any of the events listed in paragraph 2(2) to (6) of 
+that Schedule occurred.”.
+
+
+## Page 134
+
+134
+Immigration Act 2014 (c. 22)
+SCHEDULE 5 – Sham marriage and civil partnership: administrative regulations
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I184 Sch. 4 para. 29 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(f)
+SCHEDULE 5
+Section 54
+SHAM MARRIAGE AND CIVIL PARTNERSHIP: ADMINISTRATIVE REGULATIONS
+Introduction
+1
+(1) This Schedule sets out the kinds of regulations which may be made by the Secretary 
+of State under section 54(2).
+(2) In this Schedule—
+“extension order” has the meaning given in section 54(1);
+“proposed Scottish or Northern Ireland marriage or civil partnership” 
+means a proposed marriage or civil partnership under the law of Scotland 
+or Northern Ireland.
+Commencement Information
+I185 Sch. 5 para. 1 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+Notices
+2
+(1) The Secretary of State may make regulations which make provision about the giving 
+of relevant notices.
+(2) Regulations under this paragraph may, in particular, provide that a relevant notice 
+given in accordance with the regulations is to be presumed to have been received by 
+the person to whom it is given.
+(3) In this paragraph “relevant notice” means—
+(a)
+a notice, under any provision of the referral and investigation scheme, 
+which relates to a proposed Scottish or Northern Ireland marriage or civil 
+partnership, and
+(b)
+any other notice relating to the referral of a proposed Scottish or Northern 
+Ireland marriage or civil partnership to the Secretary of State for the purposes 
+of the referral and investigation scheme,
+(whether or not the notice falls to be given by virtue of provision made by an 
+extension order).
+Commencement Information
+I186 Sch. 5 para. 2 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+
+
+## Page 135
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 5 – Sham marriage and civil partnership: administrative regulations
+Document Generated: 2026-02-14
+135
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Evidence
+3
+(1) The Secretary of State may make regulations about the supply of evidence in 
+accordance with a relevant evidence provision.
+(2) Regulations under this paragraph may, in particular, make provision about—
+(a)
+the kind of evidence which is to be supplied;
+(b)
+the form in which evidence is to be supplied;
+(c)
+the manner in which evidence is to be supplied;
+(d)
+the period within which evidence is to be supplied;
+(e)
+the supply of further evidence;
+(f)
+the sufficiency of evidence supplied;
+(g)
+the consequences of failing to supply sufficient evidence in accordance with 
+the regulations (including provision to secure that, in such a case, a particular 
+decision is made or is to be treated as having been made);
+(h)
+the retention or copying of evidence supplied.
+(3) In this paragraph—
+“evidence” includes a photograph or other image;
+“relevant evidence provision” means provision (whether or not made by 
+an extension order) about the supply of evidence in relation to a proposed 
+Scottish or Northern Ireland marriage or civil partnership in a case where 
+one or both of the parties is not a relevant national.
+Commencement Information
+I187 Sch. 5 para. 3 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+Change of address
+4
+(1) The Secretary of State may, by regulations, make provision about the giving to the 
+Secretary of State of—
+(a)
+notice of a relevant person's usual address, if the person's notified usual 
+address changes;
+(b)
+notice of a relevant person's UK contact address, if the person's notified usual 
+address is not in the United Kingdom;
+(c)
+notice of a relevant person's UK contact address, if the person's notified UK 
+contact address changes;
+(d)
+evidence of any address notified in accordance with regulations under 
+paragraph (a), (b) or (c).
+(2) Regulations under this paragraph may, in particular, make—
+(a)
+provision imposing a requirement on a person;
+(b)
+provision about the rejection of information or evidence which there are 
+reasonable grounds to suspect to be false.
+(3) Regulations under sub-paragraph (1)(d) may, in particular, make any provision of the 
+kind that may be made under paragraph 3(2).
+(4) In this paragraph—
+
+
+## Page 136
+
+136
+Immigration Act 2014 (c. 22)
+SCHEDULE 5 – Sham marriage and civil partnership: administrative regulations
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“notified”, in relation to an address of a relevant person, means notified 
+(whether to the Secretary of State or another person) in connection with 
+the proposed Scottish or Northern Ireland marriage or civil partnership 
+(including any such address notified in accordance with provision made by 
+an extension order or regulations made under this paragraph);
+“relevant person” means a person who is a party to a proposed Scottish 
+or Northern Ireland marriage or civil partnership in a case where that person 
+or the other party is not a relevant national (or both of them are not relevant 
+nationals);
+“UK contact address” means an address in the United Kingdom at which 
+a person can be contacted by post.
+Commencement Information
+I188 Sch. 5 para. 4 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+Referral
+5
+(1) The Secretary of State may make regulations requiring a person to act in accordance 
+with the regulations when complying with a duty of referral.
+(2) The regulations may, in particular, make provision about—
+(a)
+the form, manner or timing of the referral;
+(b)
+information, photographs or evidence — or copies of any of those things — 
+to be included with the referral.
+(3) The Secretary of State may make regulations requiring a person who refers a 
+proposed marriage or civil partnership in accordance with a duty of referral to give 
+the parties to the proposed marriage or civil partnership information prescribed in 
+the regulations about—
+(a)
+the effects of the referral;
+(b)
+any requirements under regulations under paragraph 4 to notify the Secretary 
+of State of changes of address.
+(4) In this paragraph—
+“duty of referral” means a duty (whether or not contained in provision 
+made by an extension order) to refer a proposed Scottish or Northern Ireland 
+marriage or civil partnership to the Secretary of State for the purposes of the 
+referral and investigation scheme;
+“referral” means the referral of a proposed Scottish or Northern Ireland 
+marriage or civil partnership under a duty of referral.
+Commencement Information
+I189 Sch. 5 para. 5 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+Applications for shortening of waiting period
+6
+(1) The Secretary of State may make regulations about the making, and granting, of 
+applications for the shortening of a waiting period in cases where a proposed Scottish
+
+
+## Page 137
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 6 – Information
+Document Generated: 2026-02-14
+137
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+or Northern Ireland marriage or civil partnership is referred to the Secretary of State 
+in accordance with a duty of referral.
+(2) Regulations may be made under this paragraph—
+(a)
+whether the application falls to be made by virtue of provision made by an 
+extension order or otherwise;
+(b)
+whether the application falls to be made to the Secretary of State or another 
+person.
+(3) In this paragraph—
+“duty of referral” has the same meaning as in paragraph 5;
+“waiting period”, in relation to a proposed Scottish or Northern Ireland 
+marriage or civil partnership, means a period during which it is not possible 
+for the marriage to be solemnized or civil partnership to be formed (but 
+which falls after notice of the proposed marriage or civil partnership has 
+been given for the purposes of enabling it to be solemnized or formed in due 
+course).
+Commencement Information
+I190 Sch. 5 para. 6 in force at 20.10.2014 for specified purposes by S.I. 2014/2771, art. 3(h)
+SCHEDULE 6
+Section 59
+INFORMATION
+PART 1
+DISCLOSURE OF INFORMATION ETC WHERE PROPOSED MARRIAGE
+OR CIVIL PARTNERSHIP REFERRED TO SECRETARY OF STATE
+1
+(1) This paragraph applies if—
+(a)
+a superintendent registrar refers a proposed marriage to the Secretary of State 
+under section 28H of the Marriage Act 1949, or
+(b)
+a registration authority refers a proposed civil partnership to the Secretary 
+of State under section 12A of the Civil Partnership Act 2004.
+(2) The Secretary of State may—
+(a)
+disclose relevant information to a registration official, or
+(b)
+supply a document containing relevant information to a registration official.
+(3) In this paragraph “relevant information” means any of the following information—
+(a)
+the fact that the proposed marriage or civil partnership has been referred to 
+the Secretary of State;
+(b)
+the names of the parties to the proposed marriage or civil partnership;
+(c)
+in the case of a proposed marriage—
+(i) any information included with the referral in accordance with 
+regulations under section 28H of the Marriage Act 1949;
+
+
+## Page 138
+
+138
+Immigration Act 2014 (c. 22)
+SCHEDULE 6 – Information
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(ii) any address of a party to the proposed marriage notified to the 
+Secretary of State in accordance with such regulations or regulations 
+under section 28D of the Marriage Act 1949;
+(d)
+in the case of a proposed civil partnership—
+(i) any information included with the referral in accordance with 
+regulations under section 12A of the Civil Partnership Act 2004;
+(ii) any address of a party to the proposed civil partnership notified to the 
+Secretary of State in accordance with such regulations or regulations 
+under section 9B of the Civil Partnership Act 2004;
+(e)
+details of any immigration enforcement action taken by the Secretary of State 
+in respect of a party to the proposed marriage or civil partnership (including 
+any action taken after solemnization of the marriage or formation of the civil 
+partnership);
+(f)
+details of any immigration decision taken wholly or partly by reference to 
+the marriage or civil partnership (whether while it was proposed or after it 
+was solemnized or formed).
+PART 2
+DISCLOSURE OF INFORMATION ETC FOR IMMIGRATION PURPOSES ETC
+Disclosures by registration officials
+2
+(1) A registration official may—
+(a)
+disclose any information held by the registration official, or
+(b)
+supply any document held by the registration official,
+to the Secretary of State, or to another registration official, for use for either of the 
+following purposes.
+(2) Those purposes are—
+(a)
+immigration purposes;
+(b)
+purposes connected with the exercise of functions relating to—
+(i) the referral of proposed marriages to the Secretary of State under 
+section 28H of the Marriage Act 1949, or
+(ii) the referral of proposed civil partnerships to the Secretary of State 
+under section 12A of the Civil Partnership Act 2004.
+(3) In this paragraph “immigration purposes” means—
+(a)
+the administration of immigration control under the Immigration Acts;
+(b)
+the prevention, detection, investigation or prosecution of criminal offences 
+relating to immigration;
+(c)
+the imposition of penalties or charges under Part 3 of the Immigration and 
+Asylum Act 1999;
+(d)
+the provision of support for asylum-seekers and their dependants under Part 
+6 of that Act;
+(e)
+such other purposes as may be specified by the Secretary of State by order.
+3
+A registration official may disclose to another registration official—
+
+
+## Page 139
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 6 – Information
+Document Generated: 2026-02-14
+139
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+the fact that a suspicion about a marriage or civil partnership has been 
+reported to the Secretary of State under section 24 or 24A of the 
+Immigration and Asylum Act 1999, and
+(b)
+the content of any such report,
+(whether or not the suspicion was reported by the registration official making the 
+disclosure).
+Disclosures by the Secretary of State
+4
+(1) The Secretary of State may—
+(a)
+disclose any information held by the Secretary of State, or
+(b)
+supply any document held by the Secretary of State,
+to a registration official for use for verification purposes.
+(2) In this paragraph “verification purposes” means—
+(a)
+assisting in the verification of information provided to a relevant official by 
+a person giving—
+(i) notice of marriage under section 27 of the Marriage Act 1949, or
+(ii) notice under section 8 of the Civil Partnership Act 2004;
+(b)
+assisting in the verification of the immigration status of a person who 
+contacts a relevant official in connection with the exercise of a function by 
+a registration official;
+(c)
+assisting in the verification of whether a person who contacts a relevant 
+official in connection with the exercise of a function by a registration
+official—
+(i) is suspected of involvement in crime relating to immigration, or
+(ii) has been convicted of an offence relating to immigration.
+(3) In this paragraph “relevant official” means—
+(a)
+a registration official, or
+(b)
+any other person employed to assist the exercise of functions by registration 
+officials.
+PART 3
+DISCLOSURE OF INFORMATION ETC FOR PREVENTION OF CRIME ETC
+5
+(1) A registration official may—
+(a)
+disclose any information held by the registration official, or
+(b)
+supply any document held by the registration official,
+to an eligible person, or to another registration official in England and Wales, for use 
+for crime-fighting purposes.
+(2) Information is disclosed, or a document is supplied, for use for crime-fighting 
+purposes if condition A and condition B are met.
+(3) Condition A is met if the registration official disclosing the information or supplying 
+the document has reasonable grounds for suspecting that a criminal offence has been, 
+is being, or is going to be committed.
+
+
+## Page 140
+
+140
+Immigration Act 2014 (c. 22)
+SCHEDULE 6 – Information
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(4) Condition B is met if the registration official discloses the information or supplies 
+the document for use for one or both of these purposes—
+(a)
+assisting in the verification of information supplied to that or any other 
+registration official;
+(b)
+assisting in the prevention, detection, investigation or prosecution of a 
+criminal offence.
+(5) In this section “eligible person” means—
+(a)
+the Secretary of State;
+(b)
+the Commissioners for Her Majesty's Revenue and Customs;
+(c)
+a member of a police force operating in England and Wales or any part of it;
+(d)
+a county council, a district council or a county borough council;
+(e)
+the Greater London Authority, a London borough council or the Common 
+Council of the City of London.
+PART 4
+GENERAL PROVISIONS
+Limitations on powers
+6 [F73(1)] This Schedule does not authorise—
+(a)
+a disclosure, in contravention of any provisions of [F74the data protection 
+legislation], of personal data which [F75is] not exempt from those provisions, 
+or
+(b)
+a disclosure which is prohibited by [F76any of Parts 1 to 7 or Chapter 1 of 
+Part 9 of the Investigatory Powers Act 2016 ].
+[F77(2) In this paragraph, “the data protection legislation” has the same meaning as in the 
+Data Protection Act 2018 (see section 3 of that Act).]
+Textual Amendments
+F73
+Sch. 6 para. 6(1): Sch. 6 para. 6 renumbered as Sch. 6 para. 6(1) (25.5.2018) by Data Protection Act 2018 
+(c. 12), s. 212(1), Sch. 19 para. 186(2) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+F74
+Words in Sch. 6 para. 6(1)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 
+19 para. 186(3)(a) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+F75
+Word in Sch. 6 para. 6(1)(a) substituted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 
+19 para. 186(3)(b) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+F76
+Words in Sch. 6 para. 6(1) substituted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1),
+Sch. 10 para. 33 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+F77
+Sch. 6 para. 6(2) inserted (25.5.2018) by Data Protection Act 2018 (c. 12), s. 212(1), Sch. 19 para. 
+186(4) (with ss. 117, 209, 210); S.I. 2018/625, reg. 2(1)(g)
+No breach of confidentiality etc
+7
+A disclosure of information which is authorised by this Schedule does not breach—
+(a)
+an obligation of confidence owed by the person making the disclosure, or
+(b)
+any other restriction on the disclosure of information (however imposed).
+
+
+## Page 141
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+141
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Retention, copying and disposal of documents
+8
+A person to whom a document is supplied under any provision of this Schedule
+may—
+(a)
+retain the document;
+(b)
+copy the document;
+(c)
+dispose of the document in such manner as the person thinks appropriate.
+Saving for existing powers
+9
+This Schedule does not limit any other power under which—
+(a)
+information may be disclosed, or
+(b)
+documents may be supplied.
+Meaning of “registration official”
+10
+A “registration official” is any of the following—
+(a)
+the Registrar General;
+(b)
+a superintendent registrar;
+(c)
+a registrar;
+(d)
+a registration authority or a person exercising the functions of a registration 
+authority;
+(e)
+a civil partnership registrar (within the meaning of Chapter 1 of Part 2 of 
+the Civil Partnership Act 2004 — see section 29 of that Act).
+SCHEDULE 7
+Section 63
+IMMIGRATION ADVISERS AND IMMIGRATION SERVICE PROVIDERS
+Introductory
+1
+Part 5 of the Immigration and Asylum Act 1999 (which makes provision for the 
+regulation of immigration advisers and immigration service providers) is amended 
+in accordance with this Schedule.
+Commencement Information
+I191 Sch. 7 para. 1 in force at 20.10.2014 by S.I. 2014/2771, art. 4(e)
+Removal of Commissioner's power of exemption from registration
+2
+(1) In section 84(4) (persons exempt from prohibition on provision of immigration 
+advice and services by unqualified persons)—
+(a)
+omit paragraphs (a), (b) and (c) (and the word “or” which follows 
+paragraph (c));
+(b)
+in paragraph (d) omit “who”.
+(2) Omit the following provisions—
+(a)
+section 84(5) and (7);
+
+
+## Page 142
+
+142
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+section 85(2);
+(c)
+section 87(3)(b);
+(d)
+section 88(2)(c);
+(e)
+section 89(4);
+(f)
+paragraph 6(3)(b) and 9(1)(d) of Schedule 5;
+(g)
+paragraph 6(3)(a) of Schedule 6.
+Commencement Information
+I192 Sch. 7 para. 2 in force at 17.11.2014 by S.I. 2014/2771, art. 5(c)
+Waiver of fees for registration
+3
+(1) Paragraph 5 of Schedule 6 (fees for registration) is amended as follows.
+(2) In sub-paragraph (1)—
+(a)
+after “order” insert “ (a) ”;
+(b)
+at the end insert—
+“(b)
+make provision for, and in connection with, requiring or 
+authorising the Commissioner to waive all or part of the 
+specified fee in particular cases.”
+(3) In sub-paragraph (2) at the end insert “ (but this is subject to any waiver in accordance 
+with provision under sub-paragraph (1)(b)) ”.
+Commencement Information
+I193 Sch. 7 para. 3 in force at 20.10.2014 by S.I. 2014/2771, art. 4(f)
+Cancellation of registration by Commissioner
+4
+(1) In section 87(3) (decisions of Commissioner which may be appealed to First-tier 
+Tribunal) after paragraph (ea) insert—
+“(eb)
+to cancel a registration under paragraph 4A(e) of that Schedule.”
+(2) In paragraph 9 of Schedule 5 (powers of Commissioner on determining a complaint)
+—
+(a)
+omit sub-paragraph (1)(b);
+(b)
+after sub-paragraph (1A) (inserted by paragraph 7(4) of this Schedule)
+insert—
+“(1B) Sub-paragraph (1)(a) is subject to paragraph 4A(e) of Schedule 6 
+(duty of Commissioner to cancel registration of a person who is no 
+longer competent or is otherwise unfit).”
+(3) In paragraph 3 of Schedule 6 (applications for continued registration)—
+(a)
+omit sub-paragraph (5);
+(b)
+in sub-paragraph (6) for “Otherwise,” substitute “ Unless the Commissioner 
+is required by paragraph 4A to cancel the applicant's registration ”;
+
+
+## Page 143
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+143
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+in sub-paragraph (7)(a) omit “or by a direction given by the First-tier 
+Tribunal under section 89(2)(b)”.
+(4) In Schedule 6 (registration) after paragraph 4 insert—
+“Further provision for the cancellation of registration
+4A
+The Commissioner must cancel a person's registration if—
+(a)
+the person asks for it to be cancelled;
+(b)
+the person dies (in a case where the person is an individual) or 
+is dissolved or wound up (in any other case);
+(c)
+the person is convicted of an offence under section 25 or 26(1)
+(d) or (g) of the 1971 Act;
+(d)
+under section 89(2A)(b) the First-tier Tribunal directs the 
+Commissioner to cancel the person's registration; or
+(e)
+the Commissioner considers that the person is no longer 
+competent or is otherwise unfit to provide immigration advice 
+or immigration services.”
+Commencement Information
+I194 Sch. 7 para. 4 in force at 17.11.2014 by S.I. 2014/2771, art. 5(c)
+Suspension of registration
+5
+(1) In section 84(3) (limitations on effect of registration)—
+(a)
+after “subject to” insert “ (a) ”;
+(b)
+at the end insert—
+“(b)
+paragraph 4B(5) of that Schedule (effect of suspension of 
+registration).”
+(2) In section 87(4) (further functions of First-tier Tribunal)—
+(a)
+for “a further function” substitute “ further functions ”;
+(b)
+at the end insert “ and paragraph 4B of Schedule 6 (suspension of registration 
+by First-tier Tribunal) ”.
+(3) After paragraph 4A of Schedule 6 (inserted by paragraph 4(4) of this Schedule)
+insert—
+“Suspension of registration
+4B
+(1) The First-tier Tribunal may, on an application made to it by the 
+Commissioner, suspend a person's registration if the person is for the 
+time being charged with—
+(a)
+an offence involving dishonesty or deception;
+(b)
+an indictable offence; or
+(c)
+an offence under section 25 or 26(1)(d) or (g) of the 1971 Act.
+(2) The suspension of the person's registration ceases to have effect if one 
+of these occurs—
+(a)
+the person is acquitted of the offence;
+
+
+## Page 144
+
+144
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(b)
+the charge is withdrawn;
+(c)
+proceedings in respect of the charge are discontinued;
+(d)
+an order is made for the charge to lie on the file, or in relation 
+to Scotland, the diet is deserted pro loco et tempore.
+(3) If the person is convicted of an offence under section 25 or 26(1)(d) or 
+(g) of the 1971 Act, the suspension of the person's registration continues 
+to have effect until the Commissioner cancels the person's registration 
+(as required by paragraph 4A(c)).
+(4) If the person is convicted of any other offence within sub-paragraph (1)
+—
+(a)
+the Commissioner must as soon as reasonably practicable 
+consider whether the person is no longer competent or is 
+otherwise unfit to provide immigration advice or immigration 
+services (so that the person's registration must be cancelled 
+under paragraph 4A(e));
+(b)
+the suspension of the person's registration continues to have 
+effect until the Commissioner either cancels the person's 
+registration, or decides that the person is competent and 
+otherwise fit to provide immigration advice and immigration 
+services.
+(5) A person whose registration is suspended is not to be treated as a 
+registered person for the purposes of section 84 (but is to be treated as a 
+registered person for the purposes of the other provisions of this Part).
+(6) Where a person's registration is suspended the Commissioner must as 
+soon as reasonably practicable record the suspension in the register.
+(7) Where a suspension ceases to have effect (and the person's registration is 
+not cancelled) the Commissioner must as soon as reasonably practicable 
+remove the record of the suspension from the register.”
+Commencement Information
+I195 Sch. 7 para. 5 in force at 17.11.2014 by S.I. 2014/2771, art. 5(c)
+Inspections
+6
+After paragraph 4 of Schedule 5 insert—
+“Inspections
+4A
+The Commissioner may carry out inspections of the activities and 
+businesses of registered persons.”
+Commencement Information
+I196 Sch. 7 para. 6 in force at 28.7.2014 by S.I. 2014/1820, art. 3(aa)
+
+
+## Page 145
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+145
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Complaints and investigations
+7
+(1) For section 89(2) (powers of Tribunal on hearing charge against registered person)
+substitute—
+“(2) Subsections (2A) and (2B) apply if the person charged was, at the time to 
+which the charge relates, a registered person or a person acting on behalf of 
+a registered person.
+(2A) If the registered person mentioned in subsection (2) is still registered, the 
+First-tier Tribunal may direct the Commissioner—
+(a)
+to record the charge and the First-tier Tribunal's decision on it for 
+consideration in connection with that person's next application for 
+continued registration;
+(b)
+to cancel that person's registration.
+(2B) If the registered person mentioned in subsection (2) is no longer registered, 
+the First-tier Tribunal may direct the Commissioner to record the charge and 
+the First-tier Tribunal's decision on it for consideration in connection with 
+any application by that person for registration.”
+(2) In paragraph 5(3) of Schedule 5 (complaints which may be investigated by 
+Commissioner)—
+(a)
+before paragraph (a) insert—
+“(za)
+the competence or fitness to provide immigration advice or 
+immigration services of a person who, at the time to which 
+the complaint relates, was a registered person,”;
+(b)
+in paragraph (a) for “a person” substitute “ any other person ”;
+(c)
+after paragraph (a) insert—
+“(aa)
+the competence or fitness of a person who, at the time 
+to which the complaint relates, was acting on behalf of a 
+registered person,”;
+(d)
+in paragraph (b) for the first “a person” substitute “ any other person ”;
+(e)
+in paragraph (d) for “a person to whom they apply” substitute “ a person 
+who, at the time to which the complaint relates, was a registered person or 
+a person acting on behalf of a registered person ”.
+(3) For paragraph 9(1)(a) of that Schedule (Commissioner's powers on determining a 
+complaint) substitute—
+“(a)
+if the person to whom the complaint relates was at the time to which 
+the complaint relates—
+(i) a registered person, or
+(ii) a person acting on behalf of a registered person,
+record the complaint and the decision on it to be considered in 
+connection with the next relevant application;”.
+(4) After paragraph 9(1) insert—
+“(1A) In sub-paragraph (1)(a) “relevant application” means—
+(a)
+if the registered person referred to in that sub-paragraph is still 
+registered, an application by that person for continued registration, 
+and
+(b)
+otherwise, an application by that person for registration.”
+
+
+## Page 146
+
+146
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(5) For paragraph 9(4) substitute—
+“(4) Relevant person” means—
+(a)
+a person who, at the time to which the charge relates, was providing 
+immigration advice or immigration services and was—
+(i) a registered person, or
+(ii) a person acting on behalf of a registered person;
+(b)
+a person providing immigration advice or immigration services who
+is—
+(i) a person to whom section 84(4)(d) applies, or
+(ii) a person employed by, or working under the supervision of, 
+such a person.”
+Commencement Information
+I197 Sch. 7 para. 7 in force at 17.11.2014 by S.I. 2014/2771, art. 5(c)
+Power of entry and inspection
+8
+(1) Omit paragraph 7 of Schedule 5 (and the cross-heading before it).
+(2) After paragraph 10 of that Schedule insert—
+“Power of entry and inspection
+10A
+(1) On an application made by the Commissioner a justice of the peace (or in 
+Scotland, the sheriff) may issue a warrant authorising the Commissioner 
+to enter premises.
+(2) A justice of the peace or sheriff may issue a warrant in respect of 
+premises if satisfied that there are reasonable grounds for believing
+that—
+(a)
+the premises are being used, or have been used, in connection 
+with the provision of immigration advice or immigration 
+services by a registered person,
+(b)
+entry to the premises is reasonably required for the exercise of 
+any of the Commissioner's functions, and
+(c)
+entry to the premises may be prevented or delayed unless a 
+warrant is produced.
+(3) The Commissioner may enter premises by virtue of this paragraph only 
+at a reasonable hour.
+(4) Where the Commissioner enters premises by virtue of this paragraph the 
+Commissioner may—
+(a)
+take onto the premises any equipment that appears to the 
+Commissioner to be necessary;
+(b)
+require any person on the premises to produce any relevant 
+document and, if the document is produced, to provide any 
+explanation of it;
+
+
+## Page 147
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 7 – Immigration advisers and immigration service providers
+Document Generated: 2026-02-14
+147
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+require any person on the premises to state, to the best of the 
+person's knowledge and belief, where any relevant document is 
+to be found;
+(d)
+take copies of, or extracts from, any relevant document on the 
+premises which is produced;
+(e)
+require any relevant information which is held in a computer 
+and is accessible from the premises to be produced in a form—
+(i) in which it can be taken away; and
+(ii) in which it is visible and legible.
+(5) For the purposes of sub-paragraph (4), a document or information 
+is “relevant” if the document or information relates to any matter 
+connected with the provision of immigration advice or immigration 
+services.
+(6) The powers conferred on the Commissioner by sub-paragraphs (1) to (5) 
+may also be exercised by—
+(a)
+a member of the Commissioner's staff authorised by the 
+Commissioner in writing, and
+(b)
+if the Commissioner so determines, a person appointed by the 
+Commissioner to make a report on the provision of immigration 
+advice or immigration services from the premises in question.
+(7) If a registered person fails without reasonable excuse to allow access 
+under this paragraph to any premises under the person's occupation or 
+control, the Commissioner may cancel the person's registration.
+(8) The Commissioner may also cancel the registration of a registered 
+person who—
+(a)
+without reasonable excuse fails to comply with a requirement 
+imposed under sub-paragraph (4);
+(b)
+intentionally delays or obstructs any person exercising functions 
+under this paragraph; or
+(c)
+fails to take reasonable steps to prevent an employee of the 
+registered person from obstructing any person exercising such 
+functions.
+(9) In this paragraph “premises” includes premises used wholly or partly as 
+a dwelling.”
+Commencement Information
+I198 Sch. 7 para. 8 in force at 17.11.2014 by S.I. 2014/2771, art. 5(c)
+
+
+## Page 148
+
+148
+Immigration Act 2014 (c. 22)
+SCHEDULE 8 – Embarkation checks
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 8
+Section 67
+EMBARKATION CHECKS
+Modifications etc. (not altering text)
+C54
+Sch. 8 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the 
+amending S.I.) by The Immigration (Jersey) Order 2015 (S.I. 2015/1532), arts. 1(1), 2(2), Sch. 2 (with
+art. 2(3))
+C55
+Sch. 8 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the 
+amending S.I.) by The Immigration (Guernsey) Order 2015 (S.I. 2015/1533), arts. 1, 5, Sch. 2 (with art. 6)
+C56
+Sch. 8 amendment to earlier affecting S.I. 2015/1532, Sch. 2 (coming into force in accordance with art. 
+1 of the amending S.I.) by The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981), Sch. 
+Pt. 4 (with art. 6)
+PART 1
+FUNCTIONS EXERCISABLE BY DESIGNATED PERSONS
+Introduction
+1
+Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on 
+entry etc) is amended in accordance with this Part of this Schedule.
+Commencement Information
+I199 Sch. 8 para. 1 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+Examinations by designated person
+2
+(1) Paragraph 3 is amended as follows.
+(2) In sub-paragraph (1), after “immigration officer” insert “ or designated person ”.
+(3) For sub-paragraph (1A) substitute—
+“(1A) If a person is examined under sub-paragraph (1) (whether by an immigration 
+officer or designated person), an immigration officer may require the person, 
+by notice in writing, to submit to further examination by the immigration 
+officer for a purpose specified in that sub-paragraph.”.
+Commencement Information
+I200 Sch. 8 para. 2 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+Information and documents
+3
+(1) Paragraph 4 is amended as follows.
+(2) In sub-paragraph (1), for “his functions” substitute “ that or any other person's 
+functions ”.
+
+
+## Page 149
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 8 – Embarkation checks
+Document Generated: 2026-02-14
+149
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) In sub-paragraph (2)—
+(a)
+for “shall, if so required by the immigration officer” substitute “ , or on his 
+examination under paragraph 3 above by a designated person, shall, if so 
+required by an immigration officer or designated person ”;
+(b)
+in paragraph (b), for “the immigration officer” substitute “ the immigration 
+officer or designated person ”;
+(c)
+in the words after paragraph (b), for “the immigration officer” substitute “ 
+the immigration officer or designated person ”.
+(4) In sub-paragraph (3), for the words from “the immigration officer” to the second 
+“officer” substitute “ an immigration officer or a person acting under the directions 
+of an immigration officer ”.
+(5) In sub-paragraph (4), in the words before paragraph (a)—
+(a)
+for “produced or found” substitute “ produced to or found by an immigration 
+officer ”;
+(b)
+for “an immigration officer” substitute “ , the immigration officer ”.
+(6) After sub-paragraph (4) insert—
+“(4A) Where a passport or other document is produced to a designated person in 
+accordance with this paragraph, the designated person—
+(a)
+may examine it and detain it; and
+(b)
+must deliver any detained passport or document to an immigration 
+officer as soon as reasonably practicable.
+(4B) If a passport or document is delivered to an immigration officer in 
+accordance with sub-paragraph (4A)(b), sub-paragraph (4) applies as if 
+the immigration officer had detained the document (and, accordingly, the 
+immigration officer may continue to detain it in accordance with sub-
+paragraph (4)(a), (b) or (c)).”.
+(7) In sub-paragraph (5), after “examination” insert “ , or any immigration officer or 
+designated person, ”.
+Commencement Information
+I201 Sch. 8 para. 3 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+Embarkation cards
+4
+(1) Paragraph 5 is amended in accordance with sub-paragraphs (2) and (3).
+(2) For “requiring passengers” substitute “requiring—
+(a)
+passengers”.
+(3) For “cards in such form” substitute “cards, and
+(b)
+passengers embarking in the United Kingdom, or any class of 
+such passengers, to produce to a designated person, if so required, 
+embarkation cards,
+in such form ”.
+
+
+## Page 150
+
+150
+Immigration Act 2014 (c. 22)
+SCHEDULE 8 – Embarkation checks
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I202 Sch. 8 para. 4 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+Designations
+5
+After paragraph 5 insert—
+“Designated persons
+5A (1) In this Schedule “designated person” means a person designated by the 
+Secretary of State for the purposes of this Schedule.
+(2) A designation under this paragraph is subject to such limitations as may be 
+specified in the designation.
+(3) A limitation under sub-paragraph (2) may, in particular, relate to the 
+functions that are exercisable by virtue of the designation (and, accordingly, 
+the exercise of functions under this Schedule by a designated person is 
+subject to any such limitations specified in the person's designation).
+(4) A designation under this paragraph—
+(a)
+may be permanent or for a specified period,
+(b)
+may (in either case) be withdrawn, and
+(c)
+may be varied.
+(5) The power to designate, or to withdraw or vary a designation, is exercised 
+by the Secretary of State giving notice to the person in question.
+(6) The Secretary of State may designate a person under this paragraph only if 
+the Secretary of State is satisfied that the person—
+(a)
+is capable of effectively carrying out the functions that are 
+exercisable by virtue of the designation,
+(b)
+has received adequate training in respect of the exercise of those 
+functions, and
+(c)
+is otherwise a suitable person to exercise those functions.”.
+Commencement Information
+I203 Sch. 8 para. 5 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+Directions to carriers and operators of ports
+6
+After paragraph 5A (inserted by paragraph 5 above) insert—
+“Directions to carriers and operators of ports etc
+5B (1) The Secretary of State may direct—
+(a)
+an owner or agent of a ship or aircraft, or
+(b)
+a person concerned in the management of a port,
+
+
+## Page 151
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 8 – Embarkation checks
+Document Generated: 2026-02-14
+151
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+to make arrangements for designated persons to exercise a specified 
+function, or a function of a specified description, in relation to persons of a 
+specified description.
+(2) A direction under this paragraph must specify—
+(a)
+the port where, and
+(b)
+the date (or dates) and time (or times) when,
+a function is to be exercised under the arrangements.
+(3) A direction under this paragraph must be in writing.
+(4) A direction under this paragraph may specify a description of persons by 
+reference, in particular, to—
+(a)
+the destination to which persons are travelling;
+(b)
+the route by which persons are travelling;
+(c)
+the date and time when the persons are travelling.
+(5) In this paragraph—
+“function” means a function under this Schedule;
+“specified” means specified in a direction under this paragraph.”.
+Commencement Information
+I204 Sch. 8 para. 6 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+PART 2
+OTHER PROVISION
+Offences
+7
+(1) Section 27 of the Immigration Act 1971 (offences by persons connected with ships 
+or aircraft or with ports) is amended as follows.
+(2) In paragraph (b)—
+(a)
+after sub-paragraph (iii) insert—
+“(iiia) he fails, without reasonable excuse, to comply with 
+a direction under paragraph 5B of Schedule 2; or”;
+(b)
+in sub-paragraph (iv) for “a requirement” substitute “ any other requirement 
+”.
+(3) After paragraph (c) insert—
+“(ca)
+if as a person concerned in the management of a port he fails, without 
+reasonable excuse, to comply with a direction under paragraph 5B 
+of Schedule 2.”.
+Commencement Information
+I205 Sch. 8 para. 7 in force at 28.7.2014 by S.I. 2014/1820, art. 3(bb)
+
+
+## Page 152
+
+152
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+SCHEDULE 9
+Section 73
+TRANSITIONAL AND CONSEQUENTIAL PROVISION
+Modifications etc. (not altering text)
+C57
+Sch. 9 extended in part (with modifications) to Jersey (coming into force in accordance with art. 1(1) 
+of the amending S.I.) by The Immigration (Jersey) Order 2015 (S.I. 2015/1532), arts. 1(1), 2(2), Sch. 
+2 (with art. 2(3))
+C58
+Sch. 9 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the 
+amending S.I.) by The Immigration (Guernsey) Order 2015 (S.I. 2015/1533), arts. 1, 5, Sch. 2 (with art. 6)
+PART 1
+PROVISION RELATING TO REMOVAL
+Immigration Act 1971 (c. 77)
+1
+In Schedule 2 to the Immigration Act 1971 (administrative provisions as to control 
+on entry etc), in paragraph 11, after “immigration officer” insert “ or the Secretary 
+of State ”.
+Commencement Information
+I206 Sch. 9 para. 1 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+I207 Sch. 9 para. 1 in force at 20.10.2014 by S.I. 2014/2771, art. 4(g)
+Special Immigration Appeals Commission Act 1997 (c. 68)
+2
+In section 2 of the Special Immigration Appeals Commission Act 1997 
+(jurisdiction: appeals), in subsection (2), after paragraph (c) insert—
+“(ca)
+section 78A of that Act (restriction on removal of children and their 
+parents),”.
+Commencement Information
+I208 Sch. 9 para. 2 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+Nationality, Immigration and Asylum Act 2002 (c. 41)
+3
+(1) The Nationality, Immigration and Asylum Act 2002 is amended as follows.
+(2) In section 62 (detention by Secretary of State)—
+(a)
+in subsection (1)—
+(i) in paragraph (a), after “under” insert “ section 10 of the Immigration 
+and Asylum Act 1999 (removal of persons unlawfully in the United 
+Kingdom) or ”;
+
+
+## Page 153
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+153
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(ii) in paragraph (b), for “paragraphs” substitute “ provisions ”;
+(b)
+in subsection (2), for “that Act” substitute “ the Immigration Act 1971 ”;
+(c)
+omit subsections (5) and (6).
+(3) In section 76 (revocation of leave to enter or remain)—
+(a)
+in subsection (2), omit paragraphs (b) and (c);
+(b)
+in subsection (4), omit the definition of “removed”.
+Commencement Information
+I209 Sch. 9 para. 3 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c.19)
+4
+In section 8(7) of the Asylum and Immigration (Treatment of Claimants, etc) 
+Act 2004 (claimant's credibility; definitions), in paragraph (d) of the definition of 
+“immigration decision”, omit “(1)(a), (b), (ba) or (c)”.
+Commencement Information
+I210 Sch. 9 para. 4 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Immigration, Asylum and Nationality Act 2006 (c. 13)
+5
+In the Immigration, Asylum and Nationality Act 2006, section 47 (removal of 
+persons with statutorily extended leave) is repealed.
+Commencement Information
+I211
+Sch. 9 para. 5 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+6
+In Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 
+(civil legal services), in paragraph 19(10), in the definition of “removal directions”, 
+omit paragraph (e).
+Commencement Information
+I212 Sch. 9 para. 6 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+
+
+## Page 154
+
+154
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Consequential repeals
+7
+The provisions shown in the table below are repealed in consequence of the 
+amendments made by section 1 and this Part of this Schedule.
+Title
+Extent of repeal
+Section 73(2) to (4).
+Section 74.
+Section 75(4).
+Nationality, Immigration and 
+Asylum Act 2002
+Section 76(7).
+Immigration, 
+Asylum 
+and 
+Nationality Act 2006
+Section 48.
+Crime and Courts Act 2013
+Section 51(3).
+Immigration Act 2014
+In Schedule 1, paragraph 2(3) and (4).
+Commencement Information
+I213 Sch. 9 para. 7 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+PART 2
+PROVISION RELATING TO DETENTION AND BAIL
+Prison Act 1952 (c. 52)
+8
+(1) Section 5A of the Prison Act 1952 (appointment and functions of Her Majesty's Chief 
+Inspector of Prisons) is amended as follows.
+(2) In subsection (5A)—
+(a)
+omit “and” at the end of paragraph (b);
+(b)
+after paragraph (b) insert—
+“(ba)
+in relation to pre-departure accommodation within the 
+meaning of that section, and”.
+(3) In subsection (5B)—
+(a)
+in paragraph (a), after “facilities” insert “ , accommodation ”;
+(b)
+in paragraph (b)(i), after “facilities” insert “ , pre-departure accommodation 
+”.
+Commencement Information
+I214 Sch. 9 para. 8 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+
+
+## Page 155
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+155
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Immigration Act 1971 (c. 77)
+9
+In Schedule 3 to the Immigration Act 1971 (supplementary provisions as to 
+deportation), in paragraph 3, for “33” substitute “ 33A ”.
+Commencement Information
+I215 Sch. 9 para. 9 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Special Immigration Appeals Commission Act 1997 (c. 68)
+10
+(1) The Special Immigration Appeals Commission Act 1997 is amended as follows.
+(2) In section 5 (procedure in relation to SIAC's jurisdiction on appeals and bail), after 
+subsection (5) insert—
+“(5A) Rules under this section must secure that, where the Commission has decided 
+not to release a person on bail under paragraph 22 or 29 of Schedule 2 to the 
+Immigration Act 1971, the Commission is required to dismiss any further 
+application by the person for release on bail that is made during the period 
+of 28 days starting with the date of the Commission's decision, unless there 
+has been a material change in circumstances.”
+(3) In Schedule 3 (bail: modifications of Schedule 2 to the Immigration Act 1971), in 
+paragraph 4, after sub-paragraph (1) insert—
+“(1A) In sub-paragraph (1) after “2002” there shall be inserted “or section 2 
+of the Special Immigration Appeals Commission Act 1997 or a review 
+pending under section 2E of that Act.”
+Commencement Information
+I216 Sch. 9 para. 10(1)(3) in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+I217 Sch. 9 para. 10(2) in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended 
+(2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings 
+in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Northern Ireland Act 1998 (c. 47)
+11
+In section 69C of the Northern Ireland Act 1998 (investigations: places of 
+detention), in subsection (3)(g), for “or short-term holding facility” substitute “ , a 
+short-term holding facility or pre-departure accommodation ”.
+Commencement Information
+I218 Sch. 9 para. 11 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+Immigration and Asylum Act 1999 (c. 33)
+12
+(1) The Immigration and Asylum Act 1999 is amended as follows.
+
+
+## Page 156
+
+156
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) In Schedule 11 (detainee custody officers)—
+(a)
+in the heading above paragraph 3, at the end insert “ and pre-departure 
+accommodation ”;
+(b)
+in paragraph 3—
+(i) in sub-paragraph (1), after “facility” insert “ or in pre-departure 
+accommodation ”;
+(ii) in sub-paragraph (2), after “facility” (in both places) insert “ or 
+accommodation ”;
+(c)
+in paragraph 4(c), after “facility” insert “ or in pre-departure accommodation 
+”;
+(d)
+in paragraph 5(c), after “facility” insert “ or in pre-departure accommodation 
+”.
+(3) In Schedule 12 (discipline etc at removal centres)—
+(a)
+in paragraph 4 (assisting detained persons to escape)—
+(i) in sub-paragraph (1), for “or short-term holding facility” substitute
+“ , a short-term holding facility or pre-departure accommodation ”;
+(ii) in the opening words of sub-paragraph (2), for “or short-term 
+holding facility” substitute “ , a short-term holding facility or pre-
+departure accommodation ”;
+(iii) in sub-paragraph (2)(a), for “or facility” substitute “ , facility or 
+accommodation ”;
+(iv) in sub-paragraph (2)(b), for “or facility” substitute “ , facility or 
+accommodation ”;
+(v) in sub-paragraph (2)(c), for “or facility” substitute “ , facility or 
+accommodation ”;
+(b)
+in paragraph 8 (notice of penalties)—
+(i) in sub-paragraph (1), after “facility” insert “ or contracted out pre-
+departure accommodation ”;
+(ii) in sub-paragraph (2), after “facility” insert “ or pre-departure 
+accommodation ”.
+Commencement Information
+I219 Sch. 9 para. 12 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+Nationality, Immigration and Asylum Act 2002 (c. 41)
+13
+In section 62 of the Nationality, Immigration and Asylum Act 2002 (detention by 
+Secretary of State), in subsection (3), after paragraph (a) insert—
+“(aa)
+a reference in paragraph 18B of that Schedule to an immigration 
+officer shall be read as a reference to the Secretary of State,”.
+Commencement Information
+I220 Sch. 9 para. 13 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+
+
+## Page 157
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+157
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Safeguarding Vulnerable Groups Act 2006 (c. 47)
+14
+In section 59 of the Safeguarding Vulnerable Groups Act 2006 (vulnerable adults), 
+in subsection (7)(d), after “facility” insert “ or in pre-departure accommodation ”.
+Commencement Information
+I221 Sch. 9 para. 14 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+15
+In section 2 of the Corporate Manslaughter and Corporate Homicide Act 2007 
+(meaning of “relevant duty of care”)—
+(a)
+in subsection (2)(b), for “or short-term holding facility” substitute “ , a 
+short-term holding facility or in pre-departure accommodation ”;
+(b)
+in subsection (7), for “and “short-term holding facility”” substitute “, 
+“short-term holding facility” and “pre-departure accommodation””.
+Commencement Information
+I222 Sch. 9 para. 15 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+UK Borders Act 2007 (c. 30)
+16
+In section 48 of the UK Borders Act 2007 (establishment of border and immigration 
+inspectorate), in subsection (2A)(a), after “facilities” insert “ and in pre-departure 
+accommodation ”.
+Commencement Information
+I223 Sch. 9 para. 16 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+PART 3
+PROVISION RELATING TO BIOMETRICS
+Immigration and Asylum Act 1999 (c. 33)
+17
+(1) The Immigration and Asylum Act 1999 is amended as follows.
+(2) Section 143 (destruction of fingerprints) is repealed.
+(3) In section 144(1) (power to make provision about other biometric information) for 
+“, 142 and 143” substitute “ and 142 ”.
+(4) Omit section 166(4)(g) (Parliamentary procedure for orders under section 143).
+Commencement Information
+I224 Sch. 9 para. 17 in force at 1.7.2021 by S.I. 2021/771, reg. 2(b)
+
+
+## Page 158
+
+158
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Anti-terrorism, Crime and Security Act 2001 (c. 24)
+18
+Section 36 of the Anti-terrorism, Crime and Security Act 2001 (which amends 
+section 143 of the Immigration and Asylum Act 1999) is repealed.
+Commencement Information
+I225 Sch. 9 para. 18 in force at 1.7.2021 by S.I. 2021/771, reg. 2(c)
+Nationality, Immigration and Asylum Act 2002 (c. 41)
+19
+In section 126 of the Nationality, Immigration and Asylum Act 2002 (power to 
+require provision of physical data with certain immigration applications) omit—
+(a)
+the “or” at the end of subsection (2)(b),
+(b)
+subsection (4)(g), and
+(c)
+subsection (5).
+Modifications etc. (not altering text)
+C59
+Sch. 9 para. 19 extended (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) 
+by The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358), art. 4(d)
+Commencement Information
+I226 Sch. 9 para. 19 in force at 1.3.2015 by S.I. 2015/371, art. 3(b)
+PART 4
+PROVISION RELATING TO APPEALS
+Immigration Act 1971 (c. 77)
+20
+The Immigration Act 1971 is amended as follows.
+Commencement Information
+I227 Sch. 9 para. 20 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+21
+(1) Section 3C (continuation of leave pending variation decision) is amended as follows.
+(2) In subsection (2)—
+(a)
+omit the “or” at the end of paragraph (b);
+(b)
+after paragraph (c) insert “, or
+(d)
+an administrative review of the decision on the application 
+for variation—
+(i) could be sought, or
+(ii) is pending.”
+(3) After subsection (6) insert—
+
+
+## Page 159
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+159
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+“(7) In this section—
+“administrative review” means a review conducted under the 
+immigration rules;
+the question of whether an administrative review is pending is to 
+be determined in accordance with the immigration rules.”
+Commencement Information
+I228 Sch. 9 para. 21 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+F7822
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F78
+Sch. 9 para. 22 repealed (1.12.2016) by Immigration Act 2016 (c. 19), ss. 64(4)(b), 94(1) (with s. 64(5));
+S.I. 2016/1037, reg. 5(h)
+F7923
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F79
+Sch. 9 para. 23 repealed (1.12.2016) by Immigration Act 2016 (c. 19), ss. 65(2), 94(1) (with s. 65(3));
+S.I. 2016/1037, reg. 5(h)
+24
+In Schedule 3 (supplementary provisions as to deportation), in paragraph 3, for the 
+words from “of the kind” to “order)” substitute “ that relates to a deportation order ”.
+Commencement Information
+I229 Sch. 9 para. 24 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+British Nationality Act 1981 (c. 61)
+25
+In section 40A of the British Nationality Act 1981 (deprivation of citizenship: 
+appeal), in subsection (3)—
+(a)
+omit “, 83 or 83A”;
+(b)
+omit paragraph (a).
+Commencement Information
+I230 Sch. 9 para. 25 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+
+
+## Page 160
+
+160
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Special Immigration Appeals Commission Act 1997 (c. 68)
+26
+(1) The Special Immigration Appeals Commission Act 1997 is amended as follows.
+(2) In section 2 (jurisdiction: appeals)—
+(a)
+in subsection (1)(a), omit “, 83(2) or 83A(2)”;
+(b)
+in subsection (1)(b), omit “, 83(2) or 83A(2)”;
+(c)
+in subsection (2), omit paragraphs (d), (h) and (l);
+(d)
+omit subsections (3) and (4);
+(e)
+in subsection (5), omit “against an immigration decision”;
+(f)
+omit subsection (6).
+(3) In section 2B (appeal to SIAC against deprivation of citizenship), omit the words 
+from “(and” to the end.
+(4) In section 6A (procedure in relation to review jurisdiction)—
+(a)
+in the heading, for “and 2D” substitute “ to 2E ”;
+(b)
+in subsection (1), for “or 2D” substitute “ , 2D or 2E ”;
+(c)
+in subsection (2)—
+(i) in paragraph (a), for “or 2D” substitute “ , 2D or 2E ”;
+(ii) in paragraph (b), for “or (as the case may be) 2D(2)” substitute “ , 
+2D(2) or (as the case may be) 2E(2) ”.
+(5) In section 7 (appeals from the Commission), in subsection (1A), for “or 2D” 
+substitute “ , 2D or 2E ”.
+Commencement Information
+I231 Sch. 9 para. 26(1)(4) in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended 
+(2.3.2015 and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings 
+in S.I. 2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Immigration and Asylum Act 1999 (c. 33)
+27
+The Immigration and Asylum Act 1999 is amended as follows.
+Commencement Information
+I232 Sch. 9 para. 27 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+28
+Section 23 (monitoring refusals of entry clearance) is repealed.
+Commencement Information
+I233 Sch. 9 para. 28 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+29
+(1) Section 141 (fingerprinting) is amended as follows.
+
+
+## Page 161
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+161
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) In subsection (7)—
+(a)
+for paragraph (c) substitute—
+“(c)
+any person (“C”) in respect of whom the Secretary of State 
+has decided—
+(i) to make a deportation order, or
+(ii) that section 32(5) of the UK Borders Act 
+2007 (automatic deportation of foreign criminals) 
+applies;
+(ca)
+any person (“CA”) who requires leave to enter or remain in 
+the United Kingdom but does not have it;”;
+(b)
+in paragraph (f), for the words from “paragraph (c)” to the end substitute “ 
+paragraph (c)(ii) ”.
+(3) In subsection (8), for paragraph (c) substitute—
+“(c)
+for C, when he is notified of the decision mentioned in subsection (7)
+(c);
+(ca)
+for CA, when he becomes a person to whom this section applies;”.
+(4) In subsection (9)—
+(a)
+in paragraph (b), after “C” insert “ , CA ”;
+(b)
+in paragraph (c)(i) for “relevant immigration decision” substitute “ decision 
+mentioned in subsection (7)(c) ”;
+(c)
+after paragraph (c) insert—
+“(ca)
+for CA, when he no longer requires leave to enter or remain 
+in the United Kingdom;”.
+(5) Omit subsection (16).
+Commencement Information
+I234 Sch. 9 para. 29 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Nationality, Immigration and Asylum Act 2002 (c. 41)
+30
+The Nationality, Immigration and Asylum Act 2002 is amended as follows.
+Commencement Information
+I235 Sch. 9 para. 30 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+31
+In section 72 (serious criminal), in subsection (9)(a)—
+(a)
+omit “, 83, 83A or 101”;
+(b)
+for the words from “that to remove him” to the end substitute “ mentioned 
+in section 84(1)(a) or (3)(a) of this Act (breach of the United Kingdom's 
+obligations under the Refugee Convention), and ”.
+
+
+## Page 162
+
+162
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I236 Sch. 9 para. 31 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+PROSPECTIVE
+32
+In section 79 (deportation order: appeal), in subsection (1) for “against” substitute
+“ that may be brought or continued from within the United Kingdom relating to ”.
+33
+For the heading to Part 5, substitute “ Appeals in respect of Protection and Human 
+Rights Claims ”.
+Commencement Information
+I237 Sch. 9 para. 33 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+34
+In section 85 (matters to be considered)—
+(a)
+in subsection (2), for “84(1)” substitute “ 84 ”;
+(b)
+in subsection (4)—
+(i) omit “, 83(2) or 83A(2)”;
+(ii) omit “evidence about”;
+(iii) omit “evidence which concerns”.
+Commencement Information
+I238 Sch. 9 para. 34 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+35
+Section 85A (matters to be considered: new evidence: exceptions) is repealed.
+Commencement Information
+I239 Sch. 9 para. 35 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+36
+In section 86 (determination of appeal)—
+(a)
+in subsection (1), omit “, 83 or 83A”;
+(b)
+in subsection (2), omit “(whether or not by virtue of section 85(1))”;
+(c)
+omit subsections (3) to (6).
+
+
+## Page 163
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+163
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I240 Sch. 9 para. 36 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+37
+Sections 87 to 91 are repealed.
+Commencement Information
+I241 Sch. 9 para. 37 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+38
+(1) Section 94 (appeal from within the United Kingdom) is amended as follows.
+(2) In the heading, for “asylum” substitute “ protection ”.
+(3) For subsections (1) to (2) substitute—
+“(1) The Secretary of State may certify a protection claim or human rights claim 
+as clearly unfounded.”
+(4) In subsection (3)—
+(a)
+for “an asylum claimant or human rights” substitute “ a ”;
+(b)
+for “subsection (2)” substitute “ subsection (1) ”.
+(5) In subsection (6A) for “an asylum claimant or human rights” substitute “ a ”.
+(6) In subsection (7), for the words from the beginning to “certifies that” substitute “ 
+The Secretary of State may certify a protection claim or human rights claim made 
+by a person if ”.
+(7) In subsection (8)(b), at the end insert “ or with the United Kingdom's obligations in 
+relation to persons eligible for a grant of humanitarian protection ”.
+(8) Omit subsection (9).
+Commencement Information
+I242 Sch. 9 para. 38 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+F8039
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F80
+Sch. 9 para. 39 omitted (31.12.2020) by virtue of The Immigration, Nationality and Asylum (EU Exit) 
+Regulations 2019 (S.I. 2019/745), regs. 1(2), 51; 2020 c. 1, Sch. 5 para. 1(1)
+40
+Section 95 (appeal from outside the United Kingdom: removal) is repealed.
+
+
+## Page 164
+
+164
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I243 Sch. 9 para. 40 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+41
+(1) Section 96 (earlier right of appeal) is amended as follows.
+(2) In subsection (1)—
+(a)
+in the opening words, for the words from the beginning to “brought” 
+substitute “ A person may not bring an appeal under section 82 against a 
+decision (“the new decision”) ”;
+(b)
+in paragraph (a), omit “immigration”;
+(c)
+in paragraph (b) for “matter” substitute “ ground ”;
+(d)
+in paragraph (c) for “matter” substitute “ ground ”.
+(3) For subsection (2) substitute—
+“(2) A person may not bring an appeal under section 82 if the Secretary of State 
+or an immigration officer certifies—
+(a)
+that the person has received a notice under section 120(2),
+(b)
+that the appeal relies on a ground that should have been, but has not 
+been, raised in a statement made under section 120(2) or (5), and
+(c)
+that, in the opinion of the Secretary of State or the immigration 
+officer, there is no satisfactory reason for that ground not having 
+been raised in a statement under section 120(2) or (5).”
+Commencement Information
+I244 Sch. 9 para. 41 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+42
+In section 97 (national security etc)—
+(a)
+in subsection (1), omit “, 83(2) or 83A(2)”;
+(b)
+in subsection (3), omit “, 83(2) or 83A(2)”.
+Commencement Information
+I245 Sch. 9 para. 42 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+43
+In section 97A (national security: deportation)—
+(a)
+in subsection (2B), for the words from “breach” to the end substitute “ be 
+unlawful under section 6 of the Human Rights Act 1998 (public authority 
+not to act contrary to Human Rights Convention) ”;
+(b)
+omit subsections (2D), (2E) and (3).
+
+
+## Page 165
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+165
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I246 Sch. 9 para. 43 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+44
+Section 97B (variation of leave on grounds of public good: rights of appeal) is 
+repealed.
+Commencement Information
+I247 Sch. 9 para. 44 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+45
+Section 98 (other grounds of public good) is repealed.
+Commencement Information
+I248 Sch. 9 para. 45 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+46
+In section 99—
+(a)
+in the heading, for “Sections 97 and 98” substitute “ Section 97 ”;
+(b)
+in subsection (1), omit “or 98”.
+Commencement Information
+I249 Sch. 9 para. 46 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+47
+(1) Section 104 (pending appeal) is amended as follows.
+(2) Omit subsection (4).
+(3) In subsection (4A), for “subsections (4B) and (4C)” substitute “ subsection (4B) ”.
+(4) In subsection (4B)—
+(a)
+for “the ground relating to the Refugee Convention specified in section 84(1)
+(g)” substitute “ a ground specified in section 84(1)(a) or (b) or 84(3) (asylum 
+or humanitarian protection) ”;
+(b)
+omit paragraph (a) (and the “and” immediately following it).
+(5) Omit subsections (4C) and (5).
+
+
+## Page 166
+
+166
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I250 Sch. 9 para. 47 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+48
+(1) Section 105 (notice of immigration decision) is amended as follows.
+(2) In subsection (1), for “immigration” substitute “ appealable ”.
+(3) In subsection (2)—
+(a)
+in the opening words, for “a decision against which the person is entitled to 
+appeal under section 82(1)” substitute “ an appealable decision ”;
+(b)
+in paragraph (a) for “that section” substitute “ section 82 ”.
+(4) At the end insert—
+“(4) In this section “appealable decision” means a decision mentioned in 
+section 82(1).”
+Commencement Information
+I251 Sch. 9 para. 48 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+49
+In section 106 (rules)—
+(a)
+in subsection (3), omit “, 83 or 83A”;
+(b)
+in subsection (4), omit “, 83 or 83A”.
+Commencement Information
+I252 Sch. 9 para. 49 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+50
+In section 107 (practice directions), in subsection (3), omit “, 83 or 83A”.
+Commencement Information
+I253 Sch. 9 para. 50 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+51
+In section 108 (forged documents: proceedings in private), in subsection (1)(a), 
+omit “, 83 or 83A”.
+
+
+## Page 167
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+167
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I254 Sch. 9 para. 51 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+52
+In section 112 (regulations etc)—
+(a)
+omit subsection (3A);
+(b)
+in subsection (4), omit “or 115(8)”;
+(c)
+in subsection (5), omit “or 115(9)”.
+Commencement Information
+I255 Sch. 9 para. 52 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+53
+(1) Section 113 (interpretation) is amended as follows.
+(2) In subsection (1)—
+(a)
+in the definition of “human rights claim”—
+(i) after “Kingdom” insert “ or to refuse him entry into the United 
+Kingdom ”;
+(ii) omit “as being incompatible with his Convention rights”;
+(b)
+at the appropriate places insert—
+““humanitarian protection” has the meaning given in section 82(2);”
+““protection claim” has the meaning given in section 82(2)”;
+““protection status” has the meaning given in section 82(2)”;
+(c)
+omit the definitions of “entry clearance”, “illegal entrant”, “prescribed”, 
+“visitor” and “work permit”;
+(d)
+in the definition of “immigration rules”, for “that Act” substitute “ the 
+Immigration Act 1971 ”.
+(3) Omit subsection (2).
+Commencement Information
+I256 Sch. 9 para. 53 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+54
+Section 115 (appeal from within United Kingdom: unfounded human rights or 
+asylum claim: transitional provision) is repealed.
+
+
+## Page 168
+
+168
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I257 Sch. 9 para. 54 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+55
+For section 120 (requirement to state additional grounds for application)
+substitute—
+“120 Requirement to state additional grounds for application etc
+(1) Subsection (2) applies to a person (“P”) if—
+(a)
+P has made a protection claim or a human rights claim,
+(b)
+P has made an application to enter or remain in the United Kingdom, 
+or
+(c)
+a decision to deport or remove P has been or may be taken.
+(2) The Secretary of State or an immigration officer may serve a notice on P 
+requiring P to provide a statement setting out—
+(a)
+P's reasons for wishing to enter or remain in the United Kingdom,
+(b)
+any grounds on which P should be permitted to enter or remain in 
+the United Kingdom, and
+(c)
+any grounds on which P should not be removed from or required to 
+leave the United Kingdom.
+(3) A statement under subsection (2) need not repeat reasons or grounds set out
+in—
+(a)
+P's protection or human rights claim,
+(b)
+the application mentioned in subsection (1)(b), or
+(c)
+an application to which the decision mentioned in subsection (1)(c) 
+relates.
+(4) Subsection (5) applies to a person (“P”) if P has previously been served with 
+a notice under subsection (2) and—
+(a)
+P requires leave to enter or remain in the United Kingdom but does 
+not have it, or
+(b)
+P has leave to enter or remain in the United Kingdom only by virtue 
+of section 3C or 3D of the Immigration Act 1971 (continuation of 
+leave pending decision or appeal).
+(5) Where P's circumstances have changed since the Secretary of State or an 
+immigration officer was last made aware of them (whether in the application 
+or claim mentioned in subsection (1) or in a statement under subsection (2) 
+or this subsection) so that P has—
+(a)
+additional reasons for wishing to enter or remain in the United 
+Kingdom,
+(b)
+additional grounds on which P should be permitted to enter or 
+remain in the United Kingdom, or
+(c)
+additional grounds on which P should not be removed from or 
+required to leave the United Kingdom,
+
+
+## Page 169
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+169
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+P must, as soon as reasonably practicable, provide a supplementary 
+statement to the Secretary of State or an immigration officer setting out the 
+new circumstances and the additional reasons or grounds.
+(6) In this section—
+“human rights claim” and “protection claim” have the same 
+meanings as in Part 5;
+references to “grounds” are to grounds on which an appeal under 
+Part 5 may be brought (see section 84).”
+Commencement Information
+I258 Sch. 9 para. 55 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19)
+56
+(1) Schedule 3 to the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 
+(removal of asylum seeker to safe third country) is amended as follows.
+(2) In paragraph 1, at the end insert—
+“(3) Section 92 of the Nationality, Immigration and Asylum Act 2002 makes 
+further provision about the place from which an appeal relating to an asylum 
+or human rights claim may be brought or continued.”
+(3) In paragraph 5—
+(a)
+omit sub-paragraph (2);
+(b)
+in sub-paragraph (3), for the words from “by virtue of” to “rights)” substitute
+“ from within the United Kingdom ”;
+(c)
+in sub-paragraph (4), for “by virtue of section 92(4)(a) of that Act” substitute
+“ from within the United Kingdom ”.
+(4) In paragraph 10—
+(a)
+omit sub-paragraph (2);
+(b)
+in sub-paragraph (3), for the words from “by virtue of” to “rights)” substitute
+“ from within the United Kingdom ”;
+(c)
+in sub-paragraph (4), for “by virtue of section 92(4)(a) of that Act” substitute
+“ from within the United Kingdom ”.
+(5) In paragraph 15—
+(a)
+omit sub-paragraph (2);
+(b)
+in sub-paragraph (3), for the words from “by virtue of” to “rights)” substitute
+“ from within the United Kingdom ”;
+(c)
+in sub-paragraph (4), for “by virtue of section 92(4)(a) of that Act” substitute
+“ from within the United Kingdom ”.
+(6) In paragraph 19—
+(a)
+omit paragraph (a);
+(b)
+in paragraph (b), for the words from “by virtue of” to “rights)” substitute “ 
+from within the United Kingdom ”;
+
+
+## Page 170
+
+170
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(c)
+in paragraph (c), for “by virtue of section 92(4)(a) of that Act” substitute “ 
+from within the United Kingdom ”.
+Commencement Information
+I259 Sch. 9 para. 56 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Immigration, Asylum and Nationality Act 2006 (c. 13)
+57
+(1) The Immigration, Asylum and Nationality Act 2006 is amended as follows.
+(2) In section 12(3) (new definition of human rights claims), in paragraph (a) of the 
+definition of “human rights claim”—
+(a)
+after “Kingdom” insert “ or to refuse him entry into the United Kingdom ”;
+(b)
+omit “as being incompatible with his Convention rights”.
+(3) Section 13 (appeal from within the United Kingdom: certification of unfounded 
+claim) is repealed.
+(4) In section 55 (Refugee Convention: certification), in subsection (2)(a)—
+(a)
+in sub-paragraph (i), omit “, 83 or 101”;
+(b)
+for sub-paragraph (ii) substitute—
+“(ii) which is brought on the ground mentioned in 
+section 84(1)(a) or (3)(a) of that Act (breach of 
+United Kingdom's obligations under the Refugee 
+Convention);”.
+(5) In Schedule 1 (consequential amendments) paragraph 11 (amendment to 
+section 112(5) of the 2002 Act) is repealed.
+Commencement Information
+I260 Sch. 9 para. 57 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+UK Borders Act 2007 (c. 30)
+58
+In section 17 of the UK Borders Act 2007 (support for failed asylum-seekers), in 
+subsection (2)—
+(a)
+in paragraph (a), omit “against an immigration decision”;
+(b)
+in paragraph (b), omit “against an immigration decision”.
+Commencement Information
+I261 Sch. 9 para. 58 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+
+
+## Page 171
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+171
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Equality Act 2010 (c. 15)
+59
+In section 115 of the Equality Act 2010 (immigration cases), in subsection (8) after 
+“2D” insert “ and 2E ”.
+Commencement Information
+I262 Sch. 9 para. 59 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+Consequential repeals
+60
+The provisions shown in the table below are repealed in consequence of the 
+amendments made by sections 15 to 18 and this Part of this Schedule.
+Title
+Extent of repeal
+Nationality, Immigration and 
+Asylum Act 2002
+In Schedule 7, paragraph 27.
+Section 15(2), (3) and (5).
+Section 26(2) and (3).
+Section 27(2) and (3).
+Sections 28 and 29.
+Section 31.
+Asylum 
+and 
+Immigration 
+(Treatment of Claimants, etc) Act 
+2004
+In Schedule 2, paragraphs 18(2)(c) and 19.
+Sections 1 to 6.
+Section 11(6).
+Section 47(6) to (8).
+Section 57(2).
+Immigration, 
+Asylum 
+and 
+Nationality Act 2006
+In Schedule 1, paragraphs 2 to 6, 10, 11, 13, 14(a) 
+and (c).
+Section 19.
+UK Borders Act 2007
+Section 35(3).
+Borders, 
+Citizenship 
+and 
+Immigration Act 2009
+Section 51(3).
+Section 51(1).
+Crime and Courts Act 2013
+Sections 52 and 53.
+Commencement Information
+I263 Sch. 9 para. 60 in force at 20.10.2014 by S.I. 2014/2771, art. 2(e) (with arts. 9-11) (as amended (2.3.2015 
+and 6.4.2015) by S.I. 2015/371, arts. 1(2)(3), 7, 8; and with transitional provisions and savings in S.I. 
+2014/2928, art. 2 (which S.I. is revoked (6.4.2015) by S.I. 2015/371, arts. 1(3), 9))
+
+
+## Page 172
+
+172
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 5
+PROVISION RELATING TO EMPLOYMENT
+Immigration, Asylum and Nationality Act 2006 (c. 13)
+61
+In section 15 of the Immigration, Asylum and Nationality Act 2006 (penalty), in 
+subsection (6)(e), after “penalty” insert “ or make an appeal against it ”.
+Commencement Information
+I264 Sch. 9 para. 61 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+PART 6
+PROVISION RELATING TO DRIVING LICENCES
+Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
+62
+In Article 5 of the Road Traffic (Northern Ireland) Order 1981 (tests of competence 
+to drive)—
+(a)
+in paragraph (1), omit “meets the relevant residence requirement and”;
+(b)
+omit paragraph (1A);
+(c)
+in paragraph (4)(aa) for “normally resident in Northern Ireland or the 
+United Kingdom” insert “ normally and lawfully resident in Northern 
+Ireland or the United Kingdom (within the meaning of Article 13A) ”.
+Commencement Information
+I265 Sch. 9 para. 62 in force at 14.7.2014 by S.I. 2014/1820, art. 2(g)
+Road Traffic Act 1988 (c. 52)
+63
+In section 89 of the Road Traffic Act 1988 (tests of competence to drive)—
+(a)
+in subsection (1), omit “meets the relevant residence requirement and”;
+(b)
+omit subsection (1A);
+(c)
+in subsection (4)(aa) for “normally resident in Great Britain or the United 
+Kingdom” substituted “ normally and lawfully resident in Great Britain or 
+the United Kingdom (within the meaning of section 97A) ”.
+Commencement Information
+I266 Sch. 9 para. 63 in force at 14.7.2014 by S.I. 2014/1820, art. 2(g)
+Road Safety Act 2006 (c. 49)
+64
+In Schedule 3 to the Road Safety Act 2006 (endorsement: all drivers), in paragraph
+9—
+
+
+## Page 173
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+173
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(a)
+after sub-paragraph (3) insert—
+“(3A) In subsection (3ZA), omit “and its counterpart”.”;
+(b)
+in sub-paragraph (6A)(b), at the end insert “ in both places ”.
+Commencement Information
+I267 Sch. 9 para. 64 in force at 14.7.2014 by S.I. 2014/1820, art. 2(g)
+Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))
+65
+In Schedule 5 to the Road Traffic (Northern Ireland) Order 2007 (endorsement: 
+all drivers: consequential amendments), in paragraph 6, after sub-paragraph (a)
+insert—
+“(aa)
+in paragraph (5ZA), omit “and its counterpart”.”
+Commencement Information
+I268 Sch. 9 para. 65 in force at 14.7.2014 by S.I. 2014/1820, art. 2(g)
+PART 7
+PROVISION RELATING TO MARRIAGE AND CIVIL PARTNERSHIP
+Transitional provision
+66
+The provisions of sections 48 to 51, and the amendments made by Schedule 4, apply 
+only to proposed marriages and civil partnerships in respect of which notice under 
+section 27 of the Marriage Act 1949 or under section 8 of the Civil Partnership Act 
+2004 is given after the day on which the provisions and amendments come into 
+force.
+Commencement Information
+I269 Sch. 9 para. 66 in force at 1.3.2015 by S.I. 2015/371, art. 2(1)(l)
+PART 8
+PROVISION RELATING TO IMMIGRATION ADVISERS AND IMMIGRATION SERVICE PROVIDERS
+Transitional provision
+67
+(1) On the day on which paragraph 2 of Schedule 7 comes into force the Immigration 
+Services Commissioner must register in the register maintained under section 85(1) 
+of the Immigration and Asylum Act 1999 each person who, immediately before that 
+day, was an exempt person (within the meaning given by section 84(4)(a) of that Act).
+
+
+## Page 174
+
+174
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(2) The registration of a person by reason of sub-paragraph (1) may be made so as to 
+have effect only in relation to a specified field of advice or services.
+Commencement Information
+I270 Sch. 9 para. 67 in force at 17.11.2014 by S.I. 2014/2771, art. 5(d)
+68
+(1) In the provisions listed in sub-paragraph (2)—
+(a)
+references to a person who, at the time to which a charge or (as the case 
+may be) a complaint relates, was a registered person do not include a person 
+who ceased to be a registered person before the day on which paragraph 7 
+of Schedule 7 comes into force;
+(b)
+references to a person who, at the time to which a charge or (as the case may 
+be) a complaint relates, was acting on behalf of a registered person do not
+include—
+(i) a person who ceased to act on behalf of a registered person before 
+that day;
+(ii) a person who was acting on behalf of a person who ceased to be a 
+registered person before that day.
+(2) The provisions are—
+(a)
+section 89(2) to (2B) of the Immigration and Asylum Act 1999;
+(b)
+paragraph 5(3)(za), (aa) and (d) of Schedule 5 to that Act;
+(c)
+paragraph 9(1)(a), (1A) and (4)(a) of Schedule 5 to that Act.
+Commencement Information
+I271 Sch. 9 para. 68 in force at 17.11.2014 by S.I. 2014/2771, art. 5(d)
+69
+(1) The provisions listed in paragraph 68(2) (apart from paragraph 5(3)(d) of Schedule 5 
+to the Immigration and Asylum Act 1999) apply in relation to a person who—
+(a)
+was an exempt person immediately before the day on which paragraph 2 of 
+Schedule 7 comes into force, and
+(b)
+became a registered person on that day by virtue of paragraph 67(1),
+as if, while the person was an exempt person, the person had been a registered person.
+(2) In paragraph 10A(2)(a) of Schedule 5 to the Immigration and Asylum Act 1999, 
+the reference to premises which have been used in connection with the provision of 
+immigration advice or immigration services by a registered person includes premises 
+which have been so used by an exempt person.
+(3) In this paragraph “exempt person” has the meaning given by section 84(4)(a) of the 
+Immigration and Asylum Act 1999.
+Commencement Information
+I272 Sch. 9 para. 69 in force at 17.11.2014 by S.I. 2014/2771, art. 5(d)
+
+
+## Page 175
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+175
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+PART 9
+PROVISION RELATING TO PERSONS UNABLE TO ACQUIRE
+NATIONALITY BECAUSE NATURAL FATHER NOT MARRIED TO MOTHER
+British Nationality Act 1981
+70
+(1) The British Nationality Act 1981 is amended as follows.
+(2) In section 14 (meaning of “British citizen “by descent””), in subsection (1), after 
+paragraph (d) insert—
+“(da)
+the person is a British citizen by descent by virtue of section 4F(3), 
+4G(2), 4H(2) or 4I(4); or”.
+F81(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F81
+Sch. 9 para. 70(3) omitted (25.7.2019) by virtue of The British Nationality Act 1981 (Remedial) Order 
+2019 (S.I. 2019/1164), arts. 1(1), 3
+Commencement Information
+I273 Sch. 9 para. 70 in force at 6.4.2015 by S.I. 2015/874, art. 2(c)
+British Nationality (General) Regulations 2003
+71
+(1) In regulation 14 of the British Nationality (General) Regulations 2003—
+(a)
+after “4D(3)” insert “ or 4G(3) ”;
+(b)
+after “section 4D” insert “ or 4G ”.
+(2) The provision inserted into regulation 14 by this paragraph may be amended or 
+revoked by the exercise of the powers conferred by section 41 of the British 
+Nationality Act 1981 as if that provision had been inserted by those powers.
+Commencement Information
+I274 Sch. 9 para. 71 in force at 6.4.2015 by S.I. 2015/874, art. 2(c)
+PART 10
+PROVISION RELATING TO EMBARKATION CHECKS
+Transitional provision
+72
+(1) Any order or direction under paragraph 5 of Schedule 2 to the Immigration Act 1971 
+that has effect immediately before commencement has, after commencement, the 
+same effect in relation to the production of embarkation cards to designated persons 
+as it has in relation to the production of such cards to immigration officers.
+(2) This paragraph is subject to the exercise, after commencement, of the powers under 
+paragraph 5 of Schedule 2 to the Immigration Act 1971.
+
+
+## Page 176
+
+176
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+(3) In this paragraph “commencement” means the day when the amendments made by 
+Part 1 of Schedule 8 come into force.
+Commencement Information
+I275 Sch. 9 para. 72 in force at 28.7.2014 by S.I. 2014/1820, art. 3(cc)
+PART 11
+PROVISION RELATING TO FEES
+Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+73
+(1) Section 42 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 
+(amount of fees) is amended as follows.
+(2) Omit subsections (1) to (2A).
+(3) For subsection (3A) substitute—
+“(3A) The amount of a fee under section 1 of the Consular Fees Act 1980 in respect 
+of a matter specified in subsection (3B) may be set so as to reflect costs 
+referable to the exercise of any function in respect of which the Secretary of 
+State has made an order under section 68 of the Immigration Act 2014.
+(3B) The matters are—
+(a)
+the determination of applications for entry clearances (within the 
+meaning given by section 33(1) of the Immigration Act 1971),
+(b)
+the determination of applications for transit visas under section 41 
+of the Immigration and Asylum Act 1999, or
+(c)
+the determination of applications for certificates of entitlement to 
+the right of abode in the United Kingdom under section 10 of the 
+Nationality, Immigration and Asylum Act 2002.”
+(4) In subsection (4) omit “(1)(b) or”.
+(5) In subsection (7) omit from “(and any provision” to the end.
+Commencement Information
+I276 Sch. 9 para. 73 in force at 15.12.2014 by S.I. 2014/2771, art. 8(d) (with art. 13) (as amended (6.4.2015) 
+by S.I. 2015/371, arts. 1(3), 8(5))
+Immigration, Asylum and Nationality Act 2006 (c. 13)
+74
+Sections 51 and 52 of the Immigration, Asylum and Nationality Act 2006 (fees) 
+are repealed.
+
+
+## Page 177
+
+Immigration Act 2014 (c. 22)
+SCHEDULE 9 – Transitional and consequential provision
+Document Generated: 2026-02-14
+177
+Status: This version of this Act contains provisions that are prospective.
+Changes to legislation: Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that have been made 
+appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
+Commencement Information
+I277 Sch. 9 para. 74 in force at 15.12.2014 by S.I. 2014/2771, art. 8(d) (with art. 13) (as amended (6.4.2015) 
+by S.I. 2015/371, arts. 1(3), 8(5))
+UK Borders Act 2007 (c. 30)
+75
+For section 15(2)(b) of the UK Borders Act 2007 (application of certain provisions 
+to applications for biometric immigration documents) substitute—
+“(b)
+section 68 of the Immigration Act 2014 (fees);”.
+Commencement Information
+I278 Sch. 9 para. 75 in force at 15.12.2014 by S.I. 2014/2771, art. 8(d) (with art. 13) (as amended (6.4.2015) 
+by S.I. 2015/371, arts. 1(3), 8(5))
+Consequential repeals
+76
+The following provisions are repealed in consequence of the amendments made by 
+this Part of this Schedule—
+(a)
+paragraph 6 of Schedule 2 to the Immigration, Asylum and Nationality Act 
+2006;
+(b)
+section 20 of the UK Borders Act 2007.
+Commencement Information
+I279 Sch. 9 para. 76 in force at 15.12.2014 by S.I. 2014/2771, art. 8(d) (with art. 13) (as amended (6.4.2015) 
+by S.I. 2015/371, arts. 1(3), 8(5))
+
+
+## Page 178
+
+178
+Immigration Act 2014 (c. 22)
+Document Generated: 2026-02-14
+Status: 
+This version of this Act contains provisions that are prospective.
+Changes to legislation: 
+Immigration Act 2014 is up to date with all changes known to be in force on or before 14 
+February 2026. There are changes that may be brought into force at a future date. Changes that 
+have been made appear in the content and are referenced with annotations.
+View outstanding changes
+Changes and effects yet to be applied to :
+–
+Sch. 3 para. 8A inserted by 2016 c. 19 Sch. 12 para. 16
+–
+Sch. 3 para. 8(a) omitted by 2016 c. 19 Sch. 11 para. 2(m)
+–
+Sch. 3 para. 8(b) words inserted by 2016 c. 19 Sch. 11 para. 30(a)
+–
+Sch. 3 para. 8(c) words inserted by 2016 c. 19 Sch. 11 para. 30(b)
+–
+Sch. 3 para. 3(2)(a) words inserted by S.I. 2018/195 reg. 46(a)(ii) (This amendment 
+comes into force on the day on which the Immigration Act 2014 (c. 22), Sch. 3 para. 
+3 comes into force in relation to premises located in Wales)
+–
+Sch. 3 para. 13(2)(a) words omitted by 2024 c. 22 Sch. 9 para. 15
+–
+Sch. 3 para. 3(2)(a) words omitted by S.I. 2018/195 reg. 46(a)(i) (This amendment 
+comes into force on the day on which the Immigration Act 2014 (c. 22), Sch. 3 para. 
+3 comes into force in relation to premises located in Wales)
+–
+specified provision(s) amendment to earlier commencing S.I. 2014/2771 by S.I. 
+2015/371 art. 78
+Changes and effects yet to be applied to the whole Act associated Parts and Chapters:
+Whole provisions yet to be inserted into this Act (including any effects on those 
+provisions):
+–
+Sch. 3 para. 8A inserted by 2016 c. 19 Sch. 12 para. 16

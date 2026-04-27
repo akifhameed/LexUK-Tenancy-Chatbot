@@ -13,7 +13,7 @@ short_description: RAG + agentic chatbot over 12 UK tenancy statutes
 
 # LexUK — UK Tenancy Law Chatbot
 
-A retrieval-augmented chatbot that answers questions about UK residential tenancy law, grounded in 12 UK statutes. Built as the CSI_7_NLP Coursework 2 submission at London South Bank University.
+A retrieval-augmented chatbot that answers questions about UK residential tenancy law, grounded in 12 UK statutes.
 
 ## What it does
 
@@ -157,12 +157,6 @@ scripts/
 ```
 
 ## Acknowledgements
-
-Built on the architecture taught in **Ed Donner's "LLM Engineering" course** (Udemy):
-
-- Week 5 Day 5 — Advanced RAG without LangChain (LLM-driven chunking, query rewriting, LLM reranking).
-- Week 5 Day 4 — RAG evaluation with MRR / NDCG / LLM-as-judge.
-- Week 8 Day 4 — Agentic tool-use loops with OpenAI function calling.
 
 UK statute text from <https://www.legislation.gov.uk> under the Open Government Licence v3.0.
 

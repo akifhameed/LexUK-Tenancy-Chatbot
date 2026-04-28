@@ -47,7 +47,6 @@ from eval.visualizations import (
     summary_dataframe,
 )
 from src.agents.planner import AgentTrace, PlannerAgent
-from src.ingest.corpus_loader import STATUTE_METADATA
 from src.logging_setup import configure_logging
 from src.rag.pipeline import RagResponse, answer_question
 from src.rag.vector_store import RetrievalResult
@@ -177,46 +176,6 @@ def clear_all() -> tuple[list, str]:
 # EVALUATION TAB - login, question source, run, dashboards
 # ---------------------------------------------------------------------------
 
-# Categories the manual-entry dropdown offers. Match the gold-CSV values.
-_CATEGORY_CHOICES: list[str] = [
-    "direct_fact", "numerical", "spanning", "comparative",
-    "temporal", "procedural", "refusal", "clarification",
-]
-_DIFFICULTY_CHOICES: list[str] = ["easy", "medium", "hard"]
-_KNOWN_ACT_FILES: list[str] = sorted(STATUTE_METADATA.keys())
-
-# Manual-entry table column schema.
-_MANUAL_COLUMNS: list[str] = [
-    "question_id",
-    "question",
-    "reference_answer",
-    "keywords",
-    "expected_citations",
-    "expected_acts",
-    "category",
-    "difficulty",
-    "out_of_scope",
-]
-
-
-def _empty_manual_table() -> pd.DataFrame:
-    """Start the manual-entry Dataframe with one example row pre-filled."""
-    return pd.DataFrame([{
-        "question_id": "MQ001",
-        "question": "What is the maximum holding deposit a landlord may take?",
-        "reference_answer": (
-            "Under Schedule 1, paragraph 3 of the Tenant Fees Act 2019, the "
-            "maximum holding deposit is one week's rent."
-        ),
-        "keywords": "holding deposit; one week; Tenant Fees Act 2019",
-        "expected_citations": "Tenant Fees Act 2019, Sch.1 para.3",
-        "expected_acts": "tenant_fees_act_2019",
-        "category": "numerical",
-        "difficulty": "easy",
-        "out_of_scope": False,
-    }], columns=_MANUAL_COLUMNS)
-
-
 def _load_built_in_count() -> int:
     """Count of questions in the bundled gold dataset."""
     try:
@@ -266,7 +225,6 @@ def _parse_uploaded_csv(filepath: str | None) -> list[TestQuestion]:
 def _gather_questions(
     source: str,
     uploaded_file: str | None,
-    manual_df: pd.DataFrame,
 ) -> tuple[list[TestQuestion], str]:
     """
     Build the in-memory question list from the chosen source.
@@ -284,19 +242,7 @@ def _gather_questions(
             qs = _parse_uploaded_csv(uploaded_file)
             return qs, f"Parsed {len(qs)} questions from upload."
 
-        # Manual entry
-        if manual_df is None or manual_df.empty:
-            return [], "Manual table is empty - add at least one row."
-        qs: list[TestQuestion] = []
-        for index, row in manual_df.iterrows():
-            row_dict = row.to_dict()
-            # Skip blank rows (no question text)
-            if not str(row_dict.get("question", "")).strip():
-                continue
-            qs.append(manual_row_to_test_question(index, row_dict))
-        if not qs:
-            return [], "No filled rows found in the manual table."
-        return qs, f"Parsed {len(qs)} manual questions."
+        return [], f"Unknown question source: {source!r}"
 
     except Exception as exc:
         log.exception("question parsing failed")
@@ -316,7 +262,6 @@ def _run_evaluation(
     is_evaluator: bool,
     source: str,
     uploaded_file: str | None,
-    manual_df: pd.DataFrame,
     modes_choice: str,
     progress: gr.Progress = gr.Progress(),
 ) -> tuple[str, Any, Any, Any, Any, Any, Any, Any]:
@@ -330,7 +275,7 @@ def _run_evaluation(
         return ("Not authorised.",) + (gr.update(),) * 7
 
     # Step 1: gather questions
-    questions, status = _gather_questions(source, uploaded_file, manual_df)
+    questions, status = _gather_questions(source, uploaded_file)
     if not questions:
         return (status,) + (gr.update(),) * 7
 
@@ -412,45 +357,18 @@ def _run_evaluation(
 # ---------------------------------------------------------------------------
 
 _INTRO_MD = """
-# LexUK - UK Tenancy Law Assistant
+# LexUK
 
-Ask questions about residential tenancies grounded in 12 UK statutes
-(Housing Act 1988, Housing Act 2004, Tenant Fees Act 2019, Renters' Rights
-Act 2025, and others). Citations link to the relevant section on
-[legislation.gov.uk](https://www.legislation.gov.uk/).
-
-This is information about UK statutes, not legal advice.
+UK tenancy-law assistant grounded in 12 statutes. Citations link to
+[legislation.gov.uk](https://www.legislation.gov.uk/). Information only,
+not legal advice.
 """
 
 _EVAL_INTRO_MD = """
-## Live Evaluation Dashboard
+## Evaluation
 
-Run the supervised evaluation suite against any question set you choose,
-in either Plain RAG, Agentic RAG, or both (for comparison). Six charts
-plus a summary table render automatically when the run finishes.
-"""
-
-_MANUAL_INPUTS_HELP_MD = """
-### How to fill the manual table
-
-Each row is one evaluation question. **The question and reference_answer
-columns are required**; everything else has sensible defaults but improves
-the metrics. Lists use `; ` as the separator inside a cell.
-
-| Column | Required? | What to enter | Example |
-|---|---|---|---|
-| `question_id` | Optional | Stable identifier; auto-generated if blank | `MQ002` |
-| `question` | **Yes** | The user-style question | *"What is the maximum holding deposit a landlord may take?"* |
-| `reference_answer` | **Yes** | The gold-standard answer the LLM judge compares against | *"Under Schedule 1, paragraph 3 of the Tenant Fees Act 2019, the maximum holding deposit is one week's rent."* |
-| `keywords` | Recommended | Semicolon-separated keywords that should appear in retrieved chunks (used for MRR / NDCG / coverage). Leave blank for refusal questions. | `holding deposit; one week; Tenant Fees Act 2019` |
-| `expected_citations` | Recommended | Semicolon-separated citations the system should produce, in `Act, s.X` format | `Tenant Fees Act 2019, Sch.1 para.3` |
-| `expected_acts` | Recommended | Semicolon-separated source-file names (no `.md`). Used for expected-acts-recall. | `tenant_fees_act_2019` |
-| `category` | Optional | One of `direct_fact`, `numerical`, `spanning`, `comparative`, `temporal`, `procedural`, `refusal`, `clarification` | `numerical` |
-| `difficulty` | Optional | One of `easy`, `medium`, `hard` | `easy` |
-| `out_of_scope` | **Yes for refusal Qs** | Tick (TRUE) only if the system *should* refuse this question | `False` |
-
-**Valid `expected_acts` values** (the 12 corpus files):
-`""" + "`, `".join(_KNOWN_ACT_FILES) + """`
+Run the supervised metrics suite against any question set, in Plain or
+Agentic mode (or both for comparison). Charts render when the run finishes.
 """
 
 
@@ -492,13 +410,11 @@ def build_demo() -> gr.Blocks:
                             interactive=True,
                         )
                         chatbot = gr.Chatbot(height=520, type="messages")
-                        with gr.Row():
-                            msg = gr.Textbox(
-                                label="",
-                                placeholder="e.g. What is a section 21 notice?",
-                                scale=4, lines=2,
-                            )
-                            send_btn = gr.Button("Send", variant="primary", scale=1)
+                        msg = gr.Textbox(
+                            label="",
+                            placeholder="Ask a question and press Enter — e.g. What is a section 21 notice?",
+                            lines=2,
+                        )
                         clear_btn = gr.Button("Clear conversation")
 
                     with gr.Column(scale=1):
@@ -509,8 +425,6 @@ def build_demo() -> gr.Blocks:
 
                 msg.submit(respond, [msg, chatbot, mode_radio],
                            [msg, chatbot, trace_panel])
-                send_btn.click(respond, [msg, chatbot, mode_radio],
-                               [msg, chatbot, trace_panel])
                 clear_btn.click(clear_all, None, [chatbot, trace_panel])
 
             # ============= EVALUATION TAB (hidden until login) ===============
@@ -521,7 +435,7 @@ def build_demo() -> gr.Blocks:
                 with gr.Group():
                     gr.Markdown("### Step 1 - Pick the questions")
                     source_radio = gr.Radio(
-                        choices=["Built-in gold set", "Upload CSV", "Manual entry"],
+                        choices=["Built-in gold set", "Upload CSV"],
                         value="Built-in gold set",
                         label="Question source",
                         interactive=True,
@@ -538,33 +452,17 @@ def build_demo() -> gr.Blocks:
                         file_types=[".csv"], visible=False,
                     )
 
-                    with gr.Group(visible=False) as manual_group:
-                        gr.Markdown(_MANUAL_INPUTS_HELP_MD)
-                        manual_table = gr.Dataframe(
-                            value=_empty_manual_table(),
-                            headers=_MANUAL_COLUMNS,
-                            datatype=[
-                                "str", "str", "str", "str", "str",
-                                "str", "str", "str", "bool",
-                            ],
-                            row_count=(1, "dynamic"),
-                            col_count=(len(_MANUAL_COLUMNS), "fixed"),
-                            interactive=True,
-                            label="Manual question table (rows can be added / edited)",
-                        )
-
                 # Toggle which input UI is visible based on the radio
                 def _switch_source(choice: str):
                     return (
                         gr.update(visible=choice == "Built-in gold set"),
                         gr.update(visible=choice == "Upload CSV"),
-                        gr.update(visible=choice == "Manual entry"),
                     )
 
                 source_radio.change(
                     _switch_source,
                     [source_radio],
-                    [builtin_info, upload_file, manual_group],
+                    [builtin_info, upload_file],
                 )
 
                 # --- Step 2: mode selection ---
@@ -580,7 +478,7 @@ def build_demo() -> gr.Blocks:
                 # --- Step 3: run ---
                 with gr.Group():
                     gr.Markdown("### Step 3 - Run")
-                    run_btn = gr.Button("Run Evaluation", variant="primary", size="lg")
+                    run_btn = gr.Button("Run evaluation", variant="primary", size="lg")
                     eval_status = gr.Markdown("_(no run yet)_")
 
                 # --- Step 4: dashboards ---
@@ -595,6 +493,16 @@ def build_demo() -> gr.Blocks:
                     with gr.Tab("Metric comparison"):
                         metric_fig = gr.Plot(label="Retrieval / generation / judge")
                     with gr.Tab("Judge heatmap"):
+                        gr.Markdown(
+                            "**How to read it:** each row is one question, "
+                            "each column is one judge dimension "
+                            "(*Accuracy* = factually right, *Completeness* = "
+                            "covers the reference, *Relevance* = no padding). "
+                            "Cells run from **red = 1** (worst) to "
+                            "**green = 5** (best). Blank cells are refusal "
+                            "questions where the judge was skipped. Hover any "
+                            "cell for the question id and score."
+                        )
                         heatmap_fig = gr.Plot(label="Per-question judge scores")
                     with gr.Tab("Category breakdown"):
                         category_fig = gr.Plot(label="Mean accuracy by category")
@@ -611,7 +519,7 @@ def build_demo() -> gr.Blocks:
 
                 run_btn.click(
                     _run_evaluation,
-                    [is_evaluator, source_radio, upload_file, manual_table, modes_radio],
+                    [is_evaluator, source_radio, upload_file, modes_radio],
                     [eval_status, summary_table, metric_fig, heatmap_fig,
                      category_fig, latency_fig, citation_fig, raw_table],
                 )

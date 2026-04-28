@@ -1,9 +1,13 @@
 """
-Matplotlib visualisations for the live evaluation dashboard.
+Interactive Plotly visualisations for the live evaluation dashboard.
 
-Six chart functions, each takes an `EvalRunResult` and returns a
-matplotlib `Figure` ready to plug into Gradio's `gr.Plot`. The summary
-table is exposed as a pandas DataFrame for `gr.Dataframe`.
+Five chart functions, each takes an `EvalRunResult` and returns a Plotly
+`Figure` ready to plug into Gradio's `gr.Plot`. The summary table is
+exposed as a pandas DataFrame for `gr.Dataframe`.
+
+Plotly is used (instead of matplotlib PNGs) so the charts render as
+proper interactive HTML on the page - axes, ticks, hover tooltips and
+legends all stay legible and zoomable, with no rasterisation blur.
 
 All charts:
     * Use a consistent colour palette (plain = blue, agent = red).
@@ -14,7 +18,7 @@ All charts:
 Public surface:
 
     summary_dataframe(result) -> pandas.DataFrame
-    fig_metric_comparison(result) -> matplotlib.figure.Figure
+    fig_metric_comparison(result) -> plotly.graph_objects.Figure
     fig_judge_score_heatmap(result) -> Figure
     fig_category_breakdown(result) -> Figure
     fig_latency_histogram(result) -> Figure
@@ -24,18 +28,11 @@ Public surface:
 from __future__ import annotations
 
 from collections import defaultdict
-from typing import Any
 
-import matplotlib
-
-# Use a non-interactive backend so we never try to open a window from a
-# server context. Must be set before importing pyplot.
-matplotlib.use("Agg")
-
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from matplotlib.figure import Figure
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 from eval.live_eval import EvalRunResult
 
@@ -53,12 +50,14 @@ _MODE_LABELS: dict[str, str] = {
     "agent": "Agentic RAG",
 }
 
-
-def _new_figure(width: float = 9.0, height: float = 5.0) -> Figure:
-    """Create a clean Figure with sane defaults."""
-    fig, _ = plt.subplots(figsize=(width, height))
-    fig.patch.set_alpha(0)
-    return fig
+# Chart background + font defaults so plots look good on the Gradio page.
+_LAYOUT_BASE: dict = {
+    "paper_bgcolor": "rgba(0,0,0,0)",
+    "plot_bgcolor":  "rgba(0,0,0,0)",
+    "font":          {"size": 13},
+    "margin":        {"l": 60, "r": 30, "t": 60, "b": 60},
+    "legend":        {"orientation": "h", "y": -0.18, "x": 0},
+}
 
 
 def _label(mode: str) -> str:
@@ -69,10 +68,49 @@ def _colour(mode: str) -> str:
     return _MODE_COLOURS.get(mode, "#888888")
 
 
+def _empty_fig(message: str) -> go.Figure:
+    fig = go.Figure()
+    fig.add_annotation(
+        text=message, xref="paper", yref="paper",
+        x=0.5, y=0.5, showarrow=False,
+        font={"size": 14, "color": "#888"},
+    )
+    fig.update_layout(**_LAYOUT_BASE, height=300)
+    return fig
+
+
+# ---------------------------------------------------------------------------
+# Combined judge score helpers
+# ---------------------------------------------------------------------------
+#
+# We collapse the three judge dimensions (accuracy / completeness /
+# relevance) into a single "LLM as Judge" score - the unweighted mean of
+# the three. This keeps the dashboard focused: one headline score per
+# answer rather than three near-identical bars.
+
+def _row_judge_score(row: dict) -> float | None:
+    """Mean of the three judge dimensions, or None if the judge skipped."""
+    parts = [row.get("accuracy"), row.get("completeness"), row.get("relevance")]
+    parts = [float(v) for v in parts if v is not None]
+    if not parts:
+        return None
+    return sum(parts) / len(parts)
+
+
+def _mode_judge_mean(result: EvalRunResult, mode: str) -> float | None:
+    """Mean LLM-as-Judge score across all judged questions for one mode."""
+    rows = result.rows_by_mode.get(mode, [])
+    scores = [s for s in (_row_judge_score(r) for r in rows) if s is not None]
+    if not scores:
+        return None
+    return sum(scores) / len(scores)
+
+
 # ---------------------------------------------------------------------------
 # 1. Summary table - rendered as gr.Dataframe (not a chart)
 # ---------------------------------------------------------------------------
 
+# Standard rows pulled straight from result.summary_by_mode.
 _METRIC_DISPLAY: list[tuple[str, str, str]] = [
     # (key, display name, format spec)
     ("n_questions",         "N questions",          "{:.0f}"),
@@ -82,29 +120,48 @@ _METRIC_DISPLAY: list[tuple[str, str, str]] = [
     ("expected_acts_recall","Expected-acts recall", "{:.3f}"),
     ("citation_validity",   "Citation validity",    "{:.3f}"),
     ("refusal_accuracy",    "Refusal accuracy",     "{:.3f}"),
-    ("judge_accuracy",      "Judge accuracy (1-5)", "{:.2f}"),
-    ("judge_completeness",  "Judge completeness",   "{:.2f}"),
-    ("judge_relevance",     "Judge relevance",      "{:.2f}"),
     ("latency_ms_avg",      "Latency p50 (ms)",     "{:.0f}"),
 ]
 
 
 def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
-    """Build the headline metrics table as a pandas DataFrame."""
+    """
+    Build the headline metrics table as a pandas DataFrame.
+
+    The three judge dimensions (accuracy / completeness / relevance) are
+    collapsed into a single 'LLM as Judge (1-5)' row.
+    """
     rows: list[dict[str, str]] = []
     for key, name, fmt in _METRIC_DISPLAY:
         row: dict[str, str] = {"Metric": name}
         for mode in result.modes:
             value = result.summary_by_mode.get(mode, {}).get(key)
             row[_label(mode)] = fmt.format(value) if value is not None else "-"
-        # Delta column when both modes ran
         if "plain" in result.modes and "agent" in result.modes:
             p = result.summary_by_mode.get("plain", {}).get(key)
             a = result.summary_by_mode.get("agent", {}).get(key)
             if isinstance(p, (int, float)) and isinstance(a, (int, float)):
                 delta = a - p
-                row["Δ (Agent - Plain)"] = f"{delta:+.3f}" if abs(delta) >= 0.01 else "≈ 0"
+                row["Δ (Agent - Plain)"] = (
+                    f"{delta:+.3f}" if abs(delta) >= 0.01 else "≈ 0"
+                )
         rows.append(row)
+
+    # Combined LLM-as-Judge row (unweighted mean of the three dimensions).
+    judge_row: dict[str, str] = {"Metric": "LLM as Judge (1-5)"}
+    for mode in result.modes:
+        v = _mode_judge_mean(result, mode)
+        judge_row[_label(mode)] = f"{v:.2f}" if v is not None else "-"
+    if "plain" in result.modes and "agent" in result.modes:
+        p = _mode_judge_mean(result, "plain")
+        a = _mode_judge_mean(result, "agent")
+        if p is not None and a is not None:
+            delta = a - p
+            judge_row["Δ (Agent - Plain)"] = (
+                f"{delta:+.2f}" if abs(delta) >= 0.01 else "≈ 0"
+            )
+    rows.append(judge_row)
+
     return pd.DataFrame(rows)
 
 
@@ -112,8 +169,7 @@ def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
 # 2. Bar chart - metric-by-metric comparison across modes
 # ---------------------------------------------------------------------------
 
-# Subset of metrics that share the [0, 1] scale or [1, 5] scale so they
-# look good on the same axes. Latency and N-questions go on their own.
+# Retrieval+generation metrics on the 0-1 scale.
 _BAR_METRICS_NORMALISED: list[tuple[str, str]] = [
     ("mrr",                 "MRR"),
     ("ndcg",                "NDCG"),
@@ -122,72 +178,65 @@ _BAR_METRICS_NORMALISED: list[tuple[str, str]] = [
     ("citation_validity",   "Citation valid"),
     ("refusal_accuracy",    "Refusal acc."),
 ]
-_BAR_METRICS_JUDGE: list[tuple[str, str]] = [
-    ("judge_accuracy",      "Accuracy"),
-    ("judge_completeness",  "Completeness"),
-    ("judge_relevance",     "Relevance"),
-]
 
 
-def fig_metric_comparison(result: EvalRunResult) -> Figure:
+def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
     """
     Two side-by-side bar groups:
       (left)  six retrieval+generation metrics on the [0,1] scale
-      (right) three LLM-as-judge metrics on the [1,5] scale
+      (right) the combined 'LLM as Judge' score on the [1,5] scale
     Each metric shows one bar per mode evaluated.
     """
-    fig, (ax_left, ax_right) = plt.subplots(1, 2, figsize=(11, 5))
-    fig.patch.set_alpha(0)
+    fig = make_subplots(
+        rows=1, cols=2,
+        column_widths=[0.7, 0.3],
+        subplot_titles=("Retrieval + generation metrics", "LLM as Judge"),
+        horizontal_spacing=0.12,
+    )
 
-    modes = result.modes
-    n_modes = len(modes)
-
-    # --- Left panel: [0, 1] metrics ---
+    # --- Left panel: 0-1 metrics ---
     labels = [name for _, name in _BAR_METRICS_NORMALISED]
-    x = np.arange(len(labels))
-    bar_width = 0.8 / max(n_modes, 1)
-
-    for i, mode in enumerate(modes):
+    for mode in result.modes:
         values = [
             result.summary_by_mode.get(mode, {}).get(key, 0.0)
             for key, _ in _BAR_METRICS_NORMALISED
         ]
-        ax_left.bar(
-            x + i * bar_width - (n_modes - 1) * bar_width / 2,
-            values, bar_width, label=_label(mode), color=_colour(mode),
+        fig.add_trace(
+            go.Bar(
+                x=labels, y=values,
+                name=_label(mode), marker_color=_colour(mode),
+                hovertemplate="%{x}: %{y:.3f}<extra>" + _label(mode) + "</extra>",
+                legendgroup=mode,
+            ),
+            row=1, col=1,
         )
 
-    ax_left.set_ylim(0, 1.05)
-    ax_left.set_xticks(x)
-    ax_left.set_xticklabels(labels, rotation=30, ha="right")
-    ax_left.set_ylabel("Score (0-1)")
-    ax_left.set_title("Retrieval + generation metrics")
-    ax_left.legend()
-    ax_left.grid(axis="y", linestyle=":", alpha=0.5)
-
-    # --- Right panel: [1, 5] judge metrics ---
-    j_labels = [name for _, name in _BAR_METRICS_JUDGE]
-    jx = np.arange(len(j_labels))
-
-    for i, mode in enumerate(modes):
-        values = [
-            result.summary_by_mode.get(mode, {}).get(key, 0.0)
-            for key, _ in _BAR_METRICS_JUDGE
-        ]
-        ax_right.bar(
-            jx + i * bar_width - (n_modes - 1) * bar_width / 2,
-            values, bar_width, label=_label(mode), color=_colour(mode),
+    # --- Right panel: combined judge score ---
+    for mode in result.modes:
+        v = _mode_judge_mean(result, mode)
+        fig.add_trace(
+            go.Bar(
+                x=["LLM as Judge"],
+                y=[v if v is not None else 0.0],
+                name=_label(mode), marker_color=_colour(mode),
+                hovertemplate="%{x}: %{y:.2f}<extra>" + _label(mode) + "</extra>",
+                legendgroup=mode, showlegend=False,
+            ),
+            row=1, col=2,
         )
 
-    ax_right.set_ylim(0, 5.2)
-    ax_right.set_xticks(jx)
-    ax_right.set_xticklabels(j_labels, rotation=0, ha="center")
-    ax_right.set_ylabel("Score (1-5)")
-    ax_right.set_title("LLM-as-judge")
-    ax_right.legend()
-    ax_right.grid(axis="y", linestyle=":", alpha=0.5)
+    fig.update_yaxes(title_text="Score (0-1)", range=[0, 1.05],
+                     gridcolor="rgba(128,128,128,0.25)", row=1, col=1)
+    fig.update_yaxes(title_text="Score (1-5)", range=[0, 5.2],
+                     gridcolor="rgba(128,128,128,0.25)", row=1, col=2)
+    fig.update_xaxes(tickangle=-25, row=1, col=1)
 
-    fig.tight_layout()
+    fig.update_layout(
+        **_LAYOUT_BASE,
+        barmode="group",
+        height=480,
+        title_text="Metric comparison across modes",
+    )
     return fig
 
 
@@ -195,31 +244,39 @@ def fig_metric_comparison(result: EvalRunResult) -> Figure:
 # 3. Judge-score heatmap (per-question, per-dimension)
 # ---------------------------------------------------------------------------
 
-def fig_judge_score_heatmap(result: EvalRunResult) -> Figure:
+def fig_judge_score_heatmap(result: EvalRunResult) -> go.Figure:
     """
     For each evaluated mode, render a heatmap with rows = questions and
-    columns = (accuracy, completeness, relevance). NaN cells (refusal
-    rows where the judge was skipped) shown in grey.
+    columns = (accuracy, completeness, relevance). Refusal rows (where
+    the judge was skipped) appear as blank cells.
+
+    Colour scale: red = 1 (worst) -> green = 5 (best). Hover any cell to
+    see the question id, dimension and score.
     """
     n_modes = len(result.modes)
     if n_modes == 0:
-        return _new_figure()
-
-    fig, axes = plt.subplots(
-        1, n_modes,
-        figsize=(6.5 * n_modes, max(4.0, 0.35 * len(result.questions) + 1.5)),
-        squeeze=False,
-    )
-    fig.patch.set_alpha(0)
+        return _empty_fig("No data")
 
     cols = ["accuracy", "completeness", "relevance"]
-    cmap = plt.get_cmap("RdYlGn")
-    cmap.set_bad(color="#dddddd")
+    cols_display = [c.capitalize() for c in cols]
 
-    for ax_idx, mode in enumerate(result.modes):
-        ax = axes[0][ax_idx]
+    fig = make_subplots(
+        rows=1, cols=n_modes,
+        subplot_titles=[f"{_label(m)}" for m in result.modes],
+        horizontal_spacing=0.18,
+    )
+
+    # RdYlGn-style colour scale, 1 (red) to 5 (green).
+    colorscale = [
+        [0.00, "#d73027"],
+        [0.25, "#fdae61"],
+        [0.50, "#ffffbf"],
+        [0.75, "#a6d96a"],
+        [1.00, "#1a9850"],
+    ]
+
+    for ax_idx, mode in enumerate(result.modes, start=1):
         rows = result.rows_by_mode.get(mode, [])
-        # Build a (n_questions, 3) matrix; NaN where judge skipped.
         matrix = np.full((len(rows), len(cols)), np.nan)
         ylabels: list[str] = []
         for i, row in enumerate(rows):
@@ -229,77 +286,92 @@ def fig_judge_score_heatmap(result: EvalRunResult) -> Figure:
                 if v is not None:
                     matrix[i, j] = float(v)
 
-        im = ax.imshow(
-            np.ma.masked_invalid(matrix),
-            aspect="auto", cmap=cmap, vmin=1, vmax=5,
+        text = [
+            [f"{int(v)}" if not np.isnan(v) else "" for v in row_vals]
+            for row_vals in matrix
+        ]
+
+        fig.add_trace(
+            go.Heatmap(
+                z=matrix,
+                x=cols_display,
+                y=ylabels,
+                zmin=1, zmax=5,
+                colorscale=colorscale,
+                text=text,
+                texttemplate="%{text}",
+                hovertemplate=(
+                    "<b>%{y}</b><br>%{x}: %{z:.0f} / 5"
+                    "<extra>" + _label(mode) + "</extra>"
+                ),
+                colorbar={
+                    "title": "Score",
+                    "tickvals": [1, 2, 3, 4, 5],
+                    "len": 0.85,
+                    "x": (ax_idx / n_modes) - 0.02,
+                } if ax_idx == n_modes else None,
+                showscale=(ax_idx == n_modes),
+            ),
+            row=1, col=ax_idx,
         )
-        ax.set_xticks(np.arange(len(cols)))
-        ax.set_xticklabels([c.capitalize() for c in cols])
-        ax.set_yticks(np.arange(len(ylabels)))
-        ax.set_yticklabels(ylabels, fontsize=8)
-        ax.set_title(f"{_label(mode)} - per-question judge scores")
 
-        # Cell annotations
-        for i in range(matrix.shape[0]):
-            for j in range(matrix.shape[1]):
-                v = matrix[i, j]
-                if not np.isnan(v):
-                    ax.text(j, i, f"{int(v)}", ha="center", va="center",
-                            color="black", fontsize=8)
+    # Height grows with question count so labels stay legible.
+    height = max(420, 26 * max((len(result.rows_by_mode.get(m, []))
+                                for m in result.modes), default=10) + 120)
 
-        fig.colorbar(im, ax=ax, fraction=0.04, pad=0.02)
-
-    fig.tight_layout()
+    fig.update_layout(
+        **_LAYOUT_BASE,
+        height=height,
+        title_text="Per-question judge scores (1 = worst, 5 = best)",
+    )
+    fig.update_yaxes(autorange="reversed")
     return fig
 
 
 # ---------------------------------------------------------------------------
-# 4. Category breakdown - mean judge accuracy per category, per mode
+# 4. Category breakdown - mean LLM-as-Judge score per category, per mode
 # ---------------------------------------------------------------------------
 
-def fig_category_breakdown(result: EvalRunResult) -> Figure:
-    """Grouped bar chart: mean judge accuracy by question category, per mode."""
-    fig = _new_figure(width=10, height=5)
-    ax = fig.axes[0]
-
-    # Collect per-category accuracy means
+def fig_category_breakdown(result: EvalRunResult) -> go.Figure:
+    """Grouped bar chart: mean LLM-as-Judge score by category, per mode."""
     means_by_mode: dict[str, dict[str, float]] = {}
     all_categories: set[str] = set()
     for mode in result.modes:
-        cat_accs: dict[str, list[float]] = defaultdict(list)
+        cat_scores: dict[str, list[float]] = defaultdict(list)
         for row in result.rows_by_mode.get(mode, []):
-            v = row.get("accuracy")
+            v = _row_judge_score(row)
             if v is None:
                 continue
             cat = row.get("category", "unknown")
-            cat_accs[cat].append(float(v))
+            cat_scores[cat].append(v)
             all_categories.add(cat)
         means_by_mode[mode] = {
             cat: (sum(vals) / len(vals)) if vals else 0.0
-            for cat, vals in cat_accs.items()
+            for cat, vals in cat_scores.items()
         }
 
     categories = sorted(all_categories)
-    x = np.arange(len(categories))
-    n_modes = max(len(result.modes), 1)
-    bar_width = 0.8 / n_modes
+    if not categories:
+        return _empty_fig("No judged data")
 
-    for i, mode in enumerate(result.modes):
+    fig = go.Figure()
+    for mode in result.modes:
         values = [means_by_mode[mode].get(cat, 0.0) for cat in categories]
-        ax.bar(
-            x + i * bar_width - (n_modes - 1) * bar_width / 2,
-            values, bar_width, label=_label(mode), color=_colour(mode),
-        )
+        fig.add_trace(go.Bar(
+            x=categories, y=values,
+            name=_label(mode), marker_color=_colour(mode),
+            hovertemplate="%{x}: %{y:.2f} / 5<extra>" + _label(mode) + "</extra>",
+        ))
 
-    ax.set_xticks(x)
-    ax.set_xticklabels(categories, rotation=20, ha="right")
-    ax.set_ylim(0, 5.2)
-    ax.set_ylabel("Mean judge accuracy (1-5)")
-    ax.set_title("Judge accuracy by question category")
-    ax.legend()
-    ax.grid(axis="y", linestyle=":", alpha=0.5)
-
-    fig.tight_layout()
+    fig.update_layout(
+        **_LAYOUT_BASE,
+        barmode="group",
+        height=460,
+        title_text="LLM-as-Judge score by question category",
+        xaxis_title="Category",
+        yaxis_title="Mean score (1-5)",
+        yaxis={"range": [0, 5.2], "gridcolor": "rgba(128,128,128,0.25)"},
+    )
     return fig
 
 
@@ -307,10 +379,9 @@ def fig_category_breakdown(result: EvalRunResult) -> Figure:
 # 5. Latency histogram (overlay per mode)
 # ---------------------------------------------------------------------------
 
-def fig_latency_histogram(result: EvalRunResult) -> Figure:
-    """Overlapped histograms of per-question latency, one bin set per mode."""
-    fig = _new_figure(width=9, height=5)
-    ax = fig.axes[0]
+def fig_latency_histogram(result: EvalRunResult) -> go.Figure:
+    """Overlapped histograms of per-question latency, one trace per mode."""
+    fig = go.Figure()
 
     all_latencies: list[float] = []
     for mode in result.modes:
@@ -321,13 +392,7 @@ def fig_latency_histogram(result: EvalRunResult) -> Figure:
         )
 
     if not all_latencies:
-        ax.text(0.5, 0.5, "No latency data", ha="center", va="center",
-                transform=ax.transAxes)
-        return fig
-
-    lo = min(all_latencies)
-    hi = max(all_latencies)
-    bins = np.linspace(lo, hi, 12)
+        return _empty_fig("No latency data")
 
     for mode in result.modes:
         latencies = [
@@ -336,22 +401,28 @@ def fig_latency_histogram(result: EvalRunResult) -> Figure:
         ]
         if not latencies:
             continue
-        ax.hist(
-            latencies, bins=bins, alpha=0.6, label=_label(mode),
-            color=_colour(mode), edgecolor="black", linewidth=0.5,
-        )
-        # P50 marker
+        fig.add_trace(go.Histogram(
+            x=latencies, name=_label(mode),
+            marker_color=_colour(mode), opacity=0.65,
+            nbinsx=12,
+        ))
+        # P50 marker as a vertical line annotation
         p50 = float(np.median(latencies))
-        ax.axvline(p50, color=_colour(mode), linestyle="--", alpha=0.8,
-                   label=f"{_label(mode)} p50: {p50:.0f} ms")
+        fig.add_vline(
+            x=p50, line_dash="dash", line_color=_colour(mode),
+            annotation_text=f"{_label(mode)} p50: {p50:.0f} ms",
+            annotation_position="top",
+        )
 
-    ax.set_xlabel("Latency (ms)")
-    ax.set_ylabel("Number of questions")
-    ax.set_title("Per-question latency distribution")
-    ax.legend()
-    ax.grid(axis="y", linestyle=":", alpha=0.5)
-
-    fig.tight_layout()
+    fig.update_layout(
+        **_LAYOUT_BASE,
+        barmode="overlay",
+        height=460,
+        title_text="Per-question latency distribution",
+        xaxis_title="Latency (ms)",
+        yaxis_title="Number of questions",
+        yaxis={"gridcolor": "rgba(128,128,128,0.25)"},
+    )
     return fig
 
 
@@ -359,60 +430,63 @@ def fig_latency_histogram(result: EvalRunResult) -> Figure:
 # 6. Citation health - stacked bars showing valid vs invalid per question
 # ---------------------------------------------------------------------------
 
-def fig_citation_health(result: EvalRunResult) -> Figure:
+def fig_citation_health(result: EvalRunResult) -> go.Figure:
     """
-    For each question (rows) and mode (group), show stacked bars:
-    valid citations (green) vs invalid (red). If a question produced no
-    citations, the bar is empty (zero height).
+    Horizontal stacked bars per question. For each question and each mode,
+    valid citations are stacked in green and invalid in red. Empty bars
+    mean that question produced no citations.
     """
-    fig = _new_figure(width=11, height=max(4.0, 0.3 * len(result.questions) + 1.5))
-    ax = fig.axes[0]
-
     questions = result.questions
     n_q = len(questions)
     if n_q == 0:
-        ax.text(0.5, 0.5, "No data", ha="center", va="center",
-                transform=ax.transAxes)
-        return fig
+        return _empty_fig("No data")
 
-    # Bars are grouped: per question, one slot per mode.
-    n_modes = max(len(result.modes), 1)
-    bar_width = 0.8 / n_modes
-    y = np.arange(n_q)
+    fig = go.Figure()
 
-    for i, mode in enumerate(result.modes):
-        rows = result.rows_by_mode.get(mode, [])
-        valid_counts = []
-        invalid_counts = []
-        for q_idx, _q in enumerate(questions):
+    # We render two traces per mode (valid + invalid) and offset the
+    # bars per mode using a fake category axis: "<qid> :: <mode_label>".
+    y_categories: list[str] = []
+    valid_vals: list[int] = []
+    invalid_vals: list[int] = []
+    bar_colours: list[str] = []
+    mode_labels_per_bar: list[str] = []
+
+    for q_idx, q in enumerate(questions):
+        for mode in result.modes:
+            rows = result.rows_by_mode.get(mode, [])
             row = rows[q_idx] if q_idx < len(rows) else {}
             n_cit = int(row.get("n_citations", 0) or 0)
             validity = float(row.get("citation_validity", 1.0) or 1.0)
             v = round(n_cit * validity)
             iv = n_cit - v
-            valid_counts.append(v)
-            invalid_counts.append(iv)
+            label = f"{q.question_id} ({_label(mode)})"
+            y_categories.append(label)
+            valid_vals.append(v)
+            invalid_vals.append(iv)
+            bar_colours.append(_colour(mode))
+            mode_labels_per_bar.append(_label(mode))
 
-        offset = i * bar_width - (n_modes - 1) * bar_width / 2
-        ax.barh(
-            y + offset, valid_counts, height=bar_width,
-            label=f"{_label(mode)} valid", color="#2ca02c", alpha=0.85,
-            edgecolor="black", linewidth=0.4,
-        )
-        ax.barh(
-            y + offset, invalid_counts, height=bar_width,
-            left=valid_counts, label=f"{_label(mode)} invalid",
-            color="#d62728", alpha=0.85,
-            edgecolor="black", linewidth=0.4,
-        )
+    fig.add_trace(go.Bar(
+        y=y_categories, x=valid_vals,
+        orientation="h", name="Valid citations",
+        marker_color="#2ca02c",
+        hovertemplate="%{y}<br>Valid: %{x}<extra></extra>",
+    ))
+    fig.add_trace(go.Bar(
+        y=y_categories, x=invalid_vals,
+        orientation="h", name="Invalid citations",
+        marker_color="#d62728",
+        hovertemplate="%{y}<br>Invalid: %{x}<extra></extra>",
+    ))
 
-    ax.set_yticks(y)
-    ax.set_yticklabels([q.question_id for q in questions], fontsize=8)
-    ax.invert_yaxis()
-    ax.set_xlabel("Citation count (valid + invalid)")
-    ax.set_title("Citation health per question")
-    ax.legend(loc="lower right")
-    ax.grid(axis="x", linestyle=":", alpha=0.5)
-
-    fig.tight_layout()
+    fig.update_layout(
+        **_LAYOUT_BASE,
+        barmode="stack",
+        height=max(420, 22 * len(y_categories) + 120),
+        title_text="Citation health per question",
+        xaxis_title="Citation count",
+        yaxis_title="",
+        yaxis={"autorange": "reversed", "tickfont": {"size": 11}},
+        xaxis={"gridcolor": "rgba(128,128,128,0.25)"},
+    )
     return fig

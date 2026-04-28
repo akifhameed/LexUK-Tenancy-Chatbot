@@ -89,7 +89,7 @@ def chat_completion(
         model:       Override default model from settings.
         temperature: Sampling temperature. 0.0 for deterministic outputs.
         max_tokens:  Optional response length cap.
-        tools:       Optional function-calling tool schemas (Week 8 pattern).
+        tools:       Optional function-calling tool schemas.
 
     Returns:
         The full ChatCompletion response object.
@@ -104,7 +104,7 @@ def chat_completion(
 
 
 # ---------------------------------------------------------------------------
-# 2. Structured completion — Ed Donner's pattern from Week 5 Day 5.
+# 2. Structured completion
 #    Forces the model to return JSON matching a Pydantic schema.
 #    Used by the chunker, reranker, and LLM-as-judge.
 # ---------------------------------------------------------------------------

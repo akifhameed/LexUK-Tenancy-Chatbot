@@ -1,5 +1,5 @@
 """
-Deterministic statute structure parser (v2).
+Deterministic statute structure parser.
 
 Parses UK legislation Markdown (legislation.gov.uk export) into a list of
 provisions. No LLM call - regex + state machine over the line stream.

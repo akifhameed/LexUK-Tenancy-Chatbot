@@ -17,8 +17,7 @@ Public surface:
         same order as input.
 
 The text that gets embedded for each chunk is `chunk.to_embed_text()`,
-which concatenates headline + summary + original_text (Ed Donner's
-Week 5 Day 5 trick - mixes query-style language with legal language).
+which concatenates headline + summary + original_text (mixes query-style language with legal language).
 """
 
 from __future__ import annotations

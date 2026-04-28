@@ -1,8 +1,8 @@
 """
 LLM-as-a-Judge for answer quality.
 
-Implements Ed Donner's Week 5 Day 4 rubric: accuracy, completeness, and
-relevance, each scored 1-5 against a reference answer.
+Scores each generated answer on three dimensions - accuracy, completeness,
+and relevance - each from 1 to 5 against a hand-written reference answer.
 
 Bias mitigations (Zheng et al. 2023, Wang et al. 2024):
 

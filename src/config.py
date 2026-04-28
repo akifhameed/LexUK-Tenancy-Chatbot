@@ -35,7 +35,7 @@ class Settings(BaseSettings):
     # Required secret - no default, so absence raises ValidationError early.
     openai_api_key: str = Field(..., description="OpenAI API key")
 
-    # Model defaults match Ed Donner's Week 5 Day 5 picks.
+    # Model defaults: gpt-4o-mini for chat, text-embedding-3-large for vectors.
     llm_model: str = Field(default="gpt-4o-mini")
     embedding_model: str = Field(default="text-embedding-3-large")
 
@@ -102,7 +102,7 @@ paths = Paths()
 class RAG:
     """Tunables for chunking, retrieval, reranking, and generation."""
 
-    # --- Chunking (Ed Donner, Week 5 Day 5) ---
+    # --- Chunking ---
     AVERAGE_CHUNK_SIZE_CHARS: int = 1_500   # smaller = finer-grained chunks
     CHUNK_OVERLAP_TARGET_PCT: int = 25
     MAX_PASSAGE_CHARS: int = 50_000         # we use gpt-4.1-nano for the
@@ -127,7 +127,7 @@ class RAG:
 
 
 # ---------------------------------------------------------------------------
-# 4. Agent layer tunables (Week 8 Day 4 pattern)
+# 4. Agent layer tunables
 # ---------------------------------------------------------------------------
 
 class AGENT:

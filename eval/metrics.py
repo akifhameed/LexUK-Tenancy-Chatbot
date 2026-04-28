@@ -4,7 +4,7 @@ Pure-function metrics for RAG evaluation.
 All metrics are deterministic - no LLM calls, no randomness, fully
 reproducible. The LLM-as-judge metrics live in `eval.llm_judge`.
 
-Formulas mirror Ed Donner's Week 5 Day 4 evaluation module:
+Implements the standard retrieval and answer-quality metrics:
 
     MRR      - mean reciprocal rank (binary keyword presence)
     NDCG     - normalised discounted cumulative gain at k

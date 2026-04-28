@@ -23,8 +23,8 @@ from src.config import settings
 
 # ---------------------------------------------------------------------------
 # ANSI colour codes — used to tint each module's log lines so the trace is
-# readable in the terminal during development. Kept as a class for symmetry
-# with Ed's `Agent` colours in Week 8.
+# readable in the terminal during development. Grouped in a class so each
+# agent and module can pick its own colour from a single palette.
 # ---------------------------------------------------------------------------
 
 class _Colour:

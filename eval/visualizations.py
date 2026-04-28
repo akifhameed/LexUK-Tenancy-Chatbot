@@ -102,13 +102,23 @@ def _empty_fig(message: str) -> go.Figure:
 
 
 # ---------------------------------------------------------------------------
-# Combined judge score helpers
+# Score helpers - everything on a single 1-5 scale
 # ---------------------------------------------------------------------------
 #
-# We collapse the three judge dimensions (accuracy / completeness /
-# relevance) into a single "LLM as Judge" score - the unweighted mean of
-# the three. This keeps the dashboard focused: one headline score per
-# answer rather than three near-identical bars.
+# We expose four per-mode scores on the same 1-5 scale so they can be
+# compared directly:
+#
+#   - Accuracy / Completeness / Relevance: the three LLM-as-Judge dimensions
+#     (averaged across in-scope, judged questions only).
+#   - Refusal handling: each question scored 5 if refused_correctly else 1,
+#     averaged across ALL questions for that mode. This pulls refusal
+#     behaviour into the same scale so a Combined headline is meaningful.
+#
+# Combined = unweighted mean of all four, computed per question (so a
+# refusal correctly handled contributes 5, an over-refusal contributes 1)
+# and then averaged across the mode. This removes the selection-bias
+# loophole where over-refusing on an in-scope question silently drops it
+# from the judge sample.
 
 def _row_judge_score(row: dict) -> float | None:
     """Mean of the three judge dimensions, or None if the judge skipped."""
@@ -125,6 +135,41 @@ def _mode_judge_mean(result: EvalRunResult, mode: str) -> float | None:
     scores = [s for s in (_row_judge_score(r) for r in rows) if s is not None]
     if not scores:
         return None
+    return sum(scores) / len(scores)
+
+
+def _row_refusal_score(row: dict) -> float:
+    """Per-question refusal score on the 1-5 scale: 5 if correct, else 1."""
+    return 5.0 if row.get("refused_correctly") else 1.0
+
+
+def _mode_refusal_score(result: EvalRunResult, mode: str) -> float | None:
+    """Mean refusal-handling score (1-5) across ALL questions for one mode."""
+    rows = result.rows_by_mode.get(mode, [])
+    if not rows:
+        return None
+    scores = [_row_refusal_score(r) for r in rows]
+    return sum(scores) / len(scores)
+
+
+def _row_combined_score(row: dict) -> float:
+    """
+    Per-question score on the 1-5 scale:
+      - If the judge ran (in-scope, not refused), use the mean of the
+        three judge dimensions.
+      - Otherwise (refusal target or refused output), use the refusal
+        score: 5 if refused_correctly else 1.
+    """
+    judge = _row_judge_score(row)
+    return judge if judge is not None else _row_refusal_score(row)
+
+
+def _mode_combined_score(result: EvalRunResult, mode: str) -> float | None:
+    """Mean combined score across all questions for one mode."""
+    rows = result.rows_by_mode.get(mode, [])
+    if not rows:
+        return None
+    scores = [_row_combined_score(r) for r in rows]
     return sum(scores) / len(scores)
 
 
@@ -174,14 +219,31 @@ def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
                 )
         rows.append(row)
 
-    # Combined headline LLM-as-Judge row (mean of the three dimensions).
+    # Refusal handling row (5 = correct, 1 = wrong) on the same 1-5 scale.
+    refusal_row: dict[str, str] = {"Metric": "Refusal handling (1-5)"}
+    for mode in result.modes:
+        v = _mode_refusal_score(result, mode)
+        refusal_row[_label(mode)] = f"{v:.2f}" if v is not None else "-"
+    if "plain" in result.modes and "agent" in result.modes:
+        p = _mode_refusal_score(result, "plain")
+        a = _mode_refusal_score(result, "agent")
+        if p is not None and a is not None:
+            delta = a - p
+            refusal_row["Δ (Agent - Plain)"] = (
+                f"{delta:+.2f}" if abs(delta) >= 0.01 else "≈ 0"
+            )
+    rows.append(refusal_row)
+
+    # Combined headline: unweighted mean of all four 1-5 dimensions,
+    # computed per question and averaged. Includes refusal correctness
+    # so over-refusal can no longer hide behind a smaller judge sample.
     judge_row: dict[str, str] = {"Metric": "LLM as Judge — Combined (1-5)"}
     for mode in result.modes:
-        v = _mode_judge_mean(result, mode)
+        v = _mode_combined_score(result, mode)
         judge_row[_label(mode)] = f"{v:.2f}" if v is not None else "-"
     if "plain" in result.modes and "agent" in result.modes:
-        p = _mode_judge_mean(result, "plain")
-        a = _mode_judge_mean(result, "agent")
+        p = _mode_combined_score(result, "plain")
+        a = _mode_combined_score(result, "agent")
         if p is not None and a is not None:
             delta = a - p
             judge_row["Δ (Agent - Plain)"] = (
@@ -224,7 +286,8 @@ def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
     fig = make_subplots(
         rows=1, cols=2,
         column_widths=[0.62, 0.38],
-        subplot_titles=("Retrieval + generation metrics", "LLM as Judge (1-5)"),
+        subplot_titles=("Retrieval + generation metrics",
+                        "Quality on the 1-5 scale (judge + refusal)"),
         horizontal_spacing=0.14,
     )
 
@@ -245,13 +308,16 @@ def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
             row=1, col=1,
         )
 
-    # --- Right panel: three judge dimensions ---
-    j_labels = [name for _, name in _BAR_METRICS_JUDGE]
+    # --- Right panel: three judge dimensions + refusal handling on 1-5 ---
+    j_labels = [name for _, name in _BAR_METRICS_JUDGE] + ["Refusal"]
     for mode in result.modes:
         values = [
             result.summary_by_mode.get(mode, {}).get(key, 0.0)
             for key, _ in _BAR_METRICS_JUDGE
         ]
+        # Append the refusal score (1-5) for the same mode.
+        refusal_v = _mode_refusal_score(result, mode)
+        values.append(refusal_v if refusal_v is not None else 0.0)
         fig.add_trace(
             go.Bar(
                 x=j_labels, y=values,

@@ -189,7 +189,9 @@ This is information about UK statutes, not legal advice.
 
 
 def build_demo() -> gr.Blocks:
-    with gr.Blocks(title="LexUK") as demo:
+    # `theme` belongs on Blocks() in Gradio 5.x. (In 6.x it's on launch();
+    # we target 5.x because HF Spaces auto-installs 5.49.)
+    with gr.Blocks(title="LexUK", theme=gr.themes.Soft()) as demo:
         gr.Markdown(_INTRO_MD)
 
         with gr.Row():
@@ -200,7 +202,10 @@ def build_demo() -> gr.Blocks:
                     label="Mode",
                     interactive=True,
                 )
-                chatbot = gr.Chatbot(height=520)
+                # type="messages" matches the OpenAI-style dict format
+                # we use in `respond()`; silences a Gradio deprecation
+                # warning about defaulting to the legacy "tuples" format.
+                chatbot = gr.Chatbot(height=520, type="messages")
                 with gr.Row():
                     msg = gr.Textbox(
                         label="",
@@ -225,11 +230,11 @@ def build_demo() -> gr.Blocks:
 
 if __name__ == "__main__":
     demo = build_demo()
+    # Note: launch() in Gradio 5.x does NOT accept `theme` (that's on
+    # Blocks). Also do NOT use share=True or auth=() on Hugging Face
+    # Spaces - they break the Space's iframe routing.
     demo.launch(
-        server_name="127.0.0.1",
+        server_name="0.0.0.0",   # 0.0.0.0 so HF Space's container exposes us
         server_port=7860,
         show_error=True,
-        theme=gr.themes.Soft(),
-        share=True,                          # public link via gradio.live
-        auth=("lexuk", "tenancy2026"),       # username / password gate
     )

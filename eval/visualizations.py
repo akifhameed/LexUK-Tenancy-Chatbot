@@ -50,13 +50,35 @@ _MODE_LABELS: dict[str, str] = {
     "agent": "Agentic RAG",
 }
 
-# Chart background + font defaults so plots look good on the Gradio page.
+# Clean white-canvas styling: solid white background, dark ink text,
+# light grey gridlines. No transparency, no decorative tinting -
+# we want maximum legibility on the Gradio page.
+_INK = "#1F2937"
+_GRID = "rgba(60,72,90,0.18)"
+_AXIS = "rgba(60,72,90,0.45)"
+
 _LAYOUT_BASE: dict = {
-    "paper_bgcolor": "rgba(0,0,0,0)",
-    "plot_bgcolor":  "rgba(0,0,0,0)",
-    "font":          {"size": 13},
-    "margin":        {"l": 60, "r": 30, "t": 60, "b": 60},
-    "legend":        {"orientation": "h", "y": -0.18, "x": 0},
+    "paper_bgcolor": "white",
+    "plot_bgcolor":  "white",
+    "font":          {"size": 15, "color": _INK, "family": "Inter, Calibri, Arial, sans-serif"},
+    "margin":        {"l": 70, "r": 40, "t": 70, "b": 80},
+    "legend":        {"orientation": "h", "y": -0.18, "x": 0,
+                      "font": {"size": 13, "color": _INK}},
+    "title":         {"font": {"size": 18, "color": _INK}},
+}
+
+_AXIS_DEFAULTS: dict = {
+    "showgrid":   True,
+    "gridcolor":  _GRID,
+    "gridwidth":  1,
+    "zeroline":   False,
+    "showline":   True,
+    "linecolor":  _AXIS,
+    "linewidth":  1,
+    "ticks":      "outside",
+    "tickcolor":  _AXIS,
+    "tickfont":   {"size": 13, "color": _INK},
+    "title":      {"font": {"size": 14, "color": _INK}},
 }
 
 
@@ -111,16 +133,20 @@ def _mode_judge_mean(result: EvalRunResult, mode: str) -> float | None:
 # ---------------------------------------------------------------------------
 
 # Standard rows pulled straight from result.summary_by_mode.
+# Order: retrieval -> generation -> judge dimensions -> performance.
 _METRIC_DISPLAY: list[tuple[str, str, str]] = [
     # (key, display name, format spec)
-    ("n_questions",         "N questions",          "{:.0f}"),
-    ("mrr",                 "MRR",                  "{:.3f}"),
-    ("ndcg",                "NDCG",                 "{:.3f}"),
-    ("keyword_coverage",    "Keyword coverage",     "{:.3f}"),
-    ("expected_acts_recall","Expected-acts recall", "{:.3f}"),
-    ("citation_validity",   "Citation validity",    "{:.3f}"),
-    ("refusal_accuracy",    "Refusal accuracy",     "{:.3f}"),
-    ("latency_ms_avg",      "Latency p50 (ms)",     "{:.0f}"),
+    ("n_questions",         "N questions",                       "{:.0f}"),
+    ("mrr",                 "MRR",                               "{:.3f}"),
+    ("ndcg",                "NDCG",                              "{:.3f}"),
+    ("keyword_coverage",    "Keyword coverage",                  "{:.3f}"),
+    ("expected_acts_recall","Expected-acts recall",              "{:.3f}"),
+    ("citation_validity",   "Citation validity",                 "{:.3f}"),
+    ("refusal_accuracy",    "Refusal accuracy",                  "{:.3f}"),
+    ("judge_accuracy",      "LLM as Judge — Accuracy (1-5)",     "{:.2f}"),
+    ("judge_completeness",  "LLM as Judge — Completeness (1-5)", "{:.2f}"),
+    ("judge_relevance",     "LLM as Judge — Relevance (1-5)",    "{:.2f}"),
+    ("latency_ms_avg",      "Latency p50 (ms)",                  "{:.0f}"),
 ]
 
 
@@ -128,8 +154,9 @@ def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
     """
     Build the headline metrics table as a pandas DataFrame.
 
-    The three judge dimensions (accuracy / completeness / relevance) are
-    collapsed into a single 'LLM as Judge (1-5)' row.
+    The three LLM-as-Judge dimensions are shown as separate rows so the
+    audience can see which dimension is driving the score; a final row
+    gives the unweighted mean across all three for a single headline.
     """
     rows: list[dict[str, str]] = []
     for key, name, fmt in _METRIC_DISPLAY:
@@ -147,8 +174,8 @@ def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
                 )
         rows.append(row)
 
-    # Combined LLM-as-Judge row (unweighted mean of the three dimensions).
-    judge_row: dict[str, str] = {"Metric": "LLM as Judge (1-5)"}
+    # Combined headline LLM-as-Judge row (mean of the three dimensions).
+    judge_row: dict[str, str] = {"Metric": "LLM as Judge — Combined (1-5)"}
     for mode in result.modes:
         v = _mode_judge_mean(result, mode)
         judge_row[_label(mode)] = f"{v:.2f}" if v is not None else "-"
@@ -169,7 +196,7 @@ def summary_dataframe(result: EvalRunResult) -> pd.DataFrame:
 # 2. Bar chart - metric-by-metric comparison across modes
 # ---------------------------------------------------------------------------
 
-# Retrieval+generation metrics on the 0-1 scale.
+# Retrieval + generation metrics on the 0-1 scale.
 _BAR_METRICS_NORMALISED: list[tuple[str, str]] = [
     ("mrr",                 "MRR"),
     ("ndcg",                "NDCG"),
@@ -179,19 +206,26 @@ _BAR_METRICS_NORMALISED: list[tuple[str, str]] = [
     ("refusal_accuracy",    "Refusal acc."),
 ]
 
+# LLM-as-Judge dimensions on the 1-5 scale.
+_BAR_METRICS_JUDGE: list[tuple[str, str]] = [
+    ("judge_accuracy",      "Accuracy"),
+    ("judge_completeness",  "Completeness"),
+    ("judge_relevance",     "Relevance"),
+]
+
 
 def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
     """
     Two side-by-side bar groups:
-      (left)  six retrieval+generation metrics on the [0,1] scale
-      (right) the combined 'LLM as Judge' score on the [1,5] scale
+      (left)  six retrieval + generation metrics on the [0, 1] scale
+      (right) the three LLM-as-Judge dimensions on the [1, 5] scale
     Each metric shows one bar per mode evaluated.
     """
     fig = make_subplots(
         rows=1, cols=2,
-        column_widths=[0.7, 0.3],
-        subplot_titles=("Retrieval + generation metrics", "LLM as Judge"),
-        horizontal_spacing=0.12,
+        column_widths=[0.62, 0.38],
+        subplot_titles=("Retrieval + generation metrics", "LLM as Judge (1-5)"),
+        horizontal_spacing=0.14,
     )
 
     # --- Left panel: 0-1 metrics ---
@@ -211,13 +245,16 @@ def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
             row=1, col=1,
         )
 
-    # --- Right panel: combined judge score ---
+    # --- Right panel: three judge dimensions ---
+    j_labels = [name for _, name in _BAR_METRICS_JUDGE]
     for mode in result.modes:
-        v = _mode_judge_mean(result, mode)
+        values = [
+            result.summary_by_mode.get(mode, {}).get(key, 0.0)
+            for key, _ in _BAR_METRICS_JUDGE
+        ]
         fig.add_trace(
             go.Bar(
-                x=["LLM as Judge"],
-                y=[v if v is not None else 0.0],
+                x=j_labels, y=values,
                 name=_label(mode), marker_color=_colour(mode),
                 hovertemplate="%{x}: %{y:.2f}<extra>" + _label(mode) + "</extra>",
                 legendgroup=mode, showlegend=False,
@@ -225,16 +262,18 @@ def fig_metric_comparison(result: EvalRunResult) -> go.Figure:
             row=1, col=2,
         )
 
-    fig.update_yaxes(title_text="Score (0-1)", range=[0, 1.05],
-                     gridcolor="rgba(128,128,128,0.25)", row=1, col=1)
-    fig.update_yaxes(title_text="Score (1-5)", range=[0, 5.2],
-                     gridcolor="rgba(128,128,128,0.25)", row=1, col=2)
-    fig.update_xaxes(tickangle=-25, row=1, col=1)
+    fig.update_yaxes(_AXIS_DEFAULTS, title_text="Score (0-1)",
+                     range=[0, 1.05], row=1, col=1)
+    fig.update_yaxes(_AXIS_DEFAULTS, title_text="Score (1-5)",
+                     range=[0, 5.2], row=1, col=2)
+    fig.update_xaxes(_AXIS_DEFAULTS, tickangle=-25, row=1, col=1)
+    fig.update_xaxes(_AXIS_DEFAULTS, tickangle=0, row=1, col=2)
 
     fig.update_layout(
         **_LAYOUT_BASE,
         barmode="group",
-        height=480,
+        bargap=0.25,
+        height=600,
         title_text="Metric comparison across modes",
     )
     return fig
@@ -316,15 +355,17 @@ def fig_judge_score_heatmap(result: EvalRunResult) -> go.Figure:
         )
 
     # Height grows with question count so labels stay legible.
-    height = max(420, 26 * max((len(result.rows_by_mode.get(m, []))
-                                for m in result.modes), default=10) + 120)
+    height = max(520, 32 * max((len(result.rows_by_mode.get(m, []))
+                                for m in result.modes), default=10) + 160)
 
     fig.update_layout(
         **_LAYOUT_BASE,
         height=height,
         title_text="Per-question judge scores (1 = worst, 5 = best)",
     )
-    fig.update_yaxes(autorange="reversed")
+    fig.update_yaxes(_AXIS_DEFAULTS, autorange="reversed",
+                     showgrid=False)
+    fig.update_xaxes(_AXIS_DEFAULTS, showgrid=False)
     return fig
 
 
@@ -366,12 +407,13 @@ def fig_category_breakdown(result: EvalRunResult) -> go.Figure:
     fig.update_layout(
         **_LAYOUT_BASE,
         barmode="group",
-        height=460,
+        bargap=0.25,
+        height=580,
         title_text="LLM-as-Judge score by question category",
-        xaxis_title="Category",
-        yaxis_title="Mean score (1-5)",
-        yaxis={"range": [0, 5.2], "gridcolor": "rgba(128,128,128,0.25)"},
     )
+    fig.update_xaxes(_AXIS_DEFAULTS, title_text="Category")
+    fig.update_yaxes(_AXIS_DEFAULTS, title_text="Mean score (1-5)",
+                     range=[0, 5.2])
     return fig
 
 
@@ -417,12 +459,11 @@ def fig_latency_histogram(result: EvalRunResult) -> go.Figure:
     fig.update_layout(
         **_LAYOUT_BASE,
         barmode="overlay",
-        height=460,
+        height=560,
         title_text="Per-question latency distribution",
-        xaxis_title="Latency (ms)",
-        yaxis_title="Number of questions",
-        yaxis={"gridcolor": "rgba(128,128,128,0.25)"},
     )
+    fig.update_xaxes(_AXIS_DEFAULTS, title_text="Latency (ms)")
+    fig.update_yaxes(_AXIS_DEFAULTS, title_text="Number of questions")
     return fig
 
 
@@ -482,11 +523,10 @@ def fig_citation_health(result: EvalRunResult) -> go.Figure:
     fig.update_layout(
         **_LAYOUT_BASE,
         barmode="stack",
-        height=max(420, 22 * len(y_categories) + 120),
+        height=max(520, 28 * len(y_categories) + 160),
         title_text="Citation health per question",
-        xaxis_title="Citation count",
-        yaxis_title="",
-        yaxis={"autorange": "reversed", "tickfont": {"size": 11}},
-        xaxis={"gridcolor": "rgba(128,128,128,0.25)"},
     )
+    fig.update_xaxes(_AXIS_DEFAULTS, title_text="Citation count")
+    fig.update_yaxes(_AXIS_DEFAULTS, autorange="reversed",
+                     showgrid=False)
     return fig

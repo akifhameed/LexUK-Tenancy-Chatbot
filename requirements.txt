@@ -13,6 +13,10 @@ python-dotenv>=1.0.1
 
 # === UI ===
 gradio>=5.0.0
+# audioop-lts: backport of Python's `audioop` module, required because
+# Python 3.13 (used by HF Spaces) removed audioop from stdlib but
+# Gradio's pydub dependency still imports it.
+audioop-lts; python_version >= "3.13"
 
 # === Evaluation & reporting ===
 numpy>=1.26.0

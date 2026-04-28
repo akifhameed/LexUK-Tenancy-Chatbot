@@ -138,7 +138,13 @@ def _render_trace(result: TurnResult, mode: str) -> str:
         parts.append("**Refused:** yes (off-domain)")
 
     if not result.chunks and not result.tool_calls:
-        parts.append("_(no retrieval - direct answer or refusal)_")
+        # Distinguish a clarification (answer ends in '?') from a true
+        # refusal or direct answer, so the trace doesn't mislabel.
+        ans = (result.answer or "").strip()
+        if ans.endswith("?"):
+            parts.append("_(no retrieval - asked the user a follow-up)_")
+        else:
+            parts.append("_(no retrieval - direct answer or refusal)_")
 
     return "\n\n".join(parts)
 

@@ -413,7 +413,10 @@ def build_demo() -> gr.Blocks:
                         msg = gr.Textbox(
                             label="",
                             placeholder="Ask a question and press Enter — e.g. What is a section 21 notice?",
-                            lines=2,
+                            lines=1,
+                            max_lines=1,
+                            autofocus=True,
+                            show_label=False,
                         )
                         clear_btn = gr.Button("Clear conversation")
 

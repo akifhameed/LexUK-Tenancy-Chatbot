@@ -12,10 +12,14 @@ pydantic-settings>=2.5.0
 python-dotenv>=1.0.1
 
 # === UI ===
-gradio>=5.0.0
-# audioop-lts: backport of Python's `audioop` module, required because
-# Python 3.13 (used by HF Spaces) removed audioop from stdlib but
-# Gradio's pydub dependency still imports it.
+# Pin a recent Gradio 5.x that uses the new huggingface_hub auth API
+# (older 5.0.x imports the removed `HfFolder` symbol and fails to start).
+gradio>=5.30.0,<6.0.0
+# Defensive cap on huggingface_hub - any version old enough still has
+# HfFolder, in case Gradio's own pin is loose. Belt + braces.
+huggingface_hub>=0.25,<1.0
+# audioop-lts: backport of Python's `audioop` module for Python 3.13+
+# (removed from stdlib in 3.13). No-op on Python 3.12 (the pinned version).
 audioop-lts; python_version >= "3.13"
 
 # === Evaluation & reporting ===

@@ -2,6 +2,18 @@
 .env
 .env.local
 .env.*.local
+hf_*.txt
+*token*
+*secret*
+
+# === Local-only deliverables (do not push to GitHub or HF) ===
+Presentation/
+Report/
+Explanation.docx
+New Text Document.txt
+
+# === Raw PDFs at repo root (separate from data/statutes_raw_pdf below) ===
+/statutes_raw_pdf/
 
 # === Python ===
 __pycache__/
